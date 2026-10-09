@@ -1,0 +1,32 @@
+{
+ "updated": "2026-10-08",
+ "hinweis": "Bitcoin-Veranstaltungen für die NerdClock. Datum als JJJJMMTT, cc = Ländercode. Neue Events einfach ergänzen.",
+ "events": [
+  {"name": "Swiss Bitcoin Conference", "city": "Kreuzlingen", "cc": "CH", "start": 20260423, "end": 20260426,
+   "url": "https://swiss-bitcoin-conference.com/"},
+  {"name": "Zitadelle", "city": "Insel Obonjan (Šibenik)", "cc": "HR", "start": 20260528, "end": 20260531,
+   "url": "https://razue.github.io/zitadelle2026/"},
+  {"name": "BTCHEL – Nordic Bitcoin Conference", "city": "Helsinki", "cc": "FI", "start": 20260925, "end": 20260926,
+   "url": "https://btchel.com/"},
+  {"name": "Wild BTC – Black Forest Bitcoin Camp", "city": "Furtwangen (Linachtal)", "cc": "DE", "start": 20260619, "end": 20260619,
+   "url": "https://www.zumwildenmichel.de"},
+  {"name": "bitcoin++ Berlin – Payments Edition", "city": "Berlin", "cc": "DE", "start": 20261001, "end": 20261003,
+   "url": "https://btcplusplus.dev"},
+  {"name": "Plan ₿ Forum", "city": "Lugano", "cc": "CH", "start": 20261023, "end": 20261024,
+   "url": "https://bitcoinonly.events/lugano-plan-b-forum-2026/"},
+  {"name": "BTC Balkans", "city": "Sofia", "cc": "BG", "start": 20261031, "end": 20261101,
+   "url": "https://bitcoinonly.events/btc-balkans-2026/"},
+  {"name": "Bitcoin Amsterdam", "city": "Amsterdam", "cc": "NL", "start": 20261105, "end": 20261106,
+   "url": "https://bitcoinonly.events/bitcoin-amsterdam-2026/"},
+  {"name": "B-Only", "city": "Annecy", "cc": "FR", "start": 20261107, "end": 20261109,
+   "url": "https://bitcoinonly.events/b-only-2026-annecy/"},
+  {"name": "BitFest", "city": "Manchester", "cc": "UK", "start": 20261119, "end": 20261122,
+   "url": "https://bitcoinonly.events/bitfest-2026-manchester/"},
+  {"name": "Swiss Bitcoin Conference", "city": "Kreuzlingen", "cc": "CH", "start": 20270423, "end": 20270425,
+   "url": "https://swiss-bitcoin-conference.com/"},
+  {"name": "BTC Prague", "city": "Prag", "cc": "CZ", "start": 20270506, "end": 20270508,
+   "url": "https://btcprague.com/"},
+  {"name": "Adopting Bitcoin", "city": "Arnhem", "cc": "NL", "start": 20270527, "end": 20270529,
+   "url": "https://adoptingbitcoin.org/"}
+ ]
+}
