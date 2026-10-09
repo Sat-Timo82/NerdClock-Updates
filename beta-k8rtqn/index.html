@@ -21,15 +21,15 @@
 html{background:var(--bg);color:var(--t1);font-family:var(--font);min-height:100vh;}
 body{min-height:100vh;display:flex;flex-direction:column;}
 
-nav{display:flex;align-items:center;justify-content:space-between;padding:0 40px;height:64px;
+nav{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;padding:0 40px;height:64px;
   border-bottom:1px solid var(--border);background:rgba(0,0,0,.9);backdrop-filter:blur(12px);
   position:sticky;top:0;z-index:100;}
-.nav-brand{display:flex;align-items:center;gap:10px;text-decoration:none;}
-.nav-brand img{width:22px;height:auto;display:block;}
-.nav-name{font-size:19px;font-weight:900;color:var(--t1);letter-spacing:-.3px;}
-.nav-name em{color:var(--red);font-style:normal;}
-.nav-sub{font-weight:500;color:var(--t2);margin-left:4px;}
-.nav-links{display:flex;gap:24px;align-items:center;}
+.nav-brand{display:flex;align-items:flex-end;gap:1px;text-decoration:none;justify-self:start;}
+.nav-brand img{height:23px;width:auto;display:block;margin-bottom:1px;}   /* Icon = das "N" */
+.nav-name{font-size:19px;font-weight:900;color:var(--t1);letter-spacing:-.3px;line-height:1;}
+.nav-name em{color:#E65B45;font-style:normal;}                           /* gleicher Ton wie das Icon */
+.nav-title{font-size:22px;font-weight:900;color:var(--t1);letter-spacing:-.4px;text-align:center;}
+.nav-links{display:flex;gap:24px;align-items:center;justify-self:end;}
 .nav-links a{font-size:13px;font-weight:500;color:var(--t2);text-decoration:none;transition:color .15s;}
 .nav-links a:hover{color:var(--t1);}
 .nav-badge{font-size:10px;font-weight:700;background:rgba(244,60,30,.14);border:1px solid rgba(244,60,30,.35);
@@ -116,7 +116,7 @@ footer b{color:var(--red);}
 @media(max-width:640px){
   .steps,.info-grid,.compat{grid-template-columns:1fr;}
   .hero-title{font-size:34px;}
-  nav{padding:0 16px;} main{padding:36px 16px;}
+  nav{padding:0 16px;gap:8px;} .nav-name{font-size:16px;} .nav-brand img{height:19px;} .nav-title{font-size:17px;} main{padding:36px 16px;}
   footer{flex-direction:column;gap:12px;text-align:center;}
 }
 </style>
@@ -124,7 +124,8 @@ footer b{color:var(--red);}
 <body>
 
 <nav>
-  <a class="nav-brand" href="https://nerdminer.de" target="_blank"><img src="icon.png" alt=""><span class="nav-name">Nerd<em>miner</em>.de <span class="nav-sub">Webflasher</span></span></a>
+  <a class="nav-brand" href="https://nerdminer.de" target="_blank"><img src="icon.png" alt="N"><span class="nav-name">erd<em>miner</em>.de</span></a>
+  <div class="nav-title">Webflasher</div>
   <div class="nav-links">
     <span class="nav-badge">BETA</span>
   </div>
