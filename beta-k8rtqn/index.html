@@ -40,6 +40,9 @@ nav{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;
 .hero-logo{width:min(400px,78vw);height:auto;display:block;margin:0 auto 26px;mix-blend-mode:lighten;}
 .hero-eyebrow{font-size:11px;font-weight:700;letter-spacing:2.4px;text-transform:uppercase;color:var(--red);margin-bottom:14px;}
 .hero-title{font-size:48px;font-weight:900;letter-spacing:-1.6px;line-height:1.05;margin-bottom:14px;}
+.hero-title .nc{white-space:nowrap;}
+.hero-title .nc img{height:.86em;width:auto;vertical-align:-.04em;margin-right:.02em;}   /* Icon = das "N" wie im NerdClock-Logo */
+.hero-title .nc em{color:#E65B45;font-style:normal;}
 .hero-sub{font-size:17px;color:var(--t2);max-width:540px;margin:0 auto 28px;line-height:1.6;}
 .hero-chips{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;}
 .chip{display:flex;align-items:center;gap:6px;padding:6px 13px;border-radius:20px;background:var(--bg3);
@@ -125,7 +128,7 @@ footer b{color:var(--red);}
 
 <nav>
   <a class="nav-brand" href="https://nerdminer.de" target="_blank"><span class="nav-name">Nerd<em>miner</em>.de</span></a>
-  <div class="nav-title">Webflasher</div>
+  <div></div>
   <div class="nav-links">
     <span class="nav-badge">BETA</span>
   </div>
@@ -133,8 +136,7 @@ footer b{color:var(--red);}
 
 <div class="hero">
   <div class="hero-eyebrow">We do Bitcoin</div>
-  <img class="hero-logo" src="logo.png" alt="NerdClock">
-  <h1 class="hero-title">NerdClock &amp; NerdMiner<br>Web Flasher</h1>
+  <h1 class="hero-title"><span class="nc"><img src="icon.png" alt="N">erd<em>Clock</em></span> &amp; NerdMiner<br>Webflasher</h1>
   <p class="hero-sub">Firmware für NerdClock und NerdMiner direkt aus dem Browser aufspielen –
      ohne Download, ohne Programme, ohne Terminal.</p>
   <div class="hero-chips">
