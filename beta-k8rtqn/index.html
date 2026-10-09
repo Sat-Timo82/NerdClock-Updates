@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>NerdClock Flasher</title>
+<title>Nerdminer.de Flasher</title>
 <link rel="icon" href="icon.png">
 <script type="module" src="https://unpkg.com/esp-web-tools@10.0.1/dist/web/install-button.js?module"></script>
 <link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700,900&display=swap" rel="stylesheet">
@@ -117,7 +117,7 @@ footer b{color:var(--red);}
 <body>
 
 <nav>
-  <a class="nav-brand" href="#"><img src="icon.png" alt=""><span class="nav-name">Nerd<em>Clock</em></span></a>
+  <a class="nav-brand" href="#"><img src="icon.png" alt=""><span class="nav-name">Nerd<em>miner</em>.de</span></a>
   <div class="nav-links">
     <a href="https://nerdminer.de" target="_blank">Nerdminer.de</a>
     <span class="nav-badge">BETA</span>
@@ -127,14 +127,14 @@ footer b{color:var(--red);}
 <div class="hero">
   <img class="hero-logo" src="logo.png" alt="NerdClock">
   <div class="hero-eyebrow">Nerdminer.de · We do Bitcoin</div>
-  <h1 class="hero-title">Web Flasher</h1>
-  <p class="hero-sub">Die NerdClock-Firmware direkt aus dem Browser auf dein 7"-Display spielen –
+  <h1 class="hero-title">NerdClock &amp; NerdMiner<br>Web Flasher</h1>
+  <p class="hero-sub">Firmware für NerdClock und NerdMiner direkt aus dem Browser aufspielen –
      ohne Download, ohne Programme, ohne Terminal.</p>
   <div class="hero-chips">
     <div class="chip"><div class="chip-dot"></div>Chrome &amp; Edge</div>
-    <div class="chip">Elecrow CrowPanel 7" V3.0</div>
-    <div class="chip">ESP32-S3</div>
-    <div class="chip">Automatische Updates</div>
+    <div class="chip">NerdClock 7"</div>
+    <div class="chip">NerdMiner Classic 1,9"</div>
+    <div class="chip">NerdMiner 2,8"</div>
   </div>
 </div>
 
@@ -147,7 +147,7 @@ footer b{color:var(--red);}
 
   <div class="flash-card">
     <div class="flash-card-header">
-      <div class="flash-card-title">Firmware installieren</div>
+      <div class="flash-card-title">NerdClock installieren</div>
       <div class="version-badge"><div class="version-dot"></div>v3.0.0 · Beta</div>
     </div>
     <div class="flash-card-body">
@@ -185,6 +185,36 @@ footer b{color:var(--red);}
           Danach hält sich die NerdClock über automatische Updates selbst aktuell.
         </div>
       </div>
+    </div>
+  </div>
+
+  <div class="flash-card">
+    <div class="flash-card-header">
+      <div class="flash-card-title">NerdMiner installieren</div>
+      <div class="version-badge"><div class="version-dot"></div>Pool.Nerdminer.de</div>
+    </div>
+    <div class="flash-card-body">
+      <div class="info-grid" style="margin-bottom:0">
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdMiner Classic 1,9"</div>
+          <div class="flash-zone-sub">LilyGO T-Display S3 · v1.8.3</div>
+          <esp-web-install-button manifest="manifest-nm19.json">
+            <button slot="activate">Classic 1,9" installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdMiner 2,8" / GIGA</div>
+          <div class="flash-zone-sub">ESP32-2432S028 · alle Varianten · v1.6.3</div>
+          <esp-web-install-button manifest="manifest-nm28.json">
+            <button slot="activate">2,8" installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+      </div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>NerdMinerAP</strong> (Passwort <strong>MineYourCoins</strong>):
+        WLAN und BTC-Adresse mit Namen eintragen, z. B. <strong>bc1q….Wohnzimmer</strong> – Pool.Nerdminer.de ist voreingestellt.<br>
+        2,8": Farben falsch? Während der Einrichtung einfach aufs Display tippen. Danach findet die NerdClock den Miner per Lupe.</div>
     </div>
   </div>
 

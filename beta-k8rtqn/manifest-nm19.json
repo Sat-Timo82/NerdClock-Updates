@@ -1,0 +1,6 @@
+{
+  "name": "NerdMiner Classic 1,9 Zoll (Nerdminer.de)",
+  "version": "1.8.3",
+  "new_install_prompt_erase": true,
+  "builds": [ { "chipFamily": "ESP32-S3", "parts": [ { "path": "nerdminer-19.bin", "offset": 0 } ] } ]
+}

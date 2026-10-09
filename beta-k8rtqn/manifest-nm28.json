@@ -1,0 +1,6 @@
+{
+  "name": "NerdMiner 2,8 Zoll (Nerdminer.de)",
+  "version": "1.6.3",
+  "new_install_prompt_erase": true,
+  "builds": [ { "chipFamily": "ESP32", "parts": [ { "path": "nerdminer-28.bin", "offset": 0 } ] } ]
+}
