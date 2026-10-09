@@ -100,6 +100,12 @@ esp-web-install-button button:hover{background:var(--red2);}
 .cl-tag.new{background:rgba(48,209,88,.12);color:var(--green);}
 .cl-tag.imp{background:rgba(255,179,64,.12);color:var(--gold);}
 
+.compat{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:22px 28px 0;}
+.compat-item{background:var(--bg3);border:1px solid var(--border);border-radius:12px;padding:16px 18px;border-left:3px solid var(--red);}
+.compat-name{font-size:14px;font-weight:700;margin-bottom:4px;}
+.compat-desc{font-size:12.5px;color:var(--t2);line-height:1.55;}
+.compat-foot{padding:16px 28px 22px;font-size:12.5px;color:var(--t2);}
+
 footer{border-top:1px solid var(--border);padding:26px 40px;display:flex;align-items:center;justify-content:space-between;font-size:12px;color:var(--t3);}
 footer a{color:var(--t3);text-decoration:none;transition:color .15s;}
 footer a:hover{color:var(--t2);}
@@ -107,7 +113,7 @@ footer b{color:var(--red);}
 .footer-links{display:flex;gap:20px;}
 
 @media(max-width:640px){
-  .steps,.info-grid{grid-template-columns:1fr;}
+  .steps,.info-grid,.compat{grid-template-columns:1fr;}
   .hero-title{font-size:34px;}
   nav{padding:0 16px;} main{padding:36px 16px;}
   footer{flex-direction:column;gap:12px;text-align:center;}
@@ -216,6 +222,29 @@ footer b{color:var(--red);}
         WLAN und BTC-Adresse mit Namen eintragen, z. B. <strong>bc1q….Wohnzimmer</strong> – Pool.Nerdminer.de ist voreingestellt.<br>
         2,8": Farben falsch? Während der Einrichtung einfach aufs Display tippen. Danach findet die NerdClock den Miner per Lupe.</div>
     </div>
+  </div>
+
+  <div class="changelog">
+    <div class="changelog-header"><h3>Die NerdClock zeigt deine Miner</h3></div>
+    <div class="compat">
+      <div class="compat-item">
+        <div class="compat-name">NerdMiner Classic 1,9"</div>
+        <div class="compat-desc">Hashrate, Shares und beste Difficulty live auf der NerdClock</div>
+      </div>
+      <div class="compat-item">
+        <div class="compat-name">NerdMiner 2,8"</div>
+        <div class="compat-desc">alle Varianten – einfach per Lupe im WLAN finden</div>
+      </div>
+      <div class="compat-item">
+        <div class="compat-name">NerdAxe · NerdQAxe · Bitaxe</div>
+        <div class="compat-desc">alle Miner mit AxeOS: Hashrate, Temperatur, Leistung</div>
+      </div>
+      <div class="compat-item">
+        <div class="compat-name">Bitcoin-Heizung</div>
+        <div class="compat-desc">Braiins-OS-Miner wie der Antminer S9: 5 Heizstufen direkt am Display, mit Schutz bei Überhitzung</div>
+      </div>
+    </div>
+    <div class="compat-foot">Bis zu 5 Miner gleichzeitig · automatisch per Lupe finden oder IP-Adresse eintragen</div>
   </div>
 
   <div class="info-grid">
