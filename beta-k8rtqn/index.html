@@ -227,6 +227,36 @@ footer b{color:var(--red);}
     </div>
   </div>
 
+  <div class="flash-card">
+    <div class="flash-card-header">
+      <div class="flash-card-title">Bitaxe installieren</div>
+      <div class="version-badge"><div class="version-dot"></div>Pool.Nerdminer.de</div>
+    </div>
+    <div class="flash-card-body">
+      <div class="info-grid" style="margin-bottom:0">
+        <div class="flash-zone">
+          <div class="flash-zone-title">Bitaxe Gamma 602 / 603 – kleines Display</div>
+          <div class="flash-zone-sub">Standard-Display 0,91" (SSD1306) · ESP-Miner v2.15.3</div>
+          <esp-web-install-button manifest="manifest-bx602k.json">
+            <button slot="activate">Kleines Display installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+        <div class="flash-zone">
+          <div class="flash-zone-title">Bitaxe Gamma 602 / 603 – großes Display</div>
+          <div class="flash-zone-sub">2,4"-Display (SSD1309, 180° gedreht) · ESP-Miner v2.15.3</div>
+          <esp-web-install-button manifest="manifest-bx602g.json">
+            <button slot="activate">Großes Display installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+      </div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>Bitaxe_…</strong>: dort <strong>dein WLAN</strong> und
+        <strong>deine BTC-Adresse</strong> eintragen (Felder „mein WLAN“ und „meine BTC-Adresse“ ersetzen). Primary und Secondary Pool sind
+        auf Pool.Nerdminer.de voreingestellt. Updates bitte immer hier über den Webflasher, nicht über das Dashboard.</div>
+    </div>
+  </div>
+
   <div class="changelog">
     <div class="changelog-header"><h3>Die NerdClock zeigt deine Miner</h3></div>
     <div class="compat">
