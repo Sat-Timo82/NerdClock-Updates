@@ -1,0 +1,16 @@
+{
+  "name": "NerdClock Bluetooth-Modul",
+  "version": "0.2.2",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "btmodul/bootloader.bin", "offset": 4096 },
+        { "path": "btmodul/partitions.bin", "offset": 32768 },
+        { "path": "btmodul/boot_app0.bin", "offset": 57344 },
+        { "path": "btmodul/firmware.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}

@@ -194,6 +194,20 @@ footer b{color:var(--red);}
           Danach hält sich die NerdClock über automatische Updates selbst aktuell.
         </div>
       </div>
+
+      <div class="flash-zone">
+        <div class="flash-zone-title">ESP32 Bluetooth-Modul v0.2.2 – für NerdClock Premium</div>
+        <div class="flash-zone-sub">Mini D1 ESP32 (klassischer ESP32) · sendet den Ton per Bluetooth an Box / Verstärker</div>
+        <esp-web-install-button manifest="manifest-btmodul.json">
+          <button slot="activate">ESP32 Bluetooth-Modul installieren</button>
+          <span slot="unsupported">Dein Browser unterstützt das nicht – bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          <span slot="not-allowed">Bitte die Seite über https öffnen.</span>
+        </esp-web-install-button>
+        <div class="flash-note">
+          Nur intern: das Modul per USB-C anschließen (<strong>nicht</strong> gleichzeitig am Display stecken lassen), Gerät meist „USB-Enhanced-SERIAL CH9102“.<br>
+          Danach kommen Updates für das Modul über die NerdClock.
+        </div>
+      </div>
     </div>
   </div>
 
