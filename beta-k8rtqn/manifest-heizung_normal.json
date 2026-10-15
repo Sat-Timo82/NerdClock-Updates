@@ -1,0 +1,28 @@
+{
+  "name": "Heizminer 2,8\"-Display (NerdHeizung)",
+  "version": "1.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "heizung_normal/bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "heizung_normal/partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "heizung_normal/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "heizung_normal/firmware.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}

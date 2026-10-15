@@ -221,6 +221,28 @@ footer b{color:var(--red);}
           Nur intern: das Modul per USB-C anschließen (<strong>nicht</strong> gleichzeitig am Display stecken lassen), Gerät meist „USB-Enhanced-SERIAL CH9102“.<br>
           Danach kommen Updates für das Modul über die NerdClock.
         </div>
+
+      <div class="flash-zone" id="heizung">
+        <div class="flash-zone-title">Heizminer 2,8"-Display (NerdHeizung)</div>
+        <div class="flash-zone-sub">ESP32-2432S028R · steuert einen Braiins-OS-Miner als Bitcoin-Heizung (Heizstufen, Pool) · findet den Miner auch hinter einem Repeater</div>
+        <esp-web-install-button manifest="manifest-heizung_umgekehrt.json">
+          <button slot="activate">Installieren – Display mit umgekehrten Farben (USB-C)</button>
+          <span slot="unsupported">Dein Browser unterstützt das nicht – bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          <span slot="not-allowed">Bitte die Seite über https öffnen.</span>
+        </esp-web-install-button>
+        <div style="height:10px"></div>
+        <esp-web-install-button manifest="manifest-heizung_normal.json">
+          <button slot="activate">Installieren – Display mit normalen Farben (Micro-USB)</button>
+          <span slot="unsupported">Dein Browser unterstützt das nicht – bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          <span slot="not-allowed">Bitte die Seite über https öffnen.</span>
+        </esp-web-install-button>
+        <div class="flash-note">
+          Welche Variante? Erscheint nach dem Flashen alles negativ (heller Hintergrund, falsche Farben), einfach die andere Variante nehmen –
+          oder am Display in den Einstellungen unter „Farben“ umschalten.<br>
+          Danach verbindet sich das Display mit dem WLAN „NerdHeizungAP“ zur Einrichtung.
+        </div>
+      </div>
+
       </div>
     </div>
   </div>
