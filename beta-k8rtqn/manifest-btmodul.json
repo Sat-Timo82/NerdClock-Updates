@@ -1,6 +1,6 @@
 {
   "name": "NerdClock Bluetooth-Modul",
-  "version": "0.4.6",
+  "version": "0.5.1",
   "new_install_prompt_erase": true,
   "builds": [
     {

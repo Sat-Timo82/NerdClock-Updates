@@ -1,85 +1,85 @@
 {
- "updated": 1791557213,
+ "updated": 1792107448,
  "mode": "stichworte",
  "items": [
   {
-   "title": "UTXO's Loren Asmus: The $300T Bond Market Is Bitcoin's Next Frontier",
-   "summary": "UTXO Management's Loren Asmus: Bitcoin isn't a trade, but a portfolio staple. He breaks down institutional adoption, retention, and why education is key. This post UTXO's Loren Asmus: The $300T Bond Market Is Bitcoin's Next Frontier first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1791553489,
-   "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+   "title": "MSCI-Entscheidung: Strategy und Metaplanet vor Index-Exklusion",
+   "summary": "MSCI hat sich dazu entschieden, seinen Vorschlag zur Exklusion \"nicht operativer Unternehmen\" umzusetzen. Strategy und Metaplanet steht demnach eine Exklusion bevor.",
+   "source": "Blocktrainer",
+   "ts": 1792107110,
+   "url": "https://www.blocktrainer.de/blog/msci-entscheidung-strategy-und-metaplanet-vor-index-exklusion",
    "ad": false
   },
   {
-   "title": "Bitcoin Core developer responds to AI & Quantum Risk",
-   "summary": "Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation. This post Bitcoin Core developer responds to AI & Quantum Risk first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1791553118,
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin, Ether Prices Hit by ETF Selling as 2-Day Outflows Near $1 Billion",
-   "summary": "U.S. bitcoin ETFs lost another $244.13 million on Thursday, while ether funds shed $72.54 million for an eighth straight day of redemptions. Combined outflows from the two largest crypto ETF categories have reached roughly $965 million in just two sessions. Bitcoin ETFs Lose $244M as Fidelity Sheds $197M The pressure on…",
-   "source": "Bitcoin.com News",
-   "ts": 1791553073,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-ether-prices-hit-etf-selling-2-day-outflows-near-1-billion/",
-   "ad": false
-  },
-  {
-   "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
-   "summary": "Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge. This post Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1791552789,
-   "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
-   "ad": false
-  },
-  {
-   "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
-   "summary": "Is Bitcoin headed for a $1M awakening by 2030? Calamos CEO John Koudounis explains why institutional bank lending and ETF access will drive the surge. This post Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030 first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1791552490,
-   "url": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Bleeds in Uptober–How Low Can It Go? Experts Weigh In",
-   "summary": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober.",
-   "source": "Decrypt",
-   "ts": 1791552012,
-   "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs: Auf diese 5 Indikatoren kommt es jetzt an",
-   "summary": "Nach der Rallye auf fast 87.000 US-Dollar kommt Bitcoin ins Straucheln und verlässt seinen Aufwärtskanal. Diese fünf Indikatoren verraten, wie es weitergehen könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1791547983,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-auf-diese-5-indikatoren-kommt-es-jetzt-an-238914/",
-   "ad": false
-  },
-  {
-   "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
-   "summary": "Your day-ahead look for Oct. 9, 2026",
-   "source": "CoinDesk",
-   "ts": 1791544144,
-   "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
-   "summary": "Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.",
-   "source": "CoinDesk",
-   "ts": 1791542662,
-   "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
-   "ad": false
-  },
-  {
-   "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-   "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
+   "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+   "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
    "source": "The Block",
-   "ts": 1791542459,
-   "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+   "ts": 1792102556,
+   "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+   "ad": false
+  },
+  {
+   "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+   "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
+   "source": "Decrypt",
+   "ts": 1792096264,
+   "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+   "summary": "Grayscale research shows that bitcoin's realized volatility is in the same range as a number of S&P 500 stocks. This post Bitcoin's Volatility Has Fallen Within S&P 500 Ranks, Study Shows first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792096246,
+   "url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+   "ad": false
+  },
+  {
+   "title": "Google gelingt Quanten-Durchbruch: Was bedeutet das jetzt für Bitcoin?",
+   "summary": "Google überwindet eine wichtige Hürde bei Quantencomputern. Wie nah ist die Technologie wirklich daran, Bitcoins Kryptografie zu gefährden?",
+   "source": "Blocktrainer",
+   "ts": 1792095802,
+   "url": "https://www.blocktrainer.de/blog/google-gelingt-quanten-durchbruch-was-bedeutet-das-jetzt-fuer-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Google Touts 'Magic' Quantum Breakthrough as Bitcoin Q-Day Threat Looms",
+   "summary": "Google has announced a major quantum computing breakthrough, demonstrating a technique that reduces errors by a factor of 40 and could help make powerful quantum computers more practical. The advance comes as researchers increasingly warn that future quantum machines could undermine the cryptography securing bitcoin and other…",
+   "source": "Bitcoin.com News",
+   "ts": 1792093086,
+   "url": "https://news.bitcoin.com/technology/google-touts-magic-quantum-breakthrough-bitcoin-q-day-threat/",
+   "ad": false
+  },
+  {
+   "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+   "summary": "In a note to investors, Matt Hougan used a \"Choose Your Own Adventure\" framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
+   "source": "Decrypt",
+   "ts": 1792091764,
+   "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+   "ad": false
+  },
+  {
+   "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
+   "summary": "Chainalysis research shows that the U.S. is HODLing hard. This post US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792088914,
+   "url": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
+   "ad": false
+  },
+  {
+   "title": "BlackRock's Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
+   "summary": "Speaking after BlackRock's Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous–calling the backlash \"misinformation\" as data centers become a midterm flashpoint.",
+   "source": "Decrypt",
+   "ts": 1792088164,
+   "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Rebounds Above $82K After Brief Dip Below $80K",
+   "summary": "Bitcoin staged a rapid recovery Thursday, climbing back above $82,000 to trade slightly higher over 24 hours with a market cap near $1.65 trillion. BTC Rebounds Above $82K After CPI Volatility Bitcoin appeared to recover from a morning rout Thursday after it reclaimed $82,000 just hours after sliding below $80,000. The…",
+   "source": "Bitcoin.com News",
+   "ts": 1792084233,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-above-82k-after-brief-dip-below-80k/",
    "ad": false
   }
  ]
