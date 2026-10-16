@@ -1,0 +1,11 @@
+4729391	b650d7eb215d3e1e41dc0aed905e25e30970e7a669f9143831df47d4269193a9	/Musik/Bitcoin-Musik/atomicc/01. Intro - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/01.%20Intro%20-%20atomicc.mp3.enc
+9603209	001309e340e1ea6fa2d3831586fbdf9442e3c3bf3381dc131cf86a0baeff15e3	/Musik/Bitcoin-Musik/atomicc/02. Bitcoiner - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/02.%20Bitcoiner%20-%20atomicc.mp3.enc
+6845249	2e3bdaa1d2d3f9314bdc13bb2335c9c13e439077a1b50254cc94bef3b5d2ecc8	/Musik/Bitcoin-Musik/atomicc/03. Fiat Matrix - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/03.%20Fiat%20Matrix%20-%20atomicc.mp3.enc
+7820253	56aae6a13ff34d413b639a0d1c6c91d1a2d9d6eabd65c16eb52e07a0b9b182f2	/Musik/Bitcoin-Musik/atomicc/04. Liebe EZB - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/04.%20Liebe%20EZB%20-%20atomicc.mp3.enc
+6946600	612d29cce9fc1c8f251ee0eafddbd30e550eaac5b133ad0f1554989d28ac2578	/Musik/Bitcoin-Musik/atomicc/05. debased - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/05.%20debased%20-%20atomicc.mp3.enc
+7929973	5d4892ca9f568735bcf22e19230a96acbc9c63ca5192a6293a60929f106ba9c0	/Musik/Bitcoin-Musik/atomicc/06. Brot und Spiele - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/06.%20Brot%20und%20Spiele%20-%20atomicc.mp3.enc
+8767985	32a45fc98057174ca96bdb05745fdc10a8199deadb574d7a974f7da8aca6b8b6	/Musik/Bitcoin-Musik/atomicc/07. Journalistenpack - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/07.%20Journalistenpack%20-%20atomicc.mp3.enc
+5183980	58b77f39cf102fd137f7a2a82cfbc9b11206b569d9b6de329341c1baf808edec	/Musik/Bitcoin-Musik/atomicc/08. clown world - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/08.%20clown%20world%20-%20atomicc.mp3.enc
+5049075	57d6e154b7d6a067de711f883d80ebcabef7c09473f8d35a5976934d55973803	/Musik/Bitcoin-Musik/atomicc/09. toxic bitcoiners - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/09.%20toxic%20bitcoiners%20-%20atomicc.mp3.enc
+5847367	551a2a39755a70c862475936a3f7dc23fe5e78cbe10e8461d34b55f12409d2f3	/Musik/Bitcoin-Musik/atomicc/10. Junkie - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/10.%20Junkie%20-%20atomicc.mp3.enc
+7143064	adfbcf034fa8d103aed9d6ff12704b5fd8af48e5a82e12486bd9a799a44b0f97	/Musik/Bitcoin-Musik/atomicc/11. Zwischen Seedphrase und Relays - atomicc.mp3	files/Musik/Bitcoin-Musik/atomicc/11.%20Zwischen%20Seedphrase%20und%20Relays%20-%20atomicc.mp3.enc
