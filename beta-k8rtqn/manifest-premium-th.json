@@ -1,0 +1,32 @@
+{
+  "name": "NerdClock Premium \u2013 TeraHash-Edition",
+  "version": "3.1.6",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-P4",
+      "parts": [
+        {
+          "path": "premium-th/bootloader.bin",
+          "offset": 8192
+        },
+        {
+          "path": "premium-th/partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "premium/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "premium-th/firmware.bin",
+          "offset": 65536
+        },
+        {
+          "path": "premium/nerdclock-c6.bin",
+          "offset": 13172736
+        }
+      ]
+    }
+  ]
+}
