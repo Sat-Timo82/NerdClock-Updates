@@ -1,85 +1,85 @@
 {
- "updated": 1792107448,
+ "updated": 1792152412,
  "mode": "stichworte",
  "items": [
   {
-   "title": "MSCI-Entscheidung: Strategy und Metaplanet vor Index-Exklusion",
-   "summary": "MSCI hat sich dazu entschieden, seinen Vorschlag zur Exklusion \"nicht operativer Unternehmen\" umzusetzen. Strategy und Metaplanet steht demnach eine Exklusion bevor.",
-   "source": "Blocktrainer",
-   "ts": 1792107110,
-   "url": "https://www.blocktrainer.de/blog/msci-entscheidung-strategy-und-metaplanet-vor-index-exklusion",
+   "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+   "summary": "Plus, crypto majors rebound despite hot PPI and Saylor's Strategy is at risk of removal from a major index.",
+   "source": "Decrypt",
+   "ts": 1792151214,
+   "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
    "ad": false
   },
   {
-   "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
-   "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
+   "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+   "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
+   "source": "CoinDesk",
+   "ts": 1792147946,
+   "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+   "ad": false
+  },
+  {
+   "title": "Hut 8 Funnels $161 Million in Bitcoin to Exchanges",
+   "summary": "A wallet tied to Hut 8 has pushed nearly 2,000 BTC toward exchanges and trading desks in seven days, emptying itself by early Friday. Following the Coins The trail starts in custody, and Arkham labelled the source addresses as Hut 8's Coinbase Prime custody wallets. From there, the coins hopped to a single intermediary address…",
+   "source": "Bitcoin.com News",
+   "ts": 1792146614,
+   "url": "https://news.bitcoin.com/featured/hut-8-bitcoin-161-million-exchanges/",
+   "ad": false
+  },
+  {
+   "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+   "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
+   "source": "CoinDesk",
+   "ts": 1792146270,
+   "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin steady near $82,000 after Fed Chair Warsh's comments",
+   "summary": "Crypto held to its bounce following bitcoin's brief drop under $80,000, but investors kept pulling money from ether, SOL and ZEC funds.",
+   "source": "CoinDesk",
+   "ts": 1792144094,
+   "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue",
+   "ad": false
+  },
+  {
+   "title": "Capital B posts wider H1 net loss of $78 million on bitcoin impairment charge",
+   "summary": "The company attributed roughly €67.5 million ($75.9 million) of the loss to an additional bitcoin impairment charge.",
    "source": "The Block",
-   "ts": 1792102556,
-   "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+   "ts": 1792143021,
+   "url": "https://www.theblock.co/news/business/2026-10-16-capital-b-wider-h1-net-loss-418781",
    "ad": false
   },
   {
-   "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
-   "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
-   "source": "Decrypt",
-   "ts": 1792096264,
-   "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+   "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+   "summary": "Bitcoin's market cycle signals tool showed BTC price action copying history, possibly preparing to reclaim a key moving average before testing new highs.",
+   "source": "Cointelegraph",
+   "ts": 1792142533,
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss_tag",
    "ad": false
   },
   {
-   "title": "Bitcoin's Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
-   "summary": "Grayscale research shows that bitcoin's realized volatility is in the same range as a number of S&P 500 stocks. This post Bitcoin's Volatility Has Fallen Within S&P 500 Ranks, Study Shows first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792096246,
-   "url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+   "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+   "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
+   "source": "CoinDesk",
+   "ts": 1792139688,
+   "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
    "ad": false
   },
   {
-   "title": "Google gelingt Quanten-Durchbruch: Was bedeutet das jetzt für Bitcoin?",
-   "summary": "Google überwindet eine wichtige Hürde bei Quantencomputern. Wie nah ist die Technologie wirklich daran, Bitcoins Kryptografie zu gefährden?",
-   "source": "Blocktrainer",
-   "ts": 1792095802,
-   "url": "https://www.blocktrainer.de/blog/google-gelingt-quanten-durchbruch-was-bedeutet-das-jetzt-fuer-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Google Touts 'Magic' Quantum Breakthrough as Bitcoin Q-Day Threat Looms",
-   "summary": "Google has announced a major quantum computing breakthrough, demonstrating a technique that reduces errors by a factor of 40 and could help make powerful quantum computers more practical. The advance comes as researchers increasingly warn that future quantum machines could undermine the cryptography securing bitcoin and other…",
+   "title": "Bitcoin's $80K Safety Net Held Once but Glassnode Says It Is Eroding",
+   "summary": "Big buyers caught bitcoin at $80,000 on Thursday, but Glassnode's order book data shows the bids under that level are getting thinner. A Day on the Order Book Glassnode posted a heatmap of resting orders on the Binance BTC/USDT spot book from Oct. 15, and relayed the following message: The large bids that sat at […]",
    "source": "Bitcoin.com News",
-   "ts": 1792093086,
-   "url": "https://news.bitcoin.com/technology/google-touts-magic-quantum-breakthrough-bitcoin-q-day-threat/",
+   "ts": 1792139407,
+   "url": "https://news.bitcoin.com/featured/bitcoin-price-80k-support-glassnode-order-book/",
    "ad": false
   },
   {
-   "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
-   "summary": "In a note to investors, Matt Hougan used a \"Choose Your Own Adventure\" framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
-   "source": "Decrypt",
-   "ts": 1792091764,
-   "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
-   "ad": false
-  },
-  {
-   "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
-   "summary": "Chainalysis research shows that the U.S. is HODLing hard. This post US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792088914,
-   "url": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
-   "ad": false
-  },
-  {
-   "title": "BlackRock's Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
-   "summary": "Speaking after BlackRock's Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous–calling the backlash \"misinformation\" as data centers become a midterm flashpoint.",
-   "source": "Decrypt",
-   "ts": 1792088164,
-   "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Rebounds Above $82K After Brief Dip Below $80K",
-   "summary": "Bitcoin staged a rapid recovery Thursday, climbing back above $82,000 to trade slightly higher over 24 hours with a market cap near $1.65 trillion. BTC Rebounds Above $82K After CPI Volatility Bitcoin appeared to recover from a morning rout Thursday after it reclaimed $82,000 just hours after sliding below $80,000. The…",
-   "source": "Bitcoin.com News",
-   "ts": 1792084233,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-above-82k-after-brief-dip-below-80k/",
+   "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+   "summary": "Europe's second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
+   "source": "Cointelegraph",
+   "ts": 1792137586,
+   "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
    "ad": false
   }
  ]
