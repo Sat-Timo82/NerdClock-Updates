@@ -1,5 +1,5 @@
 {
- "updated": 1792279607,
+ "updated": 1792281264,
  "mode": "stichworte",
  "items": [
   {
@@ -32,14 +32,6 @@
    "source": "BTC-ECHO",
    "ts": 1792245540,
    "url": "https://www.btc-echo.de/news/strategy-geht-neuen-weg-bitcoin-riese-kuendigt-taegliche-dividenden-an-239381/",
-   "ad": false
-  },
-  {
-   "title": "Arthur Hayes Says OpenAI and Anthropic Are Worthless and Bitcoin Wins",
-   "summary": "Bitmex co-founder Arthur Hayes says the artificial intelligence boom is burning cash on a government backstop, and that the bigger it gets, the higher bitcoin goes. The Arguments Put Forth by Hayes Hayes laid out the convictions on the Convergence podcast with Luke Martin, with his four key talking points being: Money is being…",
-   "source": "Bitcoin.com News",
-   "ts": 1792234810,
-   "url": "https://news.bitcoin.com/finance/arthur-hayes-ai-waste-of-money-bitcoin-bailout/",
    "ad": false
   },
   {
@@ -80,6 +72,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1792188756,
    "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+   "ad": false
+  },
+  {
+   "title": "Strive's bitcoin buying spree earns 27% price target hike from TD Cowen",
+   "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.",
+   "source": "The Block",
+   "ts": 1792182177,
+   "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
    "ad": false
   }
  ]
