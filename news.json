@@ -1,5 +1,5 @@
 {
- "updated": 1792274244,
+ "updated": 1792276141,
  "mode": "stichworte",
  "items": [
   {
@@ -43,14 +43,6 @@
    "ad": false
   },
   {
-   "title": "Bloomberg Sees Bitcoin Price at $10K and Cryptoquant's CEO Doesn't Agree",
-   "summary": "Bloomberg Intelligence strategist Mike McGlone has put a $10,000 target back on bitcoin, and within hours, Cryptoquant CEO Ki Young Ju replied that the onchain floor sits much closer to $30,000. McGlone's Domino Theory McGlone laid out the call in an X post yesterday, previewing a Bloomberg Intelligence report titled \"A…",
-   "source": "Bitcoin.com News",
-   "ts": 1792229410,
-   "url": "https://news.bitcoin.com/crypto-news/bloomberg-mcglone-bitcoin-10k-cryptoquant-ki-young-ju/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin kämpft um 80.000 Dollar: Anleger ziehen Millionen ab",
    "summary": "Drei Handelstage in Folge flossen Gelder ab. Doch die Mehrheit der Trader setzt bei BTC weiter auf steigende Kurse. Wird das zum Problem? Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -80,6 +72,14 @@
    "source": "BTC-ECHO",
    "ts": 1792202400,
    "url": "https://www.btc-echo.de/news/ledger-schock-die-angst-geht-um-im-bitcoin-space-239175/",
+   "ad": false
+  },
+  {
+   "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+   "summary": "Chainalysis has revealed that a victim of last week's Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792188756,
+   "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
    "ad": false
   }
  ]
