@@ -1,85 +1,85 @@
 {
- "updated": 1792200128,
+ "updated": 1792269193,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Price at $81,500 Leaves Bulls and Bears at a Standoff",
+   "summary": "Bitcoin traded near $81,500 on Oct. 17, 2026, with its technical indicators offering competing signals. Shorter-term moving averages favored sellers, while longer-term averages continued to support buyers. The relative strength index (RSI) stood at 46, and the broader technical rating remained neutral. With support clustered…",
+   "source": "Bitcoin.com News",
+   "ts": 1792269022,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-at-81500-leaves-bulls-and-bears-at-a-standoff/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Crash durch Quantencomputer? Dieser Plan soll ihn verhindern",
+   "summary": "Bei verlorenen privaten Schlüsseln scheitert die Übertragung auf quantensichere Adressen. Hourglass V2 soll mögliche Folgen eines Quantendiebstahls für den Bitcoin-Markt begrenzen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792256400,
+   "url": "https://www.btc-echo.de/news/bitcoin-crash-durch-quantencomputer-dieser-plan-soll-ihn-verhindern-239109/",
+   "ad": false
+  },
+  {
+   "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+   "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+   "source": "Decrypt",
+   "ts": 1792252863,
+   "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+   "ad": false
+  },
+  {
+   "title": "Strategy geht neuen Weg: Bitcoin-Riese kündigt tägliche Dividenden an",
+   "summary": "Hunderte Millionen US-Dollar hat MSTR zuletzt in eigene Vorzugsaktien gesteckt. Jetzt ein neuer Auszahlungsrhythmus die Nachfrage retten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792245540,
+   "url": "https://www.btc-echo.de/news/strategy-geht-neuen-weg-bitcoin-riese-kuendigt-taegliche-dividenden-an-239381/",
+   "ad": false
+  },
+  {
+   "title": "Crypto Scammer Loses $4.8 Million In Stolen Bitcoin To Another Group Of Thieves",
+   "summary": "TL;DR: A cryptocurrency scammer reportedly lost roughly 60 BTC, worth around $4.8 million, after depositing proceeds into compromised hardware wallets. The story forms part of a wider supply-chain attack involving modified Ledger devices. Someone accused of stealing cryptocurrency from victims of an online employment scam…",
+   "source": "Bitcoinist",
+   "ts": 1792240980,
+   "url": "https://bitcoinist.com/crypto-scammer-loses-4-8-million-in-stolen-bitcoin-to-another-group-of/",
+   "ad": false
+  },
+  {
+   "title": "Arthur Hayes Says OpenAI and Anthropic Are Worthless and Bitcoin Wins",
+   "summary": "Bitmex co-founder Arthur Hayes says the artificial intelligence boom is burning cash on a government backstop, and that the bigger it gets, the higher bitcoin goes. The Arguments Put Forth by Hayes Hayes laid out the convictions on the Convergence podcast with Luke Martin, with his four key talking points being: Money is being…",
+   "source": "Bitcoin.com News",
+   "ts": 1792234810,
+   "url": "https://news.bitcoin.com/finance/arthur-hayes-ai-waste-of-money-bitcoin-bailout/",
+   "ad": false
+  },
+  {
+   "title": "Bloomberg Sees Bitcoin Price at $10K and Cryptoquant's CEO Doesn't Agree",
+   "summary": "Bloomberg Intelligence strategist Mike McGlone has put a $10,000 target back on bitcoin, and within hours, Cryptoquant CEO Ki Young Ju replied that the onchain floor sits much closer to $30,000. McGlone's Domino Theory McGlone laid out the call in an X post yesterday, previewing a Bloomberg Intelligence report titled \"A…",
+   "source": "Bitcoin.com News",
+   "ts": 1792229410,
+   "url": "https://news.bitcoin.com/crypto-news/bloomberg-mcglone-bitcoin-10k-cryptoquant-ki-young-ju/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin kämpft um 80.000 Dollar: Anleger ziehen Millionen ab",
+   "summary": "Drei Handelstage in Folge flossen Gelder ab. Doch die Mehrheit der Trader setzt bei BTC weiter auf steigende Kurse. Wird das zum Problem? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792221871,
+   "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-80-000-dollar-anleger-ziehen-millionen-ab-239379/",
+   "ad": false
+  },
   {
    "title": "Die häufigsten Methoden und passende Schutzmaßnahmen: Wie man sich vor Bitcoin-Scams schützt",
    "summary": "Falscher Support, Seed-Phishing und Anlagebetrug: Häufige Bitcoin-Scams im Überblick, mit konkreten Schutzmaßnahmen.",
    "source": "Blocktrainer",
    "ts": 1792216800,
-   "url": "",
+   "url": "https://www.blocktrainer.de/blog/wie-man-sich-vor-bitcoin-scams-schuetzt",
    "ad": false
   },
   {
-   "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
-   "summary": "Chainalysis has revealed that a victim of last week's Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792188756,
-   "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Mining Difficulty Jumps 5.92% in Third-Largest Hike of 2026",
-   "summary": "On Friday, at block height 971712, bitcoin mining grew considerably more demanding as the network's latest difficulty adjustment climbed 5.92% to 140.58 trillion, marking its highest reading since March 5. Bitcoin Mining Difficulty Hits Seven-Month High After 5.92% Increase The network's difficulty, basically how hard miners…",
-   "source": "Bitcoin.com News",
-   "ts": 1792182618,
-   "url": "https://news.bitcoin.com/mining/bitcoin-mining-difficulty-jumps-5-92-third-largest-hike-2026/",
-   "ad": false
-  },
-  {
-   "title": "Strive's bitcoin buying spree earns 27% price target hike from TD Cowen",
-   "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.",
-   "source": "The Block",
-   "ts": 1792182177,
-   "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-   "ad": false
-  },
-  {
-   "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
-   "summary": "CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulatory outlook. This post BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons first appeared on…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792179869,
-   "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
-   "ad": false
-  },
-  {
-   "title": "Sazmining Now Sells Jack Dorsey's Proto Immersion Hashboards",
-   "summary": "Block's Proto mining hashboards are now available on Sazmining's mining-as-a-service platform. This post Sazmining Now Sells Jack Dorsey's Proto Immersion Hashboards first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792178380,
-   "url": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
-   "ad": false
-  },
-  {
-   "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but 'Difficult' Isn't 'Bearish': CoinShares",
-   "summary": "Bitcoin is still reacting to weekly data but long-term investors shouldn't be worried, according to the European asset manager. This post Hot Inflation Data Puts Bitcoin Under Pressure, but 'Difficult' Isn't 'Bearish': CoinShares first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792175457,
-   "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-   "summary": "The index provider will classify \"non-operating companies\" as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.",
-   "source": "Decrypt",
-   "ts": 1792174564,
-   "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Hovers Near $81K as Analysts See Potential Market Bottom",
-   "summary": "Bitcoin slipped below $81,000 on Oct. 16 amid heightened market volatility, but analysts remained cautiously optimistic, suggesting a potential local bottom. Bitcoin Dips Below $81,000 After Midweek Reversal Bitcoin lost the $82,000 threshold Friday, roughly 24 hours after reversing a downtrend that saw the cryptocurrency dip…",
-   "source": "Bitcoin.com News",
-   "ts": 1792172595,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-hovers-near-81k-analysts-see-market-bottom/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor unruhigen Wochen – jetzt rücken die Midterms näher",
-   "summary": "Die US-Midterms im November 2026 rücken näher. Historische Daten zeigen, wie Bitcoin in solchen Wahljahren reagiert und warum die Märkte nervös werden. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792170000,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-unruhigen-wochen-jetzt-ruecken-die-midterms-naeher-239191/",
+   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google's new Willow breakthrough",
+   "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+   "source": "CoinDesk",
+   "ts": 1792204200,
+   "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
    "ad": false
   }
  ]
