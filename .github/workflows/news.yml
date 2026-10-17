@@ -1,0 +1,35 @@
+# Für alle NerdClocks: Bitcoin-News alle 30 Minuten, Bitcoin-Events in Europa einmal täglich neu erzeugen.
+# Die NerdClocks laden news.json und events.json regelmäßig über GitHub Pages.
+name: News und Events aktualisieren
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # alle 30 Minuten
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: news
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: News erzeugen (Stichwort-Modus, kostenlos)
+        run: python -I tools/make_news.py news.json
+      - name: Events erzeugen (einmal am Tag, bitcoinonly.events, nur Europa)
+        if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 */3 * * *'
+        run: |
+          if [ "$(date -u +%H)" = "06" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            python -I tools/update_events.py events.json || echo "Events: Quelle nicht erreichbar, alte Liste bleibt"
+          fi
+      - name: Nur bei Änderungen speichern
+        run: |
+          if git diff --quiet -- news.json events.json; then echo "nichts Neues"; exit 0; fi
+          git config user.name "Sat-Timo82"
+          git config user.email "timobartz13@gmail.com"
+          git add news.json events.json
+          git commit -m "News/Events aktualisiert (automatisch)"
+          git push
