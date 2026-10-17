@@ -1,5 +1,5 @@
 {
- "updated": 1792271360,
+ "updated": 1792274244,
  "mode": "stichworte",
  "items": [
   {
@@ -32,14 +32,6 @@
    "source": "BTC-ECHO",
    "ts": 1792245540,
    "url": "https://www.btc-echo.de/news/strategy-geht-neuen-weg-bitcoin-riese-kuendigt-taegliche-dividenden-an-239381/",
-   "ad": false
-  },
-  {
-   "title": "Crypto Scammer Loses $4.8 Million In Stolen Bitcoin To Another Group Of Thieves",
-   "summary": "TL;DR: A cryptocurrency scammer reportedly lost roughly 60 BTC, worth around $4.8 million, after depositing proceeds into compromised hardware wallets. The story forms part of a wider supply-chain attack involving modified Ledger devices. Someone accused of stealing cryptocurrency from victims of an online employment scam…",
-   "source": "Bitcoinist",
-   "ts": 1792240980,
-   "url": "https://bitcoinist.com/crypto-scammer-loses-4-8-million-in-stolen-bitcoin-to-another-group-of/",
    "ad": false
   },
   {
@@ -80,6 +72,14 @@
    "source": "CoinDesk",
    "ts": 1792204200,
    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+   "ad": false
+  },
+  {
+   "title": "Ledger-Schock: Die Angst geht um im Bitcoin-Space",
+   "summary": "Manipulierte Hardware-Wallets, verunsicherte Anleger und ein alter Streit um die Selbstverwahrung: Die Ledger-Affäre wirbelt viel Staub auf. Was ist noch sicher? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792202400,
+   "url": "https://www.btc-echo.de/news/ledger-schock-die-angst-geht-um-im-bitcoin-space-239175/",
    "ad": false
   }
  ]
