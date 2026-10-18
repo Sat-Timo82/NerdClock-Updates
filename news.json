@@ -1,7 +1,23 @@
 {
- "updated": 1792335503,
+ "updated": 1792337391,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+   "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+   "source": "Decrypt",
+   "ts": 1792335664,
+   "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+   "ad": false
+  },
+  {
+   "title": "Krypto-Haltefrist auf der Kippe: Wie weit die SPD bei Bitcoin jetzt gehen will",
+   "summary": "Langfristige Krypto-Investments könnten steuerlich deutlich anders behandelt werden als bisher. Offen ist noch, wie stark sich die Reform auf Vermögensaufbau und den Standort Deutschland auswirkt. BTC-ECHO hat nachgefragt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792335600,
+   "url": "https://www.btc-echo.de/news/krypto-haltefrist-vor-dem-aus-fragen-bleiben-offen-239171/",
+   "ad": false
+  },
   {
    "title": "Saylor Teases 'More Orange' After His $100 Trillion Bitcoin Vision Speech",
    "summary": "Strategy founder Michael Saylor delivered an ambitious vision for bitcoin at ParaFi Investor Day 2026, arguing that bank lending, tokenized securities, and bitcoin-backed credit could eventually support a $100 trillion financial system. Speaking alongside ParaFi Capital partner Jeff Park, Saylor discussed Strategy's…",
@@ -64,22 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792221871,
    "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-80-000-dollar-anleger-ziehen-millionen-ab-239379/",
-   "ad": false
-  },
-  {
-   "title": "Die häufigsten Methoden und passende Schutzmaßnahmen: Wie man sich vor Bitcoin-Scams schützt",
-   "summary": "Falscher Support, Seed-Phishing und Anlagebetrug: Häufige Bitcoin-Scams im Überblick, mit konkreten Schutzmaßnahmen.",
-   "source": "Blocktrainer",
-   "ts": 1792216800,
-   "url": "https://www.blocktrainer.de/blog/wie-man-sich-vor-bitcoin-scams-schuetzt",
-   "ad": false
-  },
-  {
-   "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google's new Willow breakthrough",
-   "summary": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
-   "source": "CoinDesk",
-   "ts": 1792204200,
-   "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
    "ad": false
   }
  ]
