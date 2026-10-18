@@ -1,7 +1,15 @@
 {
- "updated": 1792332000,
+ "updated": 1792333805,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Saylor Teases 'More Orange' After His $100 Trillion Bitcoin Vision Speech",
+   "summary": "Strategy founder Michael Saylor delivered an ambitious vision for bitcoin at ParaFi Investor Day 2026, arguing that bank lending, tokenized securities, and bitcoin-backed credit could eventually support a $100 trillion financial system. Speaking alongside ParaFi Capital partner Jeff Park, Saylor discussed Strategy's…",
+   "source": "Bitcoin.com News",
+   "ts": 1792332015,
+   "url": "https://news.bitcoin.com/featured/saylor-teases-more-orange-after-his-100-trillion-bitcoin-vision-speech/",
+   "ad": false
+  },
   {
    "title": "Bitcoin's $100,000 year-end hope divides analysts as inflation clouds outlook",
    "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
@@ -72,14 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792204200,
    "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-   "ad": false
-  },
-  {
-   "title": "Ledger-Schock: Die Angst geht um im Bitcoin-Space",
-   "summary": "Manipulierte Hardware-Wallets, verunsicherte Anleger und ein alter Streit um die Selbstverwahrung: Die Ledger-Affäre wirbelt viel Staub auf. Was ist noch sicher? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792202400,
-   "url": "https://www.btc-echo.de/news/ledger-schock-die-angst-geht-um-im-bitcoin-space-239175/",
    "ad": false
   }
  ]
