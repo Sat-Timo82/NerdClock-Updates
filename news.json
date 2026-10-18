@@ -1,7 +1,15 @@
 {
- "updated": 1792339127,
+ "updated": 1792341123,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Price Faces 10 Big Tests as 5 Catalysts Keep $100K Alive",
+   "summary": "Bitcoin's bulls are still talking six figures while the market struggles to hold $81,000. With ten potential market movers approaching and five catalysts capable of reviving momentum, the coming week could settle some arguments. Bitcoin's price enters Sunday, Oct. 18, 2026, in a peculiar predicament. The cryptocurrency has…",
+   "source": "Bitcoin.com News",
+   "ts": 1792341028,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-faces-10-big-tests-as-5-catalysts-keep-100k-alive/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
    "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
@@ -72,14 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792245540,
    "url": "https://www.btc-echo.de/news/strategy-geht-neuen-weg-bitcoin-riese-kuendigt-taegliche-dividenden-an-239381/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin kämpft um 80.000 Dollar: Anleger ziehen Millionen ab",
-   "summary": "Drei Handelstage in Folge flossen Gelder ab. Doch die Mehrheit der Trader setzt bei BTC weiter auf steigende Kurse. Wird das zum Problem? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792221871,
-   "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-80-000-dollar-anleger-ziehen-millionen-ab-239379/",
    "ad": false
   }
  ]
