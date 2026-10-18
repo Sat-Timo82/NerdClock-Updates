@@ -1,7 +1,23 @@
 {
- "updated": 1792341123,
+ "updated": 1792342816,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Ledger-Skandal: Ist Self-Custody zum Risiko geworden? Das sagt die BTC-ECHO-Redaktion",
+   "summary": "Der Ledger-Skandal zeigt: Die Sicherheit von Hardware Wallets steht erneut infrage. Ist Self Custody zum Risiko geworden? Das sagt die BTC-ECHO-Redaktion. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792342800,
+   "url": "https://www.btc-echo.de/news/ledger-skandal-ist-self-custody-zum-risiko-geworden-das-sagt-die-btc-echo-redaktion-239247/",
+   "ad": false
+  },
+  {
+   "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+   "source": "CoinDesk",
+   "ts": 1792341180,
+   "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Faces 10 Big Tests as 5 Catalysts Keep $100K Alive",
    "summary": "Bitcoin's bulls are still talking six figures while the market struggles to hold $81,000. With ten potential market movers approaching and five catalysts capable of reviving momentum, the coming week could settle some arguments. Bitcoin's price enters Sunday, Oct. 18, 2026, in a peculiar predicament. The cryptocurrency has…",
@@ -64,22 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792256400,
    "url": "https://www.btc-echo.de/news/bitcoin-crash-durch-quantencomputer-dieser-plan-soll-ihn-verhindern-239109/",
-   "ad": false
-  },
-  {
-   "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-   "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
-   "source": "Decrypt",
-   "ts": 1792252863,
-   "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-   "ad": false
-  },
-  {
-   "title": "Strategy geht neuen Weg: Bitcoin-Riese kündigt tägliche Dividenden an",
-   "summary": "Hunderte Millionen US-Dollar hat MSTR zuletzt in eigene Vorzugsaktien gesteckt. Jetzt ein neuer Auszahlungsrhythmus die Nachfrage retten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792245540,
-   "url": "https://www.btc-echo.de/news/strategy-geht-neuen-weg-bitcoin-riese-kuendigt-taegliche-dividenden-an-239381/",
    "ad": false
   }
  ]
