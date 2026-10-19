@@ -1,7 +1,23 @@
 {
- "updated": 1792397872,
+ "updated": 1792401276,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "CME's bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
+   "summary": "Your look at what's coming in the week starting Oct. 19.",
+   "source": "CoinDesk",
+   "ts": 1792401159,
+   "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
+   "ad": false
+  },
+  {
+   "title": "Gerald Hörhan: \"Bitcoin ist der Kaviar\" – so baut der Investmentpunk Vermögen auf",
+   "summary": "Immobilien als Fundament, Bitcoin als Renditechance: Investmentpunk Gerald Hörhan verrät im exklusiven BTC-ECHO Interview, wie er sein Vermögen aufbaut, welche Fehler Anleger vermeiden sollten und warum er andere Prioritäten setzt als viele Krypto-Investoren. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792400400,
+   "url": "https://www.btc-echo.de/news/investmentpunk-gibt-tipps-fuer-bitcoin-239234/",
+   "ad": false
+  },
   {
    "title": "Bitcoin bald bei 10.000 US-Dollar? Bloomberg-Analyst warnt vor einem Mega-Crash",
    "summary": "Bitcoin könnte laut einer Prognose fast 90 Prozent seines Wertes verlieren. Unter welchen Bedingungen wäre ein solcher Absturz möglich? Source: BTC-ECHO BTC-ECHO",
@@ -64,22 +80,6 @@
    "source": "Decrypt",
    "ts": 1792335664,
    "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
-   "ad": false
-  },
-  {
-   "title": "Krypto-Haltefrist auf der Kippe: Wie weit die SPD bei Bitcoin jetzt gehen will",
-   "summary": "Langfristige Krypto-Investments könnten steuerlich deutlich anders behandelt werden als bisher. Offen ist noch, wie stark sich die Reform auf Vermögensaufbau und den Standort Deutschland auswirkt. BTC-ECHO hat nachgefragt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792335600,
-   "url": "https://www.btc-echo.de/news/krypto-haltefrist-vor-dem-aus-fragen-bleiben-offen-239171/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's $100,000 year-end hope divides analysts as inflation clouds outlook",
-   "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
-   "source": "CoinDesk",
-   "ts": 1792328400,
-   "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
    "ad": false
   }
  ]
