@@ -1,7 +1,63 @@
 {
- "updated": 1792424297,
+ "updated": 1792427907,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Strive Buys 1,223 Bitcoin While Preparing a $630 Million Cash Raise",
+   "summary": "Strive has added another 1,223 BTC to its corporate treasury, spending approximately $100 million between Oct. 14 and 16 at an average price of $81,734 per bitcoin. The acquisition brings the Nasdaq-listed company's holdings to 36,818 BTC, worth roughly $3 billion. Meanwhile, Strive is preparing to collect proceeds from a $630…",
+   "source": "Bitcoin.com News",
+   "ts": 1792427426,
+   "url": "https://news.bitcoin.com/crypto-news/strive-buys-1223-bitcoin-while-preparing-630-million-cash-raise/",
+   "ad": false
+  },
+  {
+   "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
+   "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
+   "source": "Cointelegraph",
+   "ts": 1792427418,
+   "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=",
+   "ad": false
+  },
+  {
+   "title": "No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish",
+   "summary": "Bitcoin's price is currently down so far in October – albeit slightly – as speculators last week cashed out of ETFs. Will investors change course? This post No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792426721,
+   "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
+   "ad": false
+  },
+  {
+   "title": "Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million",
+   "summary": "The bitcoin treasury company notched its third buy of October last week. This post Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792426442,
+   "url": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
+   "ad": false
+  },
+  {
+   "title": "El Salvador's National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser",
+   "summary": "El Salvador's National Bitcoin Office, led by Stacey Herbert and Max Keiser, has scheduled five Bitcoin-focused events from November 10–20, including Bitcoin Historico at the National Palace and a new Renaissance Rodeo. This post El Salvador's National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser first…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792426375,
+   "url": "https://bitcoinmagazine.com/news/el-salvadors-national-bitcoin-office-hosts-five-november-events-led-by-herbert-and-keiser",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
+   "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
+   "source": "Cointelegraph",
+   "ts": 1792425957,
+   "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss_tag_bit",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
+   "summary": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
+   "source": "Decrypt",
+   "ts": 1792425909,
+   "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
+   "ad": false
+  },
   {
    "title": "Metaplanet kauft sich mit 2.100 Bitcoin den Weg an die US-Börse",
    "summary": "Japans größtes Bitcoin-Treasury-Unternehmen baut sich einen Ableger an der US-Börse. Bezahlt wird nicht mit US-Dollar, sondern mit Coins aus dem eigenen Bestand. Source: BTC-ECHO BTC-ECHO",
@@ -24,62 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792417734,
    "url": "https://www.btc-echo.de/news/strategy-stockt-bitcoin-bestand-auf-strive-auf-den-fersen-239463/",
-   "ad": false
-  },
-  {
-   "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
-   "summary": "Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week.",
-   "source": "The Block",
-   "ts": 1792417541,
-   "url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
-   "ad": false
-  },
-  {
-   "title": "MARA-Linked Wallets Send 1,000 Bitcoin To Exchanges, But A Sale Is Unconfirmed",
-   "summary": "Addresses associated by on-chain analysts with miner MARA Holdings have sent approximately 1,000 BTC to Binance and Gate over five days, putting the company's treasury movements back in focus. TL;DR: Lookonchain-linked analysis values the transfers at about $82.8 million. Exchange deposits can precede selling, but the…",
-   "source": "Bitcoinist",
-   "ts": 1792417500,
-   "url": "https://bitcoinist.com/mara-linked-wallets-send-1-000-bitcoin-to-exchanges-but-a-sale-is-unconfirmed/",
-   "ad": false
-  },
-  {
-   "title": "MARA Ships $83 Million in Bitcoin to Exchanges as Its Stock Sinks 45%",
-   "summary": "Wallets tied to MARA Holdings, one of the largest public bitcoin miners, have moved 1,000 BTC worth about $82.8 million to crypto exchanges in five days, while MARA's shares have nearly halved in a month. Following the Coins Onchain trackers flagged the transfers early Monday, writing that MARA \"appears to be selling\" after…",
-   "source": "Bitcoin.com News",
-   "ts": 1792415115,
-   "url": "https://news.bitcoin.com/mining/mara-bitcoin-1000-btc-exchanges-shares-sink/",
-   "ad": false
-  },
-  {
-   "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
-   "summary": "The Bitcoin treasury firm raised its preferred stock buyback cap to $3 billion and now holds 848,517 BTC, bought at an average of $75,446.",
-   "source": "Decrypt",
-   "ts": 1792415088,
-   "url": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
-   "ad": false
-  },
-  {
-   "title": "Dormant 2013 Bitcoin Wallet Moves $34 Million After 13 Years",
-   "summary": "An early Bitcoin holder has moved approximately 411.45 BTC from a wallet associated with 2013, attracting fresh attention as traders monitor old coins returning to activity. TL;DR: The coins were worth roughly $34 million at recent market prices. A transfer from a dormant address is visible on-chain, but it does not prove that…",
-   "source": "Bitcoinist",
-   "ts": 1792413900,
-   "url": "https://bitcoinist.com/dormant-2013-bitcoin-wallet-moves-34-million-after-13-years-2/",
-   "ad": false
-  },
-  {
-   "title": "Richard Byworth: Bitcoin's Next Run \"Just a Mater of Time\" thanks to Seller Exhaustion",
-   "summary": "Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield. This post Richard Byworth: Bitcoin's Next Run \"Just a Mater of Time\" thanks to Seller Exhaustion first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792413702,
-   "url": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
-   "ad": false
-  },
-  {
-   "title": "$20B AUM Siebert Analyst: Bitcoin to $175K in 2027",
-   "summary": "Siebert Financial targets $175K Bitcoin and $350 Strategy. Brian Vieten details the path from the $58K low, ETF demand, and Strategy's digital credit engine. This post $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792413337,
-   "url": "https://bitcoinmagazine.com/videos/20b-aum-siebert-analyst-bitcoin-to-175k-in-2027",
    "ad": false
   }
  ]
