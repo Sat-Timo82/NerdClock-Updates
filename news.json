@@ -1,13 +1,45 @@
 {
- "updated": 1792404729,
+ "updated": 1792408006,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+   "summary": "Tech futures bounced after last week's 5.5% rout, and bitcoin followed them up before sellers knocked it back. Earnings this week put the AI trade to the test again.",
+   "source": "CoinDesk",
+   "ts": 1792407954,
+   "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+   "ad": false
+  },
+  {
+   "title": "Hyperliquid Whale Down $9 Million This Week Flips to a 20x Tesla Bet",
+   "summary": "The Hyperliquid trader behind a $98 million bitcoin long has dumped the position at a loss and moved into $46 million of leveraged Tesla and chip-stock bets, two days before Tesla reports earnings. The Nitty Gritty of the Matter Bitcoin.com News first covered this wallet on Sunday, when it held a 40x bitcoin long worth […]",
+   "source": "Bitcoin.com News",
+   "ts": 1792405846,
+   "url": "https://news.bitcoin.com/market-updates/hyperliquid-whale-dumps-bitcoin-long-20x-tesla-bet/",
+   "ad": false
+  },
+  {
+   "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+   "summary": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week's losses.",
+   "source": "Cointelegraph",
+   "ts": 1792405200,
+   "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss_t",
+   "ad": false
+  },
   {
    "title": "Jetzt also doch: Sparkassen starten heute den Bitcoin-Handel",
    "summary": "Die Sparkassen starten den Bitcoin-Handel! Nach jahrelanger Skepsis können Kunden jetzt Bitcoin und andere Kryptowährungen direkt in der App kaufen.",
    "source": "Blocktrainer",
    "ts": 1792402347,
    "url": "https://www.blocktrainer.de/blog/jetzt-also-doch-sparkassen-starten-heute-den-bitcoin-handel",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+   "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in Britain next year, but its grid connection may not be ready until the 2030s.",
+   "source": "CoinDesk",
+   "ts": 1792401300,
+   "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
    "ad": false
   },
   {
@@ -48,38 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792389500,
    "url": "https://www.btc-echo.de/news/ukraine-greift-oelterminal-in-russland-an-was-bedeutet-das-fuer-bitcoin-239406/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin, Korea's Kospi and Nasdaq futures rally as China GDP beats estimates",
-   "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
-   "source": "CoinDesk",
-   "ts": 1792381018,
-   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
-   "ad": false
-  },
-  {
-   "title": "Diese Daten entscheiden den Kurs der USNotenbank – warum das für Bitcoin wichtig wird",
-   "summary": "Der Bitcoin hat sich nach dem Inflationsschock ein Stück zurückgekämpft. Kurz vor dem Fed-Entscheid stehen wichtige Daten an. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792375200,
-   "url": "https://www.btc-echo.de/news/diese-daten-entscheiden-den-kurs-der-us-notenbank-warum-das-fuer-bitcoin-wichtig-wird-239351/",
-   "ad": false
-  },
-  {
-   "title": "Ledger-Skandal: Ist Self-Custody zum Risiko geworden? Das sagt die BTC-ECHO-Redaktion",
-   "summary": "Der Ledger-Skandal zeigt: Die Sicherheit von Hardware Wallets steht erneut infrage. Ist Self Custody zum Risiko geworden? Das sagt die BTC-ECHO-Redaktion. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792342800,
-   "url": "https://www.btc-echo.de/news/ledger-skandal-ist-self-custody-zum-risiko-geworden-das-sagt-die-btc-echo-redaktion-239247/",
-   "ad": false
-  },
-  {
-   "title": "Wall Street freaked out Friday, but VIX and bitcoin trades say the fear may fade Monday.",
-   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin markets suggest the same.",
-   "source": "CoinDesk",
-   "ts": 1792341180,
-   "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
    "ad": false
   }
  ]
