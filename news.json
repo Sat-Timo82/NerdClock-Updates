@@ -1,7 +1,15 @@
 {
- "updated": 1792379235,
+ "updated": 1792381290,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin, Korea's Kospi and Nasdaq futures rally as China GDP beats estimates",
+   "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+   "source": "CoinDesk",
+   "ts": 1792381018,
+   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+   "ad": false
+  },
   {
    "title": "Diese Daten entscheiden den Kurs der USNotenbank – warum das für Bitcoin wichtig wird",
    "summary": "Der Bitcoin hat sich nach dem Inflationsschock ein Stück zurückgekämpft. Kurz vor dem Fed-Entscheid stehen wichtige Daten an. Source: BTC-ECHO BTC-ECHO",
@@ -72,14 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792328400,
    "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin statt Konzernjob: \"Soll das jetzt mein Leben sein?\"",
-   "summary": "Nicole Nowak kündigte ihren sicheren Job und setzte voll auf Bitcoin. Ihre damalige Kursprognose hält sie heute für naiv – aber bereut die Entscheidung keineswegs. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792314000,
-   "url": "https://www.btc-echo.de/news/bitcoin-statt-hamsterrad-soll-das-mein-leben-sein-239040/",
    "ad": false
   }
  ]
