@@ -1,7 +1,15 @@
 {
- "updated": 1792438644,
+ "updated": 1792442143,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
+   "summary": "Carlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future. This post The Architecture of Money: Mapping Financial Power in the Age of Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792439044,
+   "url": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
+   "ad": false
+  },
   {
    "title": "Super League Stockholders Approve Metaplanet's 2,100 BTC Investment, Paving Way for…",
    "summary": "Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve Metaplanet's 2,100 BTC Investment, Paving Way for 'Superplanet' first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792426375,
    "url": "https://bitcoinmagazine.com/news/el-salvadors-national-bitcoin-office-hosts-five-november-events-led-by-herbert-and-keiser",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin is rejected at $83K as US bond yields reverse higher with equities",
-   "summary": "Bitcoin price action failed to improve with equities as a sell wall at $83,000 kept BTC in a tight range.",
-   "source": "Cointelegraph",
-   "ts": 1792425957,
-   "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss_tag_bit",
    "ad": false
   }
  ]
