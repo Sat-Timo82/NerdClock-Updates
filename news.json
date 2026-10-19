@@ -1,7 +1,39 @@
 {
- "updated": 1792445924,
+ "updated": 1792449240,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+   "summary": "AnchorWatch's AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792448897,
+   "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+   "ad": false
+  },
+  {
+   "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+   "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+   "source": "The Block",
+   "ts": 1792447253,
+   "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+   "ad": false
+  },
+  {
+   "title": "Smashed Quantum Computing Record Raises Stakes for Bitcoin Security",
+   "summary": "Quantum computing firm Quantinuum has announced a major breakthrough in error correction, achieving a record 99.9995% logical fidelity that it says strengthens its path toward a commercially viable, fault-tolerant quantum computer by 2029. The advance comes amid mounting concerns that increasingly powerful quantum machines…",
+   "source": "Bitcoin.com News",
+   "ts": 1792446940,
+   "url": "https://news.bitcoin.com/technology/smashed-quantum-computing-record-raises-stakes-bitcoin-security/",
+   "ad": false
+  },
+  {
+   "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+   "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+   "source": "Decrypt",
+   "ts": 1792446365,
+   "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+   "ad": false
+  },
   {
    "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
    "summary": "Carlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future. This post The Architecture of Money: Mapping Financial Power in the Age of Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch .",
@@ -43,43 +75,11 @@
    "ad": false
   },
   {
-   "title": "Strive Buys 1,223 Bitcoin While Preparing a $630 Million Cash Raise",
-   "summary": "Strive has added another 1,223 BTC to its corporate treasury, spending approximately $100 million between Oct. 14 and 16 at an average price of $81,734 per bitcoin. The acquisition brings the Nasdaq-listed company's holdings to 36,818 BTC, worth roughly $3 billion. Meanwhile, Strive is preparing to collect proceeds from a $630…",
-   "source": "Bitcoin.com News",
-   "ts": 1792427426,
-   "url": "https://news.bitcoin.com/crypto-news/strive-buys-1223-bitcoin-while-preparing-630-million-cash-raise/",
-   "ad": false
-  },
-  {
    "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
    "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
    "source": "Cointelegraph",
    "ts": 1792427418,
    "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=",
-   "ad": false
-  },
-  {
-   "title": "No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish",
-   "summary": "Bitcoin's price is currently down so far in October – albeit slightly – as speculators last week cashed out of ETFs. Will investors change course? This post No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792426721,
-   "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
-   "ad": false
-  },
-  {
-   "title": "Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million",
-   "summary": "The bitcoin treasury company notched its third buy of October last week. This post Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792426442,
-   "url": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
-   "ad": false
-  },
-  {
-   "title": "El Salvador's National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser",
-   "summary": "El Salvador's National Bitcoin Office, led by Stacey Herbert and Max Keiser, has scheduled five Bitcoin-focused events from November 10–20, including Bitcoin Historico at the National Palace and a new Renaissance Rodeo. This post El Salvador's National Bitcoin Office Hosts Five November Events Led by Herbert and Keiser first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792426375,
-   "url": "https://bitcoinmagazine.com/news/el-salvadors-national-bitcoin-office-hosts-five-november-events-led-by-herbert-and-keiser",
    "ad": false
   }
  ]
