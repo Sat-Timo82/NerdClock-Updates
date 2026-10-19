@@ -1,5 +1,5 @@
 {
- "updated": 1792394818,
+ "updated": 1792397872,
  "mode": "stichworte",
  "items": [
   {
@@ -43,14 +43,6 @@
    "ad": false
   },
   {
-   "title": "A $98 Million Bitcoin Long Bet on Hyperliquid Hangs by a Thin Thread",
-   "summary": "A bitcoin trader is staring down a potential $98 million liquidation after a punishing week wiped nearly $9.8 million from a Hyperliquid account. With 40x leverage and bitcoin's price slipping toward $81,000, another sharp decline could finish the job. Hyperliquid Trader Risks $98 Million Bitcoin Liquidation A massive bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1792344613,
-   "url": "https://news.bitcoin.com/featured/a-98-million-bitcoin-long-bet-on-hyperliquid-hangs-by-a-thin-thread/",
-   "ad": false
-  },
-  {
    "title": "Ledger-Skandal: Ist Self-Custody zum Risiko geworden? Das sagt die BTC-ECHO-Redaktion",
    "summary": "Der Ledger-Skandal zeigt: Die Sicherheit von Hardware Wallets steht erneut infrage. Ist Self Custody zum Risiko geworden? Das sagt die BTC-ECHO-Redaktion. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -80,6 +72,14 @@
    "source": "BTC-ECHO",
    "ts": 1792335600,
    "url": "https://www.btc-echo.de/news/krypto-haltefrist-vor-dem-aus-fragen-bleiben-offen-239171/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's $100,000 year-end hope divides analysts as inflation clouds outlook",
+   "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+   "source": "CoinDesk",
+   "ts": 1792328400,
+   "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
    "ad": false
   }
  ]
