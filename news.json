@@ -1,7 +1,15 @@
 {
- "updated": 1792408006,
+ "updated": 1792410029,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+   "summary": "Your day-ahead look for Oct. 19, 2026",
+   "source": "CoinDesk",
+   "ts": 1792408500,
+   "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+   "ad": false
+  },
   {
    "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
    "summary": "Tech futures bounced after last week's 5.5% rout, and bitcoin followed them up before sellers knocked it back. Earnings this week put the AI trade to the test again.",
@@ -36,7 +44,7 @@
   },
   {
    "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
-   "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in Britain next year, but its grid connection may not be ready until the 2030s.",
+   "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
    "source": "CoinDesk",
    "ts": 1792401300,
    "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
@@ -72,14 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792390996,
    "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
-   "ad": false
-  },
-  {
-   "title": "Ukraine greift Ölterminal in Russland an: Was bedeutet das für Bitcoin?",
-   "summary": "Bitcoin startet mit leichten Gewinnen in die Woche. Hohe Ölpreise und neue Angriffe im Ukraine-Krieg könnten die Erholung allerdings erschweren. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792389500,
-   "url": "https://www.btc-echo.de/news/ukraine-greift-oelterminal-in-russland-an-was-bedeutet-das-fuer-bitcoin-239406/",
    "ad": false
   }
  ]
