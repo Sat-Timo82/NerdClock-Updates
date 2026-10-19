@@ -1,7 +1,23 @@
 {
- "updated": 1792390036,
+ "updated": 1792394818,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin bald bei 10.000 US-Dollar? Bloomberg-Analyst warnt vor einem Mega-Crash",
+   "summary": "Bitcoin könnte laut einer Prognose fast 90 Prozent seines Wertes verlieren. Unter welchen Bedingungen wäre ein solcher Absturz möglich? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792393200,
+   "url": "https://www.btc-echo.de/news/bitcoin-bald-bei-10-000-us-dollar-bloomberg-analyst-warnt-vor-einem-mega-crash-239413/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+   "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+   "source": "CoinDesk",
+   "ts": 1792390996,
+   "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+   "ad": false
+  },
   {
    "title": "Ukraine greift Ölterminal in Russland an: Was bedeutet das für Bitcoin?",
    "summary": "Bitcoin startet mit leichten Gewinnen in die Woche. Hohe Ölpreise und neue Angriffe im Ukraine-Krieg könnten die Erholung allerdings erschweren. Source: BTC-ECHO BTC-ECHO",
@@ -51,14 +67,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price Faces 10 Big Tests as 5 Catalysts Keep $100K Alive",
-   "summary": "Bitcoin's bulls are still talking six figures while the market struggles to hold $81,000. With ten potential market movers approaching and five catalysts capable of reviving momentum, the coming week could settle some arguments. Bitcoin's price enters Sunday, Oct. 18, 2026, in a peculiar predicament. The cryptocurrency has…",
-   "source": "Bitcoin.com News",
-   "ts": 1792341028,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-faces-10-big-tests-as-5-catalysts-keep-100k-alive/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
    "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
    "source": "Decrypt",
@@ -72,14 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792335600,
    "url": "https://www.btc-echo.de/news/krypto-haltefrist-vor-dem-aus-fragen-bleiben-offen-239171/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's $100,000 year-end hope divides analysts as inflation clouds outlook",
-   "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
-   "source": "CoinDesk",
-   "ts": 1792328400,
-   "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
    "ad": false
   }
  ]
