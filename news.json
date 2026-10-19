@@ -1,7 +1,15 @@
 {
- "updated": 1792433121,
+ "updated": 1792435522,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Mt Gox Repayments Delayed Again as Bitcoin Billions Sit Idle",
+   "summary": "Mt Gox creditors just lost another year to a repayment process that has dragged on since the exchange collapsed in 2014. The latest extension pushes the deadline into October 2027, leaving billions in bitcoin and some creditors still waiting for their funds. Japanese Court Grants Mt Gox a Fourth Extension On Oct. 16, 2026…",
+   "source": "Bitcoin.com News",
+   "ts": 1792434775,
+   "url": "https://news.bitcoin.com/crypto-news/mt-gox-repayments-delayed-again-bitcoin-billions-sit-idle/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Rally Stalls at $83K as ETF Outflows Raise Concerns",
    "summary": "Bitcoin rebounded over $2,000 on Monday from a Sunday low of $80,595 to peak above $83,000, dispelling fears of a \"Black Monday\" market crash. However, the rally lost momentum at $83,000 resistance, settling under $82,000 with a $1.64 trillion market cap. Bitcoin Bounces Above $83K as 'Black Monday' Fears Fade Bitcoin staged a…",
@@ -72,14 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792425957,
    "url": "https://cointelegraph.com/markets/bitcoin-is-rejected-at-83k-as-us-bond-yields-reverse-higher-with-equities?utm_source=rss_feed&utm_medium=rss_tag_bit",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Tests Key Support as Oil and AI Fears Squeeze Markets",
-   "summary": "Bitcoin keeps limping back to the same floor while $108 oil and 5% yields weigh on risk assets. The chart shows a coiled spring, not a trend.",
-   "source": "Decrypt",
-   "ts": 1792425909,
-   "url": "https://decrypt.co/381319/bitcoin-price-key-support-oil-ai-fears-squeeze-markets",
    "ad": false
   }
  ]
