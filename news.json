@@ -1,7 +1,15 @@
 {
- "updated": 1792373865,
+ "updated": 1792377222,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Diese Daten entscheiden den Kurs der USNotenbank – warum das für Bitcoin wichtig wird",
+   "summary": "Der Bitcoin hat sich nach dem Inflationsschock ein Stück zurückgekämpft. Kurz vor dem Fed-Entscheid stehen wichtige Daten an. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792375200,
+   "url": "https://www.btc-echo.de/news/diese-daten-entscheiden-den-kurs-der-us-notenbank-warum-das-fuer-bitcoin-wichtig-wird-239351/",
+   "ad": false
+  },
   {
    "title": "A $98 Million Bitcoin Long Bet on Hyperliquid Hangs by a Thin Thread",
    "summary": "A bitcoin trader is staring down a potential $98 million liquidation after a punishing week wiped nearly $9.8 million from a Hyperliquid account. With 40x leverage and bitcoin's price slipping toward $81,000, another sharp decline could finish the job. Hyperliquid Trader Risks $98 Million Bitcoin Liquidation A massive bitcoin…",
@@ -72,14 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792314000,
    "url": "https://www.btc-echo.de/news/bitcoin-statt-hamsterrad-soll-das-mein-leben-sein-239040/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Crash durch Quantencomputer? Dieser Plan soll ihn verhindern",
-   "summary": "Bei verlorenen privaten Schlüsseln scheitert die Übertragung auf quantensichere Adressen. Hourglass V2 soll mögliche Folgen eines Quantendiebstahls für den Bitcoin-Markt begrenzen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792256400,
-   "url": "https://www.btc-echo.de/news/bitcoin-crash-durch-quantencomputer-dieser-plan-soll-ihn-verhindern-239109/",
    "ad": false
   }
  ]
