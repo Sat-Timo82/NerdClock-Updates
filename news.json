@@ -1,7 +1,23 @@
 {
- "updated": 1792516375,
+ "updated": 1792519526,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin's Next Move: Here's What to Watch",
+   "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
+   "source": "Decrypt",
+   "ts": 1792518304,
+   "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says – But the Bank Still Won't Recommend It",
+   "summary": "The bank has said bitcoin could do better than stocks and bonds over the next 10 years but says it is still too volatile. This post Bitcoin Could Outperform Most Assets, JPMorgan Says – But the Bank Still Won't Recommend It first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792517234,
+   "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
+   "ad": false
+  },
   {
    "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
    "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
@@ -64,22 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792512849,
    "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss_tag_bitco",
-   "ad": false
-  },
-  {
-   "title": "Sophon Sets November Withdrawal Deadline As Chain Shutdown Approaches",
-   "summary": "TL;DR: Sophon has warned users to withdraw remaining assets by November 25 ahead of the planned shutdown of its standalone chain at the end of the month. The end of a blockchain isn't always announced with a hack or a dramatic market collapse. Sometimes it arrives as a deadline: move your tokens, claim your rewards […]",
-   "source": "Bitcoinist",
-   "ts": 1792511100,
-   "url": "https://bitcoinist.com/sophon-sets-november-withdrawal-deadline-as-chain-shutdown-approaches/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Firm Strive Launches SATS Stock With 15% Dividend After Raising $630M",
-   "summary": "Strive has rolled out a new preferred stock paying 15% annual dividends, backed by a bitcoin treasury worth roughly $3 billion. The company raised $630 million by selling the shares at a discount, giving investors a potential yield approaching 17%. Strive Raises $630 Million With New SATS Preferred Stock The Dallas-based…",
-   "source": "Bitcoin.com News",
-   "ts": 1792507737,
-   "url": "https://news.bitcoin.com/finance/bitcoin-firm-strive-launches-stats-stock-15-dividend-raising-630m/",
    "ad": false
   }
  ]
