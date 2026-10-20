@@ -1,7 +1,23 @@
 {
- "updated": 1792525066,
+ "updated": 1792528554,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
+   "summary": "Strive's second preferred stock offering, SATS, debuted Tuesday on the Nasdaq. This post Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792527199,
+   "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
+   "ad": false
+  },
+  {
+   "title": "Esports Firm Ninjas in Pyjamas Boosts Bitcoin Mining Operation With Added Rigs",
+   "summary": "NIP Group, the publicly traded parent company of esports powerhouse Ninjas in Pyjamas, is expanding its bitcoin mining operation through another major hardware acquisition, bringing its planned computing capacity to nearly 14 exahash per second (EH/s) as it accelerates its transformation into a digital infrastructure company…",
+   "source": "Bitcoin.com News",
+   "ts": 1792526722,
+   "url": "https://news.bitcoin.com/mining/esports-firm-ninjas-pyjamas-boosts-bitcoin-mining-operation/",
+   "ad": false
+  },
   {
    "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
    "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards.",
@@ -64,22 +80,6 @@
    "source": "Decrypt",
    "ts": 1792515806,
    "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
-   "ad": false
-  },
-  {
-   "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
-   "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
-   "source": "CoinDesk",
-   "ts": 1792515751,
-   "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Hits $83K as Shorts Suffer $45M in Wipeouts",
-   "summary": "Bitcoin briefly surged past $83,000 on Oct. 20, hitting a daily peak of $83,335 and pushing its market capitalization near $1.67 trillion despite volatile intraday swings between $81,200 and $82,000. Volatile Intraday Bitcoin Swings In a repeat of the price action seen Monday, bitcoin briefly surged past the $83,000 mark on…",
-   "source": "Bitcoin.com News",
-   "ts": 1792515128,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-hits-83k-shorts-suffer-45m-wipeouts/",
    "ad": false
   }
  ]
