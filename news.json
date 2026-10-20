@@ -1,7 +1,15 @@
 {
- "updated": 1792530537,
+ "updated": 1792533932,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+   "summary": "J.P. Morgan Asset Management's 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn't adding it to its main portfolio models.",
+   "source": "Decrypt",
+   "ts": 1792530964,
+   "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+   "ad": false
+  },
   {
    "title": "Swiss Financial Regulator Gives Green Light to Country's First Bitcoin ETF",
    "summary": "Bitcoin exchange-traded funds were only available to institutional investors – until now. This post Swiss Financial Regulator Gives Green Light to Country's First Bitcoin ETF first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
@@ -72,14 +80,6 @@
    "source": "The Block",
    "ts": 1792516307,
    "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
-   "ad": false
-  },
-  {
-   "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
-   "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
-   "source": "Decrypt",
-   "ts": 1792515806,
-   "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
    "ad": false
   }
  ]
