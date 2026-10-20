@@ -1,21 +1,21 @@
 {
- "updated": 1792457200,
+ "updated": 1792460311,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Blackrock Files for Bitcoin ETF Designed to Limit Investor Losses",
+   "summary": "Blackrock is seeking to launch a bitcoin ETF designed to cushion market losses while limiting potential gains. The proposed fund would use options and fixed-income investments instead of holding bitcoin directly. Blackrock Proposes Bitcoin ETF With Built-In Downside Protection Bitcoin investors could gain access to a new…",
+   "source": "Bitcoin.com News",
+   "ts": 1792459501,
+   "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-files-for-bitcoin-etf-designed-to-limit-investor-losses/",
+   "ad": false
+  },
   {
    "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
    "summary": "AnchorWatch's AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
    "source": "Bitcoin Magazine",
    "ts": 1792448897,
    "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
-   "ad": false
-  },
-  {
-   "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-   "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
-   "source": "The Block",
-   "ts": 1792447253,
-   "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
    "ad": false
   },
   {
@@ -51,14 +51,6 @@
    "ad": false
   },
   {
-   "title": "Mt Gox Repayments Delayed Again as Bitcoin Billions Sit Idle",
-   "summary": "Mt Gox creditors just lost another year to a repayment process that has dragged on since the exchange collapsed in 2014. The latest extension pushes the deadline into October 2027, leaving billions in bitcoin and some creditors still waiting for their funds. Japanese Court Grants Mt Gox a Fourth Extension On Oct. 16, 2026…",
-   "source": "Bitcoin.com News",
-   "ts": 1792434775,
-   "url": "https://news.bitcoin.com/crypto-news/mt-gox-repayments-delayed-again-bitcoin-billions-sit-idle/",
-   "ad": false
-  },
-  {
    "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
    "summary": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it's among the wallets named in the \"Noah Doe\" lawsuit.",
    "source": "Decrypt",
@@ -80,6 +72,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1792426721,
    "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
+   "ad": false
+  },
+  {
+   "title": "Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million",
+   "summary": "The bitcoin treasury company notched its third buy of October last week. This post Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792426442,
+   "url": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
    "ad": false
   }
  ]
