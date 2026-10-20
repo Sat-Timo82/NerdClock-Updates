@@ -1,7 +1,31 @@
 {
- "updated": 1792519526,
+ "updated": 1792521714,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Sleeping Bitcoin Giant Moves 500 BTC Worth $41M After 10 Years of Silence",
+   "summary": "On Tuesday, as bitcoin's price cruised comfortably above $82,000, a long-dormant wallet established on Jan. 1, 2016, stirred from its decade-long slumber, transferring 500 BTC for the first time in more than 10 years. The haul joins other recently moved coins that had long sat untouched, bringing the month's tally to 1,745.615…",
+   "source": "Bitcoin.com News",
+   "ts": 1792521321,
+   "url": "https://news.bitcoin.com/featured/sleeping-bitcoin-giant-moves-500-btc-worth-41m-10-years-silence/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+   "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
+   "source": "Decrypt",
+   "ts": 1792521064,
+   "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+   "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
+   "source": "The Block",
+   "ts": 1792520068,
+   "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+   "ad": false
+  },
   {
    "title": "Bitcoin's Next Move: Here's What to Watch",
    "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
@@ -56,30 +80,6 @@
    "source": "Bitcoinist",
    "ts": 1792514100,
    "url": "https://bitcoinist.com/plex-server-exploit-chain-used-to-install-monero-mining-malware/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
-   "summary": "A new filing with the SEC shows BlackRock wants to release an exchange-traded fund that offers downside protection but also caps gains. This post BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792513589,
-   "url": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
-   "ad": false
-  },
-  {
-   "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-   "summary": "Strategy's co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here's what you need to know.",
-   "source": "Decrypt",
-   "ts": 1792513022,
-   "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-   "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.",
-   "source": "Cointelegraph",
-   "ts": 1792512849,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss_tag_bitco",
    "ad": false
   }
  ]
