@@ -1,7 +1,15 @@
 {
- "updated": 1792510635,
+ "updated": 1792512933,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Sophon Sets November Withdrawal Deadline As Chain Shutdown Approaches",
+   "summary": "TL;DR: Sophon has warned users to withdraw remaining assets by November 25 ahead of the planned shutdown of its standalone chain at the end of the month. The end of a blockchain isn't always announced with a hack or a dramatic market collapse. Sometimes it arrives as a deadline: move your tokens, claim your rewards […]",
+   "source": "Bitcoinist",
+   "ts": 1792511100,
+   "url": "https://bitcoinist.com/sophon-sets-november-withdrawal-deadline-as-chain-shutdown-approaches/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Firm Strive Launches SATS Stock With 15% Dividend After Raising $630M",
    "summary": "Strive has rolled out a new preferred stock paying 15% annual dividends, backed by a bitcoin treasury worth roughly $3 billion. The company raised $630 million by selling the shares at a discount, giving investors a potential yield approaching 17%. Strive Raises $630 Million With New SATS Preferred Stock The Dallas-based…",
@@ -36,7 +44,7 @@
   },
   {
    "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
-   "summary": "The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "summary": "Watch Video Bitcoin Magazine Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed first appeared on…",
    "source": "Bitcoin Magazine",
    "ts": 1792500011,
    "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
@@ -44,7 +52,7 @@
   },
   {
    "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
-   "summary": "CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity Asset first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "summary": "Watch Video Bitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity Asset first appeared on Bitcoin Magazine…",
    "source": "Bitcoin Magazine",
    "ts": 1792499615,
    "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
@@ -72,14 +80,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792495843,
    "url": "https://news.bitcoin.com/finance/tom-lee-says-vcs-regret-missing-bitcoins-80x-rise-over-10-years/",
-   "ad": false
-  },
-  {
-   "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-   "summary": "Your day-ahead look for Oct. 20, 2026",
-   "source": "CoinDesk",
-   "ts": 1792494861,
-   "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
    "ad": false
   }
  ]
