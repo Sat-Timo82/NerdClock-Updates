@@ -1,7 +1,23 @@
 {
- "updated": 1792482244,
+ "updated": 1792485500,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+   "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
+   "source": "CoinDesk",
+   "ts": 1792484641,
+   "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+   "ad": false
+  },
+  {
+   "title": "Neue 10-Jahres-Prognose: J.P. Morgan sieht Bitcoin überraschend vor Aktien und Gold.",
+   "summary": "Wall-Street-Gigant J.P. Morgan wagt erstmals eine langfristige Bitcoin-Prognose. Die Ergebnisse dürften selbst erfahrene Anleger überraschen.",
+   "source": "Blocktrainer",
+   "ts": 1792484009,
+   "url": "https://www.blocktrainer.de/blog/neue-10-jahres-prognose-jp-morgan-sieht-bitcoin-ueberraschend-vor-aktien-und-gold",
+   "ad": false
+  },
   {
    "title": "Bitcoin Beats Every Stock and Bond per JPMorgan's 10-Year Forecast",
    "summary": "J.P. Morgan Asset Management put a return range on bitcoin for the first time in its 2027 Long-Term Capital Market Assumptions (LTCMA), and its 10% annual estimate tops every stock, bond and gold forecast in the table. What Did JPMorgan Analysts Say on Record The LTCMA is J.P. Morgan Asset Management's yearly 10-15 year return…",
@@ -64,22 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792460100,
    "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&u",
-   "ad": false
-  },
-  {
-   "title": "Blackrock Files for Bitcoin ETF Designed to Limit Investor Losses",
-   "summary": "Blackrock is seeking to launch a bitcoin ETF designed to cushion market losses while limiting potential gains. The proposed fund would use options and fixed-income investments instead of holding bitcoin directly. Blackrock Proposes Bitcoin ETF With Built-In Downside Protection Bitcoin investors could gain access to a new…",
-   "source": "Bitcoin.com News",
-   "ts": 1792459501,
-   "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-files-for-bitcoin-etf-designed-to-limit-investor-losses/",
-   "ad": false
-  },
-  {
-   "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
-   "summary": "AnchorWatch's AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792448897,
-   "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
    "ad": false
   }
  ]
