@@ -1,7 +1,23 @@
 {
- "updated": 1792507068,
+ "updated": 1792510635,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Firm Strive Launches SATS Stock With 15% Dividend After Raising $630M",
+   "summary": "Strive has rolled out a new preferred stock paying 15% annual dividends, backed by a bitcoin treasury worth roughly $3 billion. The company raised $630 million by selling the shares at a discount, giving investors a potential yield approaching 17%. Strive Raises $630 Million With New SATS Preferred Stock The Dallas-based…",
+   "source": "Bitcoin.com News",
+   "ts": 1792507737,
+   "url": "https://news.bitcoin.com/finance/bitcoin-firm-strive-launches-stats-stock-15-dividend-raising-630m/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+   "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+   "source": "CoinDesk",
+   "ts": 1792506519,
+   "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+   "ad": false
+  },
   {
    "title": "Switzerland's First Retail Bitcoin ETF Gets Regulatory Green Light",
    "summary": "Switzerland has approved its first retail spot bitcoin exchange-traded fund (ETF), opening a regulated investment vehicle previously unavailable to ordinary investors under Swiss fund law. Announced on Tuesday, the decision includes an exemption from standard diversification requirements, allowing a public fund to concentrate…",
@@ -64,22 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792494861,
    "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
-   "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.",
-   "source": "CoinDesk",
-   "ts": 1792494640,
-   "url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
-   "ad": false
-  },
-  {
-   "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
-   "summary": "The defunct exchange's trustee said many creditors still have not completed the procedures needed to get their Bitcoin back.",
-   "source": "Decrypt",
-   "ts": 1792493748,
-   "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
    "ad": false
   }
  ]
