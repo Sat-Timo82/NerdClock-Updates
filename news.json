@@ -1,7 +1,39 @@
 {
- "updated": 1792485500,
+ "updated": 1792488974,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Justin Sun Sours on Bitcoin and Arthur Hayes Isn't Buying His Argument",
+   "summary": "Tron founder Justin Sun says AI and quantum computing have made him more bearish on bitcoin than before, while Bitmex co-founder Arthur Hayes says nobody should sell over the quantum threat. Sun's Bear Case Sun made his case in an interview last week, arguing that advances in artificial intelligence (AI) algorithms and quantum…",
+   "source": "Bitcoin.com News",
+   "ts": 1792488600,
+   "url": "https://news.bitcoin.com/featured/justin-sun-bearish-bitcoin-quantum-arthur-hayes-dont-sell/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+   "summary": "The iShares Bitcoin Managed Protection ETF would use options on IBIT to limit losses, in exchange for giving up some upside.",
+   "source": "Decrypt",
+   "ts": 1792487610,
+   "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Prognose: Diesen BTC-Kurs erwarten Insider und Community bis April 2027",
+   "summary": "hat 46 Krypto-Insider und 274 Leserinnen und Leser gefragt, wo sie den Bitcoin-Kurs bis April 2027 vermuten. Das sind ihre Kursziele. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792486800,
+   "url": "https://www.btc-echo.de/news/bitcoin-prognose-diesen-btc-kurs-erwarten-insider-und-community-bis-april-2027-239369/",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+   "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
+   "source": "Cointelegraph",
+   "ts": 1792486467,
+   "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
    "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
@@ -27,14 +59,6 @@
    "ad": false
   },
   {
-   "title": "BlackRock's IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
-   "summary": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin.",
-   "source": "The Block",
-   "ts": 1792479924,
-   "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
-   "ad": false
-  },
-  {
    "title": "BlackRock plant Bitcoin ETF mit Verlustschutz: Was Anleger dafür aufgeben müssen",
    "summary": "Nach dem Erfolg seines Bitcoin Spot ETFs legt BlackRock mit einem weiteren Konzept nach. Diesmal steht nicht die maximale Rendite im Vordergrund. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -56,30 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792474760,
    "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
-   "ad": false
-  },
-  {
-   "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-   "summary": "Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792468455,
-   "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Metaplanet Turns an Esports Veteran Into a Bitcoin Treasury Giant",
-   "summary": "Super League shareholders just cleared the way for a gaming company to become a bitcoin treasury heavyweight, courtesy of 2,100 BTC from Japan's Metaplanet. The deal brings together two unlikely corporate survivors, one born in esports, the other in hotels. Super League Approves Metaplanet's 2,100 Bitcoin Investment Super…",
-   "source": "Bitcoin.com News",
-   "ts": 1792467040,
-   "url": "https://news.bitcoin.com/featured/metaplanet-turns-an-esports-veteran-into-a-bitcoin-treasury-giant/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-   "summary": "\"A return to last year's indiscriminate capital raising looks unlikely,\" said Bitfinex head of derivatives Jag Kooner.",
-   "source": "Cointelegraph",
-   "ts": 1792460100,
-   "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&u",
    "ad": false
   }
  ]
