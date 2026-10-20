@@ -1,7 +1,31 @@
 {
- "updated": 1792494411,
+ "updated": 1792496411,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Tom Lee Says VCs Regret Missing Bitcoin's 80x Rise Over 10 Years",
+   "summary": "Fundstrat's Tom Lee says venture investors he has known for a decade now regret not simply holding bitcoin, which rose from below $1,000 to around $80,000 over that span. Crypto VCs Question Startup Bets After Bitcoin's 80x Decade Tom Lee is making a blunt case for simplicity in crypto investing. Speaking at TOKEN2049, the…",
+   "source": "Bitcoin.com News",
+   "ts": 1792495843,
+   "url": "https://news.bitcoin.com/finance/tom-lee-says-vcs-regret-missing-bitcoins-80x-rise-over-10-years/",
+   "ad": false
+  },
+  {
+   "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+   "summary": "Your day-ahead look for Oct. 20, 2026",
+   "source": "CoinDesk",
+   "ts": 1792494861,
+   "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+   "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios.",
+   "source": "CoinDesk",
+   "ts": 1792494640,
+   "url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+   "ad": false
+  },
   {
    "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
    "summary": "The defunct exchange's trustee said many creditors still have not completed the procedures needed to get their Bitcoin back.",
@@ -51,35 +75,11 @@
    "ad": false
   },
   {
-   "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
-   "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
-   "source": "Cointelegraph",
-   "ts": 1792486467,
-   "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
-   "ad": false
-  },
-  {
    "title": "Neue 10-Jahres-Prognose: J.P. Morgan sieht Bitcoin überraschend vor Aktien und Gold.",
    "summary": "Wall-Street-Gigant J.P. Morgan wagt erstmals eine langfristige Bitcoin-Prognose. Die Ergebnisse dürften selbst erfahrene Anleger überraschen.",
    "source": "Blocktrainer",
    "ts": 1792484009,
    "url": "https://www.blocktrainer.de/blog/neue-10-jahres-prognose-jp-morgan-sieht-bitcoin-ueberraschend-vor-aktien-und-gold",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Beats Every Stock and Bond per JPMorgan's 10-Year Forecast",
-   "summary": "J.P. Morgan Asset Management put a return range on bitcoin for the first time in its 2027 Long-Term Capital Market Assumptions (LTCMA), and its 10% annual estimate tops every stock, bond and gold forecast in the table. What Did JPMorgan Analysts Say on Record The LTCMA is J.P. Morgan Asset Management's yearly 10-15 year return…",
-   "source": "Bitcoin.com News",
-   "ts": 1792481402,
-   "url": "https://news.bitcoin.com/market-updates/jpmorgan-ltcma-2027-bitcoin-10-percent-return-forecast/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock plant Bitcoin ETF mit Verlustschutz: Was Anleger dafür aufgeben müssen",
-   "summary": "Nach dem Erfolg seines Bitcoin Spot ETFs legt BlackRock mit einem weiteren Konzept nach. Diesmal steht nicht die maximale Rendite im Vordergrund. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792479600,
-   "url": "https://www.btc-echo.de/news/blackrock-plant-bitcoin-etf-mit-verlustschutz-was-anleger-dafuer-aufgeben-muessen-239491/",
    "ad": false
   }
  ]
