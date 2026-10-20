@@ -1,7 +1,15 @@
 {
- "updated": 1792460311,
+ "updated": 1792463599,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+   "summary": "\"A return to last year's indiscriminate capital raising looks unlikely,\" said Bitfinex head of derivatives Jag Kooner.",
+   "source": "Cointelegraph",
+   "ts": 1792460100,
+   "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&u",
+   "ad": false
+  },
   {
    "title": "Blackrock Files for Bitcoin ETF Designed to Limit Investor Losses",
    "summary": "Blackrock is seeking to launch a bitcoin ETF designed to cushion market losses while limiting potential gains. The proposed fund would use options and fixed-income investments instead of holding bitcoin directly. Blackrock Proposes Bitcoin ETF With Built-In Downside Protection Bitcoin investors could gain access to a new…",
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792426721,
    "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
-   "ad": false
-  },
-  {
-   "title": "Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million",
-   "summary": "The bitcoin treasury company notched its third buy of October last week. This post Strategy Keeps Buying: Third Purchase This Month Brings October Spending to $73 Million first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792426442,
-   "url": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy",
    "ad": false
   }
  ]
