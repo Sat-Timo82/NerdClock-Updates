@@ -1,0 +1,29 @@
+# Für alle NerdClocks: nächste Meetup-Termine aus dem Einundzwanzig-Portal einmal täglich als kleine Datei bereitstellen.
+# Die NerdClocks laden meetups_next.json über GitHub Pages und gleichen damit ihren Kalender ab (Tag/Uhrzeit/Ort).
+name: Meetup-Termine aktualisieren
+on:
+  schedule:
+    - cron: "23 4 * * *"   # täglich um 04:23 UTC
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: meetups
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Termine aus dem Portal holen
+        run: python -I tools/update_meetups.py meetups_next.json || echo "Portal nicht erreichbar, alte Datei bleibt"
+      - name: Nur bei Änderungen speichern
+        run: |
+          if git diff --quiet -- meetups_next.json && [ -f meetups_next.json ] && git ls-files --error-unmatch meetups_next.json >/dev/null 2>&1; then echo "nichts Neues"; exit 0; fi
+          git config user.name "Sat-Timo82"
+          git config user.email "timobartz13@gmail.com"
+          git add meetups_next.json
+          git commit -m "Meetup-Termine aktualisiert (automatisch)"
+          git push
