@@ -1,7 +1,23 @@
 {
- "updated": 1792474725,
+ "updated": 1792478472,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Ukraine-Gespräche in China: Könnte ein sinkender Ölpreis Bitcoin beflügeln?",
+   "summary": "Neue Gespräche über ein Ende des Ukraine-Krieges stehen im Raum. Für Bitcoin könnte vor allem die Entwicklung der zuletzt stark gestiegenen Ölpreise wichtig werden. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792475830,
+   "url": "https://www.btc-echo.de/news/ukraine-gespraeche-in-china-koennte-ein-sinkender-oelpreis-bitcoin-befluegeln-239486/",
+   "ad": false
+  },
+  {
+   "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+   "summary": "BlackRock's IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.",
+   "source": "Cointelegraph",
+   "ts": 1792474760,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
   {
    "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
    "summary": "Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond .",
@@ -43,14 +59,6 @@
    "ad": false
   },
   {
-   "title": "Smashed Quantum Computing Record Raises Stakes for Bitcoin Security",
-   "summary": "Quantum computing firm Quantinuum has announced a major breakthrough in error correction, achieving a record 99.9995% logical fidelity that it says strengthens its path toward a commercially viable, fault-tolerant quantum computer by 2029. The advance comes amid mounting concerns that increasingly powerful quantum machines…",
-   "source": "Bitcoin.com News",
-   "ts": 1792446940,
-   "url": "https://news.bitcoin.com/technology/smashed-quantum-computing-record-raises-stakes-bitcoin-security/",
-   "ad": false
-  },
-  {
    "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
    "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
    "source": "Decrypt",
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792438337,
    "url": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
-   "ad": false
-  },
-  {
-   "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
-   "summary": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it's among the wallets named in the \"Noah Doe\" lawsuit.",
-   "source": "Decrypt",
-   "ts": 1792428365,
-   "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
    "ad": false
   }
  ]
