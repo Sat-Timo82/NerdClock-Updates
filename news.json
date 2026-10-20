@@ -1,7 +1,71 @@
 {
- "updated": 1792512933,
+ "updated": 1792516375,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+   "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
+   "source": "The Block",
+   "ts": 1792516307,
+   "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+   "ad": false
+  },
+  {
+   "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+   "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
+   "source": "Decrypt",
+   "ts": 1792515806,
+   "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+   "ad": false
+  },
+  {
+   "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+   "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
+   "source": "CoinDesk",
+   "ts": 1792515751,
+   "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Hits $83K as Shorts Suffer $45M in Wipeouts",
+   "summary": "Bitcoin briefly surged past $83,000 on Oct. 20, hitting a daily peak of $83,335 and pushing its market capitalization near $1.67 trillion despite volatile intraday swings between $81,200 and $82,000. Volatile Intraday Bitcoin Swings In a repeat of the price action seen Monday, bitcoin briefly surged past the $83,000 mark on…",
+   "source": "Bitcoin.com News",
+   "ts": 1792515128,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-hits-83k-shorts-suffer-45m-wipeouts/",
+   "ad": false
+  },
+  {
+   "title": "Plex Server Exploit Chain Used To Install Monero Mining Malware",
+   "summary": "TL;DR: Attackers are exploiting a chain of Plex Media Server vulnerabilities to install unauthorised cryptocurrency miners and a Linux proxy backdoor on vulnerable systems. The latest cryptojacking warning comes from an unexpected direction: home and business media servers. Security researchers have observed attackers chaining…",
+   "source": "Bitcoinist",
+   "ts": 1792514100,
+   "url": "https://bitcoinist.com/plex-server-exploit-chain-used-to-install-monero-mining-malware/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
+   "summary": "A new filing with the SEC shows BlackRock wants to release an exchange-traded fund that offers downside protection but also caps gains. This post BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792513589,
+   "url": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
+   "ad": false
+  },
+  {
+   "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+   "summary": "Strategy's co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here's what you need to know.",
+   "source": "Decrypt",
+   "ts": 1792513022,
+   "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
+   "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.",
+   "source": "Cointelegraph",
+   "ts": 1792512849,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss_tag_bitco",
+   "ad": false
+  },
   {
    "title": "Sophon Sets November Withdrawal Deadline As Chain Shutdown Approaches",
    "summary": "TL;DR: Sophon has warned users to withdraw remaining assets by November 25 ahead of the planned shutdown of its standalone chain at the end of the month. The end of a blockchain isn't always announced with a hack or a dramatic market collapse. Sometimes it arrives as a deadline: move your tokens, claim your rewards […]",
@@ -16,70 +80,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792507737,
    "url": "https://news.bitcoin.com/finance/bitcoin-firm-strive-launches-stats-stock-15-dividend-raising-630m/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
-   "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
-   "source": "CoinDesk",
-   "ts": 1792506519,
-   "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
-   "ad": false
-  },
-  {
-   "title": "Switzerland's First Retail Bitcoin ETF Gets Regulatory Green Light",
-   "summary": "Switzerland has approved its first retail spot bitcoin exchange-traded fund (ETF), opening a regulated investment vehicle previously unavailable to ordinary investors under Swiss fund law. Announced on Tuesday, the decision includes an exemption from standard diversification requirements, allowing a public fund to concentrate…",
-   "source": "Bitcoin.com News",
-   "ts": 1792502156,
-   "url": "https://news.bitcoin.com/regulation-and-legal/switzerlands-first-retail-bitcoin-etf-gets-regulatory-green-light/",
-   "ad": false
-  },
-  {
-   "title": "Premiere für Bitcoin-Anleger: Schweiz genehmigt erstmals einen echten ETF",
-   "summary": "Mit der Zulassung eines Bitcoin ETFs schreibt die Schweiz ein Stück Finanzgeschichte. Der neue Fonds unterscheidet sich rechtlich von den ETPs, die bereits an europäischen Börsen gehandelt werden. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792500652,
-   "url": "https://www.btc-echo.de/news/premiere-fuer-bitcoin-anleger-schweiz-genehmigt-erstmals-einen-echten-etf-239527/",
-   "ad": false
-  },
-  {
-   "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
-   "summary": "Watch Video Bitcoin Magazine Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed first appeared on…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792500011,
-   "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
-   "ad": false
-  },
-  {
-   "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
-   "summary": "Watch Video Bitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity Asset first appeared on Bitcoin Magazine…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792499615,
-   "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Clings to $81K as Sellers Circle Critical Support",
-   "summary": "Bitcoin's price is caught in an increasingly uncomfortable position, trading near $81,392 on Tuesday, Oct. 20, as short-term selling pressure clashes with a longer-term technical structure that has yet to surrender its bullish foundations. With the cryptocurrency slipping toward the bottom of its $81,155 to $82,667 intraday…",
-   "source": "Bitcoin.com News",
-   "ts": 1792499439,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-clings-to-81k-as-sellers-circle-critical-support/",
-   "ad": false
-  },
-  {
-   "title": "Swiss regulator FINMA approves country's first spot bitcoin ETF for retail investors",
-   "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors.",
-   "source": "The Block",
-   "ts": 1792498505,
-   "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
-   "ad": false
-  },
-  {
-   "title": "Tom Lee Says VCs Regret Missing Bitcoin's 80x Rise Over 10 Years",
-   "summary": "Fundstrat's Tom Lee says venture investors he has known for a decade now regret not simply holding bitcoin, which rose from below $1,000 to around $80,000 over that span. Crypto VCs Question Startup Bets After Bitcoin's 80x Decade Tom Lee is making a blunt case for simplicity in crypto investing. Speaking at TOKEN2049, the…",
-   "source": "Bitcoin.com News",
-   "ts": 1792495843,
-   "url": "https://news.bitcoin.com/finance/tom-lee-says-vcs-regret-missing-bitcoins-80x-rise-over-10-years/",
    "ad": false
   }
  ]
