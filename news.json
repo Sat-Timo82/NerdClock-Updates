@@ -1,5 +1,5 @@
 {
- "updated": 1792452940,
+ "updated": 1792454585,
  "mode": "stichworte",
  "items": [
   {
@@ -59,14 +59,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Rally Stalls at $83K as ETF Outflows Raise Concerns",
-   "summary": "Bitcoin rebounded over $2,000 on Monday from a Sunday low of $80,595 to peak above $83,000, dispelling fears of a \"Black Monday\" market crash. However, the rally lost momentum at $83,000 resistance, settling under $82,000 with a $1.64 trillion market cap. Bitcoin Bounces Above $83K as 'Black Monday' Fears Fade Bitcoin staged a…",
-   "source": "Bitcoin.com News",
-   "ts": 1792430638,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-rally-stalls-83k-etf-outflows-raise-concerns/",
-   "ad": false
-  },
-  {
    "title": "Abandoned Bitcoin? Wallet Targeted by Noah Doe Lawsuit Moves $33 Million",
    "summary": "A Bitcoin address dormant since 2013 moved 411.45 BTC worth about $33.4 million, according to Galaxy Research, and it's among the wallets named in the \"Noah Doe\" lawsuit.",
    "source": "Decrypt",
@@ -80,6 +72,14 @@
    "source": "Cointelegraph",
    "ts": 1792427418,
    "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=",
+   "ad": false
+  },
+  {
+   "title": "No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish",
+   "summary": "Bitcoin's price is currently down so far in October – albeit slightly – as speculators last week cashed out of ETFs. Will investors change course? This post No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792426721,
+   "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
    "ad": false
   }
  ]
