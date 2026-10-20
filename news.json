@@ -1,7 +1,23 @@
 {
- "updated": 1792465672,
+ "updated": 1792469356,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+   "summary": "Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works. This post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants first appeared on Bitcoin Magazine and is written by Vagabond .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792468455,
+   "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Metaplanet Turns an Esports Veteran Into a Bitcoin Treasury Giant",
+   "summary": "Super League shareholders just cleared the way for a gaming company to become a bitcoin treasury heavyweight, courtesy of 2,100 BTC from Japan's Metaplanet. The deal brings together two unlikely corporate survivors, one born in esports, the other in hotels. Super League Approves Metaplanet's 2,100 Bitcoin Investment Super…",
+   "source": "Bitcoin.com News",
+   "ts": 1792467040,
+   "url": "https://news.bitcoin.com/featured/metaplanet-turns-an-esports-veteran-into-a-bitcoin-treasury-giant/",
+   "ad": false
+  },
   {
    "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
    "summary": "\"A return to last year's indiscriminate capital raising looks unlikely,\" said Bitfinex head of derivatives Jag Kooner.",
@@ -64,22 +80,6 @@
    "source": "Decrypt",
    "ts": 1792428365,
    "url": "https://decrypt.co/381337/abandoned-bitcoin-wallet-noah-doe-lawsuit-moves-33-million",
-   "ad": false
-  },
-  {
-   "title": "Strive buys $335M in Bitcoin, boosting holdings to 36,818 BTC",
-   "summary": "The Bitcoin treasury company added another 1,223 BTC after an earlier purchase pushed it past MARA Holdings, while continuing to expand its reserves through equity financing.",
-   "source": "Cointelegraph",
-   "ts": 1792427418,
-   "url": "https://cointelegraph.com/news/strive-buys-335m-in-bitcoin-boosting-holdings-to-36818-btc?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=",
-   "ad": false
-  },
-  {
-   "title": "No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish",
-   "summary": "Bitcoin's price is currently down so far in October – albeit slightly – as speculators last week cashed out of ETFs. Will investors change course? This post No 'Uptober' Yet: Bitcoin Slips 2% in a Month That's Historically Bullish first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792426721,
-   "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips",
    "ad": false
   }
  ]
