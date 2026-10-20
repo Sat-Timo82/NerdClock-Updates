@@ -1,7 +1,39 @@
 {
- "updated": 1792496411,
+ "updated": 1792500234,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
+   "summary": "The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792500011,
+   "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
+   "ad": false
+  },
+  {
+   "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
+   "summary": "CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity Asset first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792499615,
+   "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Clings to $81K as Sellers Circle Critical Support",
+   "summary": "Bitcoin's price is caught in an increasingly uncomfortable position, trading near $81,392 on Tuesday, Oct. 20, as short-term selling pressure clashes with a longer-term technical structure that has yet to surrender its bullish foundations. With the cryptocurrency slipping toward the bottom of its $81,155 to $82,667 intraday…",
+   "source": "Bitcoin.com News",
+   "ts": 1792499439,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-clings-to-81k-as-sellers-circle-critical-support/",
+   "ad": false
+  },
+  {
+   "title": "Swiss regulator FINMA approves country's first spot bitcoin ETF for retail investors",
+   "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors.",
+   "source": "The Block",
+   "ts": 1792498505,
+   "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+   "ad": false
+  },
   {
    "title": "Tom Lee Says VCs Regret Missing Bitcoin's 80x Rise Over 10 Years",
    "summary": "Fundstrat's Tom Lee says venture investors he has known for a decade now regret not simply holding bitcoin, which rose from below $1,000 to around $80,000 over that span. Crypto VCs Question Startup Bets After Bitcoin's 80x Decade Tom Lee is making a blunt case for simplicity in crypto investing. Speaking at TOKEN2049, the…",
@@ -48,38 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792491775,
    "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-   "ad": false
-  },
-  {
-   "title": "Justin Sun Sours on Bitcoin and Arthur Hayes Isn't Buying His Argument",
-   "summary": "Tron founder Justin Sun says AI and quantum computing have made him more bearish on bitcoin than before, while Bitmex co-founder Arthur Hayes says nobody should sell over the quantum threat. Sun's Bear Case Sun made his case in an interview last week, arguing that advances in artificial intelligence (AI) algorithms and quantum…",
-   "source": "Bitcoin.com News",
-   "ts": 1792488600,
-   "url": "https://news.bitcoin.com/featured/justin-sun-bearish-bitcoin-quantum-arthur-hayes-dont-sell/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-   "summary": "The iShares Bitcoin Managed Protection ETF would use options on IBIT to limit losses, in exchange for giving up some upside.",
-   "source": "Decrypt",
-   "ts": 1792487610,
-   "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Prognose: Diesen BTC-Kurs erwarten Insider und Community bis April 2027",
-   "summary": "hat 46 Krypto-Insider und 274 Leserinnen und Leser gefragt, wo sie den Bitcoin-Kurs bis April 2027 vermuten. Das sind ihre Kursziele. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792486800,
-   "url": "https://www.btc-echo.de/news/bitcoin-prognose-diesen-btc-kurs-erwarten-insider-und-community-bis-april-2027-239369/",
-   "ad": false
-  },
-  {
-   "title": "Neue 10-Jahres-Prognose: J.P. Morgan sieht Bitcoin überraschend vor Aktien und Gold.",
-   "summary": "Wall-Street-Gigant J.P. Morgan wagt erstmals eine langfristige Bitcoin-Prognose. Die Ergebnisse dürften selbst erfahrene Anleger überraschen.",
-   "source": "Blocktrainer",
-   "ts": 1792484009,
-   "url": "https://www.blocktrainer.de/blog/neue-10-jahres-prognose-jp-morgan-sieht-bitcoin-ueberraschend-vor-aktien-und-gold",
    "ad": false
   }
  ]
