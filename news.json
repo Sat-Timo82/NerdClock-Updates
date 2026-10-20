@@ -1,7 +1,23 @@
 {
- "updated": 1792500234,
+ "updated": 1792503902,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Switzerland's First Retail Bitcoin ETF Gets Regulatory Green Light",
+   "summary": "Switzerland has approved its first retail spot bitcoin exchange-traded fund (ETF), opening a regulated investment vehicle previously unavailable to ordinary investors under Swiss fund law. Announced on Tuesday, the decision includes an exemption from standard diversification requirements, allowing a public fund to concentrate…",
+   "source": "Bitcoin.com News",
+   "ts": 1792502156,
+   "url": "https://news.bitcoin.com/regulation-and-legal/switzerlands-first-retail-bitcoin-etf-gets-regulatory-green-light/",
+   "ad": false
+  },
+  {
+   "title": "Premiere für Bitcoin-Anleger: Schweiz genehmigt erstmals einen echten ETF",
+   "summary": "Mit der Zulassung eines Bitcoin ETFs schreibt die Schweiz ein Stück Finanzgeschichte. Der neue Fonds unterscheidet sich rechtlich von den ETPs, die bereits an europäischen Börsen gehandelt werden. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792500652,
+   "url": "https://www.btc-echo.de/news/premiere-fuer-bitcoin-anleger-schweiz-genehmigt-erstmals-einen-echten-etf-239527/",
+   "ad": false
+  },
   {
    "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
    "summary": "The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed first appeared on Bitcoin Magazine and is written by Patrick Green .",
@@ -64,22 +80,6 @@
    "source": "Decrypt",
    "ts": 1792493748,
    "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
-   "ad": false
-  },
-  {
-   "title": "Blackrock Posts Biggest 2026 Inflow as Bitcoin ETFs Add $527M",
-   "summary": "U.S. bitcoin ETFs opened the week with $526.60 million in net inflows, reversing more than twice the amount lost during all of last week. Ether and solana remained under pressure, while NEAR continued to attract capital against the broader crypto trend. Institutional sentiment toward bitcoin changed dramatically on Monday, and…",
-   "source": "Bitcoin.com News",
-   "ts": 1792492224,
-   "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-posts-biggest-2026-inflow-as-bitcoin-etfs-add-527m/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-   "summary": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
-   "source": "CoinDesk",
-   "ts": 1792491775,
-   "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
    "ad": false
   }
  ]
