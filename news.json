@@ -1,13 +1,13 @@
 {
- "updated": 1792568792,
+ "updated": 1792571995,
  "mode": "stichworte",
  "items": [
   {
-   "title": "Bitcoin besser als Gold und Aktien? JPMorgan überrascht mit Zehnjahresprognose",
-   "summary": "Noch 2017 nannte Jamie Dimon Bitcoin einen Betrug und er würde jeden kündigen, der BTC handelt. Heute rechnet seine Bank mit hohen Renditen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792567813,
-   "url": "https://www.btc-echo.de/news/bitcoin-besser-als-gold-und-aktien-jpmorgan-ueberrascht-mit-zehnjahresprognose-239564/",
+   "title": "Bitcoin Worth $90 Million Pulled From Wintermute by a Mystery Whale",
+   "summary": "Three brand-new wallets received 1,090 BTC worth about $90.38 million from market maker Wintermute, the second near-identical haul in a week. The Blockchain Trail, Examined Onchain sleuths spotted the move early today morning, reporting that whales had been \"continuing to accumulate\" after three newly created wallets received…",
+   "source": "Bitcoin.com News",
+   "ts": 1792571454,
+   "url": "https://news.bitcoin.com/crypto-news/bitcoin-whale-wintermute-1090-btc-new-wallets/",
    "ad": false
   },
   {
@@ -32,6 +32,14 @@
    "source": "CoinDesk",
    "ts": 1792555627,
    "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin vor Aktien und Gold? Die Prognose von JPMorgan",
+   "summary": "Zehn Prozent Rendite im Jahr, mehr als bei Aktien, Gold und Immobilien: JPMorgan hat Bitcoin erstmals in seine Langfristprognose aufgenommen. Ein Detail relativiert die Zahl allerdings. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792549800,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-aktien-und-gold-die-prognose-von-jpmorgan-239533/",
    "ad": false
   },
   {
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792527199,
    "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
-   "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
-   "source": "Decrypt",
-   "ts": 1792521064,
-   "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
    "ad": false
   }
  ]
