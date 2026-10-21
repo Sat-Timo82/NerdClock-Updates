@@ -1,7 +1,15 @@
 {
- "updated": 1792605960,
+ "updated": 1792608214,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "BIS Paper Shows Meme-Level Grasp of Bitcoin, But Agrees With Saylor on Key Point",
+   "summary": "A paper from the Bank for International Settlements (BIS), an organization of central banks, recycles old, repeatedly rebutted claims about bitcoin–but agrees with Strategy's Michael Saylor that it isn't working as everyday money. Both reach that conclusion, but for opposite reasons. In \"Money and the Architecture of Trust,\"…",
+   "source": "Bitcoin.com News",
+   "ts": 1792605923,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bis-paper-meme-level-grasp-bitcoin-agrees-saylor-key-point/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
    "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
@@ -72,14 +80,6 @@
    "source": "Blocktrainer",
    "ts": 1792596600,
    "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-   "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
-   "source": "Cointelegraph",
-   "ts": 1792595597,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss_tag_b",
    "ad": false
   }
  ]
