@@ -1,5 +1,5 @@
 {
- "updated": 1792616818,
+ "updated": 1792618797,
  "mode": "stichworte",
  "items": [
   {
@@ -67,19 +67,19 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price Cracks $84K as $188 Million in Crypto Shorts Get Wiped Out",
-   "summary": "Bitcoin's price punched through $84,000 on Wednesday, catching bearish traders off guard and helping wipe out $188 million in short positions across crypto markets. More than 71,000 traders faced liquidations as the leading crypto asset climbed toward $84,700, squeezing leveraged bets against it. Bitcoin's Rally Leaves Short…",
-   "source": "Bitcoin.com News",
-   "ts": 1792597506,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-cracks-84k-as-188-million-in-crypto-shorts-get-wiped-out/",
-   "ad": false
-  },
-  {
    "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
    "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
    "source": "Decrypt",
    "ts": 1792597412,
    "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+   "ad": false
+  },
+  {
+   "title": "Update zum Liquid-Hack: Swaps von Liquid zu Bitcoin sind wieder verfügbar",
+   "summary": "AQUA, BULL Wallet und SideSwap melden die Wiederinbetriebnahme der Liquid-zu-Bitcoin-Swaps für Nutzer. Die vollständige 1:1Deckung bleibt noch aus.",
+   "source": "Blocktrainer",
+   "ts": 1792596600,
+   "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
    "ad": false
   }
  ]
