@@ -1,7 +1,23 @@
 {
- "updated": 1792602845,
+ "updated": 1792605960,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+   "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
+   "source": "Decrypt",
+   "ts": 1792603863,
+   "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+   "ad": false
+  },
+  {
+   "title": "Grayscale Opens In-Kind ETF Access With Six-Figure Entry Minimums",
+   "summary": "Grayscale is opening a new route for eligible crypto investors to exchange their existing tokens directly for shares in 10 investment products, bypassing the need to sell for cash first. The program covers bitcoin, ether, XRP, solana, and other assets, with minimum investments ranging from approximately $80,300 to $364,800…",
+   "source": "Bitcoin.com News",
+   "ts": 1792603500,
+   "url": "https://news.bitcoin.com/finance/grayscale-opens-in-kind-etf-access-six-figure-entry-minimums/",
+   "ad": false
+  },
   {
    "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
    "summary": "SALT Lending highlights how Bitcoin holders can access liquidity for real estate, business expansion, and other financial opportunities without selling their Bitcoin. This post Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities first appeared on Bitcoin Magazine and is written by Josh Plischke .",
@@ -64,22 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792595597,
    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss_tag_b",
-   "ad": false
-  },
-  {
-   "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-   "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
-   "source": "The Block",
-   "ts": 1792595520,
-   "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor einer Rallye wie im Dotcom-Boom? So wäre 1 Million US-Dollar möglich",
-   "summary": "Bitcoin könnte auf eine Million US-Dollar steigen, wenn sich ein Kursmuster aus der Dotcom-Zeit wiederholt. Analyst Michael van de Poppe beschreibt, wie ein solcher Anstieg aussehen könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792594184,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-einer-rallye-wie-im-dotcom-boom-so-waere-1-million-us-dollar-moeglich-239630/",
    "ad": false
   }
  ]
