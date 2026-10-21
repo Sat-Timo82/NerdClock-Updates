@@ -1,7 +1,23 @@
 {
- "updated": 1792577647,
+ "updated": 1792580910,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin 'top buyers' halt BTC price upside with $87.7K now key: Glassnode",
+   "summary": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
+   "source": "Cointelegraph",
+   "ts": 1792579153,
+   "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+   "summary": "SpaceX's blowout quarter revived the AI trade, but oil topped $110 again. XS.com warns that losing $82,500 opens a path toward $70,000.",
+   "source": "CoinDesk",
+   "ts": 1792578640,
+   "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+   "ad": false
+  },
   {
    "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
    "summary": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla's results.",
@@ -64,22 +80,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792542603,
    "url": "https://news.bitcoin.com/featured/musks-spacex-earnings-rocket-higher-as-bitcoin-stash-holds-firm/",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-   "summary": "J.P. Morgan Asset Management's 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn't adding it to its main portfolio models.",
-   "source": "Decrypt",
-   "ts": 1792530964,
-   "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-   "ad": false
-  },
-  {
-   "title": "Swiss Financial Regulator Gives Green Light to Country's First Bitcoin ETF",
-   "summary": "Bitcoin exchange-traded funds were only available to institutional investors – until now. This post Swiss Financial Regulator Gives Green Light to Country's First Bitcoin ETF first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792529612,
-   "url": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
    "ad": false
   }
  ]
