@@ -1,7 +1,39 @@
 {
- "updated": 1792593502,
+ "updated": 1792597099,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Update zum Liquid-Hack: Swaps von Liquid zu Bitcoin sind wieder verfügbar",
+   "summary": "AQUA, BULL Wallet und SideSwap melden die Wiederinbetriebnahme der Liquid-zu-Bitcoin-Swaps für Nutzer. Die vollständige 1:1Deckung bleibt noch aus.",
+   "source": "Blocktrainer",
+   "ts": 1792596600,
+   "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+   "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
+   "source": "Cointelegraph",
+   "ts": 1792595597,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss_tag_b",
+   "ad": false
+  },
+  {
+   "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+   "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
+   "source": "The Block",
+   "ts": 1792595520,
+   "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin vor einer Rallye wie im Dotcom-Boom? So wäre 1 Million US-Dollar möglich",
+   "summary": "Bitcoin könnte auf eine Million US-Dollar steigen, wenn sich ein Kursmuster aus der Dotcom-Zeit wiederholt. Analyst Michael van de Poppe beschreibt, wie ein solcher Anstieg aussehen könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792594184,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-einer-rallye-wie-im-dotcom-boom-so-waere-1-million-us-dollar-moeglich-239630/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kurserholung: Spannendes Long-Setup für Trader",
    "summary": "Bitcoin scheint die jüngste Kursschwäche abzuschütteln. Eine bullishe Trendfortsetzung in Richtung der Oktoberhochs würde einen interessanten Long-Trade für aktive Trader bieten. Source: BTC-ECHO BTC-ECHO",
@@ -48,38 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792589400,
    "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_part",
-   "ad": false
-  },
-  {
-   "title": "Das Potenzial von STRC und Co.: Neuer Fidelity-Report zur neuesten Nachfragequelle für Bitcoin",
-   "summary": "Laut einem neuen Fidelity-Report könnten Vorzugsaktien wie STRC von Strategy oder SATA von Strive ein immer relevanterer Nachfragetreiber für Bitcoin werden.",
-   "source": "Blocktrainer",
-   "ts": 1792587600,
-   "url": "https://www.blocktrainer.de/blog/neuer-fidelity-report-der-neueste-nachfrage-katalysator-fuer-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Elon Musk prüft Mega-Fusion: Was passiert mit den 30.000 Bitcoin?",
-   "summary": "Tesla trennte sich 2022 von drei Viertel seiner Bitcoin, seitdem herrscht Stillstand. Ändert ein Zusammenschluss mit SpaceX daran etwas? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792587341,
-   "url": "https://www.btc-echo.de/news/elon-musk-prueft-mega-fusion-was-passiert-mit-den-30-000-bitcoin-239603/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Eyes $84,000 as Buyers Regain Short-Term Control",
-   "summary": "Bitcoin's price traded at $83,394 on Wednesday, Oct. 21, as buyers extended a short-term recovery from recent lows, bringing the $83,600 resistance level into focus. While 13 of 15 moving-average indicators favor bullish conditions, eight of 11 oscillators remain neutral, suggesting the recovery has yet to establish decisive…",
-   "source": "Bitcoin.com News",
-   "ts": 1792585801,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-eyes-84000-as-buyers-regain-short-term-control/",
-   "ad": false
-  },
-  {
-   "title": "Morning Minute: Bitcoin Tops JPMorgan's Ten-Year Forecast for All Assets",
-   "summary": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
-   "source": "Decrypt",
-   "ts": 1792584998,
-   "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
    "ad": false
   }
  ]
