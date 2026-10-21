@@ -1,7 +1,23 @@
 {
- "updated": 1792584435,
+ "updated": 1792586971,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Price Eyes $84,000 as Buyers Regain Short-Term Control",
+   "summary": "Bitcoin's price traded at $83,394 on Wednesday, Oct. 21, as buyers extended a short-term recovery from recent lows, bringing the $83,600 resistance level into focus. While 13 of 15 moving-average indicators favor bullish conditions, eight of 11 oscillators remain neutral, suggesting the recovery has yet to establish decisive…",
+   "source": "Bitcoin.com News",
+   "ts": 1792585801,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-eyes-84000-as-buyers-regain-short-term-control/",
+   "ad": false
+  },
+  {
+   "title": "Morning Minute: Bitcoin Tops JPMorgan's Ten-Year Forecast for All Assets",
+   "summary": "The bank has Bitcoin outperforming all asset classes spanning real estate, stocks and gold over the next 10-15 years.",
+   "source": "Decrypt",
+   "ts": 1792584998,
+   "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
+   "ad": false
+  },
   {
    "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
    "summary": "Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak trading activity ahead of several potential market catalysts.",
@@ -27,8 +43,8 @@
    "ad": false
   },
   {
-   "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
-   "summary": "SpaceX's blowout quarter revived the AI trade, but oil topped $110 again. XS.com warns that losing $82,500 opens a path toward $70,000.",
+   "title": "Live updates: Bitcoin rises above $83,000 as SpaceX results, possible Tesla merger, lift…",
+   "summary": "South Korea data center player Elice surged 30% after plunging about the same amount following its IPO one day earlier.",
    "source": "CoinDesk",
    "ts": 1792578640,
    "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
@@ -64,22 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792563530,
    "url": "https://www.btc-echo.de/news/bitcoin-erholt-sich-warum-die-finanzmaerkte-nervoes-bleiben-239562/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
-   "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
-   "source": "CoinDesk",
-   "ts": 1792555627,
-   "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor Aktien und Gold? Die Prognose von JPMorgan",
-   "summary": "Zehn Prozent Rendite im Jahr, mehr als bei Aktien, Gold und Immobilien: JPMorgan hat Bitcoin erstmals in seine Langfristprognose aufgenommen. Ein Detail relativiert die Zahl allerdings. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792549800,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-aktien-und-gold-die-prognose-von-jpmorgan-239533/",
    "ad": false
   }
  ]
