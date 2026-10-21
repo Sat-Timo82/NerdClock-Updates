@@ -1,7 +1,15 @@
 {
- "updated": 1792552175,
+ "updated": 1792555780,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+   "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
+   "source": "CoinDesk",
+   "ts": 1792555627,
+   "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+   "ad": false
+  },
   {
    "title": "Bitcoin vor Aktien und Gold? Die Prognose von JPMorgan",
    "summary": "Zehn Prozent Rendite im Jahr, mehr als bei Aktien, Gold und Immobilien: JPMorgan hat Bitcoin erstmals in seine Langfristprognose aufgenommen. Ein Detail relativiert die Zahl allerdings. Source: BTC-ECHO BTC-ECHO",
@@ -72,14 +80,6 @@
    "source": "Decrypt",
    "ts": 1792521064,
    "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
-   "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
-   "source": "The Block",
-   "ts": 1792520068,
-   "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
    "ad": false
   }
  ]
