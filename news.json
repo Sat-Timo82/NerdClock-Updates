@@ -1,7 +1,23 @@
 {
- "updated": 1792565289,
+ "updated": 1792568792,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin besser als Gold und Aktien? JPMorgan überrascht mit Zehnjahresprognose",
+   "summary": "Noch 2017 nannte Jamie Dimon Bitcoin einen Betrug und er würde jeden kündigen, der BTC handelt. Heute rechnet seine Bank mit hohen Renditen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792567813,
+   "url": "https://www.btc-echo.de/news/bitcoin-besser-als-gold-und-aktien-jpmorgan-ueberrascht-mit-zehnjahresprognose-239564/",
+   "ad": false
+  },
+  {
+   "title": "Just 0.7 Bitcoin Now Makes You a Billionaire in Indonesia",
+   "summary": "With the rupiah pinned near 18,000 per dollar, 0.7 BTC now converts to more than 1 billion rupiah. The Math Crypto commentator Ash Crypto took to X and revealed that just 0.7 BTC is worth more than a billion IDR, with the dollar-rupiah rate currently sitting around 17,995. This puts 0.7 BTC at roughly IDR […]",
+   "source": "Bitcoin.com News",
+   "ts": 1792567802,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-rupiah-billionaire-indonesia/",
+   "ad": false
+  },
   {
    "title": "Bitcoin erholt sich: Warum die Finanzmärkte nervös bleiben",
    "summary": "Für Dezember rechnet die Mehrheit der Marktteilnehmer inzwischen mit einer Zinserhöhung der US-Notenbank. Was bedeutet das für Bitcoin? Source: BTC-ECHO BTC-ECHO",
@@ -16,14 +32,6 @@
    "source": "CoinDesk",
    "ts": 1792555627,
    "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor Aktien und Gold? Die Prognose von JPMorgan",
-   "summary": "Zehn Prozent Rendite im Jahr, mehr als bei Aktien, Gold und Immobilien: JPMorgan hat Bitcoin erstmals in seine Langfristprognose aufgenommen. Ein Detail relativiert die Zahl allerdings. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792549800,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-aktien-und-gold-die-prognose-von-jpmorgan-239533/",
    "ad": false
   },
   {
@@ -64,14 +72,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792527199,
    "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
-   "ad": false
-  },
-  {
-   "title": "Esports Firm Ninjas in Pyjamas Boosts Bitcoin Mining Operation With Added Rigs",
-   "summary": "NIP Group, the publicly traded parent company of esports powerhouse Ninjas in Pyjamas, is expanding its bitcoin mining operation through another major hardware acquisition, bringing its planned computing capacity to nearly 14 exahash per second (EH/s) as it accelerates its transformation into a digital infrastructure company…",
-   "source": "Bitcoin.com News",
-   "ts": 1792526722,
-   "url": "https://news.bitcoin.com/mining/esports-firm-ninjas-pyjamas-boosts-bitcoin-mining-operation/",
    "ad": false
   },
   {
