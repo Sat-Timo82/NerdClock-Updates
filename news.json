@@ -1,7 +1,15 @@
 {
- "updated": 1792540849,
+ "updated": 1792543459,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Musk's SpaceX Earnings Rocket Higher as Bitcoin Stash Holds Firm",
+   "summary": "SpaceX delivered a blockbuster third quarter, generating $14.6 billion in revenue, $4.4 billion in net income, and $8.8 billion in adjusted EBITDA. Behind those extraordinary earnings, Elon Musk's company reported $1.573 billion in digital assets, consistent with its previously disclosed bitcoin holdings of 18,712 BTC…",
+   "source": "Bitcoin.com News",
+   "ts": 1792542603,
+   "url": "https://news.bitcoin.com/featured/musks-spacex-earnings-rocket-higher-as-bitcoin-stash-holds-firm/",
+   "ad": false
+  },
   {
    "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
    "summary": "J.P. Morgan Asset Management's 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn't adding it to its main portfolio models.",
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792517234,
    "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
-   "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
-   "source": "The Block",
-   "ts": 1792516307,
-   "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
    "ad": false
   }
  ]
