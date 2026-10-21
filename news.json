@@ -1,7 +1,23 @@
 {
- "updated": 1792546792,
+ "updated": 1792550059,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin vor Aktien und Gold? Die Prognose von JPMorgan",
+   "summary": "Zehn Prozent Rendite im Jahr, mehr als bei Aktien, Gold und Immobilien: JPMorgan hat Bitcoin erstmals in seine Langfristprognose aufgenommen. Ein Detail relativiert die Zahl allerdings. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792549800,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-aktien-und-gold-die-prognose-von-jpmorgan-239533/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Kurs sendet Warnsignale – wie lange hält die Erholung?",
+   "summary": "Nach den jüngsten Kursverlusten versucht Bitcoin wieder Fuß zu fassen. Doch die Erholung steht noch auf wackeligen Beinen. Reicht die Nachfrage für eine Trendwende oder droht der nächste Rücksetzer? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792548000,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-sendet-warnsignale-wie-lange-haelt-die-erholung-239482/",
+   "ad": false
+  },
   {
    "title": "Musk's SpaceX Earnings Rocket Higher as Bitcoin Stash Holds Firm",
    "summary": "SpaceX delivered a blockbuster third quarter, generating $14.6 billion in revenue, $4.4 billion in net income, and $8.8 billion in adjusted EBITDA. Behind those extraordinary earnings, Elon Musk's company reported $1.573 billion in digital assets, consistent with its previously disclosed bitcoin holdings of 18,712 BTC…",
@@ -64,22 +80,6 @@
    "source": "The Block",
    "ts": 1792520068,
    "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's Next Move: Here's What to Watch",
-   "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
-   "source": "Decrypt",
-   "ts": 1792518304,
-   "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says – But the Bank Still Won't Recommend It",
-   "summary": "The bank has said bitcoin could do better than stocks and bonds over the next 10 years but says it is still too volatile. This post Bitcoin Could Outperform Most Assets, JPMorgan Says – But the Bank Still Won't Recommend It first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792517234,
-   "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
    "ad": false
   }
  ]
