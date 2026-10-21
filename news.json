@@ -1,7 +1,31 @@
 {
- "updated": 1792590255,
+ "updated": 1792593502,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin-Kurserholung: Spannendes Long-Setup für Trader",
+   "summary": "Bitcoin scheint die jüngste Kursschwäche abzuschütteln. Eine bullishe Trendfortsetzung in Richtung der Oktoberhochs würde einen interessanten Long-Trade für aktive Trader bieten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792592446,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurserholung-spannendes-long-setup-fuer-trader-239273/",
+   "ad": false
+  },
+  {
+   "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
+   "summary": "Watch Video Bitcoin Magazine J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets. This post J.P. Morgan Reveals First-Ever Bitcoin Price…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792590987,
+   "url": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
+   "ad": false
+  },
+  {
+   "title": "Strive's SATS: How 15% Yield Becomes A Bitcoin Accretion Machine",
+   "summary": "On the accretive potential of the SATS preferred stock. This post Strive's SATS: How 15% Yield Becomes A Bitcoin Accretion Machine first appeared on Bitcoin Magazine and is written by Allard Peng .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792590771,
+   "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/strives-sats-bitcoin-accretion",
+   "ad": false
+  },
   {
    "title": "\"Massively Undervalued\" – Samson Mow on MSTR & Bitcoin Treasuries",
    "summary": "Watch Video Bitcoin Magazine \"Massively Undervalued\" – Samson Mow on MSTR & Bitcoin Treasuries JAN3 CEO Samson Mow argues Bitcoin treasury firms like Strategy are undervalued, explaining their role as buyers of last resort driving a global scarcity race. This post \"Massively Undervalued\" – Samson Mow on MSTR & Bitcoin…",
@@ -56,30 +80,6 @@
    "source": "Decrypt",
    "ts": 1792584998,
    "url": "https://decrypt.co/381510/morning-minute-bitcoin-tops-jpmorgans-ten-year-forecast-for-all-assets",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin volatility nears 2026 lows as traders brace for Fed decision and US midterms",
-   "summary": "Bitcoin volatility is approaching its 2026 lows, with K33 pointing to weak trading activity ahead of several potential market catalysts.",
-   "source": "The Block",
-   "ts": 1792583708,
-   "url": "https://www.theblock.co/news/markets/2026-10-21-bitcoin-volatility-nears-2026-lows-as-traders-brace-for-fed-decision-and-us-midterms-421524",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
-   "summary": "Your day-ahead look for Oct. 21, 2026",
-   "source": "CoinDesk",
-   "ts": 1792581300,
-   "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin 'top buyers' halt BTC price upside with $87.7K now key: Glassnode",
-   "summary": "Bitcoin price current resistance near $87,000 was reinforced by investors who bought BTC in late 2025, per new research.",
-   "source": "Cointelegraph",
-   "ts": 1792579153,
-   "url": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&",
    "ad": false
   }
  ]
