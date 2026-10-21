@@ -1,7 +1,15 @@
 {
- "updated": 1792571995,
+ "updated": 1792575419,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "SpaceX and Tesla explore merger that would unite more than 30,000 bitcoin",
+   "summary": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla's results.",
+   "source": "CoinDesk",
+   "ts": 1792574580,
+   "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
+   "ad": false
+  },
   {
    "title": "Bitcoin Worth $90 Million Pulled From Wintermute by a Mystery Whale",
    "summary": "Three brand-new wallets received 1,090 BTC worth about $90.38 million from market maker Wintermute, the second near-identical haul in a week. The Blockchain Trail, Examined Onchain sleuths spotted the move early today morning, reporting that whales had been \"continuing to accumulate\" after three newly created wallets received…",
@@ -43,7 +51,7 @@
    "ad": false
   },
   {
-   "title": "Bitcoin-Kurs sendet Warnsignale – wie lange hält die Erholung?",
+   "title": "Bitcoin-Kurs sendet Warnsignale – geht es wieder abwärts?",
    "summary": "Nach den jüngsten Kursverlusten versucht Bitcoin wieder Fuß zu fassen. Doch die Erholung steht noch auf wackeligen Beinen. Reicht die Nachfrage für eine Trendwende oder droht der nächste Rücksetzer? Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1792548000,
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792529612,
    "url": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
-   "summary": "Strive's second preferred stock offering, SATS, debuted Tuesday on the Nasdaq. This post Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792527199,
-   "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
    "ad": false
   }
  ]
