@@ -1,7 +1,15 @@
 {
- "updated": 1792613303,
+ "updated": 1792616818,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Strive, Strategy Shares Jump as Bitcoin Price Eyes $85K",
+   "summary": "Shares of bitcoin treasury companies Strategy and Strive surged Wednesday, extending gains as bitcoin rebounded to hit its highest price in two weeks and investors weighed fresh BTC acquisitions and financing moves by the two publicly traded firms. Bitcoin Bounceback Boosts Big Buyers Strategy (Nasdaq: MSTR), the largest…",
+   "source": "Bitcoin.com News",
+   "ts": 1792616401,
+   "url": "https://news.bitcoin.com/market-updates/strive-strategy-shares-jump-bitcoin-price-eyes-85k/",
+   "ad": false
+  },
   {
    "title": "BIS Paper Shows Meme-Level Grasp of Bitcoin, But Agrees With Saylor on Key Point",
    "summary": "A paper from the Bank for International Settlements (BIS), an organization of central banks, recycles old, repeatedly rebutted claims about bitcoin–but agrees with Strategy's Michael Saylor that it isn't working as everyday money. Both reach that conclusion, but for opposite reasons. In \"Money and the Architecture of Trust,\"…",
@@ -72,14 +80,6 @@
    "source": "Decrypt",
    "ts": 1792597412,
    "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-   "ad": false
-  },
-  {
-   "title": "Update zum Liquid-Hack: Swaps von Liquid zu Bitcoin sind wieder verfügbar",
-   "summary": "AQUA, BULL Wallet und SideSwap melden die Wiederinbetriebnahme der Liquid-zu-Bitcoin-Swaps für Nutzer. Die vollständige 1:1Deckung bleibt noch aus.",
-   "source": "Blocktrainer",
-   "ts": 1792596600,
-   "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
    "ad": false
   }
  ]
