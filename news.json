@@ -1,7 +1,55 @@
 {
- "updated": 1792597099,
+ "updated": 1792600614,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
+   "summary": "SALT Lending highlights how Bitcoin holders can access liquidity for real estate, business expansion, and other financial opportunities without selling their Bitcoin. This post Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities first appeared on Bitcoin Magazine and is written by Josh Plischke .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792599847,
+   "url": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
+   "ad": false
+  },
+  {
+   "title": "Elon Musk's Proposed Tesla-SpaceX Merger Would Forge a Bitcoin Powerhouse",
+   "summary": "Elon Musk has publicly endorsed a potential merger between Tesla and SpaceX, a combination that would consolidate 30,221 BTC worth approximately $2.54 billion. During SpaceX's third-quarter earnings call, Musk acknowledged serious shareholder hurdles while outlining the advantages of joining his companies. Meanwhile, another…",
+   "source": "Bitcoin.com News",
+   "ts": 1792599634,
+   "url": "https://news.bitcoin.com/featured/elon-musks-proposed-tesla-spacex-merger-forge-bitcoin-powerhouse/",
+   "ad": false
+  },
+  {
+   "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
+   "summary": "A new tri-party lending structure with BitGo lets Kalshi Prime clients borrow against bitcoin to margin perpetual futures. This post Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792599112,
+   "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
+   "summary": "The price of bitcoin is rising fast – with the stock market – as investors feel bullish on tech. This post Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792597574,
+   "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Cracks $84K as $188 Million in Crypto Shorts Get Wiped Out",
+   "summary": "Bitcoin's price punched through $84,000 on Wednesday, catching bearish traders off guard and helping wipe out $188 million in short positions across crypto markets. More than 71,000 traders faced liquidations as the leading crypto asset climbed toward $84,700, squeezing leveraged bets against it. Bitcoin's Rally Leaves Short…",
+   "source": "Bitcoin.com News",
+   "ts": 1792597506,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-cracks-84k-as-188-million-in-crypto-shorts-get-wiped-out/",
+   "ad": false
+  },
+  {
+   "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+   "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
+   "source": "Decrypt",
+   "ts": 1792597412,
+   "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+   "ad": false
+  },
   {
    "title": "Update zum Liquid-Hack: Swaps von Liquid zu Bitcoin sind wieder verfügbar",
    "summary": "AQUA, BULL Wallet und SideSwap melden die Wiederinbetriebnahme der Liquid-zu-Bitcoin-Swaps für Nutzer. Die vollständige 1:1Deckung bleibt noch aus.",
@@ -32,54 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792594184,
    "url": "https://www.btc-echo.de/news/bitcoin-vor-einer-rallye-wie-im-dotcom-boom-so-waere-1-million-us-dollar-moeglich-239630/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurserholung: Spannendes Long-Setup für Trader",
-   "summary": "Bitcoin scheint die jüngste Kursschwäche abzuschütteln. Eine bullishe Trendfortsetzung in Richtung der Oktoberhochs würde einen interessanten Long-Trade für aktive Trader bieten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792592446,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurserholung-spannendes-long-setup-fuer-trader-239273/",
-   "ad": false
-  },
-  {
-   "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
-   "summary": "Watch Video Bitcoin Magazine J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report J.P. Morgan projects Bitcoin as the top asset through 2036. Grace Remington and Sean Hagan examine its 10% base and 16% bull case long-term return targets. This post J.P. Morgan Reveals First-Ever Bitcoin Price…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792590987,
-   "url": "https://bitcoinmagazine.com/videos/j-p-morgan-reveals-first-ever-bitcoin-price-forecast-in-long-term-capital-market-report",
-   "ad": false
-  },
-  {
-   "title": "Strive's SATS: How 15% Yield Becomes A Bitcoin Accretion Machine",
-   "summary": "On the accretive potential of the SATS preferred stock. This post Strive's SATS: How 15% Yield Becomes A Bitcoin Accretion Machine first appeared on Bitcoin Magazine and is written by Allard Peng .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792590771,
-   "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/strives-sats-bitcoin-accretion",
-   "ad": false
-  },
-  {
-   "title": "\"Massively Undervalued\" – Samson Mow on MSTR & Bitcoin Treasuries",
-   "summary": "Watch Video Bitcoin Magazine \"Massively Undervalued\" – Samson Mow on MSTR & Bitcoin Treasuries JAN3 CEO Samson Mow argues Bitcoin treasury firms like Strategy are undervalued, explaining their role as buyers of last resort driving a global scarcity race. This post \"Massively Undervalued\" – Samson Mow on MSTR & Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792590231,
-   "url": "https://bitcoinmagazine.com/videos/massively-undervalued-samson-mow-on-mstr-bitcoin-treasuries",
-   "ad": false
-  },
-  {
-   "title": "Jeff Walton: Where the Next Trillion Dollars for Bitcoin Comes from, $SATS IPO Update",
-   "summary": "Watch Video Bitcoin Magazine Jeff Walton: Where the Next Trillion Dollars for Bitcoin Comes from, $SATS IPO Update While CCC spreads blew out, Strive raised $700M for Bitcoin. CRO Jeff Walton explains what this signals for Bitcoin-backed preferred equity and rated capital. This post Jeff Walton: Where the Next Trillion Dollars…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792589973,
-   "url": "https://bitcoinmagazine.com/videos/jeff-walton-where-the-next-trillion-dollars-for-bitcoin-comes-from-sats-ipo-update",
-   "ad": false
-  },
-  {
-   "title": "5 alternatives to Ledger to store your Bitcoin",
-   "summary": "Hardware wallets aren't the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.",
-   "source": "Cointelegraph",
-   "ts": 1792589400,
-   "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_part",
    "ad": false
   }
  ]
