@@ -1,7 +1,23 @@
 {
- "updated": 1792663932,
+ "updated": 1792667359,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
+   "summary": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
+   "source": "CoinDesk",
+   "ts": 1792666204,
+   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
+   "summary": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
+   "source": "Cointelegraph",
+   "ts": 1792665531,
+   "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
+   "ad": false
+  },
   {
    "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
    "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
@@ -64,22 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792650221,
    "url": "https://www.btc-echo.de/news/bitcoin-rallye-scheitet-ueber-nacht-warum-die-maerkte-wieder-fallen-239651/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
-   "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
-   "source": "CoinDesk",
-   "ts": 1792644119,
-   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
-   "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
-   "source": "CoinDesk",
-   "ts": 1792641094,
-   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
    "ad": false
   }
  ]
