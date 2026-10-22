@@ -1,7 +1,23 @@
 {
- "updated": 1792660398,
+ "updated": 1792663932,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+   "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
+   "source": "Decrypt",
+   "ts": 1792663782,
+   "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin's round trip to $85,000 burns traders on both sides",
+   "summary": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.",
+   "source": "CoinDesk",
+   "ts": 1792662866,
+   "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+   "ad": false
+  },
   {
    "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
    "summary": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.",
@@ -64,22 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792641094,
    "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
-   "ad": false
-  },
-  {
-   "title": "Wie lange bleibt Bitcoin noch so ruhig? Was Anleger jetzt im Blick behalten sollten",
-   "summary": "Bitcoin bewegt sich seit Wochen kaum vom Fleck. Warum die kommenden Tage für Anleger besonders spannend werden könnten und welche Entwicklungen jetzt wichtig sind. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792636200,
-   "url": "https://www.btc-echo.de/news/wie-lange-bleibt-bitcoin-noch-so-ruhig-was-anleger-jetzt-im-blick-behalten-sollten-239639/",
-   "ad": false
-  },
-  {
-   "title": "Warum Banken bei Bitcoin umdenken müssen – Investmentchef gibt Einblicke",
-   "summary": "Bei Bitcoin geht es für Banken heute um mehr als reine Kursfantasie. Neue Anlagewege und professionelle Verwahrung machen den Markt für große Investoren deutlich zugänglicher. Sygnum-CIO Fabian Dori erklärt im Interview, welche Entwicklungen den Wandel antreiben. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792634400,
-   "url": "https://www.btc-echo.de/news/warum-banken-bei-bitcoin-umdenken-muessen-investmentchef-gibt-einblicke-239585/",
    "ad": false
   }
  ]
