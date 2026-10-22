@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17",
+ "updated": "2026-10-22",
  "hinweis": "Bitcoin-Veranstaltungen für die NerdClock. Datum als JJJJMMTT, cc = Ländercode. Neue Events einfach ergänzen.",
  "events": [
   {
@@ -105,6 +105,14 @@
    "start": 20261119,
    "end": 20261122,
    "url": "https://bitcoinonly.events/bitfest-2026-manchester/"
+  },
+  {
+   "name": "Freedom Fest Manchester",
+   "city": "Manchester",
+   "cc": "UK",
+   "start": 20261121,
+   "end": 20261121,
+   "url": "https://bitcoinonly.events/freedom-fest-2026-manchester/"
   },
   {
    "name": "Swiss Bitcoin Conference",
