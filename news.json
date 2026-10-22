@@ -1,7 +1,23 @@
 {
- "updated": 1792670921,
+ "updated": 1792675411,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+   "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
+   "source": "Cointelegraph",
+   "ts": 1792674000,
+   "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Milliarden: Bekommen betrogene Anleger den Kursgewinn?",
+   "summary": "Mit dem Geld betrogener Anleger kaufte eine Chinesin Bitcoin, deren Wert den Schaden heute um Milliarden übersteigt. China, London und 16.000 Opfer streiten nun um den Gewinn. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792673072,
+   "url": "https://www.btc-echo.de/news/bitcoin-schatz-im-visier-wer-kassiert-den-kursgewinn-239663/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Top $1 Billion in 3 Days as Eight Funds Draw Inflows",
    "summary": "U.S. bitcoin ETFs attracted $528.40 million on Wednesday, taking their three-day inflow streak above $1 billion as institutional demand broadened across eight funds. Blackrock, Fidelity Drive Bitcoin ETF Streak The character of bitcoin exchange-traded fund (ETF) demand changed on Wednesday. Monday's $526.60 million surge had…",
@@ -64,22 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792654493,
    "url": "https://www.btc-echo.de/news/frankreichs-schuldenkrise-spitzt-sich-zu-wird-bitcoin-zum-krisengewinner-239652/",
-   "ad": false
-  },
-  {
-   "title": "Coinbase Spotlights 8 Big Stories From Bitcoin Forecasts to AI",
-   "summary": "Bitcoin could outperform stocks, gold, and real estate over the next decade or longer, JPMorgan projects. Coinbase Predict highlighted that outlook alongside seven developments spanning investment access, corporate earnings, and artificial intelligence. JPMorgan Projects Bitcoin Returns Above Stocks and Gold An eight-item…",
-   "source": "Bitcoin.com News",
-   "ts": 1792650642,
-   "url": "https://news.bitcoin.com/exchanges/coinbase-spotlights-8-big-stories-from-bitcoin-forecasts-to-ai/",
-   "ad": false
-  },
-  {
-   "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-   "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims' claims to the coins.",
-   "source": "CoinDesk",
-   "ts": 1792650250,
-   "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
    "ad": false
   }
  ]
