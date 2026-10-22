@@ -1,7 +1,31 @@
 {
- "updated": 1792681905,
+ "updated": 1792685388,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
+   "summary": "Bitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it's being held back – at least for now. This post Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792685066,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
+   "ad": false
+  },
+  {
+   "title": "China Targets 61,896 Bitcoin Still Held by British Authorities: Report",
+   "summary": "Chinese prosecutors are seeking to confiscate 61,896 bitcoin worth approximately $5.1 billion, currently held by British authorities, after one of the world's largest cryptocurrency seizures. The assets trace back to Qian Zhimin, convicted in Britain for handling criminal proceeds from a Chinese investment fraud. A recent U.K…",
+   "source": "Bitcoin.com News",
+   "ts": 1792683600,
+   "url": "https://news.bitcoin.com/regulation-and-legal/china-targets-61896-bitcoin-still-held-british-authorities-report/",
+   "ad": false
+  },
+  {
+   "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
+   "summary": "Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027. This post Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027 first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792683301,
+   "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+   "ad": false
+  },
   {
    "title": "CryptoQuant CEO calls rising Bitcoin hashrate 'indirect bullish signal' from institutions",
    "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin's hashrate, a positive sign for BTC's fundamentals, according to CryptoQuant's Ki Young Ju.",
@@ -12,7 +36,7 @@
   },
   {
    "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet",
-   "summary": "Watch Video Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors. This post Arkham CEO on $1 Billion of U.S. Government Bitcoin…",
+   "summary": "Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors. This post Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to…",
    "source": "Bitcoin Magazine",
    "ts": 1792676290,
    "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
@@ -28,7 +52,7 @@
   },
   {
    "title": "SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More BTC Exposure to S&P 500",
-   "summary": "Watch Video Bitcoin Magazine SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More BTC Exposure to S&P 500 Sean Hagan breaks down why a Tesla-SpaceX merger is a no-brainer, connecting passive index flows to Strategy's MSCI inclusion and S&P 500 entry. This post SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More…",
+   "summary": "Bitcoin Magazine SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More BTC Exposure to S&P 500 Sean Hagan breaks down why a Tesla-SpaceX merger is a no-brainer, connecting passive index flows to Strategy's MSCI inclusion and S&P 500 entry. This post SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More BTC Exposure…",
    "source": "Bitcoin Magazine",
    "ts": 1792676004,
    "url": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
@@ -36,7 +60,7 @@
   },
   {
    "title": "Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins",
-   "summary": "Watch Video Bitcoin Magazine Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins Bitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows. This post Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins…",
+   "summary": "Bitcoin Magazine Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins Bitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows. This post Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins first…",
    "source": "Bitcoin Magazine",
    "ts": 1792675749,
    "url": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
@@ -44,7 +68,7 @@
   },
   {
    "title": "Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\"",
-   "summary": "Watch Video Bitcoin Magazine Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher. This post Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" first appeared on Bitcoin…",
+   "summary": "Bitcoin Magazine Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher. This post Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" first appeared on Bitcoin Magazine and…",
    "source": "Bitcoin Magazine",
    "ts": 1792675466,
    "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
@@ -56,30 +80,6 @@
    "source": "Cointelegraph",
    "ts": 1792675257,
    "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
-   "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
-   "source": "Cointelegraph",
-   "ts": 1792674000,
-   "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Milliarden: Bekommen betrogene Anleger den Kursgewinn?",
-   "summary": "Mit dem Geld betrogener Anleger kaufte eine Chinesin Bitcoin, deren Wert den Schaden heute um Milliarden übersteigt. China, London und 16.000 Opfer streiten nun um den Gewinn. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792673072,
-   "url": "https://www.btc-echo.de/news/bitcoin-schatz-im-visier-wer-kassiert-den-kursgewinn-239663/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Top $1 Billion in 3 Days as Eight Funds Draw Inflows",
-   "summary": "U.S. bitcoin ETFs attracted $528.40 million on Wednesday, taking their three-day inflow streak above $1 billion as institutional demand broadened across eight funds. Blackrock, Fidelity Drive Bitcoin ETF Streak The character of bitcoin exchange-traded fund (ETF) demand changed on Wednesday. Monday's $526.60 million surge had…",
-   "source": "Bitcoin.com News",
-   "ts": 1792668634,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-top-1-billion-in-3-days-as-eight-funds-draw-inflows/",
    "ad": false
   }
  ]
