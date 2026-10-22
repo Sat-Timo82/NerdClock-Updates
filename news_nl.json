@@ -1,8 +1,16 @@
 {
- "updated": 1792705369,
+ "updated": 1792706801,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Flashes Bull Market Signal Amid Fresh ETF Inflows: Cryptoquant CEO",
+   "summary": "Bitcoin's latest capital-flow signal resembles patterns seen during earlier bull markets, Cryptoquant CEO Ki Young Ju said. His assessment coincides with approximately $1.07 billion in U.S. spot bitcoin fund inflows over three sessions through Oct. 21, adding a separate sign of renewed demand. Fresh Capital Points to Bull…",
+   "source": "Bitcoin.com News",
+   "ts": 1792706105,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-flashes-bull-market-signal-amid-fresh-etf-inflows-cryptoquant-ceo/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Won't Break $100K By End of 2026, Analysts Say–Here's Why",
    "summary": "Analysts from top crypto firms believe that other investment options, further interest rate tightening, and the still-developing situation in Iran are making it difficult for bitcoin to rise above the $100,000 price mark, even if a year-end uptick does happen. Bitcoin's $100K Return Seen as Unattainable in 2026 While bitcoin…",
@@ -57,14 +65,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792685066,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
-   "ad": false
-  },
-  {
-   "title": "China Targets 61,896 Bitcoin Still Held by British Authorities: Report",
-   "summary": "Chinese prosecutors are seeking to confiscate 61,896 bitcoin worth approximately $5.1 billion, currently held by British authorities, after one of the world's largest cryptocurrency seizures. The assets trace back to Qian Zhimin, convicted in Britain for handling criminal proceeds from a Chinese investment fraud. A recent U.K…",
-   "source": "Bitcoin.com News",
-   "ts": 1792683600,
-   "url": "https://news.bitcoin.com/regulation-and-legal/china-targets-61896-bitcoin-still-held-british-authorities-report/",
    "ad": false
   },
   {
