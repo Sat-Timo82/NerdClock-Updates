@@ -1,7 +1,15 @@
 {
- "updated": 1792667359,
+ "updated": 1792670921,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin ETFs Top $1 Billion in 3 Days as Eight Funds Draw Inflows",
+   "summary": "U.S. bitcoin ETFs attracted $528.40 million on Wednesday, taking their three-day inflow streak above $1 billion as institutional demand broadened across eight funds. Blackrock, Fidelity Drive Bitcoin ETF Streak The character of bitcoin exchange-traded fund (ETF) demand changed on Wednesday. Monday's $526.60 million surge had…",
+   "source": "Bitcoin.com News",
+   "ts": 1792668634,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-top-1-billion-in-3-days-as-eight-funds-draw-inflows/",
+   "ad": false
+  },
   {
    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
    "summary": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
@@ -27,8 +35,8 @@
    "ad": false
   },
   {
-   "title": "Live updates: Bitcoin's round trip to $85,000 burns traders on both sides",
-   "summary": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.",
+   "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
+   "summary": "South Korea's Kospi tumbled 3.5% overnight, and oil gained nearly 3% on renewed Middle East hostilities.",
    "source": "CoinDesk",
    "ts": 1792662866,
    "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
@@ -72,14 +80,6 @@
    "source": "CoinDesk",
    "ts": 1792650250,
    "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Rallye scheitert über Nacht: Warum die Märkte wieder fallen",
-   "summary": "Zwischen 85.000 und 87.500 US-Dollar warten viele Bitcoin-Anleger nur darauf, ohne Verlust auszusteigen. Kann der Kurs diese Hürde nehmen? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792650221,
-   "url": "https://www.btc-echo.de/news/bitcoin-rallye-scheitet-ueber-nacht-warum-die-maerkte-wieder-fallen-239651/",
    "ad": false
   }
  ]
