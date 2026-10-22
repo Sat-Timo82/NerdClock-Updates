@@ -1,7 +1,63 @@
 {
- "updated": 1792675411,
+ "updated": 1792678434,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "CryptoQuant CEO calls rising Bitcoin hashrate 'indirect bullish signal' from institutions",
+   "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin's hashrate, a positive sign for BTC's fundamentals, according to CryptoQuant's Ki Young Ju.",
+   "source": "Cointelegraph",
+   "ts": 1792676554,
+   "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
+   "ad": false
+  },
+  {
+   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet",
+   "summary": "Watch Video Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors. This post Arkham CEO on $1 Billion of U.S. Government Bitcoin…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792676290,
+   "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
+   "ad": false
+  },
+  {
+   "title": "Coinkite Sued After Coldcard Wallet Flaw Exposes $140M in Bitcoin",
+   "summary": "A five-year-old security flaw in Coldcard hardware wallets has landed manufacturer Coinkite a lawsuit after attackers allegedly drained more than $140 million in bitcoin. The proposed class action claims the devices generated predictable recovery phrases, leaving customers exposed to theft. Coldcard Security Failure Sparks…",
+   "source": "Bitcoin.com News",
+   "ts": 1792676288,
+   "url": "https://news.bitcoin.com/regulation-and-legal/coinkite-sued-after-coldcard-wallet-flaw-exposes-140m-bitcoin/",
+   "ad": false
+  },
+  {
+   "title": "SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More BTC Exposure to S&P 500",
+   "summary": "Watch Video Bitcoin Magazine SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More BTC Exposure to S&P 500 Sean Hagan breaks down why a Tesla-SpaceX merger is a no-brainer, connecting passive index flows to Strategy's MSCI inclusion and S&P 500 entry. This post SpaceX-Tesla Merger: Passive Flows 'Hack', Could Bring More…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792676004,
+   "url": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
+   "ad": false
+  },
+  {
+   "title": "Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins",
+   "summary": "Watch Video Bitcoin Magazine Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins Bitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows. This post Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792675749,
+   "url": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
+   "ad": false
+  },
+  {
+   "title": "Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\"",
+   "summary": "Watch Video Bitcoin Magazine Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher. This post Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" first appeared on Bitcoin…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792675466,
+   "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
+   "ad": false
+  },
+  {
+   "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+   "summary": "Thailand's SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
+   "source": "Cointelegraph",
+   "ts": 1792675257,
+   "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
    "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
@@ -24,62 +80,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792668634,
    "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-top-1-billion-in-3-days-as-eight-funds-draw-inflows/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
-   "summary": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
-   "source": "CoinDesk",
-   "ts": 1792666204,
-   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin corrects below $82K after Tesla Q3 results, KOSPI falls",
-   "summary": "Bitcoin reversed a run toward $85,000 after Tesla reported lower-than-expected capital expenditure in Q3.",
-   "source": "Cointelegraph",
-   "ts": 1792665531,
-   "url": "https://cointelegraph.com/markets/bitcoin-corrects-below-82k-after-tesla-q3-results-kospi-falls?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
-   "ad": false
-  },
-  {
-   "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-   "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
-   "source": "Decrypt",
-   "ts": 1792663782,
-   "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-   "ad": false
-  },
-  {
-   "title": "Live updates: Bitcoin slumps below $82,000 as markets go risk off on AI selloff, oil surge",
-   "summary": "South Korea's Kospi tumbled 3.5% overnight, and oil gained nearly 3% on renewed Middle East hostilities.",
-   "source": "CoinDesk",
-   "ts": 1792662866,
-   "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
-   "ad": false
-  },
-  {
-   "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
-   "summary": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.",
-   "source": "CoinDesk",
-   "ts": 1792658948,
-   "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
-   "summary": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
-   "source": "Cointelegraph",
-   "ts": 1792654652,
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
-   "ad": false
-  },
-  {
-   "title": "Frankreichs Schuldenkrise spitzt sich zu: Wird Bitcoin zum Krisengewinner?",
-   "summary": "Schon bei der Zypern-Krise 2013 profitierte Bitcoin von geschlossenen Banken und Kapitalkontrollen. Wiederholt sich das jetzt in Frankreich? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792654493,
-   "url": "https://www.btc-echo.de/news/frankreichs-schuldenkrise-spitzt-sich-zu-wird-bitcoin-zum-krisengewinner-239652/",
    "ad": false
   }
  ]
