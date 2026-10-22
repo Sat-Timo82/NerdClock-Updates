@@ -1,7 +1,23 @@
 {
- "updated": 1792653864,
+ "updated": 1792656974,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+   "summary": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
+   "source": "Cointelegraph",
+   "ts": 1792654652,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
+   "ad": false
+  },
+  {
+   "title": "Frankreichs Schuldenkrise spitzt sich zu: Wird Bitcoin zum Krisengewinner?",
+   "summary": "Schon bei der Zypern-Krise 2013 profitierte Bitcoin von geschlossenen Banken und Kapitalkontrollen. Wiederholt sich das jetzt in Frankreich? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792654493,
+   "url": "https://www.btc-echo.de/news/frankreichs-schuldenkrise-spitzt-sich-zu-wird-bitcoin-zum-krisengewinner-239652/",
+   "ad": false
+  },
   {
    "title": "Coinbase Spotlights 8 Big Stories From Bitcoin Forecasts to AI",
    "summary": "Bitcoin could outperform stocks, gold, and real estate over the next decade or longer, JPMorgan projects. Coinbase Predict highlighted that outlook alongside seven developments spanning investment access, corporate earnings, and artificial intelligence. JPMorgan Projects Bitcoin Returns Above Stocks and Gold An eight-item…",
@@ -59,27 +75,11 @@
    "ad": false
   },
   {
-   "title": "Strive, Strategy Shares Jump as Bitcoin Price Eyes $85K",
-   "summary": "Shares of bitcoin treasury companies Strategy and Strive surged Wednesday, extending gains as bitcoin rebounded to hit its highest price in two weeks and investors weighed fresh BTC acquisitions and financing moves by the two publicly traded firms. Bitcoin Bounceback Boosts Big Buyers Strategy (Nasdaq: MSTR), the largest…",
-   "source": "Bitcoin.com News",
-   "ts": 1792616401,
-   "url": "https://news.bitcoin.com/market-updates/strive-strategy-shares-jump-bitcoin-price-eyes-85k/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
    "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
    "source": "Decrypt",
    "ts": 1792603863,
    "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-   "ad": false
-  },
-  {
-   "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
-   "summary": "SALT Lending highlights how Bitcoin holders can access liquidity for real estate, business expansion, and other financial opportunities without selling their Bitcoin. This post Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities first appeared on Bitcoin Magazine and is written by Josh Plischke .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792599847,
-   "url": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
    "ad": false
   }
  ]
