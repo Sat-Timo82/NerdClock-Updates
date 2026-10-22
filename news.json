@@ -1,5 +1,5 @@
 {
- "updated": 1792629907,
+ "updated": 1792633163,
  "mode": "stichworte",
  "items": [
   {
@@ -8,14 +8,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792616401,
    "url": "https://news.bitcoin.com/market-updates/strive-strategy-shares-jump-bitcoin-price-eyes-85k/",
-   "ad": false
-  },
-  {
-   "title": "BIS Paper Shows Meme-Level Grasp of Bitcoin, But Agrees With Saylor on Key Point",
-   "summary": "A paper from the Bank for International Settlements (BIS), an organization of central banks, recycles old, repeatedly rebutted claims about bitcoin–but agrees with Strategy's Michael Saylor that it isn't working as everyday money. Both reach that conclusion, but for opposite reasons. In \"Money and the Architecture of Trust,\"…",
-   "source": "Bitcoin.com News",
-   "ts": 1792605923,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bis-paper-meme-level-grasp-bitcoin-agrees-saylor-key-point/",
    "ad": false
   },
   {
@@ -80,6 +72,14 @@
    "source": "Cointelegraph",
    "ts": 1792595597,
    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss_tag_b",
+   "ad": false
+  },
+  {
+   "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+   "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
+   "source": "The Block",
+   "ts": 1792595520,
+   "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
    "ad": false
   }
  ]
