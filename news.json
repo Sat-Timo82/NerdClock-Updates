@@ -1,7 +1,15 @@
 {
- "updated": 1792656974,
+ "updated": 1792660398,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+   "summary": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.",
+   "source": "CoinDesk",
+   "ts": 1792658948,
+   "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
    "summary": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
@@ -35,7 +43,7 @@
    "ad": false
   },
   {
-   "title": "Bitcoin-Rallye scheitet über Nacht: Warum die Märkte wieder fallen",
+   "title": "Bitcoin-Rallye scheitert über Nacht: Warum die Märkte wieder fallen",
    "summary": "Zwischen 85.000 und 87.500 US-Dollar warten viele Bitcoin-Anleger nur darauf, ohne Verlust auszusteigen. Kann der Kurs diese Hürde nehmen? Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1792650221,
@@ -72,14 +80,6 @@
    "source": "BTC-ECHO",
    "ts": 1792634400,
    "url": "https://www.btc-echo.de/news/warum-banken-bei-bitcoin-umdenken-muessen-investmentchef-gibt-einblicke-239585/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-   "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
-   "source": "Decrypt",
-   "ts": 1792603863,
-   "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
    "ad": false
   }
  ]
