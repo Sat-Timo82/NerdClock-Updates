@@ -16,3 +16,16 @@
 9693888	a8c97bd6783de3c48ed722683eff68ec5d64b06939965e2f15c3563a967bf9cc	/Musik/Bitcoin-Musik/Mrs. Octopus/05. Afuera - Mrs. Octopus.mp3	files/Musik/Bitcoin-Musik/Mrs.%20Octopus/05.%20Afuera%20-%20Mrs.%20Octopus.mp3.enc
 10934408	afc1bae92f10dc4fcda7e96d8146c98eea48eef316341c518fcefb197ccc84d0	/Musik/Bitcoin-Musik/Mrs. Octopus/06. Escape To 21 World (Live Zitadelle 25) - Mrs. Octopus.mp3	files/Musik/Bitcoin-Musik/Mrs.%20Octopus/06.%20Escape%20To%2021%20World%20%28Live%20Zitadelle%2025%29%20-%20Mrs.%20Octopus.mp3.enc
 6633477	0219af5814f75422349f331c6b43224c7a51b4d088befc2aafa0609d8b19036f	/Musik/Bitcoin-Musik/Mrs. Octopus/07. This Is Our Meme World - Mrs. Octopus.mp3	files/Musik/Bitcoin-Musik/Mrs.%20Octopus/07.%20This%20Is%20Our%20Meme%20World%20-%20Mrs.%20Octopus.mp3.enc
+32017	283d156deb4c7e97339aeb6d13d5f06baafc522491d3571ed585231aaca1923c	/.nerdclock/ton/01.mp3	files/.nerdclock/ton/01.mp3
+21106	4f43c381966cd4265118029d91c6ba3c9f845a24992967b693e8c04ae82c32ea	/.nerdclock/ton/02.mp3	files/.nerdclock/ton/02.mp3
+70574	3a78b16e6913f0a18940769717dc35ef1c9436ccd8b49303b5ec328f03cca0a4	/.nerdclock/ton/03_1.mp3	files/.nerdclock/ton/03_1.mp3
+80605	d9ce17e40877d0e951fd22eff0ffaee3a9dc00d8e0d7a79acb4af3427eca00ab	/.nerdclock/ton/03_2.mp3	files/.nerdclock/ton/03_2.mp3
+90950	eea5f07da53b08fbe556fed11597e88c6086603715b1cd0bba9ec90c8ac28493	/.nerdclock/ton/03_3.mp3	files/.nerdclock/ton/03_3.mp3
+60395	aba46afc71b4bb516b040c410ddab4d44457ebcf124afc69220ffe96aa490c3e	/.nerdclock/ton/04.mp3	files/.nerdclock/ton/04.mp3
+56215	483d8fc808ff662d84a23debe8f785cf781670903d1bbc10b03bea6a9aa44666	/.nerdclock/ton/05.mp3	files/.nerdclock/ton/05.mp3
+64365	f6ed20ce90962aeeba3673018982b7a8c2b27abeb3562fba44d509419ecfb5a3	/.nerdclock/ton/06.mp3	files/.nerdclock/ton/06.mp3
+14001	9ee554efb123c725a8d1d7ea7fbf4debf0ef3c8ac4789983a5c02fd076be933b	/.nerdclock/ton/07.mp3	files/.nerdclock/ton/07.mp3
+60395	2911351e187fd04395764fe12bf89e3858fa9fa48cc74b8b2bdfbaa67530f411	/.nerdclock/ton/08.mp3	files/.nerdclock/ton/08.mp3
+71471	56ae510ac396e6dfc2537ac4610fe2249919f15985192830bf2575f5b47f0c99	/.nerdclock/ton/09.mp3	files/.nerdclock/ton/09.mp3
+34690	b5e7eaefb5b89c766b2df2aa75dfae8133b0d0364304dc7dde8e26298861769c	/.nerdclock/ton/10.mp3	files/.nerdclock/ton/10.mp3
+42004	efbd72c48ef9a8181a6e85026bcc9d4054b7d08aca0824d5f2eeeef24a7f5f3f	/.nerdclock/ton/11.mp3	files/.nerdclock/ton/11.mp3
