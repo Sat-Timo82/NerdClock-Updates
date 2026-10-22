@@ -1,7 +1,15 @@
 {
- "updated": 1792692212,
+ "updated": 1792694433,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
+   "summary": "The alleged fraudster tried to run away with nearly 62,000 bitcoins. This post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792693922,
+   "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Plunges Below $81K Despite $1 Billion in ETF Inflows",
    "summary": "Bitcoin dropped below $82,000 to an intraday low of $80,836 during a late Wednesday sell-off, capping a nearly 4% daily loss and halting a recent two-week high rally. Long Positions Wiped Out Across Broader Crypto Market Bitcoin tumbled below $82,000 Wednesday, just hours after touching two-week highs during a market-wide…",
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792676290,
    "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
-   "ad": false
-  },
-  {
-   "title": "Coinkite Sued After Coldcard Wallet Flaw Exposes $140M in Bitcoin",
-   "summary": "A five-year-old security flaw in Coldcard hardware wallets has landed manufacturer Coinkite a lawsuit after attackers allegedly drained more than $140 million in bitcoin. The proposed class action claims the devices generated predictable recovery phrases, leaving customers exposed to theft. Editor's Note: This article was…",
-   "source": "Bitcoin.com News",
-   "ts": 1792676288,
-   "url": "https://news.bitcoin.com/regulation-and-legal/coinkite-sued-after-coldcard-wallet-flaw-exposes-140m-bitcoin/",
    "ad": false
   }
  ]
