@@ -1,5 +1,5 @@
 {
- "updated": 1792710471,
+ "updated": 1792713561,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
@@ -33,14 +33,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792691026,
    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-plunges-below-81k-despite-1-billion-etf-inflows/",
-   "ad": false
-  },
-  {
-   "title": "Albuquerque Bitcoin, Crypto ATM Ban Takes Effect With $500 Daily Fines",
-   "summary": "Albuquerque's ban on crypto ATMs and cashier-facilitated cryptocurrency transactions has taken effect, exposing noncompliant businesses to financial penalties and possible closure. Officials are targeting cash conversion services used in scams that can leave victims unable to recover their money. Crypto ATM Shutdown Begins…",
-   "source": "Bitcoin.com News",
-   "ts": 1792688422,
-   "url": "https://news.bitcoin.com/regulation-and-legal/albuquerque-bitcoin-crypto-atm-ban-takes-effect-500-daily-fines/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Cointelegraph",
    "ts": 1792676554,
    "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
+   "ad": false
+  },
+  {
+   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet",
+   "summary": "Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors. This post Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792676290,
+   "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
    "ad": false
   }
  ]
