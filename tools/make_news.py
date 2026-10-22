@@ -5,6 +5,8 @@
    Bitcoin-Meldungen aus und schreibt sie kurz auf Deutsch zusammen.
    Ohne Schlüssel: einfacher Stichwortfilter (kostenlos, Originaltitel).
 3. Schreibt news.json — die NerdClock lädt diese Datei regelmäßig.
+4. Übersetzt jede Meldung in alle 6 Sprachen der Uhr (mit API-Schlüssel, nur neue Meldungen –
+   gemerkt in news_cache.json) und schreibt news_de.json … news_it.json. Ohne Schlüssel: Originaltext.
 
 Aufruf:  python tools/news/make_news.py [ausgabe.json]
 Umgebung: ANTHROPIC_API_KEY (optional), NEWS_MODEL (Standard: claude-opus-5-5)
@@ -33,6 +35,7 @@ FEEDS = {
     "Bitcoin.com News": "https://news.bitcoin.com/feed/",
     "Bitcoinist": "https://bitcoinist.com/feed/",
 }
+FEED_LANG = {"Blocktrainer": "de", "BTC-ECHO": "de"}      # Quellen im Original auf Deutsch, alle anderen Englisch
 MAX_AGE_H = 48          # nur Meldungen der letzten 48 Stunden
 MAX_ITEMS = 10          # so viele zeigt die NerdClock (2 × 5)
 MODEL = os.environ.get("NEWS_MODEL", "claude-opus-5-5")
@@ -73,7 +76,7 @@ def fetch_feed(name, url):
         except Exception:
             ts = int(time.time())
         items.append({"id": hashlib.sha1(link.encode()).hexdigest()[:10], "source": name,
-                      "title": title.strip(), "desc": desc, "url": link.strip(), "ts": ts})
+                      "title": title.strip(), "desc": desc, "url": link.strip(), "ts": ts, "lang": FEED_LANG.get(name, "en")})
     return items
 
 
@@ -194,13 +197,46 @@ def select_with_claude(items):
              "summary": for_display(c["summary"], 330)} for c in chosen]
 
 
-def main():
-    out = Path(sys.argv[1] if len(sys.argv) > 1 else Path(__file__).resolve().parent / "news.json")
-    items = collect()
-    print(f"{len(items)} Meldungen aus {len(FEEDS)} Quellen gesammelt")
-    by_id = {it["id"]: it for it in items}
-    use_ai = bool(os.environ.get("ANTHROPIC_API_KEY"))
-    picked = select_with_claude(items) if use_ai else select_keywords(items)
+# ── Übersetzung in alle Sprachen der Uhr (Sprach-Knöpfe im News-Bericht) ──
+LANGS = ["de", "en", "fr", "es", "nl", "it"]
+TR_MODEL = os.environ.get("NEWS_TR_MODEL", "claude-sonnet-5-5")
+TR_SYSTEM = """Du übersetzt Bitcoin-Nachrichten für die Anzeige "NerdClock" in die Sprachen
+de (Deutsch), en (Englisch), fr (Französisch), es (Spanisch), nl (Niederländisch), it (Italienisch).
+Sinngetreu, natürlich und sachlich; Fachbegriffe wie Bitcoin, Mining, Hashrate, ETF, Lightning, Satoshi,
+Wallet, Halving bleiben. Namen, Zahlen und Firmen unverändert. Titel höchstens 80 Zeichen,
+Zusammenfassung höchstens 320 Zeichen. Gib die id unverändert zurück."""
+TR_SCHEMA = {"type": "object", "properties": {"items": {"type": "array", "items": {
+    "type": "object",
+    "properties": dict({"id": {"type": "string"}}, **{l: {"type": "object", "properties": {
+        "title": {"type": "string"}, "summary": {"type": "string"}}, "required": ["title", "summary"],
+        "additionalProperties": False} for l in LANGS}),
+    "required": ["id"] + LANGS, "additionalProperties": False}}},
+    "required": ["items"], "additionalProperties": False}
+
+
+def news_id(n):
+    return hashlib.sha1(n["url"].encode("utf-8")).hexdigest()[:12]
+
+
+def translate(news, cache):
+    """Fehlende Übersetzungen ergänzen (nur neue Meldungen) – cache: id → {sprache: {title, summary}}."""
+    todo = [n for n in news if news_id(n) not in cache]
+    if not todo or not os.environ.get("ANTHROPIC_API_KEY"):
+        return
+    import anthropic
+    client = anthropic.Anthropic()
+    listing = json.dumps([{"id": news_id(n), "title": n["title"], "summary": n["summary"]} for n in todo], ensure_ascii=False)
+    response = client.messages.create(
+        model=TR_MODEL, max_tokens=16000,
+        output_config={"format": {"type": "json_schema", "schema": TR_SCHEMA}},
+        system=TR_SYSTEM, messages=[{"role": "user", "content": listing}])
+    text = next(b.text for b in response.content if b.type == "text")
+    for it in json.loads(text)["items"]:
+        cache[it["id"]] = {l: {"title": for_display(it[l]["title"], 95), "summary": for_display(it[l]["summary"], 330)} for l in LANGS}
+    print(f"Übersetzt: {len(todo)} Meldungen ({response.usage.input_tokens}/{response.usage.output_tokens} Tokens)")
+
+
+def to_news(picked, by_id):
     news = []
     for p in picked:
         it = by_id.get(p["id"])
@@ -209,9 +245,48 @@ def main():
         news.append({"title": p["title"], "summary": p["summary"], "source": it["source"],
                      "ts": it["ts"], "url": it["url"][:150], "ad": False})
     news.sort(key=lambda x: x["ts"], reverse=True)       # neueste zuerst (oben links)
-    data = {"updated": int(time.time()), "mode": "ki" if use_ai else "stichworte", "items": news[:MAX_ITEMS]}
-    out.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(data['items'])} Meldungen gespeichert: {out}")
+    return news[:MAX_ITEMS]
+
+
+def main():
+    out = Path(sys.argv[1] if len(sys.argv) > 1 else Path(__file__).resolve().parent / "news.json")
+    items = collect()
+    print(f"{len(items)} Meldungen aus {len(FEEDS)} Quellen gesammelt")
+    by_id = {it["id"]: it for it in items}
+    use_ai = bool(os.environ.get("ANTHROPIC_API_KEY"))
+    cache_f = out.parent / "news_cache.json"
+    if not use_ai:
+        # Ohne KI-Schlüssel: Deutsch aus den deutschen Quellen, Englisch aus den englischen (echte Texte, keine Übersetzung nötig).
+        # fr/es/nl/it zeigen vorerst die englischen Meldungen (echte Übersetzung braucht den Schlüssel).
+        de = to_news(select_keywords([i for i in items if i["lang"] == "de"]), by_id)
+        en = to_news(select_keywords([i for i in items if i["lang"] == "en"]), by_id)
+        if len(de) < 3:
+            de = to_news(select_keywords(items), by_id)           # Notfall: zu wenige deutsche Meldungen
+        per = {"de": de, "en": en, "fr": en, "es": en, "nl": en, "it": en}
+        for l, lst in per.items():
+            d = {"updated": int(time.time()), "mode": "stichworte", "lang": l, "items": lst}
+            (out.parent / f"news_{l}.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+            if l == "de":
+                out.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"Ohne KI: {len(de)} deutsche, {len(en)} englische Meldungen gespeichert")
+        return
+    picked = select_with_claude(items)
+    data = {"updated": int(time.time()), "mode": "ki", "items": to_news(picked, by_id)}
+    cache = json.loads(cache_f.read_text(encoding="utf-8")) if cache_f.exists() else {}
+    try:
+        translate(data["items"], cache)
+    except Exception as e:
+        print("Übersetzung fehlgeschlagen (Originaltexte bleiben):", e)
+    ids = {news_id(n) for n in data["items"]}
+    cache = {k: v for k, v in cache.items() if k in ids}                 # nur aktuelle Meldungen merken
+    cache_f.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
+    for l in LANGS:
+        lst = [dict(n, **cache.get(news_id(n), {}).get(l, {})) for n in data["items"]]
+        d = dict(data, lang=l, items=lst)
+        (out.parent / f"news_{l}.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+        if l == "de":
+            out.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"{len(data['items'])} Meldungen gespeichert: {out} + news_de … news_it")
 
 
 if __name__ == "__main__":
