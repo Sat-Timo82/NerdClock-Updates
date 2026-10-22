@@ -1,7 +1,23 @@
 {
- "updated": 1792633163,
+ "updated": 1792636520,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Wie lange bleibt Bitcoin noch so ruhig? Was Anleger jetzt im Blick behalten sollten",
+   "summary": "Bitcoin bewegt sich seit Wochen kaum vom Fleck. Warum die kommenden Tage für Anleger besonders spannend werden könnten und welche Entwicklungen jetzt wichtig sind. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792636200,
+   "url": "https://www.btc-echo.de/news/wie-lange-bleibt-bitcoin-noch-so-ruhig-was-anleger-jetzt-im-blick-behalten-sollten-239639/",
+   "ad": false
+  },
+  {
+   "title": "Warum Banken bei Bitcoin umdenken müssen – Investmentchef gibt Einblicke",
+   "summary": "Bei Bitcoin geht es für Banken heute um mehr als reine Kursfantasie. Neue Anlagewege und professionelle Verwahrung machen den Markt für große Investoren deutlich zugänglicher. Sygnum-CIO Fabian Dori erklärt im Interview, welche Entwicklungen den Wandel antreiben. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792634400,
+   "url": "https://www.btc-echo.de/news/warum-banken-bei-bitcoin-umdenken-muessen-investmentchef-gibt-einblicke-239585/",
+   "ad": false
+  },
   {
    "title": "Strive, Strategy Shares Jump as Bitcoin Price Eyes $85K",
    "summary": "Shares of bitcoin treasury companies Strategy and Strive surged Wednesday, extending gains as bitcoin rebounded to hit its highest price in two weeks and investors weighed fresh BTC acquisitions and financing moves by the two publicly traded firms. Bitcoin Bounceback Boosts Big Buyers Strategy (Nasdaq: MSTR), the largest…",
@@ -64,22 +80,6 @@
    "source": "Blocktrainer",
    "ts": 1792596600,
    "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
-   "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
-   "source": "Cointelegraph",
-   "ts": 1792595597,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss_tag_b",
-   "ad": false
-  },
-  {
-   "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-   "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
-   "source": "The Block",
-   "ts": 1792595520,
-   "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
    "ad": false
   }
  ]
