@@ -17,7 +17,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: News erzeugen (Deutsch/Englisch aus den Quellen; mit Schlüssel KI-Auswahl + alle Sprachen)
+      - name: Übersetzungs-Bibliothek
+        run: pip install anthropic
+      - name: News erzeugen (Deutsch/Englisch aus den Quellen; mit Schlüssel auch Französisch/Spanisch/Niederländisch/Italienisch)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -I tools/make_news.py news.json
@@ -29,7 +31,7 @@ jobs:
           fi
       - name: Nur bei Änderungen speichern
         run: |
-          git add news.json news_*.json events.json
+          git add news.json news_*.json news_cache.json events.json
           if git diff --cached --quiet; then echo "nichts Neues"; exit 0; fi
           git config user.name "Sat-Timo82"
           git config user.email "timobartz13@gmail.com"

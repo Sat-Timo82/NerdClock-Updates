@@ -253,40 +253,32 @@ def main():
     items = collect()
     print(f"{len(items)} Meldungen aus {len(FEEDS)} Quellen gesammelt")
     by_id = {it["id"]: it for it in items}
-    use_ai = bool(os.environ.get("ANTHROPIC_API_KEY"))
     cache_f = out.parent / "news_cache.json"
-    if not use_ai:
-        # Ohne KI-Schlüssel: Deutsch aus den deutschen Quellen, Englisch aus den englischen (echte Texte, keine Übersetzung nötig).
-        # fr/es/nl/it zeigen vorerst die englischen Meldungen (echte Übersetzung braucht den Schlüssel).
-        de = to_news(select_keywords([i for i in items if i["lang"] == "de"]), by_id)
-        en = to_news(select_keywords([i for i in items if i["lang"] == "en"]), by_id)
-        if len(de) < 3:
-            de = to_news(select_keywords(items), by_id)           # Notfall: zu wenige deutsche Meldungen
-        per = {"de": de, "en": en, "fr": en, "es": en, "nl": en, "it": en}
-        for l, lst in per.items():
-            d = {"updated": int(time.time()), "mode": "stichworte", "lang": l, "items": lst}
-            (out.parent / f"news_{l}.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
-            if l == "de":
-                out.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"Ohne KI: {len(de)} deutsche, {len(en)} englische Meldungen gespeichert")
-        return
-    picked = select_with_claude(items)
-    data = {"updated": int(time.time()), "mode": "ki", "items": to_news(picked, by_id)}
+    # Auswahl ohne KI (kostenlos): Deutsch aus den deutschen Quellen, Englisch aus den englischen (echte Texte, keine Übersetzung nötig).
+    de = to_news(select_keywords([i for i in items if i["lang"] == "de"]), by_id)
+    en = to_news(select_keywords([i for i in items if i["lang"] == "en"]), by_id)
+    if len(de) < 3:
+        de = to_news(select_keywords(items), by_id)           # Notfall: zu wenige deutsche Meldungen
+    per = {"de": de, "en": en}
+    # fr/es/nl/it: die englischen Meldungen übersetzen (nur neue; mit ANTHROPIC_API_KEY, sonst/bei Fehler bleibt Englisch)
     cache = json.loads(cache_f.read_text(encoding="utf-8")) if cache_f.exists() else {}
-    try:
-        translate(data["items"], cache)
-    except Exception as e:
-        print("Übersetzung fehlgeschlagen (Originaltexte bleiben):", e)
-    ids = {news_id(n) for n in data["items"]}
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        try:
+            translate(en, cache)
+        except Exception as e:
+            print("Übersetzung fehlgeschlagen (Englisch bleibt):", type(e).__name__, e)
+    ids = {news_id(n) for n in en}
     cache = {k: v for k, v in cache.items() if k in ids}                 # nur aktuelle Meldungen merken
     cache_f.write_text(json.dumps(cache, ensure_ascii=False, indent=1), encoding="utf-8")
-    for l in LANGS:
-        lst = [dict(n, **cache.get(news_id(n), {}).get(l, {})) for n in data["items"]]
-        d = dict(data, lang=l, items=lst)
+    for l in ("fr", "es", "nl", "it"):
+        per[l] = [dict(n, **cache.get(news_id(n), {}).get(l, {})) for n in en]
+    for l, lst in per.items():
+        d = {"updated": int(time.time()), "mode": "stichworte", "lang": l, "items": lst}
         (out.parent / f"news_{l}.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
         if l == "de":
             out.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(data['items'])} Meldungen gespeichert: {out} + news_de … news_it")
+    translated = sum(1 for n in en if "fr" in cache.get(news_id(n), {}))
+    print(f"Gespeichert: {len(de)} deutsche, {len(en)} englische Meldungen; {translated} davon übersetzt (fr/es/nl/it)")
 
 
 if __name__ == "__main__":
