@@ -1,5 +1,5 @@
 {
- "updated": 1792627320,
+ "updated": 1792629907,
  "mode": "stichworte",
  "items": [
   {
@@ -24,14 +24,6 @@
    "source": "Decrypt",
    "ts": 1792603863,
    "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-   "ad": false
-  },
-  {
-   "title": "Grayscale Opens In-Kind ETF Access With Six-Figure Entry Minimums",
-   "summary": "Grayscale is opening a new route for eligible crypto investors to exchange their existing tokens directly for shares in 10 investment products, bypassing the need to sell for cash first. The program covers bitcoin, ether, XRP, solana, and other assets, with minimum investments ranging from approximately $80,300 to $364,800…",
-   "source": "Bitcoin.com News",
-   "ts": 1792603500,
-   "url": "https://news.bitcoin.com/finance/grayscale-opens-in-kind-etf-access-six-figure-entry-minimums/",
    "ad": false
   },
   {
@@ -80,6 +72,14 @@
    "source": "Blocktrainer",
    "ts": 1792596600,
    "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+   "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
+   "source": "Cointelegraph",
+   "ts": 1792595597,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss_tag_b",
    "ad": false
   }
  ]
