@@ -1,7 +1,15 @@
 {
- "updated": 1792642305,
+ "updated": 1792645832,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+   "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
+   "source": "CoinDesk",
+   "ts": 1792644119,
+   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+   "ad": false
+  },
   {
    "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
    "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
@@ -72,14 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792597574,
    "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
-   "ad": false
-  },
-  {
-   "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-   "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-   "source": "Decrypt",
-   "ts": 1792597412,
-   "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
    "ad": false
   }
  ]
