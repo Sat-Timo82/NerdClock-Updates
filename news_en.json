@@ -1,8 +1,16 @@
 {
- "updated": 1792695934,
+ "updated": 1792697815,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Price Won't Break $100K By End of 2026, Analysts Say–Here's Why",
+   "summary": "Analysts from top crypto firms believe that other investment options, further interest rate tightening, and the still-developing situation in Iran are making it difficult for bitcoin to rise above the $100,000 price mark, even if a year-end uptick does happen. Bitcoin's $100K Return Seen as Unattainable in 2026 While bitcoin…",
+   "source": "Bitcoin.com News",
+   "ts": 1792697138,
+   "url": "https://news.bitcoin.com/price-predictions/bitcoin-price-wont-break-100k-end-2026-analysts-say-why/",
+   "ad": false
+  },
   {
    "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
    "summary": "The alleged fraudster tried to run away with nearly 62,000 bitcoins. This post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1792676554,
    "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
-   "ad": false
-  },
-  {
-   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet",
-   "summary": "Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors. This post Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792676290,
-   "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
    "ad": false
   }
  ]
