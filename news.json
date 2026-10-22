@@ -1,7 +1,31 @@
 {
- "updated": 1792649288,
+ "updated": 1792653864,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Coinbase Spotlights 8 Big Stories From Bitcoin Forecasts to AI",
+   "summary": "Bitcoin could outperform stocks, gold, and real estate over the next decade or longer, JPMorgan projects. Coinbase Predict highlighted that outlook alongside seven developments spanning investment access, corporate earnings, and artificial intelligence. JPMorgan Projects Bitcoin Returns Above Stocks and Gold An eight-item…",
+   "source": "Bitcoin.com News",
+   "ts": 1792650642,
+   "url": "https://news.bitcoin.com/exchanges/coinbase-spotlights-8-big-stories-from-bitcoin-forecasts-to-ai/",
+   "ad": false
+  },
+  {
+   "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+   "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims' claims to the coins.",
+   "source": "CoinDesk",
+   "ts": 1792650250,
+   "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Rallye scheitet über Nacht: Warum die Märkte wieder fallen",
+   "summary": "Zwischen 85.000 und 87.500 US-Dollar warten viele Bitcoin-Anleger nur darauf, ohne Verlust auszusteigen. Kann der Kurs diese Hürde nehmen? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792650221,
+   "url": "https://www.btc-echo.de/news/bitcoin-rallye-scheitet-ueber-nacht-warum-die-maerkte-wieder-fallen-239651/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
    "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
@@ -56,30 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792599847,
    "url": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
-   "ad": false
-  },
-  {
-   "title": "Musk's SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-   "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla's 11,509 BTC and SpaceX's 18,712 BTC–roughly $2.5 billion worth–onto a single balance sheet.",
-   "source": "Decrypt",
-   "ts": 1792599365,
-   "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-   "ad": false
-  },
-  {
-   "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
-   "summary": "A new tri-party lending structure with BitGo lets Kalshi Prime clients borrow against bitcoin to margin perpetual futures. This post Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792599112,
-   "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
-   "summary": "The price of bitcoin is rising fast – with the stock market – as investors feel bullish on tech. This post Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792597574,
-   "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
    "ad": false
   }
  ]
