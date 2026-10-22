@@ -1,7 +1,31 @@
 {
- "updated": 1792685388,
+ "updated": 1792688911,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Albuquerque Bitcoin, Crypto ATM Ban Takes Effect With $500 Daily Fines",
+   "summary": "Albuquerque's ban on crypto ATMs and cashier-facilitated cryptocurrency transactions has taken effect, exposing noncompliant businesses to financial penalties and possible closure. Officials are targeting cash conversion services used in scams that can leave victims unable to recover their money. Crypto ATM Shutdown Begins…",
+   "source": "Bitcoin.com News",
+   "ts": 1792688422,
+   "url": "https://news.bitcoin.com/regulation-and-legal/albuquerque-bitcoin-crypto-atm-ban-takes-effect-500-daily-fines/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+   "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
+   "source": "Decrypt",
+   "ts": 1792686667,
+   "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+   "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump's comments on Iran military action.",
+   "source": "Cointelegraph",
+   "ts": 1792686035,
+   "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss_tag_",
+   "ad": false
+  },
   {
    "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
    "summary": "Bitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it's being held back – at least for now. This post Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
@@ -56,30 +80,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792676004,
    "url": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
-   "ad": false
-  },
-  {
-   "title": "Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins",
-   "summary": "Bitcoin Magazine Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins Bitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows. This post Retail Money is \"Dead\" – Wall Street is how Bitcoin Actually Wins first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792675749,
-   "url": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
-   "ad": false
-  },
-  {
-   "title": "Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\"",
-   "summary": "Bitcoin Magazine Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher. This post Matt Crosby: Bitcoin Is \"Primed for a Big Move Higher\" first appeared on Bitcoin Magazine and…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792675466,
-   "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
-   "ad": false
-  },
-  {
-   "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
-   "summary": "Thailand's SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
-   "source": "Cointelegraph",
-   "ts": 1792675257,
-   "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
    "ad": false
   }
  ]
