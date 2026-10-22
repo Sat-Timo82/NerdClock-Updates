@@ -1,7 +1,15 @@
 {
- "updated": 1792638594,
+ "updated": 1792642305,
  "mode": "stichworte",
  "items": [
+  {
+   "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+   "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
+   "source": "CoinDesk",
+   "ts": 1792641094,
+   "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+   "ad": false
+  },
   {
    "title": "Wie lange bleibt Bitcoin noch so ruhig? Was Anleger jetzt im Blick behalten sollten",
    "summary": "Bitcoin bewegt sich seit Wochen kaum vom Fleck. Warum die kommenden Tage für Anleger besonders spannend werden könnten und welche Entwicklungen jetzt wichtig sind. Source: BTC-ECHO BTC-ECHO",
@@ -72,14 +80,6 @@
    "source": "Decrypt",
    "ts": 1792597412,
    "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-   "ad": false
-  },
-  {
-   "title": "Update zum Liquid-Hack: Swaps von Liquid zu Bitcoin sind wieder verfügbar",
-   "summary": "AQUA, BULL Wallet und SideSwap melden die Wiederinbetriebnahme der Liquid-zu-Bitcoin-Swaps für Nutzer. Die vollständige 1:1Deckung bleibt noch aus.",
-   "source": "Blocktrainer",
-   "ts": 1792596600,
-   "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
    "ad": false
   }
  ]
