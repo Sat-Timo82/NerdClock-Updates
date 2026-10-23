@@ -1,8 +1,40 @@
 {
- "updated": 1792753640,
+ "updated": 1792755731,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "You Can Get a Multisig Bitcoin Loan at a Bank, as Sygnum and Debifi Debut",
+   "summary": "A growing market for bitcoin-backed, multisig-secured loans now has what appears to be its first bank offering this type of product, as Sygnum and Debifi delivered on a promise made a year ago. Switzerland-headquartered digital asset bank Sygnum and Latvian bitcoin lending platform Debifi launched MultiSYG, a loan product that…",
+   "source": "Bitcoin.com News",
+   "ts": 1792755645,
+   "url": "https://news.bitcoin.com/finance/you-can-get-a-multisig-bitcoin-loan-at-a-bank-as-sygnum-and-debifi-debut/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day's…",
+   "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
+   "source": "The Block",
+   "ts": 1792755585,
+   "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+   "summary": "Your day-ahead look for Oct. 23, 2026",
+   "source": "CoinDesk",
+   "ts": 1792754553,
+   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+   "summary": "Bitcoin went quiet after a week of big swings, with tech futures steadying and Brent hitting its highest level since early May. The Fed meets next week.",
+   "source": "CoinDesk",
+   "ts": 1792753981,
+   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+   "ad": false
+  },
   {
    "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
    "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
@@ -49,38 +81,6 @@
    "source": "CoinDesk",
    "ts": 1792725181,
    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
-   "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
-   "source": "The Block",
-   "ts": 1792722090,
-   "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
-   "ad": false
-  },
-  {
-   "title": "Fidelity Sees Huge Bitcoin Potential in $150 Trillion Bond Market",
-   "summary": "Bitcoin-focused preferred stocks could draw more income-seeking capital into cryptocurrency purchases, a new Fidelity analysis suggests. The firm sees room for growth within the $150 trillion global fixed-income market, with investment outcomes tied to bitcoin's performance and issuer strength. How a $150 Trillion Market Could…",
-   "source": "Bitcoin.com News",
-   "ts": 1792719006,
-   "url": "https://news.bitcoin.com/featured/fidelity-sees-huge-bitcoin-potential-in-150-trillion-bond-market/",
-   "ad": false
-  },
-  {
-   "title": "Switzerland's first retail spot Bitcoin ETF targets November launch",
-   "summary": "BIT Asset Management's Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
-   "source": "Cointelegraph",
-   "ts": 1792717175,
-   "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
-   "ad": false
-  },
-  {
-   "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
-   "summary": "The alleged fraudster tried to run away with nearly 62,000 bitcoins. This post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792693922,
-   "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
    "ad": false
   }
  ]
