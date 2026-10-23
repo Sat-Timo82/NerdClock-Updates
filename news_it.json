@@ -1,8 +1,32 @@
 {
- "updated": 1792759261,
+ "updated": 1792762991,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+   "summary": "Bitcoin Magazine Parker Lewis: Bitcoin Will Settle 100% of Global Payments Parker Lewis argues Bitcoin will settle all global payments as $107T in debt strains the credit system, driving merchants toward zero-fee adoption. This post Parker Lewis: Bitcoin Will Settle 100% of Global Payments first appeared on Bitcoin Magazine…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792762096,
+   "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
+   "ad": false
+  },
+  {
+   "title": "Block Releases THE Bitcoin National Ad Campaign",
+   "summary": "Bitcoin Magazine Block Releases THE Bitcoin National Ad Campaign Block launches 'Bitcoin Does' to onboard millions. Head of Bitcoin Marketing Maria Pesce explains how the campaign focuses on real-world utility over tech. This post Block Releases THE Bitcoin National Ad Campaign first appeared on Bitcoin Magazine and is written…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792761712,
+   "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
+   "ad": false
+  },
+  {
+   "title": "Bloomberg's Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+   "summary": "Bitcoin Magazine Bloomberg's Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000 Bloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets. This post Bloomberg's Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792761484,
+   "url": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+   "ad": false
+  },
   {
    "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
    "summary": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday's Asia trading session.",
@@ -57,30 +81,6 @@
    "source": "CoinDesk",
    "ts": 1792752789,
    "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin in 'Wait and See Mode'–And That Might Be a Good Thing",
-   "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
-   "source": "Decrypt",
-   "ts": 1792745735,
-   "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
-   "summary": "Thursday's withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
-   "source": "Cointelegraph",
-   "ts": 1792739379,
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inb",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-   "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
-   "source": "Cointelegraph",
-   "ts": 1792730054,
-   "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm",
    "ad": false
   }
  ]
