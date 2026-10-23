@@ -1,8 +1,16 @@
 {
- "updated": 1792766477,
+ "updated": 1792769963,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Blackrock, Fidelity Lead $635M Bitcoin ETF Loss–Biggest Outflow Since June",
+   "summary": "U.S. bitcoin ETFs suffered $635.49 million in net outflows on Thursday, abruptly interrupting a three-session run that had attracted more than $1 billion. Bitcoin ETFs Suffer Biggest Outflow Since June The institutional tide turned with remarkable speed. A day after bitcoin ETF buying broadened across eight funds, investors…",
+   "source": "Bitcoin.com News",
+   "ts": 1792767009,
+   "url": "https://news.bitcoin.com/market-updates/blackrock-fidelity-lead-635m-bitcoin-etf-loss-biggest-outflow-since-june/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Core Changes Security Policy as AI Makes Vulnerabilities Easier to Find",
    "summary": "Bitcoin Core is rewriting its approach to security vulnerabilities as artificial intelligence makes certain software flaws dramatically easier to discover, undermining the effectiveness of longstanding policies designed to keep potential exploits secret while users upgrade. Bitcoin Core Shifts Strategy as AI Gets Smarter In an…",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1792754553,
    "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-   "ad": false
-  },
-  {
-   "title": "Live updates: Bitcoin dips back to $81,000 as oil prices hit six-month high",
-   "summary": "U.S. stocks have also turned lower in mid-morning trading as Brent crude oil surges above $116 per barrel.",
-   "source": "CoinDesk",
-   "ts": 1792753981,
-   "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
    "ad": false
   }
  ]

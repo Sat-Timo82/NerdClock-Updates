@@ -1,8 +1,16 @@
 {
- "updated": 1792766477,
+ "updated": 1792769963,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Wie gefährlich ist Frankreichs Schuldenkrise für Bitcoin?",
+   "summary": "Frankreich zahlt für zehnjährige Staatsanleihen so viel wie seit über 20 Jahren nicht mehr, der Abstand zu Deutschland wächst rasant. Im Video mit Andreas Lipkow, Chef-Marktanalyst von CMC Markets, geht es darum, wie die Eurozone aus dieser Lage wieder herauskommt und was das für Bitcoin bedeutet. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792767600,
+   "url": "https://www.btc-echo.de/news/wie-gefaehrlich-ist-frankreichs-schuldenkrise-fuer-bitcoin-239625/",
+   "ad": false
+  },
   {
    "title": "China fordert Beschlagnahmung von rund 61.900 BTC aus milliardenschwerem Betrugsfall",
    "summary": "China fordert die Einziehung von rund 61.900 Bitcoin aus einem Betrugsfall. Doch auch Großbritannien erhebt Ansprüche auf das Vermögen.",
@@ -44,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Frankreichs Schuldenkrise spitzt sich zu: Wird Bitcoin zum Krisengewinner?",
-   "summary": "Schon bei der Zypern-Krise 2013 profitierte Bitcoin von geschlossenen Banken und Kapitalkontrollen. Wiederholt sich das jetzt in Frankreich? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792654493,
-   "url": "https://www.btc-echo.de/news/frankreichs-schuldenkrise-spitzt-sich-zu-wird-bitcoin-zum-krisengewinner-239652/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin-Rallye scheitert über Nacht: Warum die Märkte wieder fallen",
    "summary": "Zwischen 85.000 und 87.500 US-Dollar warten viele Bitcoin-Anleger nur darauf, ohne Verlust auszusteigen. Kann der Kurs diese Hürde nehmen? Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -65,22 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1792636200,
    "url": "https://www.btc-echo.de/news/wie-lange-bleibt-bitcoin-noch-so-ruhig-was-anleger-jetzt-im-blick-behalten-sollten-239639/",
-   "ad": false
-  },
-  {
-   "title": "Warum Banken bei Bitcoin umdenken müssen – Investmentchef gibt Einblicke",
-   "summary": "Bei Bitcoin geht es für Banken heute um mehr als reine Kursfantasie. Neue Anlagewege und professionelle Verwahrung machen den Markt für große Investoren deutlich zugänglicher. Sygnum-CIO Fabian Dori erklärt im Interview, welche Entwicklungen den Wandel antreiben. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792634400,
-   "url": "https://www.btc-echo.de/news/warum-banken-bei-bitcoin-umdenken-muessen-investmentchef-gibt-einblicke-239585/",
-   "ad": false
-  },
-  {
-   "title": "Update zum Liquid-Hack: Swaps von Liquid zu Bitcoin sind wieder verfügbar",
-   "summary": "AQUA, BULL Wallet und SideSwap melden die Wiederinbetriebnahme der Liquid-zu-Bitcoin-Swaps für Nutzer. Die vollständige 1:1Deckung bleibt noch aus.",
-   "source": "Blocktrainer",
-   "ts": 1792596600,
-   "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
    "ad": false
   }
  ]
