@@ -1,8 +1,16 @@
 {
- "updated": 1792773553,
+ "updated": 1792776844,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Kurs: Die Lage spitzt sich weiter zu",
+   "summary": "Bitcoin (BTC) steht vor einer Richtungsentscheidung. Kann eine größere Korrekturbewegung noch abgewendet werden? Das sagt der Chart. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792774800,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-die-lage-spitzt-sich-weiter-zu-239735/",
+   "ad": false
+  },
   {
    "title": "Krypto-Adoption ohne Bitcoin? China veröffentlicht Blockchain-Plan für 2030",
    "summary": "Peking beschließt den flächendeckenden Ausbau eines nationalen Blockchain-Netzwerks bis 2030. Mit Bitcoin, Ethereum und Co. hat die staatliche Strategie aber wenig zu tun. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1792673072,
    "url": "https://www.btc-echo.de/news/bitcoin-schatz-im-visier-wer-kassiert-den-kursgewinn-239663/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Rallye scheitert über Nacht: Warum die Märkte wieder fallen",
-   "summary": "Zwischen 85.000 und 87.500 US-Dollar warten viele Bitcoin-Anleger nur darauf, ohne Verlust auszusteigen. Kann der Kurs diese Hürde nehmen? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792650221,
-   "url": "https://www.btc-echo.de/news/bitcoin-rallye-scheitet-ueber-nacht-warum-die-maerkte-wieder-fallen-239651/",
    "ad": false
   }
  ]
