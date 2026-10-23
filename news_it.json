@@ -1,8 +1,16 @@
 {
- "updated": 1792738065,
+ "updated": 1792741566,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+   "summary": "Thursday's withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+   "source": "Cointelegraph",
+   "ts": 1792739379,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inb",
+   "ad": false
+  },
   {
    "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
    "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
@@ -49,14 +57,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792714232,
    "url": "https://news.bitcoin.com/market-updates/bitcoin-bull-score-index-drops-from-80-to-60-as-momentum-weakens/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Flashes Bull Market Signal Amid Fresh ETF Inflows: Cryptoquant CEO",
-   "summary": "Bitcoin's latest capital-flow signal resembles patterns seen during earlier bull markets, Cryptoquant CEO Ki Young Ju said. His assessment coincides with approximately $1.07 billion in U.S. spot bitcoin fund inflows over three sessions through Oct. 21, adding a separate sign of renewed demand. Fresh Capital Points to Bull…",
-   "source": "Bitcoin.com News",
-   "ts": 1792706105,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-flashes-bull-market-signal-amid-fresh-etf-inflows-cryptoquant-ceo/",
    "ad": false
   },
   {
