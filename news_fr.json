@@ -1,8 +1,16 @@
 {
- "updated": 1792728596,
+ "updated": 1792732079,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+   "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+   "source": "Cointelegraph",
+   "ts": 1792730054,
+   "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm",
+   "ad": false
+  },
   {
    "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
    "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1792686035,
    "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss_tag_",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
-   "summary": "Bitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it's being held back – at least for now. This post Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792685066,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
    "ad": false
   }
  ]
