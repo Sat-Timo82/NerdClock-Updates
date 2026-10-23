@@ -1,8 +1,16 @@
 {
- "updated": 1792755731,
+ "updated": 1792759261,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin consolidates after 3% loss as AI fears stoke fresh stock-market weakness",
+   "summary": "Bitcoin price volatility cooled as stock markets battled another day of resurgent AI fears during Friday's Asia trading session.",
+   "source": "Cointelegraph",
+   "ts": 1792758238,
+   "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss_t",
+   "ad": false
+  },
   {
    "title": "You Can Get a Multisig Bitcoin Loan at a Bank, as Sygnum and Debifi Debut",
    "summary": "A growing market for bitcoin-backed, multisig-secured loans now has what appears to be its first bank offering this type of product, as Sygnum and Debifi delivered on a promise made a year ago. Switzerland-headquartered digital asset bank Sygnum and Latvian bitcoin lending platform Debifi launched MultiSYG, a loan product that…",
@@ -28,8 +36,8 @@
    "ad": false
   },
   {
-   "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
-   "summary": "Bitcoin went quiet after a week of big swings, with tech futures steadying and Brent hitting its highest level since early May. The Fed meets next week.",
+   "title": "Live updates: Bitcoin holds above $81,000 as markets calm, oil continues to gain",
+   "summary": "South Korea's Kospi was flat overnight, suggesting some steadying in the AI trade. Nasdaq 100 futures are steady as well, but oil continues its climb.",
    "source": "CoinDesk",
    "ts": 1792753981,
    "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1792730054,
    "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
-   "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
-   "source": "CoinDesk",
-   "ts": 1792725181,
-   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
    "ad": false
   }
  ]

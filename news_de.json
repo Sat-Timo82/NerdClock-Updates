@@ -1,8 +1,16 @@
 {
- "updated": 1792755731,
+ "updated": 1792759261,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "China fordert Beschlagnahmung von rund 61.900 BTC aus milliardenschwerem Betrugsfall",
+   "summary": "China fordert die Einziehung von rund 61.900 Bitcoin aus einem Betrugsfall. Doch auch Großbritannien erhebt Ansprüche auf das Vermögen.",
+   "source": "Blocktrainer",
+   "ts": 1792757525,
+   "url": "https://www.blocktrainer.de/blog/china-fordert-beschlagnahmung-von-rund-61900-btc-aus-milliardenschwerem-betrugsfall",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Crash nach den Midterms? Charles Schwab sieht mögliche Kaufchance",
    "summary": "Kommt ein Bitcoin-Crash nach den US-Midterms? Charles Schwab sieht einen möglichen Kursrückgang als Kaufchance und hält den Einfluss der Wahlen für überschätzt.",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1792596600,
    "url": "https://www.blocktrainer.de/blog/swaps-von-liquid-zu-bitcoin-sind-wieder-verfuegbar",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor einer Rallye wie im Dotcom-Boom? So wäre 1 Million US-Dollar möglich",
-   "summary": "Bitcoin könnte auf eine Million US-Dollar steigen, wenn sich ein Kursmuster aus der Dotcom-Zeit wiederholt. Analyst Michael van de Poppe beschreibt, wie ein solcher Anstieg aussehen könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792594184,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-einer-rallye-wie-im-dotcom-boom-so-waere-1-million-us-dollar-moeglich-239630/",
    "ad": false
   }
  ]
