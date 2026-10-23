@@ -75,6 +75,7 @@ main{flex:1;max-width:920px;margin:0 auto;padding:56px 20px;width:100%;}
 esp-web-install-button button{background:var(--red);color:#fff;font:700 15px var(--font);padding:14px 34px;border-radius:12px;
   border:none;cursor:pointer;letter-spacing:.2px;box-shadow:0 6px 28px rgba(244,60,30,.3);transition:background .15s;}
 esp-web-install-button button:hover{background:var(--red2);}
+#premium-apex esp-web-install-button button:hover{background:#3A3A3D !important;}
 .flash-note{font-size:11.5px;color:var(--t3);margin-top:16px;line-height:1.7;}
 .flash-note strong{color:var(--t2);}
 
@@ -220,6 +221,21 @@ footer b{color:var(--red);}
         <div class="flash-note" style="color:#BFE7EC">
           Wie oben: Display per USB-C (Buchse „UART“) anschließen, bei „Gerät löschen?“ <strong>Ja</strong> wählen.
           Marke und Logo von Blocktrainer nur zum internen Test – nicht weitergeben, bis Blocktrainer zugestimmt hat.
+        </div>
+      </div>
+
+      <div class="flash-zone" id="premium-apex" style="border-color:#9C9A9C;background:linear-gradient(180deg,rgba(20,20,22,.55),rgba(8,8,9,.92)),url(apex-kachel.jpg) center/cover;font-family:Georgia,'Times New Roman',serif">
+        <div class="flash-zone-title" style="color:#F2F2F2;letter-spacing:.06em">NerdClock Premium v3.1.19 – Bitcoin Apex Art Edition <span style="color:#B8B8B8">(Nerdminer.de × Bitcoin Apex Art · privat zum Testen)</span></div>
+        <div class="flash-zone-sub" style="color:#CFCFCF">Gleiche Software und Updates wie oben · Design „Apex“ in Graphit-Tönen voreingestellt · Galerie mit allen Zeichnungen und Texten (DE/EN) · Zeichnung als Hintergrund je Screen · Startbild Nerdminer.de × Bitcoin Apex Art · alle anderen Designs wählbar</div>
+        <esp-web-install-button manifest="manifest-premium-apex.json">
+          <button slot="activate" style="background:#2A2A2C;color:#F2F2F2;border:1px solid #9C9A9C">Apex-Edition installieren</button>
+          <span slot="unsupported">Dein Browser unterstützt das nicht – bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          <span slot="not-allowed">Bitte die Seite über https öffnen.</span>
+        </esp-web-install-button>
+        <div class="flash-note" style="color:#CFCFCF">
+          Wie oben: Display per USB-C (Buchse „UART“) anschließen, bei „Gerät löschen?“ <strong>Ja</strong> wählen.
+          Die Zeichnungen lädt die Uhr nach der Einrichtung automatisch verschlüsselt aus dem Internet (ca. 3 MB, wenige Minuten).
+          Die Edition bleibt bei allen späteren Updates und auch nach dem Zurücksetzen erhalten.
         </div>
       </div>
 

@@ -1,0 +1,32 @@
+{
+  "name": "NerdClock Premium – Bitcoin Apex Art Edition (privat)",
+  "version": "3.1.19",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-P4",
+      "parts": [
+        {
+          "path": "premium-apex/bootloader.bin",
+          "offset": 8192
+        },
+        {
+          "path": "premium-apex/partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "premium/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "premium-apex/firmware.bin",
+          "offset": 65536
+        },
+        {
+          "path": "premium/nerdclock-c6.bin",
+          "offset": 13172736
+        }
+      ]
+    }
+  ]
+}
