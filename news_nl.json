@@ -1,8 +1,16 @@
 {
- "updated": 1792725038,
+ "updated": 1792728596,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+   "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
+   "source": "CoinDesk",
+   "ts": 1792725181,
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+   "ad": false
+  },
   {
    "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
    "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
@@ -41,14 +49,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792706105,
    "url": "https://news.bitcoin.com/market-updates/bitcoin-flashes-bull-market-signal-amid-fresh-etf-inflows-cryptoquant-ceo/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Won't Break $100K By End of 2026, Analysts Say–Here's Why",
-   "summary": "Analysts from top crypto firms believe that other investment options, further interest rate tightening, and the still-developing situation in Iran are making it difficult for bitcoin to rise above the $100,000 price mark, even if a year-end uptick does happen. Bitcoin's $100K Return Seen as Unattainable in 2026 While bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1792697138,
-   "url": "https://news.bitcoin.com/price-predictions/bitcoin-price-wont-break-100k-end-2026-analysts-say-why/",
    "ad": false
   },
   {
