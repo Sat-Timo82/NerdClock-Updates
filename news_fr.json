@@ -1,8 +1,16 @@
 {
- "updated": 1792744700,
+ "updated": 1792748211,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin in 'Wait and See Mode'–And That Might Be a Good Thing",
+   "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
+   "source": "Decrypt",
+   "ts": 1792745735,
+   "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
    "summary": "Thursday's withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1792686667,
    "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
-   "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump's comments on Iran military action.",
-   "source": "Cointelegraph",
-   "ts": 1792686035,
-   "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss_tag_",
    "ad": false
   }
  ]

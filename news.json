@@ -1,8 +1,16 @@
 {
- "updated": 1792744700,
+ "updated": 1792748211,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin als Vermögenschance: Ist der beste Zeitpunkt schon vorbei?",
+   "summary": "Viele halten Bitcoin inzwischen für zu groß für die ganz großen Gewinne. Der Preis allein sagt aber wenig darüber aus, wie viel Spielraum noch bleibt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792746000,
+   "url": "https://www.btc-echo.de/news/ist-es-zu-spaet-um-mit-bitcoin-reich-zu-werden-239165/",
+   "ad": false
+  },
   {
    "title": "Bitcoin die 81.000 US-Dollar-Marke trotz Abflüssen und Ölschock",
    "summary": "Einbrechende Tech-Werte, ein Ölpreis auf Fünfmonatshoch und deutliche Abflüsse aus den ETFs. Gestern lief so ziemlich alles gegen den Markt, doch Bitcoin hält dagegen. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792592446,
    "url": "https://www.btc-echo.de/news/bitcoin-kurserholung-spannendes-long-setup-fuer-trader-239273/",
-   "ad": false
-  },
-  {
-   "title": "Das Potenzial von STRC und Co.: Neuer Fidelity-Report zur neuesten Nachfragequelle für Bitcoin",
-   "summary": "Laut einem neuen Fidelity-Report könnten Vorzugsaktien wie STRC von Strategy oder SATA von Strive ein immer relevanterer Nachfragetreiber für Bitcoin werden.",
-   "source": "Blocktrainer",
-   "ts": 1792587600,
-   "url": "https://www.blocktrainer.de/blog/neuer-fidelity-report-der-neueste-nachfrage-katalysator-fuer-bitcoin",
    "ad": false
   }
  ]
