@@ -1,8 +1,24 @@
 {
- "updated": 1792716415,
+ "updated": 1792719726,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Fidelity Sees Huge Bitcoin Potential in $150 Trillion Bond Market",
+   "summary": "Bitcoin-focused preferred stocks could draw more income-seeking capital into cryptocurrency purchases, a new Fidelity analysis suggests. The firm sees room for growth within the $150 trillion global fixed-income market, with investment outcomes tied to bitcoin's performance and issuer strength. How a $150 Trillion Market Could…",
+   "source": "Bitcoin.com News",
+   "ts": 1792719006,
+   "url": "https://news.bitcoin.com/featured/fidelity-sees-huge-bitcoin-potential-in-150-trillion-bond-market/",
+   "ad": false
+  },
+  {
+   "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+   "summary": "BIT Asset Management's Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
+   "source": "Cointelegraph",
+   "ts": 1792717175,
+   "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
+   "ad": false
+  },
   {
    "title": "Bitcoin Bull Score Index Drops From 80 to 60 as Momentum Weakens",
    "summary": "Bitcoin's Bull Score Index has dropped from 80 to 60 since late September, a new analysis shows. The decline signals a slowing trend as the index sits at a threshold the analyst associates with positive momentum. Bitcoin Bull Score Signals Slower Momentum Bitcoin's market momentum has weakened since late September, with…",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792683301,
    "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "CryptoQuant CEO calls rising Bitcoin hashrate 'indirect bullish signal' from institutions",
-   "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin's hashrate, a positive sign for BTC's fundamentals, according to CryptoQuant's Ki Young Ju.",
-   "source": "Cointelegraph",
-   "ts": 1792676554,
-   "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
-   "ad": false
-  },
-  {
-   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet",
-   "summary": "Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \"Unknown\" Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors. This post Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792676290,
-   "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
    "ad": false
   }
  ]
