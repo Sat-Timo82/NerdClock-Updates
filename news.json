@@ -1,8 +1,16 @@
 {
- "updated": 1792769963,
+ "updated": 1792773553,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Krypto-Adoption ohne Bitcoin? China veröffentlicht Blockchain-Plan für 2030",
+   "summary": "Peking beschließt den flächendeckenden Ausbau eines nationalen Blockchain-Netzwerks bis 2030. Mit Bitcoin, Ethereum und Co. hat die staatliche Strategie aber wenig zu tun. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792771320,
+   "url": "https://www.btc-echo.de/news/krypto-ohne-bitcoin-china-nennt-blockchain-plan-2030-239779/",
+   "ad": false
+  },
   {
    "title": "Wie gefährlich ist Frankreichs Schuldenkrise für Bitcoin?",
    "summary": "Frankreich zahlt für zehnjährige Staatsanleihen so viel wie seit über 20 Jahren nicht mehr, der Abstand zu Deutschland wächst rasant. Im Video mit Andreas Lipkow, Chef-Marktanalyst von CMC Markets, geht es darum, wie die Eurozone aus dieser Lage wieder herauskommt und was das für Bitcoin bedeutet. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1792650221,
    "url": "https://www.btc-echo.de/news/bitcoin-rallye-scheitet-ueber-nacht-warum-die-maerkte-wieder-fallen-239651/",
-   "ad": false
-  },
-  {
-   "title": "Wie lange bleibt Bitcoin noch so ruhig? Was Anleger jetzt im Blick behalten sollten",
-   "summary": "Bitcoin bewegt sich seit Wochen kaum vom Fleck. Warum die kommenden Tage für Anleger besonders spannend werden könnten und welche Entwicklungen jetzt wichtig sind. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792636200,
-   "url": "https://www.btc-echo.de/news/wie-lange-bleibt-bitcoin-noch-so-ruhig-was-anleger-jetzt-im-blick-behalten-sollten-239639/",
    "ad": false
   }
  ]

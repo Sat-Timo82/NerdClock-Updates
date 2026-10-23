@@ -1,8 +1,32 @@
 {
- "updated": 1792769963,
+ "updated": 1792773553,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+   "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+   "source": "Decrypt",
+   "ts": 1792770641,
+   "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+   "ad": false
+  },
+  {
+   "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+   "summary": "Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every dividend buys more bitcoin. This post Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin first appeared on Bitcoin…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792770005,
+   "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+   "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.",
+   "source": "Cointelegraph",
+   "ts": 1792769957,
+   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss",
+   "ad": false
+  },
   {
    "title": "Blackrock, Fidelity Lead $635M Bitcoin ETF Loss–Biggest Outflow Since June",
    "summary": "U.S. bitcoin ETFs suffered $635.49 million in net outflows on Thursday, abruptly interrupting a three-session run that had attracted more than $1 billion. Bitcoin ETFs Suffer Biggest Outflow Since June The institutional tide turned with remarkable speed. A day after bitcoin ETF buying broadened across eight funds, investors…",
@@ -57,30 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1792758238,
    "url": "https://cointelegraph.com/markets/bitcoin-consolidates-after-3-loss-as-ai-fears-stoke-fresh-stock-market-weakness?utm_source=rss_feed&utm_medium=rss_t",
-   "ad": false
-  },
-  {
-   "title": "You Can Get a Multisig Bitcoin Loan at a Bank, as Sygnum and Debifi Debut",
-   "summary": "A growing market for bitcoin-backed, multisig-secured loans now has what appears to be its first bank offering this type of product, as Sygnum and Debifi delivered on a promise made a year ago. Switzerland-headquartered digital asset bank Sygnum and Latvian bitcoin lending platform Debifi launched MultiSYG, a loan product that…",
-   "source": "Bitcoin.com News",
-   "ts": 1792755645,
-   "url": "https://news.bitcoin.com/finance/you-can-get-a-multisig-bitcoin-loan-at-a-bank-as-sygnum-and-debifi-debut/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day's…",
-   "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
-   "source": "The Block",
-   "ts": 1792755585,
-   "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
-   "summary": "Your day-ahead look for Oct. 23, 2026",
-   "source": "CoinDesk",
-   "ts": 1792754553,
-   "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
    "ad": false
   }
  ]
