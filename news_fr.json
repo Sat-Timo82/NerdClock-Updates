@@ -1,8 +1,24 @@
 {
- "updated": 1792750400,
+ "updated": 1792753640,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+   "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+   "source": "Decrypt",
+   "ts": 1792752875,
+   "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+   "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year's recovery raises the possibility that the bottom arrived months earlier.",
+   "source": "CoinDesk",
+   "ts": 1792752789,
+   "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+   "ad": false
+  },
   {
    "title": "Bitcoin in 'Wait and See Mode'–And That Might Be a Good Thing",
    "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
@@ -60,27 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Bull Score Index Drops From 80 to 60 as Momentum Weakens",
-   "summary": "Bitcoin's Bull Score Index has dropped from 80 to 60 since late September, a new analysis shows. The decline signals a slowing trend as the index sits at a threshold the analyst associates with positive momentum. Bitcoin Bull Score Signals Slower Momentum Bitcoin's market momentum has weakened since late September, with…",
-   "source": "Bitcoin.com News",
-   "ts": 1792714232,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-bull-score-index-drops-from-80-to-60-as-momentum-weakens/",
-   "ad": false
-  },
-  {
    "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
    "summary": "The alleged fraudster tried to run away with nearly 62,000 bitcoins. This post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
    "source": "Bitcoin Magazine",
    "ts": 1792693922,
    "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
-   "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
-   "source": "Decrypt",
-   "ts": 1792686667,
-   "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
    "ad": false
   }
  ]
