@@ -1,8 +1,16 @@
 {
- "updated": 1792748211,
+ "updated": 1792750400,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Crash nach den Midterms? Charles Schwab sieht mögliche Kaufchance",
+   "summary": "Kommt ein Bitcoin-Crash nach den US-Midterms? Charles Schwab sieht einen möglichen Kursrückgang als Kaufchance und hält den Einfluss der Wahlen für überschätzt.",
+   "source": "Blocktrainer",
+   "ts": 1792748452,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-crash-nach-den-midterms-charles-schwab-sieht-moegliche-kaufchance",
+   "ad": false
+  },
   {
    "title": "Bitcoin als Vermögenschance: Ist der beste Zeitpunkt schon vorbei?",
    "summary": "Viele halten Bitcoin inzwischen für zu groß für die ganz großen Gewinne. Der Preis allein sagt aber wenig darüber aus, wie viel Spielraum noch bleibt. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792594184,
    "url": "https://www.btc-echo.de/news/bitcoin-vor-einer-rallye-wie-im-dotcom-boom-so-waere-1-million-us-dollar-moeglich-239630/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurserholung: Spannendes Long-Setup für Trader",
-   "summary": "Bitcoin scheint die jüngste Kursschwäche abzuschütteln. Eine bullishe Trendfortsetzung in Richtung der Oktoberhochs würde einen interessanten Long-Trade für aktive Trader bieten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792592446,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurserholung-spannendes-long-setup-fuer-trader-239273/",
    "ad": false
   }
  ]
