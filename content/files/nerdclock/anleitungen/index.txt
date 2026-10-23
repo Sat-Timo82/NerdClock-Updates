@@ -1,0 +1,4 @@
+bitforge|Bitforge Nano|9|280|280|assist
+candy|Candy Dispenser|10|280|280|assist
+seedsigner|SeedSigner|12|280|280|assist
+nerdqaxe|NerdQAxe++|8|280|280|assist
