@@ -1,0 +1,34 @@
+0	Meereswellen	Ocean waves	01.mp3
+0	Sanfte Wellen	Gentle waves	02.mp3
+0	Strandwellen	Beach waves	03.mp3
+0	Pazifikstrand	Pacific beach	04.mp3
+0	Strand auf Fidschi	Fiji beach	05.mp3
+0	Küste	Seascape	06.mp3
+0	Wellen an Felsen	Waves on rocks	07.mp3
+1	Sanfter Regen	Gentle rain	08.mp3
+1	Leichter Regen	Light rain	09.mp3
+1	Gleichmäßiger Regen	Steady rain	10.mp3
+1	Regen am Meer	Rain by the sea	11.mp3
+1	Regen & Waldvögel	Rain & forest birds	12.mp3
+2	Mühlbach	Mill stream	13.mp3
+2	Waldwasserfall	Forest waterfall	14.mp3
+2	Wasserfall in Island	Iceland waterfall	15.mp3
+2	Wasserfall I	Waterfall I	16.mp3
+2	Wasserfall II	Waterfall II	17.mp3
+2	Unter dem Wasserfall	Under the waterfall	18.mp3
+3	Sanftes Plätschern	Gentle splashing	19.mp3
+3	Kleiner Brunnen	Small fountain	20.mp3
+4	Walgesang	Whale song	21.mp3
+4	Buckelwal	Humpback whale	22.mp3
+4	Tiefer Walgesang	Deep whale song	23.mp3
+5	Singende Klangschale	Singing bowl	24.mp3
+5	Tibetische Klangschale I	Tibetan bowl I	25.mp3
+5	Tibetische Klangschale II	Tibetan bowl II	26.mp3
+5	Tiefe Klangschale	Deep bowl	27.mp3
+5	Kristallschalen & Vögel	Crystal bowls & birds	28.mp3
+6	Meditationsgesang	Meditation chant	29.mp3
+6	Tempelgesang	Temple chant	30.mp3
+6	Himmlische Melodie	Celestial melody	31.mp3
+6	Dünen	Dunes	32.mp3
+6	Entspannung I	Relaxation I	33.mp3
+6	Entspannung II	Relaxation II	34.mp3
