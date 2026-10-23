@@ -1,8 +1,16 @@
 {
- "updated": 1792732079,
+ "updated": 1792735646,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin die 81.000 US-Dollar-Marke trotz Abflüssen und Ölschock",
+   "summary": "Einbrechende Tech-Werte, ein Ölpreis auf Fünfmonatshoch und deutliche Abflüsse aus den ETFs. Gestern lief so ziemlich alles gegen den Markt, doch Bitcoin hält dagegen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792735185,
+   "url": "https://www.btc-echo.de/news/bitcoin-die-81-000-us-dollar-marke-trotz-abfluessen-und-oelschock-239727/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Milliarden: Bekommen betrogene Anleger den Kursgewinn?",
    "summary": "Mit dem Geld betrogener Anleger kaufte eine Chinesin Bitcoin, deren Wert den Schaden heute um Milliarden übersteigt. China, London und 16.000 Opfer streiten nun um den Gewinn. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1792587600,
    "url": "https://www.blocktrainer.de/blog/neuer-fidelity-report-der-neueste-nachfrage-katalysator-fuer-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Elon Musk prüft Mega-Fusion: Was passiert mit den 30.000 Bitcoin?",
-   "summary": "Tesla trennte sich 2022 von drei Viertel seiner Bitcoin, seitdem herrscht Stillstand. Ändert ein Zusammenschluss mit SpaceX daran etwas? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792587341,
-   "url": "https://www.btc-echo.de/news/elon-musk-prueft-mega-fusion-was-passiert-mit-den-30-000-bitcoin-239603/",
    "ad": false
   }
  ]
