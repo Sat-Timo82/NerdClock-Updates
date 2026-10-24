@@ -1,5 +1,5 @@
 {
- "updated": 1792811149,
+ "updated": 1792813023,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -9,14 +9,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792800103,
    "url": "https://news.bitcoin.com/interview/clarity-good-you-can-get-byron-donalds-bitcoin-prediction-markets-florida/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Stuck Near $81K as Oil Surge Rattles Global Markets",
-   "summary": "Following two days of high volatility, bitcoin traded largely flat around $81,500, putting it on track for its first monthly loss since July. Bitcoin Flat Amid Geopolitical Tensions Following two days of heightened price volatility, bitcoin traded largely flat on Friday, even as surging oil prices–fueled by fears of escalating…",
-   "source": "Bitcoin.com News",
-   "ts": 1792777096,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-stuck-near-81k-oil-surge-rattles-global-markets/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1792761712,
    "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
+   "ad": false
+  },
+  {
+   "title": "Bloomberg's Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+   "summary": "Bitcoin Magazine Bloomberg's Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000 Bloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets. This post Bloomberg's Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792761484,
+   "url": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
    "ad": false
   }
  ]
