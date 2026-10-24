@@ -1,8 +1,16 @@
 {
- "updated": 1792863103,
+ "updated": 1792864702,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+   "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
+   "source": "The Block",
+   "ts": 1792863876,
+   "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+   "ad": false
+  },
   {
    "title": "Chamath Palihapitiya Warns Bitcoin Will Hit Zero After Years of Bullish Calls",
    "summary": "Chamath Palihapitiya once predicted bitcoin would reach $1 million. Now he says artificial intelligence (AI) will eventually hack the Bitcoin protocol and ultimately send BTC's value to zero. But the billionaire's reversal follows a familiar pattern. From selling Tesla shares while publicly praising the company to…",
@@ -40,7 +48,7 @@
    "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
    "source": "CoinDesk",
    "ts": 1792850400,
-   "url": "https://www.coindesk.com/",
+   "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1792775763,
    "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
-   "summary": "Investors this week were buying bitcoin ETFs but that all changed on Thursday. This post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-   "source": "Bitcoin Magazine",
-   "ts": 1792773996,
-   "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
    "ad": false
   }
  ]
