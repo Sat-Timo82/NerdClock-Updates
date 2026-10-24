@@ -1,8 +1,16 @@
 {
- "updated": 1792855913,
+ "updated": 1792857745,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+   "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+   "source": "CoinDesk",
+   "ts": 1792857600,
+   "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+   "ad": false
+  },
   {
    "title": "McRib Is Back, and Bitcoin's Weirdest Bullish Indicator Lives On",
    "summary": "Crypto proponents are once again entertaining the curious connection between McDonald's McRib and bitcoin prices, as the fast-food giant announced the limited-time sandwich will return Oct. 27, reigniting speculation over whether its comeback might serve up a bullish helping of bitcoin price action. Bitcoin Traders Revisit the…",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1792770641,
    "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
-   "ad": false
-  },
-  {
-   "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
-   "summary": "Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every dividend buys more bitcoin. This post Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792770005,
-   "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
    "ad": false
   }
  ]
