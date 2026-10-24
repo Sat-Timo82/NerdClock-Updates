@@ -1,8 +1,16 @@
 {
- "updated": 1792845637,
+ "updated": 1792848847,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Price Faces $78K Threat as Sellers Hammer Key Support",
+   "summary": "Bitcoin's price traded near $80,500 Saturday morning, Oct. 24, with sellers controlling the shorter time frames despite longer-term technical indicators remaining positive. Exchange aggregation sites recorded a 24-hour low of $80,409, while Bitstamp logs identified support near $80,351 per coin. The technical picture remains…",
+   "source": "Bitcoin.com News",
+   "ts": 1792845904,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-faces-78k-threat-as-sellers-hammer-key-support/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Slides Under $81K as Trump Breaks a Line Bulls Held Since August",
    "summary": "Bitcoin closed a daily candle below its 50-day moving average for the first time since August, as $318 million in long bets were wiped out in a single day. The Line That Broke For roughly two months, bitcoin's 50-day moving average (MA) acted like a floor where every dip toward it got bought. That status […]",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792762096,
    "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
-   "ad": false
-  },
-  {
-   "title": "Block Releases THE Bitcoin National Ad Campaign",
-   "summary": "Bitcoin Magazine Block Releases THE Bitcoin National Ad Campaign Block launches 'Bitcoin Does' to onboard millions. Head of Bitcoin Marketing Maria Pesce explains how the campaign focuses on real-world utility over tech. This post Block Releases THE Bitcoin National Ad Campaign first appeared on Bitcoin Magazine and is written…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792761712,
-   "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
    "ad": false
   }
  ]

@@ -1,8 +1,16 @@
 {
- "updated": 1792845637,
+ "updated": 1792848847,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Ölpreis steigt, Tech fällt: Bitcoin steht vor der heikelsten Fed-Woche des Herbstes",
+   "summary": "Bitcoin fällt trotz sinkender US-Renditen. Warum die KI-Zahlen von Meta und der Ölpreis den Kurs vor der Fed-Entscheidung bewegen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792848600,
+   "url": "https://www.btc-echo.de/news/oelpreis-steigt-tech-faellt-bitcoin-steht-vor-der-heikelsten-fed-woche-des-herbstes-239748/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Allzeithoch im Sommer 2027? Warum geduldige Anleger hoffen dürfen",
    "summary": "Die Krypto-Euphorie des Augusts ist abgeflaut, der Bitcoin-Kurs stagniert zwischen 80.000 und 85.000 Dollar. Doch Anleger sollten jetzt nicht vorschnell die Flinte ins Korn werfen. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792746000,
    "url": "https://www.btc-echo.de/news/ist-es-zu-spaet-um-mit-bitcoin-reich-zu-werden-239165/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin die 81.000 US-Dollar-Marke trotz Abflüssen und Ölschock",
-   "summary": "Einbrechende Tech-Werte, ein Ölpreis auf Fünfmonatshoch und deutliche Abflüsse aus den ETFs. Gestern lief so ziemlich alles gegen den Markt, doch Bitcoin hält dagegen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792735185,
-   "url": "https://www.btc-echo.de/news/bitcoin-die-81-000-us-dollar-marke-trotz-abfluessen-und-oelschock-239727/",
    "ad": false
   }
  ]
