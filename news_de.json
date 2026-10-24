@@ -1,8 +1,16 @@
 {
- "updated": 1792830847,
+ "updated": 1792832719,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Allzeithoch im Sommer 2027? Warum geduldige Anleger hoffen dürfen",
+   "summary": "Die Krypto-Euphorie des Augusts ist abgeflaut, der Bitcoin-Kurs stagniert zwischen 80.000 und 85.000 Dollar. Doch Anleger sollten jetzt nicht vorschnell die Flinte ins Korn werfen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792832019,
+   "url": "https://www.btc-echo.de/news/neues-bitcoin-allzeithoch-im-sommer-2027-239792/",
+   "ad": false
+  },
   {
    "title": "Bitcoin kaufen, verkaufen oder abwarten? Das sagt ein Krypto-Experte",
    "summary": "Dass der Bitcoin-Kurs seit Wochen zwischen 80.000 und 85.000 US-Dollar pendelt, lässt viele Anleger verunsichert zurück. So schätzt ein Krypto-Insider die derzeitige Lage ein. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792735185,
    "url": "https://www.btc-echo.de/news/bitcoin-die-81-000-us-dollar-marke-trotz-abfluessen-und-oelschock-239727/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Milliarden: Bekommen betrogene Anleger den Kursgewinn?",
-   "summary": "Mit dem Geld betrogener Anleger kaufte eine Chinesin Bitcoin, deren Wert den Schaden heute um Milliarden übersteigt. China, London und 16.000 Opfer streiten nun um den Gewinn. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792673072,
-   "url": "https://www.btc-echo.de/news/bitcoin-schatz-im-visier-wer-kassiert-den-kursgewinn-239663/",
    "ad": false
   }
  ]
