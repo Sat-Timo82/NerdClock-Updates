@@ -1,8 +1,16 @@
 {
- "updated": 1792848847,
+ "updated": 1792850552,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin's wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+   "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+   "source": "CoinDesk",
+   "ts": 1792850400,
+   "url": "https://www.coindesk.com/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Faces $78K Threat as Sellers Hammer Key Support",
    "summary": "Bitcoin's price traded near $80,500 Saturday morning, Oct. 24, with sellers controlling the shorter time frames despite longer-term technical indicators remaining positive. Exchange aggregation sites recorded a 24-hour low of $80,409, while Bitstamp logs identified support near $80,351 per coin. The technical picture remains…",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1792763936,
    "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
-   "ad": false
-  },
-  {
-   "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
-   "summary": "Bitcoin Magazine Parker Lewis: Bitcoin Will Settle 100% of Global Payments Parker Lewis argues Bitcoin will settle all global payments as $107T in debt strains the credit system, driving merchants toward zero-fee adoption. This post Parker Lewis: Bitcoin Will Settle 100% of Global Payments first appeared on Bitcoin Magazine…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792762096,
-   "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
    "ad": false
   }
  ]
