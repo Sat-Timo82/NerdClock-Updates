@@ -1,5 +1,5 @@
 {
- "updated": 1792871811,
+ "updated": 1792873840,
  "mode": "stichworte",
  "lang": "es",
  "items": [
@@ -76,11 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Bettors Push Kalshi and Polymarket to a Record $2.7B Week",
-   "summary": "Crypto contracts on Kalshi and Polymarket hit a record $2.7 billion in weekly volume, driven mostly by short-term bets on where bitcoin heads next. What Set the Record Exactly? Weekly notional volume in crypto-related contracts on Kalshi and Polymarket reached a record $2.7 billion, with most of that money going into…",
-   "source": "Bitcoin.com News",
-   "ts": 1792834219,
-   "url": "https://news.bitcoin.com/market-updates/kalshi-polymarket-crypto-volume-record-2-7-billion/",
+   "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+   "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as \"easily discoverable,\" abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+   "source": "Decrypt",
+   "ts": 1792775763,
+   "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
    "ad": false
   }
  ]
