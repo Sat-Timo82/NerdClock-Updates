@@ -1,5 +1,5 @@
 {
- "updated": 1792818292,
+ "updated": 1792820160,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -33,6 +33,14 @@
    "source": "BTC-ECHO",
    "ts": 1792767600,
    "url": "https://www.btc-echo.de/news/wie-gefaehrlich-ist-frankreichs-schuldenkrise-fuer-bitcoin-239625/",
+   "ad": false
+  },
+  {
+   "title": "Ist der klassische Bitcoin-Zyklus Geschichte? Glassnode liefert neue Hinweise",
+   "summary": "Verliert der Bitcoin-Vierjahreszyklus an Bedeutung? Ein neuer Glassnode-Report liefert spannende Hinweise auf einen grundlegenden Wandel.",
+   "source": "Blocktrainer",
+   "ts": 1792758509,
+   "url": "https://www.blocktrainer.de/blog/ist-der-klassische-bitcoin-zyklus-geschichte-glassnode-liefert-neue-hinweise",
    "ad": false
   },
   {
