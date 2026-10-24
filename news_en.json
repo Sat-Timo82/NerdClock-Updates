@@ -1,5 +1,5 @@
 {
- "updated": 1792877448,
+ "updated": 1792879210,
  "mode": "stichworte",
  "lang": "en",
  "items": [
@@ -68,19 +68,19 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Slides Under $81K as Trump Breaks a Line Bulls Held Since August",
-   "summary": "Bitcoin closed a daily candle below its 50-day moving average for the first time since August, as $318 million in long bets were wiped out in a single day. The Line That Broke For roughly two months, bitcoin's 50-day moving average (MA) acted like a floor where every dip toward it got bought. That status […]",
-   "source": "Bitcoin.com News",
-   "ts": 1792837846,
-   "url": "https://news.bitcoin.com/finance/bitcoin-price-50-day-moving-average-trump-iran-liquidations/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
    "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as \"easily discoverable,\" abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
    "source": "Decrypt",
    "ts": 1792775763,
    "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+   "summary": "Investors this week were buying bitcoin ETFs but that all changed on Thursday. This post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "source": "Bitcoin Magazine",
+   "ts": 1792773996,
+   "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
    "ad": false
   }
  ]
