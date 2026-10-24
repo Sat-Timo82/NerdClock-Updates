@@ -1,8 +1,16 @@
 {
- "updated": 1792857745,
+ "updated": 1792859567,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Chamath Palihapitiya Warns Bitcoin Will Hit Zero After Years of Bullish Calls",
+   "summary": "Chamath Palihapitiya once predicted bitcoin would reach $1 million. Now he says artificial intelligence (AI) will eventually hack the Bitcoin protocol and ultimately send BTC's value to zero. But the billionaire's reversal follows a familiar pattern. From selling Tesla shares while publicly praising the company to…",
+   "source": "Bitcoin.com News",
+   "ts": 1792859442,
+   "url": "https://news.bitcoin.com/price-predictions/chamath-palihapitiya-warns-bitcoin-will-hit-zero-after-years-of-bullish-calls/",
+   "ad": false
+  },
   {
    "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
    "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792773996,
    "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-   "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
-   "source": "Decrypt",
-   "ts": 1792770641,
-   "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
    "ad": false
   }
  ]

@@ -1,8 +1,16 @@
 {
- "updated": 1792857745,
+ "updated": 1792859567,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Liquidierungen am Wochenende: Bitcoin rutscht wieder unter 80.000 US-Dollar",
+   "summary": "Bitcoin ist soeben auf 79.100 US-Dollar gefallen – das tiefste Niveau seit dem 18. September. Kann BTC der Schwäche an den Gesamtmärkten nicht mehr trotzen?",
+   "source": "Blocktrainer",
+   "ts": 1792858903,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-rutscht-wieder-unter-80000-us-dollar",
+   "ad": false
+  },
   {
    "title": "Ölpreis steigt, Tech fällt: Bitcoin steht vor der heikelsten Fed-Woche des Herbstes",
    "summary": "Bitcoin fällt trotz sinkender US-Renditen. Warum die KI-Zahlen von Meta und der Ölpreis den Kurs vor der Fed-Entscheidung bewegen. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1792748452,
    "url": "https://www.blocktrainer.de/blog/bitcoin-crash-nach-den-midterms-charles-schwab-sieht-moegliche-kaufchance",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin als Vermögenschance: Ist der beste Zeitpunkt schon vorbei?",
-   "summary": "Viele halten Bitcoin inzwischen für zu groß für die ganz großen Gewinne. Der Preis allein sagt aber wenig darüber aus, wie viel Spielraum noch bleibt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792746000,
-   "url": "https://www.btc-echo.de/news/ist-es-zu-spaet-um-mit-bitcoin-reich-zu-werden-239165/",
    "ad": false
   }
  ]
