@@ -1,8 +1,24 @@
 {
- "updated": 1792854094,
+ "updated": 1792855913,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "McRib Is Back, and Bitcoin's Weirdest Bullish Indicator Lives On",
+   "summary": "Crypto proponents are once again entertaining the curious connection between McDonald's McRib and bitcoin prices, as the fast-food giant announced the limited-time sandwich will return Oct. 27, reigniting speculation over whether its comeback might serve up a bullish helping of bitcoin price action. Bitcoin Traders Revisit the…",
+   "source": "Bitcoin.com News",
+   "ts": 1792855846,
+   "url": "https://news.bitcoin.com/featured/mcrib-is-back-and-bitcoins-weirdest-bullish-indicator-lives-on/",
+   "ad": false
+  },
+  {
+   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+   "summary": "Bitcoin has sunk to its weakest level in more than one month.",
+   "source": "CoinDesk",
+   "ts": 1792854684,
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+   "ad": false
+  },
   {
    "title": "Bitcoin's wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
    "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792770005,
    "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-   "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.",
-   "source": "Cointelegraph",
-   "ts": 1792769957,
-   "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss",
-   "ad": false
-  },
-  {
-   "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-   "summary": "The company's head of futures and prediction markets said bitcoin, gold and oil contracts are among its fastest-growing prediction markets.",
-   "source": "CoinDesk",
-   "ts": 1792763936,
-   "url": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
    "ad": false
   }
  ]
