@@ -1,5 +1,5 @@
 {
- "updated": 1792970893,
+ "updated": 1792972568,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
@@ -52,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "PHP Flaw Shakes Internet, Bitcoin Flashes Bull Signal, and More – Weekly Recap",
-   "summary": "This week's stories covered shifting market signals, DeFi expansion, institutional staking, venture capital and cybersecurity. Uniswap found a way to route outside DEX liquidity into UNI burns, while Cryptoquant's Ki Young Ju pointed to renewed bitcoin inflows as a bullish signal. Bitmine staked another $390.6 million in ETH…",
-   "source": "Bitcoin.com News",
-   "ts": 1792936819,
-   "url": "https://news.bitcoin.com/featured/php-flaw-shakes-internet-bitcoin-flashes-bull-signal-and-more-weekly-recap/",
-   "ad": false
-  },
-  {
    "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
    "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
    "source": "The Block",
@@ -81,6 +73,14 @@
    "source": "CoinDesk",
    "ts": 1792854684,
    "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+   "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+   "source": "CoinDesk",
+   "ts": 1792850400,
+   "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
    "ad": false
   }
  ]
