@@ -1,8 +1,16 @@
 {
- "updated": 1792963845,
+ "updated": 1792965565,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin's 7-Day Hashrate Returns to 1 ZH/s After Nearly 8 Months",
+   "summary": "Bitcoin's computational firepower, measured by its network hashrate, has reclaimed the 1 zettahash per second (ZH/s) threshold, with miners worldwide once again executing more than 1 sextillion calculations every second to safeguard the network and compete for newly minted bitcoin. Bitcoin Hashrate Reclaims 1 ZH/s as Mining…",
+   "source": "Bitcoin.com News",
+   "ts": 1792964703,
+   "url": "https://news.bitcoin.com/mining/bitcoins-7-day-hashrate-returns-to-1-zh-s-after-nearly-8-months/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Lose $138M as Zcash Extends 3-Day Inflow Streak",
    "summary": "U.S. bitcoin ETFs closed Friday with $137.94 million in net outflows, capping a volatile week in which large inflows were quickly followed by equally sharp reversals. Ether returned to modest inflows, while Zcash and NEAR remained the only other categories to attract fresh capital. Bitcoin ETFs Swing From Inflows to Selling…",
@@ -57,14 +65,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792933204,
    "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-withstands-headwinds-week-in-review/",
-   "ad": false
-  },
-  {
-   "title": "Miner Weekly: Bitcoin Hashrate Shrugs off the AI Unplug, Regaining 1 ZH/s Level",
-   "summary": "Big public miners are making room for artificial intelligence (AI). Bitcoin's hashrate is climbing anyway. This article first appeared in Miner Weekly, a weekly newsletter by Blocksbridge Consulting curating the latest news in energy, compute, infrastructure, and data analysis from The Energy Mag. The original article can be…",
-   "source": "Bitcoin.com News",
-   "ts": 1792927817,
-   "url": "https://news.bitcoin.com/mining/miner-weekly-bitcoin-hashrate-shrugs-off-the-ai-unplug-regaining-1-zh-s-level/",
    "ad": false
   },
   {
