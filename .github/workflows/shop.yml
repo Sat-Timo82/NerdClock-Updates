@@ -1,0 +1,29 @@
+# Für alle NerdClocks: neue Produkte aus dem Nerdminer.de-Shop (Auswahl in shop/auswahl.json) zweimal täglich übernehmen.
+name: Shop-Produkte aktualisieren
+on:
+  schedule:
+    - cron: "23 5,15 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: news
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Produktliste + Bilder erzeugen
+        run: python -I tools/update_shop.py shop || echo "Shop nicht erreichbar, alte Liste bleibt"
+      - name: Nur bei Änderungen speichern
+        run: |
+          git add shop
+          if git diff --cached --quiet; then echo "nichts Neues"; exit 0; fi
+          git config user.name "Sat-Timo82"
+          git config user.email "timobartz13@gmail.com"
+          git commit -m "Shop-Produkte aktualisiert (automatisch)"
+          git pull --rebase -q && git push
