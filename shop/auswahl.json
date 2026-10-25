@@ -1,0 +1,7 @@
+{
+  "_hinweis": "Auswahl für die Produktkarten der NerdClock. 'fest' = diese Shop-Artikel (Adresse aus nerdminer.de/products/<adresse>) in dieser Reihenfolge; 'neu_ab' = später neu veröffentlichte Artikel kommen automatisch dazu; 'nie' = Wörter im Titel, die nie gezeigt werden; 'vorschau' = noch nicht lieferbare Artikel mit 'ab' (z. B. '15.11.2026') – Bild als Datei unter shop/img/.",
+  "fest": ["nerdheizung", "nerdclock-premium", "ofen-3-base", "ofen-2-bitcoin-heizung-mit-bis-zu-40-th-s-mining-leistung", "bitaxe-603-gamma-made-in-germany-mit-1-55-th-s"],
+  "neu_ab": "2026-10-26",
+  "nie": ["Halterung", "Standfuß", "Standfuss", "Upgrade", "Lüfter", "Option"],
+  "vorschau": []
+}
