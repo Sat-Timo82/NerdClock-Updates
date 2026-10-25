@@ -1,5 +1,5 @@
 {
- "updated": 1792901469,
+ "updated": 1792904866,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -17,14 +17,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792888223,
    "url": "https://news.bitcoin.com/price-predictions/tell-me-lies-grok-gpt-and-claude-voice-modes-guess-bitcoins-price/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Sinks to $79,146 as Liquidations Rock Weekend Trading",
-   "summary": "Bitcoin's price cracked below $80,000 on Saturday, touching its lowest price in more than a month as leveraged traders absorbed hundreds of millions in liquidations. The weekend selloff handed longtime bitcoin critic Peter Schiff fresh ammunition for an even darker prediction. Bitcoin's $80,000 Floor Gives Way as Liquidations…",
-   "source": "Bitcoin.com News",
-   "ts": 1792866607,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-sinks-to-79146-as-liquidations-rock-weekend-trading/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Decrypt",
    "ts": 1792770641,
    "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+   "ad": false
+  },
+  {
+   "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+   "summary": "Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every dividend buys more bitcoin. This post Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin first appeared on Bitcoin…",
+   "source": "Bitcoin Magazine",
+   "ts": 1792770005,
+   "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
    "ad": false
   }
  ]
