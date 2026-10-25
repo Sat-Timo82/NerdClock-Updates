@@ -1,5 +1,5 @@
 {
- "updated": 1792913959,
+ "updated": 1792917212,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -9,6 +9,14 @@
    "source": "BTC-ECHO",
    "ts": 1792908000,
    "url": "https://www.btc-echo.de/news/bitcoin-crash-nach-us-midterms-historisches-muster-beunruhigt-239803/",
+   "ad": false
+  },
+  {
+   "title": "Staatliches Bitcoin-Mining: Was planen die USA?",
+   "summary": "Plant die US-Regierung staatliches Bitcoin-Mining? Aussagen hochrangiger Regierungsvertreter und geplante Kernreaktoren auf Militärgelände werfen Fragen auf.",
+   "source": "Blocktrainer",
+   "ts": 1792904460,
+   "url": "https://www.blocktrainer.de/blog/staatliches-bitcoin-mining-was-planen-die-usa",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792767600,
    "url": "https://www.btc-echo.de/news/wie-gefaehrlich-ist-frankreichs-schuldenkrise-fuer-bitcoin-239625/",
-   "ad": false
-  },
-  {
-   "title": "Ist der klassische Bitcoin-Zyklus Geschichte? Glassnode liefert neue Hinweise",
-   "summary": "Verliert der Bitcoin-Vierjahreszyklus an Bedeutung? Ein neuer Glassnode-Report liefert spannende Hinweise auf einen grundlegenden Wandel.",
-   "source": "Blocktrainer",
-   "ts": 1792758509,
-   "url": "https://www.blocktrainer.de/blog/ist-der-klassische-bitcoin-zyklus-geschichte-glassnode-liefert-neue-hinweise",
    "ad": false
   }
  ]

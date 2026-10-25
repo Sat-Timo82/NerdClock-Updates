@@ -1,8 +1,16 @@
 {
- "updated": 1792913959,
+ "updated": 1792917212,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Heatbit's New Water Heater Miner Turns Hot Showers Into Bitcoin",
+   "summary": "A household water heater can now double as a bitcoin miner without replacing the tank. Heatbit's new $899 Bitwater device swaps an ordinary heating element for 20 mining chips, turning electricity used for hot showers into potential bitcoin earnings. Twenty Mining Chips Inside a Water Heater Heatbit is taking bitcoin mining…",
+   "source": "Bitcoin.com News",
+   "ts": 1792915219,
+   "url": "https://news.bitcoin.com/mining/heatbits-new-water-heater-miner-turns-hot-showers-into-bitcoin/",
+   "ad": false
+  },
   {
    "title": "Electrum Wallet Attack Hid Bitcoin Theft Behind a Fee Increase",
    "summary": "A malicious bitcoin wallet server could quietly swap a legitimate payment for a thief's transaction, then wait for its owner to approve the theft. Electrum's latest security patch closes that loophole after attackers exploited the flaw and stole funds. Malicious Servers Turn Bitcoin Fee Bumps Into Theft Electrum released…",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1792770641,
    "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
-   "ad": false
-  },
-  {
-   "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
-   "summary": "Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every dividend buys more bitcoin. This post Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1792770005,
-   "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
    "ad": false
   }
  ]
