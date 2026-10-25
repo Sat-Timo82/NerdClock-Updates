@@ -1,8 +1,16 @@
 {
- "updated": 1792904866,
+ "updated": 1792908267,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Absturz nach den US-Midterms? Historisches Muster beunruhigt Experten",
+   "summary": "Nach den zurückliegenden US-Zwischenwahlen folgten jeweils heftige Bitcoin-Korrekturen. Warum ein Experte jetzt den nächsten BTC-Kursrutsch befürchtet. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792908000,
+   "url": "https://www.btc-echo.de/news/bitcoin-crash-nach-us-midterms-historisches-muster-beunruhigt-239803/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Wende bei Sparkassen: JPMorgan erwartet 10 Prozent Rendite",
    "summary": "Die Sparkassen öffnen sich für Bitcoin, JPMorgan prognostiziert höhere Renditen als bei Aktien und die Schweiz genehmigt ihren ersten echten Bitcoin ETF: die Krypto-News der Woche. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1792758509,
    "url": "https://www.blocktrainer.de/blog/ist-der-klassische-bitcoin-zyklus-geschichte-glassnode-liefert-neue-hinweise",
-   "ad": false
-  },
-  {
-   "title": "China fordert Beschlagnahmung von rund 61.900 BTC aus milliardenschwerem Betrugsfall",
-   "summary": "China fordert die Einziehung von rund 61.900 Bitcoin aus einem Betrugsfall. Doch auch Großbritannien erhebt Ansprüche auf das Vermögen.",
-   "source": "Blocktrainer",
-   "ts": 1792757525,
-   "url": "https://www.blocktrainer.de/blog/china-fordert-beschlagnahmung-von-rund-61900-btc-aus-milliardenschwerem-betrugsfall",
    "ad": false
   }
  ]
