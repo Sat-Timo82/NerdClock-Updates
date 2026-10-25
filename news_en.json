@@ -1,8 +1,16 @@
 {
- "updated": 1792931925,
+ "updated": 1792935247,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Withstands Headwinds – Week in Review",
+   "summary": "This editorial is from this week's edition of the newsletter Week in Review, sent to subscribers on Friday. Subscribe to the newsletter to get this weekly editorial the second it's finished. The newsletter also includes the biggest stories of the week, with a comment on each story. Bitcoin round-tripped from last Friday to…",
+   "source": "Bitcoin.com News",
+   "ts": 1792933204,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-withstands-headwinds-week-in-review/",
+   "ad": false
+  },
   {
    "title": "Miner Weekly: Bitcoin Hashrate Shrugs off the AI Unplug, Regaining 1 ZH/s Level",
    "summary": "Big public miners are making room for artificial intelligence (AI). Bitcoin's hashrate is climbing anyway. This article first appeared in Miner Weekly, a weekly newsletter by Blocksbridge Consulting curating the latest news in energy, compute, infrastructure, and data analysis from The Energy Mag. The original article can be…",
@@ -17,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792915219,
    "url": "https://news.bitcoin.com/mining/heatbits-new-water-heater-miner-turns-hot-showers-into-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Electrum Wallet Attack Hid Bitcoin Theft Behind a Fee Increase",
-   "summary": "A malicious bitcoin wallet server could quietly swap a legitimate payment for a thief's transaction, then wait for its owner to approve the theft. Electrum's latest security patch closes that loophole after attackers exploited the flaw and stole funds. Malicious Servers Turn Bitcoin Fee Bumps Into Theft Electrum released…",
-   "source": "Bitcoin.com News",
-   "ts": 1792895417,
-   "url": "https://news.bitcoin.com/security/electrum-wallet-attack-hid-bitcoin-theft-behind-a-fee-increase/",
    "ad": false
   },
   {
