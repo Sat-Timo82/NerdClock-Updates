@@ -1,8 +1,16 @@
 {
- "updated": 1792895850,
+ "updated": 1792899253,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Wende bei Sparkassen: JPMorgan erwartet 10 Prozent Rendite",
+   "summary": "Die Sparkassen öffnen sich für Bitcoin, JPMorgan prognostiziert höhere Renditen als bei Aktien und die Schweiz genehmigt ihren ersten echten Bitcoin ETF: die Krypto-News der Woche. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792897200,
+   "url": "https://www.btc-echo.de/news/bitcoin-wende-bei-sparkassen-jpmorgan-erwartet-10-prozent-rendite-239707/",
+   "ad": false
+  },
   {
    "title": "Liquidierungen am Wochenende: Bitcoin rutscht wieder unter 80.000 US-Dollar",
    "summary": "Bitcoin ist soeben auf 79.100 US-Dollar gefallen – das tiefste Niveau seit dem 18. September. Kann BTC der Schwäche an den Gesamtmärkten nicht mehr trotzen?",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1792757525,
    "url": "https://www.blocktrainer.de/blog/china-fordert-beschlagnahmung-von-rund-61900-btc-aus-milliardenschwerem-betrugsfall",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Crash nach den Midterms? Charles Schwab sieht mögliche Kaufchance",
-   "summary": "Kommt ein Bitcoin-Crash nach den US-Midterms? Charles Schwab sieht einen möglichen Kursrückgang als Kaufchance und hält den Einfluss der Wahlen für überschätzt.",
-   "source": "Blocktrainer",
-   "ts": 1792748452,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-crash-nach-den-midterms-charles-schwab-sieht-moegliche-kaufchance",
    "ad": false
   }
  ]
