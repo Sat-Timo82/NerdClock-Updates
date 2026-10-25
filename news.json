@@ -1,8 +1,16 @@
 {
- "updated": 1792924598,
+ "updated": 1792926347,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "\"Bitcoin ist tot\": Binance-Gründer CZ nennt den idealen Einstiegszeitpunkt",
+   "summary": "Immer wieder erklären Bitcoin-Gegner die Kryptowährung für gescheitert. Binance-Gründer Changpeng \"CZ\" Zhao erkennt darin eine große Chance für Anleger. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792926120,
+   "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-binance-gruender-cz-nennt-idealen-kaufzeitpunkt-239810/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Absturz nach den US-Midterms? Historisches Muster beunruhigt Experten",
    "summary": "Nach den zurückliegenden US-Zwischenwahlen folgten jeweils heftige Bitcoin-Korrekturen. Warum ein Experte jetzt den nächsten BTC-Kursrutsch befürchtet. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792771320,
    "url": "https://www.btc-echo.de/news/krypto-ohne-bitcoin-china-nennt-blockchain-plan-2030-239779/",
-   "ad": false
-  },
-  {
-   "title": "Wie gefährlich ist Frankreichs Schuldenkrise für Bitcoin?",
-   "summary": "Frankreich zahlt für zehnjährige Staatsanleihen so viel wie seit über 20 Jahren nicht mehr, der Abstand zu Deutschland wächst rasant. Im Video mit Andreas Lipkow, Chef-Marktanalyst von CMC Markets, geht es darum, wie die Eurozone aus dieser Lage wieder herauskommt und was das für Bitcoin bedeutet. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792767600,
-   "url": "https://www.btc-echo.de/news/wie-gefaehrlich-ist-frankreichs-schuldenkrise-fuer-bitcoin-239625/",
    "ad": false
   }
  ]
