@@ -1,8 +1,16 @@
 {
- "updated": 1792893988,
+ "updated": 1792895850,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Electrum Wallet Attack Hid Bitcoin Theft Behind a Fee Increase",
+   "summary": "A malicious bitcoin wallet server could quietly swap a legitimate payment for a thief's transaction, then wait for its owner to approve the theft. Electrum's latest security patch closes that loophole after attackers exploited the flaw and stole funds. Malicious Servers Turn Bitcoin Fee Bumps Into Theft Electrum released…",
+   "source": "Bitcoin.com News",
+   "ts": 1792895417,
+   "url": "https://news.bitcoin.com/security/electrum-wallet-attack-hid-bitcoin-theft-behind-a-fee-increase/",
+   "ad": false
+  },
   {
    "title": "Tell Me Lies: Grok, GPT and Claude Voice Modes Guess Bitcoin's Price",
    "summary": "Can artificial intelligence (AI) think as well out loud as it does in writing? A bitcoin forecasting experiment conducted by Bitcoin.com News put ChatGPT, Grok, and Claude Opus 5.5 to the test, exposing shaky predictions, questionable reasoning, and a surprising twist: Claude's voice model proved more transparent about its…",
@@ -25,14 +33,6 @@
    "source": "The Block",
    "ts": 1792863876,
    "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-   "ad": false
-  },
-  {
-   "title": "Chamath Palihapitiya Warns Bitcoin Will Hit Zero After Years of Bullish Calls",
-   "summary": "Chamath Palihapitiya once predicted bitcoin would reach $1 million. Now he says artificial intelligence (AI) will eventually hack the Bitcoin protocol and ultimately send BTC's value to zero. But the billionaire's reversal follows a familiar pattern. From selling Tesla shares while publicly praising the company to…",
-   "source": "Bitcoin.com News",
-   "ts": 1792859442,
-   "url": "https://news.bitcoin.com/price-predictions/chamath-palihapitiya-warns-bitcoin-will-hit-zero-after-years-of-bullish-calls/",
    "ad": false
   },
   {
