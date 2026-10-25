@@ -1,8 +1,16 @@
 {
- "updated": 1792953223,
+ "updated": 1792955265,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin ETFs Lose $138M as Zcash Extends 3-Day Inflow Streak",
+   "summary": "U.S. bitcoin ETFs closed Friday with $137.94 million in net outflows, capping a volatile week in which large inflows were quickly followed by equally sharp reversals. Ether returned to modest inflows, while Zcash and NEAR remained the only other categories to attract fresh capital. Bitcoin ETFs Swing From Inflows to Selling…",
+   "source": "Bitcoin.com News",
+   "ts": 1792953830,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-138m-as-zcash-extends-3-day-inflow-streak/",
+   "ad": false
+  },
   {
    "title": "Website Dares Hackers to Steal Bitcoin as the Clock Keeps Ticking",
    "summary": "A website is practically begging hackers to steal $2,000 in bitcoin, yet nobody has collected the prize. Now, an independent examination suggests the supposedly vulnerable challenge might be impossible to crack, raising an awkward question: Is the game rigged? A $2,000 Bitcoin Heist Nobody Can Pull Off Welcome to Steal My…",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1792857600,
    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-   "ad": false
-  },
-  {
-   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-   "summary": "Bitcoin has sunk to its weakest level in more than one month.",
-   "source": "CoinDesk",
-   "ts": 1792854684,
-   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
    "ad": false
   }
  ]
