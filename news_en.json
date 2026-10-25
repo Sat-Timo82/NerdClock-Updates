@@ -1,5 +1,5 @@
 {
- "updated": 1792967273,
+ "updated": 1792969089,
  "mode": "stichworte",
  "lang": "en",
  "items": [
@@ -60,14 +60,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Withstands Headwinds – Week in Review",
-   "summary": "This editorial is from this week's edition of the newsletter Week in Review, sent to subscribers on Friday. Subscribe to the newsletter to get this weekly editorial the second it's finished. The newsletter also includes the biggest stories of the week, with a comment on each story. Bitcoin round-tripped from last Friday to…",
-   "source": "Bitcoin.com News",
-   "ts": 1792933204,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-withstands-headwinds-week-in-review/",
-   "ad": false
-  },
-  {
    "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
    "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
    "source": "The Block",
@@ -81,6 +73,14 @@
    "source": "CoinDesk",
    "ts": 1792857600,
    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+   "ad": false
+  },
+  {
+   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+   "summary": "Bitcoin has sunk to its weakest level in more than one month.",
+   "source": "CoinDesk",
+   "ts": 1792854684,
+   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
    "ad": false
   }
  ]
