@@ -1,8 +1,16 @@
 {
- "updated": 1792886109,
+ "updated": 1792888878,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Tell Me Lies: Grok, GPT and Claude Voice Modes Guess Bitcoin's Price",
+   "summary": "Can artificial intelligence (AI) think as well out loud as it does in writing? A bitcoin forecasting experiment conducted by Bitcoin.com News put ChatGPT, Grok, and Claude Opus 5.5 to the test, exposing shaky predictions, questionable reasoning, and a surprising twist: Claude's voice model proved more transparent about its…",
+   "source": "Bitcoin.com News",
+   "ts": 1792888223,
+   "url": "https://news.bitcoin.com/price-predictions/tell-me-lies-grok-gpt-and-claude-voice-modes-guess-bitcoins-price/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Sinks to $79,146 as Liquidations Rock Weekend Trading",
    "summary": "Bitcoin's price cracked below $80,000 on Saturday, touching its lowest price in more than a month as leveraged traders absorbed hundreds of millions in liquidations. The weekend selloff handed longtime bitcoin critic Peter Schiff fresh ammunition for an even darker prediction. Bitcoin's $80,000 Floor Gives Way as Liquidations…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1792773996,
    "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
-   "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
-   "source": "Decrypt",
-   "ts": 1792770641,
-   "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
    "ad": false
   }
  ]
