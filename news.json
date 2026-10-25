@@ -1,8 +1,16 @@
 {
- "updated": 1792942344,
+ "updated": 1792944171,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Krypto-Steuer reduzieren? Wie Anleger ihre Bitcoin-Verluste nutzen können",
+   "summary": "Viele Krypto-Anleger sitzen trotz der jüngsten Erholung weiterhin auf hohen Verlusten. Wer geschickt vorgeht, kann damit aber seine künftige Steuerlast deutlich senken. So funktioniert es. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792944000,
+   "url": "https://www.btc-echo.de/news/bitcoin-im-minus-so-sparen-krypto-anleger-steuern-239743/",
+   "ad": false
+  },
   {
    "title": "\"Bitcoin ist tot\": Binance-Gründer CZ nennt den idealen Einstiegszeitpunkt",
    "summary": "Immer wieder erklären Bitcoin-Gegner die Kryptowährung für gescheitert. Binance-Gründer Changpeng \"CZ\" Zhao erkennt darin eine große Chance für Anleger. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792774800,
    "url": "https://www.btc-echo.de/news/bitcoin-kurs-die-lage-spitzt-sich-weiter-zu-239735/",
-   "ad": false
-  },
-  {
-   "title": "Krypto-Adoption ohne Bitcoin? China veröffentlicht Blockchain-Plan für 2030",
-   "summary": "Peking beschließt den flächendeckenden Ausbau eines nationalen Blockchain-Netzwerks bis 2030. Mit Bitcoin, Ethereum und Co. hat die staatliche Strategie aber wenig zu tun. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792771320,
-   "url": "https://www.btc-echo.de/news/krypto-ohne-bitcoin-china-nennt-blockchain-plan-2030-239779/",
    "ad": false
   }
  ]
