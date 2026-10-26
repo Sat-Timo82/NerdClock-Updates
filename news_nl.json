@@ -1,22 +1,22 @@
 {
- "updated": 1792982265,
+ "updated": 1792985856,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "From Stripe to Bitcoin: Card Fraud Case Ends in Prison Sentence",
+   "summary": "A Rochester man's fraud scheme moved unauthorized credit-card payments through bank accounts before funding bitcoin purchases and transfers to co-conspirators. Timothy Wadsworth received a prison sentence after processing hundreds of attempted charges using account numbers supplied by others. Unauthorized Card Payments Funded…",
+   "source": "Bitcoin.com News",
+   "ts": 1792985425,
+   "url": "https://news.bitcoin.com/regulation-and-legal/from-stripe-to-bitcoin-card-fraud-case-ends-in-prison-sentence/",
+   "ad": false
+  },
   {
    "title": "Bitcoin's 7-Day Hashrate Returns to 1 ZH/s After Nearly 8 Months",
    "summary": "Bitcoin's computational firepower, measured by its network hashrate, has reclaimed the 1 zettahash per second (ZH/s) threshold, with miners worldwide once again executing more than 1 sextillion calculations every second to safeguard the network and compete for newly minted bitcoin. Bitcoin Hashrate Reclaims 1 ZH/s as Mining…",
    "source": "Bitcoin.com News",
    "ts": 1792964703,
    "url": "https://news.bitcoin.com/mining/bitcoins-7-day-hashrate-returns-to-1-zh-s-after-nearly-8-months/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Lose $138M as Zcash Extends 3-Day Inflow Streak",
-   "summary": "U.S. bitcoin ETFs closed Friday with $137.94 million in net outflows, capping a volatile week in which large inflows were quickly followed by equally sharp reversals. Ether returned to modest inflows, while Zcash and NEAR remained the only other categories to attract fresh capital. Bitcoin ETFs Swing From Inflows to Selling…",
-   "source": "Bitcoin.com News",
-   "ts": 1792953830,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-138m-as-zcash-extends-3-day-inflow-streak/",
    "ad": false
   },
   {
