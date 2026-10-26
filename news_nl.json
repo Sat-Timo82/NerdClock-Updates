@@ -1,8 +1,16 @@
 {
- "updated": 1793033366,
+ "updated": 1793036435,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Price Struggles at $80K, but MEXC CEO Sees Bullish Signals",
+   "summary": "Bitcoin's price reclaimed the $80,000 level twice on Monday, hovering near $80,100 amid rangebound trading between $79,500 and $80,500. Leveraged long liquidations were approximately $36 million, or 65% of all bitcoin liquidations. Volatile Start to the Week Bitcoin's price reclaimed $80,000 twice on Monday as the…",
+   "source": "Bitcoin.com News",
+   "ts": 1793036017,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-struggles-80k-mexc-ceo-sees-bullish-signals/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Face Roughest Run Since April as Banks Stay Shut",
    "summary": "Institutional appetite faded fast. Spot Bitcoin ETFs in the US saw roughly $228 million of net withdrawals between October 12 and 16, following $681 million the week before, for a two-week total of $909 million. That is the biggest pullback since April. Price action matched the mood: Bitcoin slid under $82,000, with about $771…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793021433,
    "url": "https://news.bitcoin.com/crypto-news/strive-scoops-up-6182-bitcoin-pushing-stash-total-to-43000-btc/",
-   "ad": false
-  },
-  {
-   "title": "The Bitcoin vs. Nasdaq Signal Has Flipped Bullish",
-   "summary": "Bitcoin Magazine The Bitcoin vs. Nasdaq Signal Has Flipped Bullish As tech drops, Bitcoin holds. Sean Hagan examines the BTC/Nasdaq ratio reclaiming its 200-day MA, historical 84% median gains, and his $100K line in the sand. This post The Bitcoin vs. Nasdaq Signal Has Flipped Bullish first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793021193,
-   "url": "https://bitcoinmagazine.com/videos/the-bitcoin-vs-nasdaq-signal-has-flipped-bullish",
    "ad": false
   }
  ]
