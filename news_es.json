@@ -1,8 +1,16 @@
 {
- "updated": 1793040545,
+ "updated": 1793043841,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Coinbase Institutional Co-CEO: Bitcoin's \"Second Wave\" of Institutional Capital has Arrived",
+   "summary": "Bitcoin Magazine Coinbase Institutional Co-CEO: Bitcoin's \"Second Wave\" of Institutional Capital has Arrived Seven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view BTC as tech. This post Coinbase Institutional Co-CEO: Bitcoin's \"Second Wave\"…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793042648,
+   "url": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
    "summary": "Bitcoin price hovers near $80,000 as traders wait on this week's Fed decision, with geopolitical tensions and Anthropic's possible IPO adding to the uncertainty. This post Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793021848,
    "url": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
-   "ad": false
-  },
-  {
-   "title": "Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \"Poised for a Big Bull Run\"",
-   "summary": "Bitcoin Magazine Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \"Poised for a Big Bull Run\" Blockstream CMO Peter Bain explains why holding $81K signals strength, the push into Swiss institutional banking, and the latest Liquid Network recovery. This post Blockstream Executive Peter Bain: Institutional…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793021467,
-   "url": "https://bitcoinmagazine.com/videos/blockstream-executive-peter-bain-institutional-clients-say-bitcoin-poised-for-a-big-bull-run",
    "ad": false
   }
  ]
