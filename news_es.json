@@ -1,8 +1,24 @@
 {
- "updated": 1793036435,
+ "updated": 1793040545,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+   "summary": "Bitcoin price hovers near $80,000 as traders wait on this week's Fed decision, with geopolitical tensions and Anthropic's possible IPO adding to the uncertainty. This post Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793036598,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+   "summary": "A confirmed exploit let rogue servers replace Electrum's pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
+   "source": "Decrypt",
+   "ts": 1793036481,
+   "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Struggles at $80K, but MEXC CEO Sees Bullish Signals",
    "summary": "Bitcoin's price reclaimed the $80,000 level twice on Monday, hovering near $80,100 amid rangebound trading between $79,500 and $80,500. Leveraged long liquidations were approximately $36 million, or 65% of all bitcoin liquidations. Volatile Start to the Week Bitcoin's price reclaimed $80,000 twice on Monday as the…",
@@ -52,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Strategy Skips Bitcoin Buy, Spends $205M Repurchasing STRC Instead",
-   "summary": "Michael Saylor's Strategy paused its bitcoin accumulation last week, instead spending nearly $205 million repurchasing its preferred shares as the company continues to reshape its capital structure. Strategy Stockpiles More STRC Strategy (Nasdaq: MSTR), the world's largest publicly traded corporate holder of bitcoin, disclosed…",
-   "source": "Bitcoin.com News",
-   "ts": 1793023258,
-   "url": "https://news.bitcoin.com/crypto-news/strategy-skips-bitcoin-buy-spends-205-million-repurchasing-strc/",
-   "ad": false
-  },
-  {
    "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
    "summary": "Bitcoin Magazine Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate Leon Wankum argues real estate's $300T+ monetary premium is migrating to Bitcoin, projecting a $1M target and explaining why it's smarter to rent and buy BTC. This post Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate…",
    "source": "Bitcoin Magazine",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793021467,
    "url": "https://bitcoinmagazine.com/videos/blockstream-executive-peter-bain-institutional-clients-say-bitcoin-poised-for-a-big-bull-run",
-   "ad": false
-  },
-  {
-   "title": "Strive Scoops up 6,182 Bitcoin Pushing Stash Total to 43,000 BTC",
-   "summary": "Strive went on a bitcoin buying spree this past week, snapping up 6,182 BTC for roughly $511.4 million. The aggressive accumulation pushed its holdings to 43,000 BTC worth $3.45 billion today. Three Bitcoin Purchases Reshape the Rankings The Nasdaq-listed company, co-founded by Vivek Ramaswamy, executed several major purchases…",
-   "source": "Bitcoin.com News",
-   "ts": 1793021433,
-   "url": "https://news.bitcoin.com/crypto-news/strive-scoops-up-6182-bitcoin-pushing-stash-total-to-43000-btc/",
    "ad": false
   }
  ]
