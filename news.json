@@ -1,8 +1,16 @@
 {
- "updated": 1792997237,
+ "updated": 1793001214,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin unter 80.000 US-Dollar: Droht ein weiterer Abverkauf?",
+   "summary": "Fast 80 Prozent der Marktteilnehmer rechnen im Dezember mit einer Zinserhöhung der US-Notenbank. Wir das der nächste Kursrutsch für BTC? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792999112,
+   "url": "https://www.btc-echo.de/news/bitcoin-unter-80-000-us-dollar-droht-ein-weiterer-abverkauf-239834/",
+   "ad": false
+  },
   {
    "title": "ChatGPT-6-Prognose: So könnte eine Trump-Niederlage den Bitcoin-Kurs treffen",
    "summary": "Donald Trump droht bei den US-Zwischenwahlen eine schwere Niederlage. ChatGPT-6 prognostiziert, was ein Sieg der Demokraten für den Bitcoin-Kurs bedeuten könnte. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1792897200,
    "url": "https://www.btc-echo.de/news/bitcoin-wende-bei-sparkassen-jpmorgan-erwartet-10-prozent-rendite-239707/",
-   "ad": false
-  },
-  {
-   "title": "Liquidierungen am Wochenende: Bitcoin rutscht wieder unter 80.000 US-Dollar",
-   "summary": "Bitcoin ist soeben auf 79.100 US-Dollar gefallen – das tiefste Niveau seit dem 18. September. Kann BTC der Schwäche an den Gesamtmärkten nicht mehr trotzen?",
-   "source": "Blocktrainer",
-   "ts": 1792858903,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-rutscht-wieder-unter-80000-us-dollar",
    "ad": false
   },
   {
