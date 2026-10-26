@@ -1,8 +1,16 @@
 {
- "updated": 1793001214,
+ "updated": 1793004448,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+   "summary": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
+   "source": "Cointelegraph",
+   "ts": 1793002849,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partn",
+   "ad": false
+  },
   {
    "title": "Over 11 million bitcoin has no known owner. Here's what it means",
    "summary": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
@@ -33,14 +41,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792985425,
    "url": "https://news.bitcoin.com/regulation-and-legal/from-stripe-to-bitcoin-card-fraud-case-ends-in-prison-sentence/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
-   "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
-   "source": "Decrypt",
-   "ts": 1792936863,
-   "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
    "ad": false
   },
   {
