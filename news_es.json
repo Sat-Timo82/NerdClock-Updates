@@ -1,8 +1,24 @@
 {
- "updated": 1792989464,
+ "updated": 1792993086,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+   "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+   "source": "CoinDesk",
+   "ts": 1792991720,
+   "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+   "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+   "source": "CoinDesk",
+   "ts": 1792989422,
+   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+   "ad": false
+  },
   {
    "title": "From Stripe to Bitcoin: Card Fraud Case Ends in Prison Sentence",
    "summary": "A Rochester man's fraud scheme moved unauthorized credit-card payments through bank accounts before funding bitcoin purchases and transfers to co-conspirators. Timothy Wadsworth received a prison sentence after processing hundreds of attempted charges using account numbers supplied by others. Unauthorized Card Payments Funded…",
@@ -28,27 +44,11 @@
    "ad": false
   },
   {
-   "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-   "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data.",
-   "source": "The Block",
-   "ts": 1792863876,
-   "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
-   "ad": false
-  },
-  {
    "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
    "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
    "source": "CoinDesk",
    "ts": 1792857600,
    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-   "ad": false
-  },
-  {
-   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-   "summary": "Bitcoin has sunk to its weakest level in more than one month.",
-   "source": "CoinDesk",
-   "ts": 1792854684,
-   "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
    "ad": false
   },
   {
