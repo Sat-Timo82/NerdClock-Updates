@@ -1,5 +1,5 @@
 {
- "updated": 1793052505,
+ "updated": 1793056065,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -33,14 +33,6 @@
    "source": "Decrypt",
    "ts": 1793036481,
    "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Struggles at $80K, but MEXC CEO Sees Bullish Signals",
-   "summary": "Bitcoin's price reclaimed the $80,000 level twice on Monday, hovering near $80,100 amid rangebound trading between $79,500 and $80,500. Leveraged long liquidations were approximately $36 million, or 65% of all bitcoin liquidations. Volatile Start to the Week Bitcoin's price reclaimed $80,000 twice on Monday as the…",
-   "source": "Bitcoin.com News",
-   "ts": 1793036017,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-struggles-80k-mexc-ceo-sees-bullish-signals/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793021848,
    "url": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
+   "ad": false
+  },
+  {
+   "title": "Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \"Poised for a Big Bull Run\"",
+   "summary": "Bitcoin Magazine Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \"Poised for a Big Bull Run\" Blockstream CMO Peter Bain explains why holding $81K signals strength, the push into Swiss institutional banking, and the latest Liquid Network recovery. This post Blockstream Executive Peter Bain: Institutional…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793021467,
+   "url": "https://bitcoinmagazine.com/videos/blockstream-executive-peter-bain-institutional-clients-say-bitcoin-poised-for-a-big-bull-run",
    "ad": false
   }
  ]
