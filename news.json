@@ -1,5 +1,5 @@
 {
- "updated": 1793004448,
+ "updated": 1793007934,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -73,14 +73,6 @@
    "source": "BTC-ECHO",
    "ts": 1792848600,
    "url": "https://www.btc-echo.de/news/oelpreis-steigt-tech-faellt-bitcoin-steht-vor-der-heikelsten-fed-woche-des-herbstes-239748/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Allzeithoch im Sommer 2027? Warum geduldige Anleger hoffen dürfen",
-   "summary": "Die Krypto-Euphorie des Augusts ist abgeflaut, der Bitcoin-Kurs stagniert zwischen 80.000 und 85.000 Dollar. Doch Anleger sollten jetzt nicht vorschnell die Flinte ins Korn werfen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792832019,
-   "url": "https://www.btc-echo.de/news/neues-bitcoin-allzeithoch-im-sommer-2027-239792/",
    "ad": false
   }
  ]
