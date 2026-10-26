@@ -1,8 +1,24 @@
 {
- "updated": 1793015115,
+ "updated": 1793026118,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "In dieser europäischen Stadt gehört Bitcoin längst zum Alltag",
+   "summary": "Bitcoin bezahlen, Kryptowährungen tauschen und mit Branchenvertretern ins Gespräch kommen: Lugano präsentiert sich als Krypto-Stadt. Doch wie viel davon ist bereits im Alltag angekommen? Ein Besuch beim Plan-₿Forum. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793025000,
+   "url": "https://www.btc-echo.de/news/in-dieser-europaeischen-stadt-gehoert-bitcoin-laengst-zum-alltag-239850/",
+   "ad": false
+  },
+  {
+   "title": "Strategy und Bitmine setzen verstärkt auf Aktienrückkäufe",
+   "summary": "Strategy hat in der vergangenen Woche keine Bitcoin gekauft, dafür Vorzugsaktien für 205 Millionen US-Dollar. Beim größten Ether-Halter sieht es ähnlich aus. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793022620,
+   "url": "https://www.btc-echo.de/news/strategy-und-bitmine-setzen-verstaerkt-auf-aktienrueckkaeufe-239886/",
+   "ad": false
+  },
   {
    "title": "Bitcoin kaufen auf Kredit: Wann der Renditehebel wirklich funktioniert",
    "summary": "Fremdkapital kann die Bitcoin-Rendite hebeln – aber nur unter bestimmten Bedingungen. Nicole Nowak erklärt, wann sich die Rechnung lohnt und welche Fehler Anleger vermeiden sollten. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1792904460,
    "url": "https://www.blocktrainer.de/blog/staatliches-bitcoin-mining-was-planen-die-usa",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Wende bei Sparkassen: JPMorgan erwartet 10 Prozent Rendite",
-   "summary": "Die Sparkassen öffnen sich für Bitcoin, JPMorgan prognostiziert höhere Renditen als bei Aktien und die Schweiz genehmigt ihren ersten echten Bitcoin ETF: die Krypto-News der Woche. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792897200,
-   "url": "https://www.btc-echo.de/news/bitcoin-wende-bei-sparkassen-jpmorgan-erwartet-10-prozent-rendite-239707/",
-   "ad": false
-  },
-  {
-   "title": "Ölpreis steigt, Tech fällt: Bitcoin steht vor der heikelsten Fed-Woche des Herbstes",
-   "summary": "Bitcoin fällt trotz sinkender US-Renditen. Warum die KI-Zahlen von Meta und der Ölpreis den Kurs vor der Fed-Entscheidung bewegen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792848600,
-   "url": "https://www.btc-echo.de/news/oelpreis-steigt-tech-faellt-bitcoin-steht-vor-der-heikelsten-fed-woche-des-herbstes-239748/",
    "ad": false
   }
  ]
