@@ -1,8 +1,16 @@
 {
- "updated": 1792985856,
+ "updated": 1792989464,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "ChatGPT-6-Prognose: So könnte eine Trump-Niederlage den Bitcoin-Kurs treffen",
+   "summary": "Donald Trump droht bei den US-Zwischenwahlen eine schwere Niederlage. ChatGPT-6 prognostiziert, was ein Sieg der Demokraten für den Bitcoin-Kurs bedeuten könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1792989000,
+   "url": "https://www.btc-echo.de/news/chatgpt-prognose-das-bedeutet-ein-demokratischer-sieg-fuer-bitcoin-239824/",
+   "ad": false
+  },
   {
    "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
    "summary": "Die Fed-Zinsentscheidung sowie die US-Kerninflationsdaten könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792832019,
    "url": "https://www.btc-echo.de/news/neues-bitcoin-allzeithoch-im-sommer-2027-239792/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin kaufen, verkaufen oder abwarten? Das sagt ein Krypto-Experte",
-   "summary": "Dass der Bitcoin-Kurs seit Wochen zwischen 80.000 und 85.000 US-Dollar pendelt, lässt viele Anleger verunsichert zurück. So schätzt ein Krypto-Insider die derzeitige Lage ein. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792816200,
-   "url": "https://www.btc-echo.de/news/bitcoin-kaufen-verkaufen-oder-abwarten-das-sagt-ein-krypto-experte-239787/",
    "ad": false
   }
  ]
