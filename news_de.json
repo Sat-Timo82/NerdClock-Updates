@@ -1,8 +1,24 @@
 {
- "updated": 1793026118,
+ "updated": 1793030741,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin weg: Wie eine harmlose Wallet-Funktion zur Falle wurde",
+   "summary": "Angreifer tauschten Zahlungen aus und ließen die Opfer den Rest erledigen. Mindestens ein Nutzer verlor dabei seine Bitcoin. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793030015,
+   "url": "https://www.btc-echo.de/news/electrum-sicherheitsluecke-bitcoin-diebstahl-239891/",
+   "ad": false
+  },
+  {
+   "title": "Größter Kauf in der Unternehmensgeschichte: Strive hat 6.182 Bitcoin gekauft, während…",
+   "summary": "Strive hat letzte Woche so viele Bitcoin gekauft wie noch nie zuvor, während Strategy in dieser Hinsicht inaktiv war. Wieso wächst Strive gerade so viel schneller?",
+   "source": "Blocktrainer",
+   "ts": 1793025992,
+   "url": "https://www.blocktrainer.de/blog/strive-hat-6182-bitcoin-fuer-gekauft-waehrend-strategy-die-fuesse-stillhaelt",
+   "ad": false
+  },
   {
    "title": "In dieser europäischen Stadt gehört Bitcoin längst zum Alltag",
    "summary": "Bitcoin bezahlen, Kryptowährungen tauschen und mit Branchenvertretern ins Gespräch kommen: Lugano präsentiert sich als Krypto-Stadt. Doch wie viel davon ist bereits im Alltag angekommen? Ein Besuch beim Plan-₿Forum. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792926120,
    "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-binance-gruender-cz-nennt-idealen-kaufzeitpunkt-239810/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Absturz nach den US-Midterms? Historisches Muster beunruhigt Experten",
-   "summary": "Nach den zurückliegenden US-Zwischenwahlen folgten jeweils heftige Bitcoin-Korrekturen. Warum ein Experte jetzt den nächsten BTC-Kursrutsch befürchtet. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792908000,
-   "url": "https://www.btc-echo.de/news/bitcoin-crash-nach-us-midterms-historisches-muster-beunruhigt-239803/",
-   "ad": false
-  },
-  {
-   "title": "Staatliches Bitcoin-Mining: Was planen die USA?",
-   "summary": "Plant die US-Regierung staatliches Bitcoin-Mining? Aussagen hochrangiger Regierungsvertreter und geplante Kernreaktoren auf Militärgelände werfen Fragen auf.",
-   "source": "Blocktrainer",
-   "ts": 1792904460,
-   "url": "https://www.blocktrainer.de/blog/staatliches-bitcoin-mining-was-planen-die-usa",
    "ad": false
   }
  ]
