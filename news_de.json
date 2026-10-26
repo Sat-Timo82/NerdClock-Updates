@@ -1,8 +1,16 @@
 {
- "updated": 1793030741,
+ "updated": 1793033366,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Strive kauft für 511 Millionen US-Dollar Bitcoin und rückt Metaplanet auf die Pelle",
+   "summary": "Strive hat in einer einzigen Woche für mehr als eine halbe Milliarde US-Dollar Bitcoin gekauft. Der Platz unter den drei größten börsennotierten Haltern rückt damit in greifbare Nähe. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793032350,
+   "url": "https://www.btc-echo.de/news/strive-kauft-fuer-511-millionen-us-dollar-bitcoin-und-rueckt-metaplanet-auf-die-pelle-239906/",
+   "ad": false
+  },
   {
    "title": "Bitcoin weg: Wie eine harmlose Wallet-Funktion zur Falle wurde",
    "summary": "Angreifer tauschten Zahlungen aus und ließen die Opfer den Rest erledigen. Mindestens ein Nutzer verlor dabei seine Bitcoin. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1792944000,
    "url": "https://www.btc-echo.de/news/bitcoin-im-minus-so-sparen-krypto-anleger-steuern-239743/",
-   "ad": false
-  },
-  {
-   "title": "\"Bitcoin ist tot\": Binance-Gründer CZ nennt den idealen Einstiegszeitpunkt",
-   "summary": "Immer wieder erklären Bitcoin-Gegner die Kryptowährung für gescheitert. Binance-Gründer Changpeng \"CZ\" Zhao erkennt darin eine große Chance für Anleger. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792926120,
-   "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-binance-gruender-cz-nennt-idealen-kaufzeitpunkt-239810/",
    "ad": false
   }
  ]

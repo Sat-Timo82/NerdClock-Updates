@@ -1,8 +1,32 @@
 {
- "updated": 1793030741,
+ "updated": 1793033366,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin ETFs Face Roughest Run Since April as Banks Stay Shut",
+   "summary": "Institutional appetite faded fast. Spot Bitcoin ETFs in the US saw roughly $228 million of net withdrawals between October 12 and 16, following $681 million the week before, for a two-week total of $909 million. That is the biggest pullback since April. Price action matched the mood: Bitcoin slid under $82,000, with about $771…",
+   "source": "Bitcoinist",
+   "ts": 1793031279,
+   "url": "https://bitcoinist.com/bitcoin-etfs-face-roughest-run-since-april-as-banks-stay-shut/",
+   "ad": false
+  },
+  {
+   "title": "BTC Defends $80K While Inflation And AI Stock Sell-Off Rattle Crypto Markets",
+   "summary": "Bitcoin had a bumpy stretch. After reaching roughly $83,800 on October 13, the flagship asset slid to a weekly trough near $80,100 two days later, as traders reacted to a hotter-than-forecast inflation reading and a sharp pullback in AI-linked stocks. TL;DR Bitcoin dipped to about $80,100 before recovering toward $81,000 as…",
+   "source": "Bitcoinist",
+   "ts": 1793031247,
+   "url": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Falls 7.3%, Gold 7.5% as Both Rank Last Among Major Assets in 2026",
+   "summary": "Bitcoin and gold, two assets often bought as hedges against monetary stress, are both sitting at the bottom of the 2026 performance table. Bitcoin is down 7.3% year-to-date and gold 7.5%, a combination market strategist Charlie Bilello says has never happened before in a calendar year. Bitcoin, Gold Fall Together as Stocks…",
+   "source": "Bitcoin.com News",
+   "ts": 1793030705,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-falls-7-3-gold-7-5-both-rank-last-among-major-assets-2026/",
+   "ad": false
+  },
   {
    "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
    "summary": "Strategy skipped bitcoin buys for the week of October 19–25 and spent $204.9 million buying back its STRC preferred stock. This post Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793021193,
    "url": "https://bitcoinmagazine.com/videos/the-bitcoin-vs-nasdaq-signal-has-flipped-bullish",
-   "ad": false
-  },
-  {
-   "title": "PHP Hack: How Bitcoin Will Respond to the \"Cyber Pandemic\"",
-   "summary": "Bitcoin Magazine PHP Hack: How Bitcoin Will Respond to the \"Cyber Pandemic\" As global sites go offline over PHP flaws, Bitcoin Magazine's Shinobi explains memory bugs, AI-driven hacking speeds, and whether Bitcoin faces any exposure. This post PHP Hack: How Bitcoin Will Respond to the \"Cyber Pandemic\" first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793020919,
-   "url": "https://bitcoinmagazine.com/videos/php-hack-how-bitcoin-will-respond-to-the-cyber-pandemic",
-   "ad": false
-  },
-  {
-   "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-   "summary": "Strive's latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
-   "source": "The Block",
-   "ts": 1793020748,
-   "url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Treasury Analyst: MSTR, ASST & Metaplanet Digital Credit Outlook",
-   "summary": "Bitcoin Magazine Bitcoin Treasury Analyst: MSTR, ASST & Metaplanet Digital Credit Outlook Metaplanet moves to the U.S. to issue preferreds. Allard Peng breaks down the capital pool, parent support questions, and why it's accretive to common shares. This post Bitcoin Treasury Analyst: MSTR, ASST & Metaplanet Digital Credit…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793020567,
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-treasury-analyst-mstr-asst-metaplanet-digital-credit-outlook",
    "ad": false
   }
  ]
