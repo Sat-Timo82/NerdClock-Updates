@@ -1,5 +1,5 @@
 {
- "updated": 1792993086,
+ "updated": 1792997237,
  "mode": "stichworte",
  "lang": "it",
  "items": [
@@ -25,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1792985425,
    "url": "https://news.bitcoin.com/regulation-and-legal/from-stripe-to-bitcoin-card-fraud-case-ends-in-prison-sentence/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's 7-Day Hashrate Returns to 1 ZH/s After Nearly 8 Months",
-   "summary": "Bitcoin's computational firepower, measured by its network hashrate, has reclaimed the 1 zettahash per second (ZH/s) threshold, with miners worldwide once again executing more than 1 sextillion calculations every second to safeguard the network and compete for newly minted bitcoin. Bitcoin Hashrate Reclaims 1 ZH/s as Mining…",
-   "source": "Bitcoin.com News",
-   "ts": 1792964703,
-   "url": "https://news.bitcoin.com/mining/bitcoins-7-day-hashrate-returns-to-1-zh-s-after-nearly-8-months/",
    "ad": false
   },
   {
