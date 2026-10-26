@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-26",
  "hinweis": "Bitcoin-Veranstaltungen für die NerdClock. Datum als JJJJMMTT, cc = Ländercode. Neue Events einfach ergänzen.",
  "events": [
   {
@@ -140,11 +140,15 @@
   },
   {
    "name": "Zitadelle 2027",
-   "city": "Österreich (Ort folgt)",
+   "city": "Frankenfels (Dirndltal)",
    "cc": "AT",
    "start": 20270805,
    "end": 20270808,
-   "url": "https://einundzwanzig.space/"
+   "url": "https://einundzwanzig.space/",
+   "about": {
+    "de": "Satoshis Dörfel im Dirndltal bei Frankenfels (NÖ). Tickets ab 31.10.2026, 21:21 Uhr – nur mit Bitcoin. Pass ca. 280 € inkl. Frühstück und Abendbuffet. Übernachten vom Zelt bis zum Zimmer, Anreise per Bahn bis Frankenfels + Shuttle.",
+    "en": "Satoshis Dörfel in the Dirndltal near Frankenfels, Lower Austria. Tickets from 31 Oct 2026, 21:21 – Bitcoin only. Pass approx. €280 incl. breakfast and dinner buffet. Stay from tent to room; by train to Frankenfels + shuttle."
+   }
   }
  ]
 }
