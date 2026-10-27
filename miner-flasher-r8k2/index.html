@@ -167,6 +167,7 @@ footer b{color:var(--red);}
     <div class="chip">NerdMiner 2,8"</div>
     <div class="chip">NerdMiner USB</div>
     <div class="chip">Bitaxe Gamma</div>
+    <div class="chip">NerdAxe Gamma</div>
   </div>
 </div>
 
@@ -235,6 +236,25 @@ footer b{color:var(--red);}
     </div>
   </div>
 
+  <div class="flash-card">
+    <div class="flash-card-header">
+      <div class="flash-card-title">NerdAxe installieren</div>
+      <div class="version-badge"><div class="version-dot"></div>Pool.Nerdminer.de</div>
+    </div>
+    <div class="flash-card-body">
+      <div class="info-grid" style="margin-bottom:0">
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdAxe Gamma</div>
+          <div class="flash-zone-sub">BM1370 · 640 MHz / 1140 mV · ca. 1,3 TH/s · v1.1.0.1</div>
+          <button class="nmf-btn" data-bin="nerdaxe-gamma.bin" data-chip="ESP32-S3" data-kind="nx">NerdAxe Gamma installieren</button>
+        </div>
+      </div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>NerdAxe_…</strong>: dort <strong>dein WLAN</strong> und
+        <strong>deine BTC-Adresse</strong> eintragen (Felder „mein WLAN“ und „meine BTC-Adresse“ ersetzen). Primary und Fallback Pool sind
+        auf Pool.Nerdminer.de voreingestellt. Beim Installieren <strong>Update</strong> wählen – dann bleiben deine Einstellungen erhalten.</div>
+    </div>
+  </div>
+
   <div class="info-grid">
     <div class="info-card">
       <h4>So geht's</h4>
@@ -266,7 +286,7 @@ import { ESPLoader, Transport } from "./esptool-0.4.5.js";
 // Eigener Ablauf statt ESP Web Tools: deutsche Fenster und echtes Update.
 // Update = alles außer dem Einstellungsbereich (NVS): WLAN, BTC-Adresse und Pool bleiben erhalten.
 // Neu einrichten = ganzen Speicher löschen, dann komplett aufspielen (Pool.Nerdminer.de voreingestellt).
-const NVS = { nm: [0x9000, 0xE000], bx: [0x9000, 0xF000] };
+const NVS = { nm: [0x9000, 0xE000], bx: [0x9000, 0xF000], nx: [0x9000, 0xF000] };
 const dlg = document.getElementById("dlg"), box = document.getElementById("dlg-box");
 let busy = false;
 const show = h => { box.innerHTML = h; dlg.classList.add("on"); };
@@ -320,7 +340,7 @@ async function start(btn) {
   if (!mode) { try { await transport.disconnect(); } catch (_) {} dlg.classList.remove("on"); return; }
   busy = true;
   const paint = (pct, txt) => show(`<div class="dlg-dev">${name}</div><h3>${mode === "up" ? "Update wird installiert" : "Wird neu installiert"}</h3>
-    <p><b>Bitte nicht abstecken</b> und das Fenster offen lassen. Das dauert etwa ${kind === "bx" ? "2–4" : "1–2"} Minuten.</p>
+    <p><b>Bitte nicht abstecken</b> und das Fenster offen lassen. Das dauert etwa ${(kind === "bx" || kind === "nx") ? "2–4" : "1–2"} Minuten.</p>
     <div class="dlg-pct"><span>${txt}</span><span>${pct} %</span></div><div class="dlg-bar"><i style="width:${pct}%"></i></div>`);
   try {
     paint(0, "Software wird geladen …");
@@ -355,7 +375,8 @@ async function start(btn) {
   busy = false;
   const next = mode === "up"
     ? "Dein Miner startet neu und läuft mit deinen bisherigen Einstellungen weiter."
-    : (kind === "bx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>Bitaxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
+    : (kind === "nx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdAxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
+                     : kind === "bx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>Bitaxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
                      : "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdMinerAP</b> (Passwort <b>MineYourCoins</b>) und trage dein WLAN und deine BTC-Adresse ein.");
   show(`<div class="dlg-ok">✓</div><h3>Fertig!</h3><p>${next}</p><p>Startet er nicht von selbst: USB-Kabel kurz ab- und wieder anstecken.</p>
     <div class="dlg-act"><button class="main" id="d-x">Schließen</button></div>`);
