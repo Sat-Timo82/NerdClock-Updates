@@ -1,8 +1,32 @@
 {
- "updated": 1793125048,
+ "updated": 1793129059,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+   "summary": "VanEck launched its Wealth Builder ETF (WBMO) on the NYSE, bundling stocks, bonds, gold and indirect bitcoin exposure into one fund for 0.26% a year. This post VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793128686,
+   "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+   "ad": false
+  },
+  {
+   "title": "Two Solo Bitcoin Miners Hit the Jackpot Against Industrial Mining Giants",
+   "summary": "Two solo miners independently discovered Bitcoin blocks in rapid succession on Monday and Tuesday, marking an unusual back-to-back occurrence on a network mostly dominated by wins from mining firms and collective pools. Futurebit Apollo Miner Defies the Odds With Rare Bitcoin Block Discovery Reports and onchain data from the…",
+   "source": "Bitcoin.com News",
+   "ts": 1793127936,
+   "url": "https://news.bitcoin.com/mining/two-solo-bitcoin-miners-hit-jackpot-against-industrial-mining-giants/",
+   "ad": false
+  },
+  {
+   "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
+   "summary": "A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family. This post 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793127189,
+   "url": "https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot",
+   "ad": false
+  },
   {
    "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
    "summary": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
@@ -44,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price up 26% Since SpaceX Debut as Anthropic IPO Looms",
-   "summary": "As bitcoin traders try to guess the potential impact of Anthropic's IPO on the bitcoin price, the market can draw lessons from the SpaceX IPO in June. Since then, bitcoin is up 26%, even after the recent slump and tightened macro conditions, as giant IPOs are just one of several forces moving the market. A […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793111742,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-price-up-26-since-spacex-debut-anthropic-ipo-looms/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
    "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block.",
    "source": "The Block",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793111462,
    "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-   "ad": false
-  },
-  {
-   "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by…",
-   "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
-   "source": "CoinDesk",
-   "ts": 1793109600,
-   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-   "ad": false
-  },
-  {
-   "title": "Deloitte's Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
-   "summary": "Bitcoin Magazine Deloitte's Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for. This post Deloitte's Rob Massey: What Bitcoin Investors Need to…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793107325,
-   "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
    "ad": false
   }
  ]
