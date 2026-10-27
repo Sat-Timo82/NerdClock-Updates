@@ -162,7 +162,7 @@ footer b{color:var(--red);}
   <p class="hero-sub">Software für deinen NerdMiner und Bitaxe direkt aus dem Browser aufspielen –
      ohne Download, ohne Programme. Pool.Nerdminer.de ist schon voreingestellt.</p>
   <div class="hero-chips">
-    <div class="chip"><div class="chip-dot"></div>Chrome &amp; Edge</div>
+    <div class="chip"><div class="chip-dot"></div>Chrome, Edge &amp; Brave</div>
     <div class="chip">NerdMiner 1,9"</div>
     <div class="chip">NerdMiner 2,8"</div>
     <div class="chip">NerdMiner USB</div>
@@ -172,7 +172,7 @@ footer b{color:var(--red);}
 
 <main>
   <div class="browser-warn" id="browser-warn">
-    <strong>Bitte Chrome oder Edge am Computer verwenden.</strong>
+    <strong>Bitte Chrome, Edge oder Brave am Computer verwenden.</strong>
     Safari, Firefox und Handys unterstützen das Flashen über USB nicht.
     <a href="https://www.google.com/chrome/" target="_blank">Chrome herunterladen →</a>
   </div>
@@ -284,7 +284,7 @@ function error(title, text) {
 }
 
 async function start(btn) {
-  if (!("serial" in navigator)) { error("Browser wird nicht unterstützt", "Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden."); return; }
+  if (!("serial" in navigator)) { error("Browser wird nicht unterstützt", "Bitte <b>Chrome</b>, <b>Edge</b> oder <b>Brave</b> am Computer verwenden."); return; }
   const name = devName(btn), kind = btn.dataset.kind;
   let port;
   try { port = await navigator.serial.requestPort(); } catch (e) { return; }   // Auswahl abgebrochen
