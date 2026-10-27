@@ -1,8 +1,16 @@
 {
- "updated": 1793059391,
+ "updated": 1793062011,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin Bottom May Be Near as 30,000 Wallets Disappear: Santiment",
+   "summary": "Bitcoin may be approaching a local bottom as smaller holders retreat, according to Santiment's latest analysis. Falling wallet participation could support a recovery, with $80,000 support and a move back above $82,500 central to the setup. Wallet Declines Signal a Possible Bitcoin Bottom A potential bitcoin bottom may be…",
+   "source": "Bitcoin.com News",
+   "ts": 1793060107,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-bottom-may-be-near-as-30000-wallets-disappear-santiment/",
+   "ad": false
+  },
   {
    "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
    "summary": "bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula. This post Cold Storage Goes South: bitcoin++ Announces Antarctica Edition first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793029193,
    "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's Bear Market Is Over, Galaxy Says",
-   "summary": "Galaxy Research says that bitcoin's bear market ended at the June low. This post Bitcoin's Bear Market Is Over, Galaxy Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793025880,
-   "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
    "ad": false
   }
  ]
