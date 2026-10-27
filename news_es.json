@@ -1,8 +1,16 @@
 {
- "updated": 1793121889,
+ "updated": 1793125048,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+   "summary": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
+   "source": "Decrypt",
+   "ts": 1793124962,
+   "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Stalls at $80K as US Midterm Election, Fed Jitters Mount",
    "summary": "Bitcoin remains rangebound near $80,000 after repeatedly facing resistance at $80,500, setting up October for potential net losses and spoiling what some traders hoped would be another positive \"Uptober.\" Pre-Election Caution and Macro Headwinds Weigh on Sentiment For the second consecutive day, bitcoin traded largely flat…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793107325,
    "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on \"Exponential\" Path",
-   "summary": "Bitcoin Magazine Bitcoin Security Expert Jameson Lopp: Cyberattacks on \"Exponential\" Path Bitcoin Core updates security as AI automates bug hunting. Jameson Lopp explains the shift to real-time defense, uncensored exploit models, and the PHP flaw. This post Bitcoin Security Expert Jameson Lopp: Cyberattacks on \"Exponential\"…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793107016,
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
    "ad": false
   }
  ]
