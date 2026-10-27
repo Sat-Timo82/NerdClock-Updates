@@ -1,8 +1,40 @@
 {
- "updated": 1793096209,
+ "updated": 1793099668,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+   "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
+   "source": "CoinDesk",
+   "ts": 1793098671,
+   "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+   "ad": false
+  },
+  {
+   "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as…",
+   "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
+   "source": "The Block",
+   "ts": 1793098654,
+   "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-l",
+   "ad": false
+  },
+  {
+   "title": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Cafe de Leche",
+   "summary": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Cafe de Leche Los Angeles Bitcoin: where to spend bitcoin at 425 cafes, restaurants, and shops across Los Angeles and nearby cities, with a categorized directory. This post Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Cafe de Leche first…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793097840,
+   "url": "https://bitcoinmagazine.com/news/los-angeles-bitcoin-425",
+   "ad": false
+  },
+  {
+   "title": "With Bitcoin Under $80k, Two Whales Send BTC Worth $206M to Coinbase",
+   "summary": "Two bitcoin wallets that sat untouched since 2023 moved 2,571 BTC worth $206.5 million into Coinbase Prime on Monday, three minutes apart. Three Minutes on a Monday Was All It Took The first wallet blinked yesterday and emptied 986.31 BTC into a single deposit address, while a second then followed up with a 1,584.98 BTC […]",
+   "source": "Bitcoin.com News",
+   "ts": 1793097029,
+   "url": "https://news.bitcoin.com/crypto-news/dormant-bitcoin-whales-206m-coinbase-prime/",
+   "ad": false
+  },
   {
    "title": "Now is the time to accumulate bitcoin, Galaxy says",
    "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin's recovery towards its previous high.",
@@ -49,38 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793072733,
    "url": "https://news.bitcoin.com/market-updates/arbistar-ponzi-scheme-wallets-moved-1-1-billion-bitcoin-after-collapse/",
-   "ad": false
-  },
-  {
-   "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
-   "summary": "bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula. This post Cold Storage Goes South: bitcoin++ Announces Antarctica Edition first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793059204,
-   "url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
-   "ad": false
-  },
-  {
-   "title": "Coinbase Institutional Co-CEO: Bitcoin's \"Second Wave\" of Institutional Capital has Arrived",
-   "summary": "Bitcoin Magazine Coinbase Institutional Co-CEO: Bitcoin's \"Second Wave\" of Institutional Capital has Arrived Seven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view BTC as tech. This post Coinbase Institutional Co-CEO: Bitcoin's \"Second Wave\"…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793042648,
-   "url": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
-   "summary": "Bitcoin price hovers near $80,000 as traders wait on this week's Fed decision, with geopolitical tensions and Anthropic's possible IPO adding to the uncertainty. This post Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793036598,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
-   "summary": "A confirmed exploit let rogue servers replace Electrum's pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
-   "source": "Decrypt",
-   "ts": 1793036481,
-   "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
    "ad": false
   }
  ]
