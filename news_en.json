@@ -1,8 +1,24 @@
 {
- "updated": 1793070787,
+ "updated": 1793074338,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+   "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
+   "source": "The Block",
+   "ts": 1793073487,
+   "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
+   "ad": false
+  },
+  {
+   "title": "Arbistar Ponzi Scheme Wallets Moved Over $1.1B in Bitcoin After Collapse: Report",
+   "summary": "Spanish authorities investigating the fraudulent cryptocurrency platform Arbistar have uncovered massive post-collapse bitcoin movements. Post-Collapse Bitcoin Transfers Uncovered New details have emerged in Spain's investigation into Arbistar, the fraudulent cryptocurrency platform that fleeced tens of thousands of investors…",
+   "source": "Bitcoin.com News",
+   "ts": 1793072733,
+   "url": "https://news.bitcoin.com/market-updates/arbistar-ponzi-scheme-wallets-moved-1-1-billion-bitcoin-after-collapse/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Bottom May Be Near as 30,000 Wallets Disappear: Santiment",
    "summary": "Bitcoin may be approaching a local bottom as smaller holders retreat, according to Santiment's latest analysis. Falling wallet participation could support a recovery, with $80,000 support and a move back above $82,500 central to the setup. Wallet Declines Signal a Possible Bitcoin Bottom A potential bitcoin bottom may be…",
@@ -65,22 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793031247,
    "url": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
-   "ad": false
-  },
-  {
-   "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
-   "summary": "Strategy skipped bitcoin buys for the week of October 19–25 and spent $204.9 million buying back its STRC preferred stock. This post Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793029193,
-   "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's Bear Market Is Over, Galaxy Says",
-   "summary": "Galaxy Research says that bitcoin's bear market ended at the June low. This post Bitcoin's Bear Market Is Over, Galaxy Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793025880,
-   "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
    "ad": false
   }
  ]
