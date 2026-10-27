@@ -1,8 +1,16 @@
 {
- "updated": 1793132064,
+ "updated": 1793135496,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Quantum fears already limiting Bitcoin's growth, Stacks founder says",
+   "summary": "Speaking on Cointelegraph's Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin's quantum security could deter institutional investors.",
+   "source": "Cointelegraph",
+   "ts": 1793133199,
+   "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_c",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
    "summary": "Bitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this week's Fed decision and the November midterms. This post Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -49,14 +57,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793118564,
    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-stalls-80k-us-midterm-election-fed-jitters-mount/",
-   "ad": false
-  },
-  {
-   "title": "Jason Calacanis Predicts Bitcoin Will Never Reclaim Its Price Peak–Here's Why",
-   "summary": "Technology investor Jason Calacanis has delivered one of his harshest bitcoin forecasts yet, urging investors to abandon the cryptocurrency before a potential 28% decline to $57,000 and declaring that its record-setting days are permanently over as artificial intelligence attracts capital. Calacanis Calls for Bitcoin Investors…",
-   "source": "Bitcoin.com News",
-   "ts": 1793117156,
-   "url": "https://news.bitcoin.com/price-predictions/jason-calacanis-predicts-bitcoin-never-reclaim-price-peak/",
    "ad": false
   },
   {
