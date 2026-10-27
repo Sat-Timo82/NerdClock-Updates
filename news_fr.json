@@ -1,8 +1,24 @@
 {
- "updated": 1793107756,
+ "updated": 1793111107,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by…",
+   "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+   "source": "CoinDesk",
+   "ts": 1793109600,
+   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware",
+   "summary": "Luxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business. This post Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793109212,
+   "url": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
+   "ad": false
+  },
   {
    "title": "Deloitte's Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
    "summary": "Bitcoin Magazine Deloitte's Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for. This post Deloitte's Rob Massey: What Bitcoin Investors Need to…",
@@ -36,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-   "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor's expansion into AI compute trading, hardware and derivatives.",
-   "source": "Decrypt",
-   "ts": 1793106068,
-   "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
-   "ad": false
-  },
-  {
    "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
    "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
    "source": "Cointelegraph",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793103504,
    "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&",
-   "ad": false
-  },
-  {
-   "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
-   "summary": "NIP Group says Bitcoin mining has \"earned its place\" as the esports giant swaps 247 million shares for more machines.",
-   "source": "Decrypt",
-   "ts": 1793101611,
-   "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
    "ad": false
   }
  ]

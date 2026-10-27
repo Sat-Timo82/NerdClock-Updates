@@ -1,8 +1,16 @@
 {
- "updated": 1793107756,
+ "updated": 1793111107,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Trotz institutioneller Adoption: 80 % der Bitcoin befinden sich noch im Besitz von…",
+   "summary": "Laut River entfallen 79,6 % der Bitcoin auf Privatpersonen – das ist deutlich mehr als bei anderen großen Anlageklassen. Doch in welche Richtung zeigt der Trend?",
+   "source": "Blocktrainer",
+   "ts": 1793106628,
+   "url": "https://www.blocktrainer.de/blog/80-der-bitcoin-befinden-sich-im-besitz-von-privatpersonen",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kurs unter 80.000 US-Dollar: Das müssen Anleger vor der Fed-Sitzung noch wissen",
    "summary": "Bitcoin rutscht unter 80.000 US-Dollar und auch Altcoins geraten unter Druck. Anleger warten jetzt mit Spannung auf die neuen Fed-Zahlen – und auf einen Börsengang. Source: BTC-ECHO BTC-ECHO",
@@ -57,22 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1793008800,
    "url": "https://www.btc-echo.de/news/bitcoin-auf-kredit-mehr-rendite-mit-fremdkapital-239754/",
-   "ad": false
-  },
-  {
-   "title": "ChatGPT-6-Prognose: So könnte eine Trump-Niederlage den Bitcoin-Kurs treffen",
-   "summary": "Donald Trump droht bei den US-Zwischenwahlen eine schwere Niederlage. ChatGPT-6 prognostiziert, was ein Sieg der Demokraten für den Bitcoin-Kurs bedeuten könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792989000,
-   "url": "https://www.btc-echo.de/news/chatgpt-prognose-das-bedeutet-ein-demokratischer-sieg-fuer-bitcoin-239824/",
-   "ad": false
-  },
-  {
-   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
-   "summary": "Die Fed-Zinsentscheidung sowie die US-Kerninflationsdaten könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792983600,
-   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-66-239734/",
    "ad": false
   }
  ]
