@@ -1,8 +1,16 @@
 {
- "updated": 1793085999,
+ "updated": 1793089125,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin ETFs claw back $110M after $774M exit",
+   "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday's rebound.",
+   "source": "Cointelegraph",
+   "ts": 1793086537,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
   {
    "title": "US Treasury Bitcoin Buy Odds Hit 21% on Kalshi but Few Are Betting",
    "summary": "A Kalshi contract betting that the U.S. Treasury will buy bitcoin before 2028 touched 21%, but only a sliver of money is backing that number. The Contract's Ask Odds on Kalshi had risen past 20% that the U.S. Treasury will buy bitcoin next year. The fine print, however, was narrower and it bears mentioning that […]",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793031247,
    "url": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
-   "ad": false
-  },
-  {
-   "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
-   "summary": "Strategy skipped bitcoin buys for the week of October 19–25 and spent $204.9 million buying back its STRC preferred stock. This post Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793029193,
-   "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
    "ad": false
   }
  ]
