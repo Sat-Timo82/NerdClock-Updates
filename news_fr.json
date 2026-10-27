@@ -1,8 +1,16 @@
 {
- "updated": 1793118228,
+ "updated": 1793121889,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Price Stalls at $80K as US Midterm Election, Fed Jitters Mount",
+   "summary": "Bitcoin remains rangebound near $80,000 after repeatedly facing resistance at $80,500, setting up October for potential net losses and spoiling what some traders hoped would be another positive \"Uptober.\" Pre-Election Caution and Macro Headwinds Weigh on Sentiment For the second consecutive day, bitcoin traded largely flat…",
+   "source": "Bitcoin.com News",
+   "ts": 1793118564,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-stalls-80k-us-midterm-election-fed-jitters-mount/",
+   "ad": false
+  },
   {
    "title": "Jason Calacanis Predicts Bitcoin Will Never Reclaim Its Price Peak–Here's Why",
    "summary": "Technology investor Jason Calacanis has delivered one of his harshest bitcoin forecasts yet, urging investors to abandon the cryptocurrency before a potential 28% decline to $57,000 and declaring that its record-setting days are permanently over as artificial intelligence attracts capital. Calacanis Calls for Bitcoin Investors…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793107016,
    "url": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-   "summary": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
-   "source": "CoinDesk",
-   "ts": 1793106830,
-   "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
    "ad": false
   }
  ]
