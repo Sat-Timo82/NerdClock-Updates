@@ -1,5 +1,5 @@
 {
- "updated": 1793092634,
+ "updated": 1793096209,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -73,14 +73,6 @@
    "source": "BTC-ECHO",
    "ts": 1792983600,
    "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-66-239734/",
-   "ad": false
-  },
-  {
-   "title": "Krypto-Steuer reduzieren? Wie Anleger ihre Bitcoin-Verluste nutzen können",
-   "summary": "Viele Krypto-Anleger sitzen trotz der jüngsten Erholung weiterhin auf hohen Verlusten. Wer geschickt vorgeht, kann damit aber seine künftige Steuerlast deutlich senken. So funktioniert es. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792944000,
-   "url": "https://www.btc-echo.de/news/bitcoin-im-minus-so-sparen-krypto-anleger-steuern-239743/",
    "ad": false
   }
  ]

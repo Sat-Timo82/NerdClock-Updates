@@ -1,8 +1,24 @@
 {
- "updated": 1793092634,
+ "updated": 1793096209,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Now is the time to accumulate bitcoin, Galaxy says",
+   "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin's recovery towards its previous high.",
+   "source": "CoinDesk",
+   "ts": 1793094166,
+   "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+   "ad": false
+  },
+  {
+   "title": "Saylor Has 33% of the Vote and Needs 17% More for STRC Daily Dividends",
+   "summary": "Strategy shareholders decide on Wednesday whether STRC becomes what the company calls the first security to pay dividends every calendar day, and staying home counts as a vote against. What's on the Ballot The special meeting starts at 10:00 a.m. ET on Oct. 28, with two key agenda points being listed: Proposal 1 amends the […]",
+   "source": "Bitcoin.com News",
+   "ts": 1793093405,
+   "url": "https://news.bitcoin.com/finance/strategy-strc-daily-dividends-vote-october-28/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs claw back $110M after $774M exit",
    "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday's rebound.",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793036481,
    "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Face Roughest Run Since April as Banks Stay Shut",
-   "summary": "Institutional appetite faded fast. Spot Bitcoin ETFs in the US saw roughly $228 million of net withdrawals between October 12 and 16, following $681 million the week before, for a two-week total of $909 million. That is the biggest pullback since April. Price action matched the mood: Bitcoin slid under $82,000, with about $771…",
-   "source": "Bitcoinist",
-   "ts": 1793031279,
-   "url": "https://bitcoinist.com/bitcoin-etfs-face-roughest-run-since-april-as-banks-stay-shut/",
-   "ad": false
-  },
-  {
-   "title": "BTC Defends $80K While Inflation And AI Stock Sell-Off Rattle Crypto Markets",
-   "summary": "Bitcoin had a bumpy stretch. After reaching roughly $83,800 on October 13, the flagship asset slid to a weekly trough near $80,100 two days later, as traders reacted to a hotter-than-forecast inflation reading and a sharp pullback in AI-linked stocks. TL;DR Bitcoin dipped to about $80,100 before recovering toward $81,000 as…",
-   "source": "Bitcoinist",
-   "ts": 1793031247,
-   "url": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
    "ad": false
   }
  ]
