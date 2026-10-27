@@ -1,86 +1,86 @@
 {
- "updated": 1793103117,
+ "updated": 1793107756,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Deloitte's Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
+   "summary": "Bitcoin Magazine Deloitte's Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for. This post Deloitte's Rob Massey: What Bitcoin Investors Need to…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793107325,
+   "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on \"Exponential\" Path",
+   "summary": "Bitcoin Magazine Bitcoin Security Expert Jameson Lopp: Cyberattacks on \"Exponential\" Path Bitcoin Core updates security as AI automates bug hunting. Jameson Lopp explains the shift to real-time defense, uncensored exploit models, and the PHP flaw. This post Bitcoin Security Expert Jameson Lopp: Cyberattacks on \"Exponential\"…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793107016,
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+   "summary": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
+   "source": "CoinDesk",
+   "ts": 1793106830,
+   "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+   "ad": false
+  },
+  {
+   "title": "UTXO's Duke Waldrop: Bank of Japan \"Liquidity Shock\" Could Impact Bitcoin",
+   "summary": "Bitcoin Magazine UTXO's Duke Waldrop: Bank of Japan \"Liquidity Shock\" Could Impact Bitcoin Ahead of Fed and BOJ rate calls, Duke Waldrop explains how yen carry unwinds hit 24/7 Bitcoin liquidity and why Metaplanet trading below NAV is an opportunity. This post UTXO's Duke Waldrop: Bank of Japan \"Liquidity Shock\" Could Impact…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793106765,
+   "url": "https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+   "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor's expansion into AI compute trading, hardware and derivatives.",
+   "source": "Decrypt",
+   "ts": 1793106068,
+   "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+   "ad": false
+  },
+  {
+   "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+   "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
+   "source": "Cointelegraph",
+   "ts": 1793106060,
+   "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_i",
+   "ad": false
+  },
+  {
+   "title": "Blackrock Drives Entire $110 Million Bitcoin ETF Inflow",
+   "summary": "Bitcoin ETFs opened the week with $110.34 million in net inflows, though the entire gain came through Blackrock's IBIT. Ether funds returned to sizable outflows, while zcash and NEAR remained the only smaller categories to attract fresh capital. Bitcoin ETFs Add $110M as Ether Funds Lose $89M The week began with a familiar…",
+   "source": "Bitcoin.com News",
+   "ts": 1793104248,
+   "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-entire-110-million-bitcoin-etf-inflow/",
+   "ad": false
+  },
+  {
+   "title": "Over 11 Million Bitcoin Remain Unattributed Despite Wall Street Buying",
+   "summary": "More than 11.1 million Bitcoin (BTC), representing approximately 55% of all mined coins, cannot be linked to a known owner, according to an October ownership snapshot from Galaxy Research. The findings highlight how Bitcoin ownership remains difficult to identify despite growing institutional adoption, including spot…",
+   "source": "Bitcoinist",
+   "ts": 1793103992,
+   "url": "https://bitcoinist.com/over-11-million-bitcoin-remain-unattributed-despite-wall-street-buying/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price analysis sees 'strong rally' as old coins become dormant",
+   "summary": "A decline in the share of Bitcoin's realized cap held by coins unmoved for 18 months or longer points to the 'early stages' of a bull market, analysis says.",
+   "source": "Cointelegraph",
+   "ts": 1793103504,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&",
+   "ad": false
+  },
   {
    "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
    "summary": "NIP Group says Bitcoin mining has \"earned its place\" as the esports giant swaps 247 million shares for more machines.",
    "source": "Decrypt",
    "ts": 1793101611,
    "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
-   "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
-   "source": "CoinDesk",
-   "ts": 1793101250,
-   "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-   "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
-   "source": "CoinDesk",
-   "ts": 1793100765,
-   "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-   "ad": false
-  },
-  {
-   "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
-   "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
-   "source": "CoinDesk",
-   "ts": 1793098671,
-   "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-   "ad": false
-  },
-  {
-   "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as…",
-   "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
-   "source": "The Block",
-   "ts": 1793098654,
-   "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-l",
-   "ad": false
-  },
-  {
-   "title": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Cafe de Leche",
-   "summary": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Cafe de Leche Los Angeles Bitcoin: where to spend bitcoin at 425 cafes, restaurants, and shops across Los Angeles and nearby cities, with a categorized directory. This post Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Cafe de Leche first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793097840,
-   "url": "https://bitcoinmagazine.com/news/los-angeles-bitcoin-425",
-   "ad": false
-  },
-  {
-   "title": "With Bitcoin Under $80k, Two Whales Send BTC Worth $206M to Coinbase",
-   "summary": "Two bitcoin wallets that sat untouched since 2023 moved 2,571 BTC worth $206.5 million into Coinbase Prime on Monday, three minutes apart. Three Minutes on a Monday Was All It Took The first wallet blinked yesterday and emptied 986.31 BTC into a single deposit address, while a second then followed up with a 1,584.98 BTC […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793097029,
-   "url": "https://news.bitcoin.com/crypto-news/dormant-bitcoin-whales-206m-coinbase-prime/",
-   "ad": false
-  },
-  {
-   "title": "Now is the time to accumulate bitcoin, Galaxy says",
-   "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin's recovery towards its previous high.",
-   "source": "CoinDesk",
-   "ts": 1793094166,
-   "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
-   "ad": false
-  },
-  {
-   "title": "Saylor Has 33% of the Vote and Needs 17% More for STRC Daily Dividends",
-   "summary": "Strategy shareholders decide on Wednesday whether STRC becomes what the company calls the first security to pay dividends every calendar day, and staying home counts as a vote against. What's on the Ballot The special meeting starts at 10:00 a.m. ET on Oct. 28, with two key agenda points being listed: Proposal 1 amends the […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793093405,
-   "url": "https://news.bitcoin.com/finance/strategy-strc-daily-dividends-vote-october-28/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs claw back $110M after $774M exit",
-   "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday's rebound.",
-   "source": "Cointelegraph",
-   "ts": 1793086537,
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
    "ad": false
   }
  ]
