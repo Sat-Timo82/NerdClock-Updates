@@ -1,8 +1,24 @@
 {
- "updated": 1793056065,
+ "updated": 1793059391,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
+   "summary": "bitcoin++ is planning its first cold-storage edition on a 13-day expedition to the Antarctic Peninsula. This post Cold Storage Goes South: bitcoin++ Announces Antarctica Edition first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793059204,
+   "url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
+   "ad": false
+  },
+  {
+   "title": "Monero Hashrate Nears Record Highs as XMR Price Gains 70% in a Year",
+   "summary": "Monero's network hashrate is hovering near historic highs, but its mining distribution tells an equally compelling story. On Monday, network computing power stood near 7.12 GH/s, with three major mining pools controlling approximately 60% of that total. Monero's Mining Power Climbs as Three Pools Dominate the Hashrate Race…",
+   "source": "Bitcoin.com News",
+   "ts": 1793058342,
+   "url": "https://news.bitcoin.com/mining/monero-hashrate-nears-record-highs-as-xmr-price-gains-70-in-a-year/",
+   "ad": false
+  },
   {
    "title": "Polymarket Whales Lose Millions in a Day of Premier League Upsets",
    "summary": "Two Polymarket traders lost a combined $2.7 million on Saturday after backing Manchester City and Chelsea, both of whom lost to underdogs in the Premier League. Two Favorites, Two Seven-Figure Losses The first loss came at lunchtime. Between 10:33 UTC and the 11:30 UTC kickoff at Villa Park on Oct. 24, the trader…",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793025880,
    "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
-   "ad": false
-  },
-  {
-   "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
-   "summary": "Bitcoin Magazine Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate Leon Wankum argues real estate's $300T+ monetary premium is migrating to Bitcoin, projecting a $1M target and explaining why it's smarter to rent and buy BTC. This post Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793021848,
-   "url": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
-   "ad": false
-  },
-  {
-   "title": "Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \"Poised for a Big Bull Run\"",
-   "summary": "Bitcoin Magazine Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \"Poised for a Big Bull Run\" Blockstream CMO Peter Bain explains why holding $81K signals strength, the push into Swiss institutional banking, and the latest Liquid Network recovery. This post Blockstream Executive Peter Bain: Institutional…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793021467,
-   "url": "https://bitcoinmagazine.com/videos/blockstream-executive-peter-bain-institutional-clients-say-bitcoin-poised-for-a-big-bull-run",
    "ad": false
   }
  ]
