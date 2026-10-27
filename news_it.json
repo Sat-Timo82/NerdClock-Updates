@@ -1,5 +1,5 @@
 {
- "updated": 1793065531,
+ "updated": 1793068537,
  "mode": "stichworte",
  "lang": "it",
  "items": [
@@ -25,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793058342,
    "url": "https://news.bitcoin.com/mining/monero-hashrate-nears-record-highs-as-xmr-price-gains-70-in-a-year/",
-   "ad": false
-  },
-  {
-   "title": "Polymarket Whales Lose Millions in a Day of Premier League Upsets",
-   "summary": "Two Polymarket traders lost a combined $2.7 million on Saturday after backing Manchester City and Chelsea, both of whom lost to underdogs in the Premier League. Two Favorites, Two Seven-Figure Losses The first loss came at lunchtime. Between 10:33 UTC and the 11:30 UTC kickoff at Villa Park on Oct. 24, the trader…",
-   "source": "Bitcoin.com News",
-   "ts": 1793049011,
-   "url": "https://news.bitcoin.com/igaming/polymarket-whales-lose-millions-day-premier-league-upsets/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793029193,
    "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's Bear Market Is Over, Galaxy Says",
+   "summary": "Galaxy Research says that bitcoin's bear market ended at the June low. This post Bitcoin's Bear Market Is Over, Galaxy Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793025880,
+   "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
    "ad": false
   }
  ]
