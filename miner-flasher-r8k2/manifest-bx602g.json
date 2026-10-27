@@ -1,0 +1,16 @@
+{
+  "name": "Bitaxe Gamma 602 – großes Display 2,4\" (Nerdminer.de)",
+  "version": "2.15.4",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "bitaxe-602-gross.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}

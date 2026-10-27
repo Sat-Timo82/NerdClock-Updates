@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Nerdminer.de Webflasher</title>
+<link rel="icon" href="icon.png">
+<script type="module" src="https://unpkg.com/esp-web-tools@10.4.0/dist/web/install-button.js?module"></script>
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700,900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --red:#F43C1E;--red2:#d83418;
+  --bg:#000;--bg2:#0b0b0c;--bg3:#151517;
+  --card:#111113;--border:#1f1f22;--border2:#2a2a2e;
+  --t1:#f5f5f7;--t2:#8e8e93;--t3:#48484a;
+  --green:#30d158;--gold:#ffb340;--blue:#409cff;
+  --font:'Satoshi',-apple-system,system-ui,sans-serif;
+}
+html{background:var(--bg);color:var(--t1);font-family:var(--font);min-height:100vh;}
+body{min-height:100vh;display:flex;flex-direction:column;}
+
+nav{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px;padding:0 40px;height:64px;
+  border-bottom:1px solid var(--border);background:rgba(0,0,0,.9);backdrop-filter:blur(12px);
+  position:sticky;top:0;z-index:100;}
+.nav-brand{display:flex;align-items:flex-end;gap:1px;text-decoration:none;justify-self:start;}
+.nav-brand img{height:23px;width:auto;display:block;margin-bottom:1px;}   /* Icon = das "N" */
+.nav-name{font-size:19px;font-weight:900;color:var(--t1);letter-spacing:-.3px;line-height:1;}
+.nav-name em{color:var(--red);font-style:normal;}                           /* gleicher Ton wie das Icon */
+.nav-title{font-size:22px;font-weight:900;color:var(--t1);letter-spacing:-.4px;text-align:center;}
+.nav-links{display:flex;gap:24px;align-items:center;justify-self:end;}
+.nav-links a{font-size:13px;font-weight:500;color:var(--t2);text-decoration:none;transition:color .15s;}
+.nav-links a:hover{color:var(--t1);}
+.nav-badge{font-size:10px;font-weight:700;background:rgba(244,60,30,.14);border:1px solid rgba(244,60,30,.35);
+  color:var(--red);padding:3px 9px;border-radius:20px;letter-spacing:.8px;}
+
+.hero{text-align:center;padding:72px 20px 56px;border-bottom:1px solid var(--border);
+  background:radial-gradient(ellipse 80% 55% at 50% 0%, rgba(244,60,30,.09) 0%, transparent 70%);}
+.hero-logo{width:min(400px,78vw);height:auto;display:block;margin:0 auto 26px;mix-blend-mode:lighten;}
+.hero-eyebrow{font-size:11px;font-weight:700;letter-spacing:2.4px;text-transform:uppercase;color:var(--red);margin-bottom:14px;}
+.hero-title{font-size:48px;font-weight:900;letter-spacing:-1.6px;line-height:1.05;margin-bottom:14px;}
+.hero-title .nc{white-space:nowrap;}
+.hero-title .nc img{height:.86em;width:auto;vertical-align:-.04em;margin-right:.02em;}
+.hero-title .nc em{color:var(--red);font-style:normal;}
+.hero-sub{font-size:17px;color:var(--t2);max-width:540px;margin:0 auto 28px;line-height:1.6;}
+.hero-chips{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;}
+.chip{display:flex;align-items:center;gap:6px;padding:6px 13px;border-radius:20px;background:var(--bg3);
+  border:1px solid var(--border2);font-size:12px;font-weight:500;color:var(--t2);}
+.chip-dot{width:6px;height:6px;border-radius:50%;background:var(--green);}
+
+main{flex:1;max-width:920px;margin:0 auto;padding:56px 20px;width:100%;}
+
+.flash-card{background:var(--card);border:1px solid var(--border);border-radius:18px;overflow:hidden;margin-bottom:24px;}
+.flash-card-header{padding:22px 28px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;gap:12px;}
+.flash-card-title{font-size:19px;font-weight:700;}
+.version-badge{display:flex;align-items:center;gap:6px;font-size:11px;font-weight:700;letter-spacing:.5px;
+  color:var(--gold);background:rgba(255,179,64,.1);border:1px solid rgba(255,179,64,.25);border-radius:20px;padding:4px 12px;}
+.version-dot{width:6px;height:6px;border-radius:50%;background:var(--gold);}
+.flash-card-body{padding:28px;}
+
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:26px;}
+.step{background:var(--bg3);border:1px solid var(--border);border-radius:12px;padding:18px;}
+.step-num{width:30px;height:30px;border-radius:50%;background:rgba(244,60,30,.14);border:1px solid rgba(244,60,30,.35);
+  color:var(--red);font-size:13px;font-weight:700;display:flex;align-items:center;justify-content:center;margin-bottom:12px;}
+.step-title{font-size:14px;font-weight:700;margin-bottom:5px;}
+.step-desc{font-size:12.5px;color:var(--t2);line-height:1.55;}
+.step-tag{display:inline-block;margin-top:8px;font-size:10.5px;font-weight:600;color:var(--t2);background:var(--bg2);
+  border:1px solid var(--border);border-radius:5px;padding:2px 8px;}
+
+.flash-zone{background:var(--bg3);border:1px solid var(--border);border-radius:14px;padding:30px;text-align:center;transition:border-color .2s;}
+.flash-zone:hover{border-color:rgba(244,60,30,.3);}
+.flash-zone-title{font-size:16px;font-weight:700;margin-bottom:6px;}
+.flash-zone-sub{font-size:12.5px;color:var(--t2);margin-bottom:22px;line-height:1.6;}
+esp-web-install-button button{background:var(--red);color:#fff;font:700 15px var(--font);padding:14px 34px;border-radius:12px;
+  border:none;cursor:pointer;letter-spacing:.2px;box-shadow:0 6px 28px rgba(244,60,30,.3);transition:background .15s;}
+esp-web-install-button button:hover{background:var(--red2);}
+#premium-apex esp-web-install-button button:hover{background:#3A3A3D !important;}
+.flash-note{font-size:11.5px;color:var(--t3);margin-top:16px;line-height:1.7;}
+.flash-note strong{color:var(--t2);}
+
+.browser-warn{display:none;background:rgba(255,179,64,.08);border:1px solid rgba(255,179,64,.25);border-radius:12px;
+  padding:14px 18px;margin-bottom:20px;font-size:13px;color:var(--gold);line-height:1.6;}
+.browser-warn a{color:var(--gold);}
+
+.info-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:24px;}
+.info-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px;}
+.info-card h4{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:var(--red);margin-bottom:14px;}
+.info-row{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:9px;font-size:13px;}
+.info-row:last-child{margin-bottom:0;}
+.info-key{color:var(--t2);}
+.info-val{color:var(--t1);font-weight:500;text-align:right;}
+.info-val code{background:var(--bg3);border:1px solid var(--border2);border-radius:5px;padding:1px 7px;font-size:12px;font-family:ui-monospace,monospace;}
+
+.changelog{background:var(--card);border:1px solid var(--border);border-radius:18px;overflow:hidden;margin-bottom:24px;}
+.changelog-header{padding:20px 28px;border-bottom:1px solid var(--border);}
+.changelog-header h3{font-size:17px;font-weight:700;}
+.cl-list{padding:22px 28px;display:flex;flex-direction:column;gap:18px;}
+.cl-item{display:flex;gap:14px;}
+.cl-ver{font-size:11px;font-weight:700;color:var(--red);background:rgba(244,60,30,.1);border:1px solid rgba(244,60,30,.25);
+  border-radius:6px;padding:2px 9px;white-space:nowrap;align-self:flex-start;margin-top:1px;}
+.cl-title{font-size:14px;font-weight:700;margin-bottom:6px;}
+.cl-notes{font-size:12.5px;color:var(--t2);line-height:1.75;}
+.cl-tag{display:inline-block;font-size:10px;font-weight:700;border-radius:4px;padding:1px 6px;margin-right:6px;}
+.cl-tag.new{background:rgba(48,209,88,.12);color:var(--green);}
+.cl-tag.imp{background:rgba(255,179,64,.12);color:var(--gold);}
+
+.compat{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:22px 28px 0;}
+.compat-item{background:var(--bg3);border:1px solid var(--border);border-radius:12px;padding:16px 18px;border-left:3px solid var(--red);}
+.compat-name{font-size:14px;font-weight:700;margin-bottom:4px;}
+.compat-desc{font-size:12.5px;color:var(--t2);line-height:1.55;}
+.compat-foot{padding:16px 28px 22px;font-size:12.5px;color:var(--t2);}
+
+footer{border-top:1px solid var(--border);padding:26px 40px;display:flex;align-items:center;justify-content:space-between;font-size:12px;color:var(--t3);}
+footer a{color:var(--t3);text-decoration:none;transition:color .15s;}
+footer a:hover{color:var(--t2);}
+footer b{color:var(--red);}
+.footer-links{display:flex;gap:20px;}
+
+@media(max-width:640px){
+  .steps,.info-grid,.compat{grid-template-columns:1fr;}
+  .hero-title{font-size:34px;}
+  nav{padding:0 16px;gap:8px;} .nav-name{font-size:16px;} .nav-brand img{height:19px;} .nav-title{font-size:17px;} main{padding:36px 16px;}
+  footer{flex-direction:column;gap:12px;text-align:center;}
+}
+</style>
+</head>
+<body>
+
+<nav>
+  <a class="nav-brand" href="https://nerdminer.de" target="_blank"><img src="icon.png" alt="N"><span class="nav-name">erd<em>miner</em>.de</span></a>
+  <div></div>
+  <div class="nav-links"><a href="https://nerdminer.de" target="_blank">Shop</a></div>
+</nav>
+
+<div class="hero">
+  <div class="hero-eyebrow">We do Bitcoin</div>
+  <h1 class="hero-title"><span class="nc"><img src="icon.png" alt="N">erd<em>miner</em>.de</span><br>Webflasher</h1>
+  <p class="hero-sub">Software für deinen NerdMiner und Bitaxe direkt aus dem Browser aufspielen –
+     ohne Download, ohne Programme. Pool.Nerdminer.de ist schon voreingestellt.</p>
+  <div class="hero-chips">
+    <div class="chip"><div class="chip-dot"></div>Chrome &amp; Edge</div>
+    <div class="chip">NerdMiner 1,9"</div>
+    <div class="chip">NerdMiner 2,8"</div>
+    <div class="chip">NerdMiner USB</div>
+    <div class="chip">Bitaxe Gamma</div>
+  </div>
+</div>
+
+<main>
+  <div class="browser-warn" id="browser-warn">
+    <strong>Bitte Chrome oder Edge am Computer verwenden.</strong>
+    Safari, Firefox und Handys unterstützen das Flashen über USB nicht.
+    <a href="https://www.google.com/chrome/" target="_blank">Chrome herunterladen →</a>
+  </div>
+
+  <div class="flash-card">
+    <div class="flash-card-header">
+      <div class="flash-card-title">NerdMiner installieren</div>
+      <div class="version-badge"><div class="version-dot"></div>Pool.Nerdminer.de</div>
+    </div>
+    <div class="flash-card-body">
+      <div class="info-grid" style="margin-bottom:0">
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdMiner Classic 1,9"</div>
+          <div class="flash-zone-sub">LilyGO T-Display S3 · v1.8.3 (~253 KH/s)</div>
+          <esp-web-install-button manifest="manifest-nm19.json">
+            <button slot="activate">Classic 1,9" installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdMiner 2,8" / GIGA</div>
+          <div class="flash-zone-sub">ESP32-2432S028 · alle Varianten · v1.8.3 Beta (~345 KH/s)</div>
+          <esp-web-install-button manifest="manifest-nm28.json">
+            <button slot="activate">2,8" installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdMiner USB</div>
+          <div class="flash-zone-sub">LilyGO T-Dongle S3 · v1.8.3 Beta</div>
+          <esp-web-install-button manifest="manifest-nmusb.json">
+            <button slot="activate">USB-NerdMiner installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+      </div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>NerdMinerAP</strong> (Passwort <strong>MineYourCoins</strong>):
+        WLAN und BTC-Adresse mit Namen eintragen, z. B. <strong>bc1q….Wohnzimmer</strong> – Pool.Nerdminer.de ist voreingestellt.<br>
+        2,8": Farben falsch? In der Einrichtung den Haken „Invert Display Colors“ setzen.</div>
+    </div>
+  </div>
+
+  <div class="flash-card">
+    <div class="flash-card-header">
+      <div class="flash-card-title">Bitaxe installieren</div>
+      <div class="version-badge"><div class="version-dot"></div>Pool.Nerdminer.de</div>
+    </div>
+    <div class="flash-card-body">
+      <div class="info-grid" style="margin-bottom:0">
+        <div class="flash-zone">
+          <div class="flash-zone-title">Bitaxe Gamma 602 – großes Display 2,4"</div>
+          <div class="flash-zone-sub">2,4"-Display · ca. 1,3 TH/s · ESP-Miner v2.15.4</div>
+          <esp-web-install-button manifest="manifest-bx602g.json">
+            <button slot="activate">602 installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+        <div class="flash-zone">
+          <div class="flash-zone-title">Bitaxe Gamma 603 – kleines Display 0,91"</div>
+          <div class="flash-zone-sub">0,91"-Display · großer Kühler · ca. 1,54 TH/s · ESP-Miner v2.15.4</div>
+          <esp-web-install-button manifest="manifest-bx603k.json">
+            <button slot="activate">603 kleines Display installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+        <div class="flash-zone">
+          <div class="flash-zone-title">Bitaxe Gamma 603 – großes Display 2,42"</div>
+          <div class="flash-zone-sub">2,42"-Display · großer Kühler · ca. 1,54 TH/s · ESP-Miner v2.15.4</div>
+          <esp-web-install-button manifest="manifest-bx603g.json">
+            <button slot="activate">603 großes Display installieren</button>
+            <span slot="unsupported">Bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          </esp-web-install-button>
+        </div>
+      </div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>Bitaxe_…</strong>: dort <strong>dein WLAN</strong> und
+        <strong>deine BTC-Adresse</strong> eintragen (Felder „mein WLAN“ und „meine BTC-Adresse“ ersetzen). Primary und Secondary Pool sind
+        auf Pool.Nerdminer.de voreingestellt. Updates bitte immer hier über den Webflasher, nicht über das Dashboard.</div>
+    </div>
+  </div>
+
+  <div class="info-grid">
+    <div class="info-card">
+      <h4>So geht's</h4>
+      <div class="info-row"><span class="info-key">1.</span><span class="info-val">Miner per USB-Datenkabel an den Computer</span></div>
+      <div class="info-row"><span class="info-key">2.</span><span class="info-val">Gerät oben wählen, „installieren“ tippen</span></div>
+      <div class="info-row"><span class="info-key">3.</span><span class="info-val">Anschluss (COM-Port) auswählen</span></div>
+      <div class="info-row"><span class="info-key">4.</span><span class="info-val">WLAN und BTC-Adresse am Miner eintragen</span></div>
+    </div>
+    <div class="info-card">
+      <h4>Hilfe</h4>
+      <div class="info-row"><span class="info-key">Kein Anschluss sichtbar?</span><span class="info-val">anderes USB-Kabel (Datenkabel) probieren</span></div>
+      <div class="info-row"><span class="info-key">Pool</span><span class="info-val">Pool.Nerdminer.de · Port 3333</span></div>
+      <div class="info-row"><span class="info-key">Fragen?</span><span class="info-val"><a href="mailto:service@nerdminer.de" style="color:var(--red)">service@nerdminer.de</a></span></div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <span>© 2026 <b>Nerdminer.de</b></span>
+  <div class="footer-links">
+    <a href="https://nerdminer.de" target="_blank">Nerdminer.de</a>
+    <a href="https://pool.nerdminer.de" target="_blank">Pool.Nerdminer.de</a>
+  </div>
+</footer>
+
+<script>
+if (!('serial' in navigator)) document.getElementById('browser-warn').style.display = 'block';
+</script>
+</body>
+</html>
