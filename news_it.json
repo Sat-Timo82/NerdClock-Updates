@@ -1,8 +1,16 @@
 {
- "updated": 1793074338,
+ "updated": 1793077858,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "US Treasury Bitcoin Buy Odds Hit 21% on Kalshi but Few Are Betting",
+   "summary": "A Kalshi contract betting that the U.S. Treasury will buy bitcoin before 2028 touched 21%, but only a sliver of money is backing that number. The Contract's Ask Odds on Kalshi had risen past 20% that the U.S. Treasury will buy bitcoin next year. The fine print, however, was narrower and it bears mentioning that […]",
+   "source": "Bitcoin.com News",
+   "ts": 1793074508,
+   "url": "https://news.bitcoin.com/featured/kalshi-us-treasury-bitcoin-purchase-odds-21-percent/",
+   "ad": false
+  },
   {
    "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
    "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
@@ -33,14 +41,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793059204,
    "url": "https://bitcoinmagazine.com/news/cold-storage-bitcoin-antarctica",
-   "ad": false
-  },
-  {
-   "title": "Monero Hashrate Nears Record Highs as XMR Price Gains 70% in a Year",
-   "summary": "Monero's network hashrate is hovering near historic highs, but its mining distribution tells an equally compelling story. On Monday, network computing power stood near 7.12 GH/s, with three major mining pools controlling approximately 60% of that total. Monero's Mining Power Climbs as Three Pools Dominate the Hashrate Race…",
-   "source": "Bitcoin.com News",
-   "ts": 1793058342,
-   "url": "https://news.bitcoin.com/mining/monero-hashrate-nears-record-highs-as-xmr-price-gains-70-in-a-year/",
    "ad": false
   },
   {
