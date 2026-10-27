@@ -1,8 +1,24 @@
 {
- "updated": 1793114625,
+ "updated": 1793118228,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Jason Calacanis Predicts Bitcoin Will Never Reclaim Its Price Peak–Here's Why",
+   "summary": "Technology investor Jason Calacanis has delivered one of his harshest bitcoin forecasts yet, urging investors to abandon the cryptocurrency before a potential 28% decline to $57,000 and declaring that its record-setting days are permanently over as artificial intelligence attracts capital. Calacanis Calls for Bitcoin Investors…",
+   "source": "Bitcoin.com News",
+   "ts": 1793117156,
+   "url": "https://news.bitcoin.com/price-predictions/jason-calacanis-predicts-bitcoin-never-reclaim-price-peak/",
+   "ad": false
+  },
+  {
+   "title": "Crypto Casino Gamdom Faces $15M Bitcoin Ransom After Multimillion-Dollar Hack",
+   "summary": "Crypto casino Gamdom faces a $15 million bitcoin ransom demand after cyber-extortion group Whitearmor claimed to have stolen records belonging to 15.4 million accounts. The allegation surfaced less than two weeks after a separate hot-wallet attack cost the gambling platform more than $3 million. Gamdom disputes the alleged…",
+   "source": "Bitcoin.com News",
+   "ts": 1793115309,
+   "url": "https://news.bitcoin.com/security/crypto-casino-gamdom-faces-15m-bitcoin-ransom-after-multimillion-dollar-hack/",
+   "ad": false
+  },
   {
    "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
    "summary": "Michael Saylor's Strategy has temporarily paused its Bitcoin accumulation strategy, choosing to spend approximately $205 million repurchasing its preferred stock instead. The decision marks a shift in the company's recent capital allocation priorities as it balances its enormous Bitcoin treasury with the financial obligations…",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793106830,
    "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-   "ad": false
-  },
-  {
-   "title": "UTXO's Duke Waldrop: Bank of Japan \"Liquidity Shock\" Could Impact Bitcoin",
-   "summary": "Bitcoin Magazine UTXO's Duke Waldrop: Bank of Japan \"Liquidity Shock\" Could Impact Bitcoin Ahead of Fed and BOJ rate calls, Duke Waldrop explains how yen carry unwinds hit 24/7 Bitcoin liquidity and why Metaplanet trading below NAV is an opportunity. This post UTXO's Duke Waldrop: Bank of Japan \"Liquidity Shock\" Could Impact…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793106765,
-   "url": "https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-   "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
-   "source": "Cointelegraph",
-   "ts": 1793106060,
-   "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_i",
    "ad": false
   }
  ]
