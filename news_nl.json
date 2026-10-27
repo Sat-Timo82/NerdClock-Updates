@@ -1,5 +1,5 @@
 {
- "updated": 1793077858,
+ "updated": 1793081390,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
@@ -25,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793072733,
    "url": "https://news.bitcoin.com/market-updates/arbistar-ponzi-scheme-wallets-moved-1-1-billion-bitcoin-after-collapse/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Bottom May Be Near as 30,000 Wallets Disappear: Santiment",
-   "summary": "Bitcoin may be approaching a local bottom as smaller holders retreat, according to Santiment's latest analysis. Falling wallet participation could support a recovery, with $80,000 support and a move back above $82,500 central to the setup. Wallet Declines Signal a Possible Bitcoin Bottom A potential bitcoin bottom may be…",
-   "source": "Bitcoin.com News",
-   "ts": 1793060107,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-bottom-may-be-near-as-30000-wallets-disappear-santiment/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoinist",
    "ts": 1793031247,
    "url": "https://bitcoinist.com/btc-defends-80k-while-inflation-and-ai-stock-sell-off-rattle-crypto-markets/",
+   "ad": false
+  },
+  {
+   "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+   "summary": "Strategy skipped bitcoin buys for the week of October 19–25 and spent $204.9 million buying back its STRC preferred stock. This post Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793029193,
+   "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
    "ad": false
   }
  ]
