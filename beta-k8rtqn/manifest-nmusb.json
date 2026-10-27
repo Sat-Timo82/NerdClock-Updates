@@ -1,0 +1,6 @@
+{
+  "name": "NerdMiner USB (T-Dongle S3, Nerdminer.de)",
+  "version": "1.8.3 Nerdminer.de (Beta)",
+  "new_install_prompt_erase": true,
+  "builds": [ { "chipFamily": "ESP32-S3", "parts": [ { "path": "nerdminer-usb.bin", "offset": 0 } ] } ]
+}
