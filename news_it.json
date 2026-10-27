@@ -1,5 +1,5 @@
 {
- "updated": 1793135496,
+ "updated": 1793139080,
  "mode": "stichworte",
  "lang": "it",
  "items": [
@@ -52,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price Stalls at $80K as US Midterm Election, Fed Jitters Mount",
-   "summary": "Bitcoin remains rangebound near $80,000 after repeatedly facing resistance at $80,500, setting up October for potential net losses and spoiling what some traders hoped would be another positive \"Uptober.\" Pre-Election Caution and Macro Headwinds Weigh on Sentiment For the second consecutive day, bitcoin traded largely flat…",
-   "source": "Bitcoin.com News",
-   "ts": 1793118564,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-stalls-80k-us-midterm-election-fed-jitters-mount/",
-   "ad": false
-  },
-  {
    "title": "Strategy Halts Bitcoin Purchases, Spends $205 Million Buying Back STRC Shares Instead",
    "summary": "Michael Saylor's Strategy has temporarily paused its Bitcoin accumulation strategy, choosing to spend approximately $205 million repurchasing its preferred stock instead. The decision marks a shift in the company's recent capital allocation priorities as it balances its enormous Bitcoin treasury with the financial obligations…",
    "source": "Bitcoinist",
@@ -81,6 +73,14 @@
    "source": "Decrypt",
    "ts": 1793111462,
    "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+   "ad": false
+  },
+  {
+   "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by…",
+   "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+   "source": "CoinDesk",
+   "ts": 1793109600,
+   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
    "ad": false
   }
  ]
