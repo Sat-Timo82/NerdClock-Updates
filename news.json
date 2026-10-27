@@ -1,8 +1,16 @@
 {
- "updated": 1793081390,
+ "updated": 1793085999,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Kurs unter 80.000 US-Dollar: Das müssen Anleger vor der Fed-Sitzung noch wissen",
+   "summary": "Bitcoin rutscht unter 80.000 US-Dollar und auch Altcoins geraten unter Druck. Anleger warten jetzt mit Spannung auf die neuen Fed-Zahlen – und auf einen Börsengang. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793084044,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-das-muessen-anleger-vor-fed-sitzung-wissen-239909/",
+   "ad": false
+  },
   {
    "title": "Strive kauft für 511 Millionen US-Dollar Bitcoin und rückt Metaplanet auf die Pelle",
    "summary": "Strive hat in einer einzigen Woche für mehr als eine halbe Milliarde US-Dollar Bitcoin gekauft. Der Platz unter den drei größten börsennotierten Haltern rückt damit in greifbare Nähe. Source: BTC-ECHO BTC-ECHO",
@@ -49,14 +57,6 @@
    "source": "BTC-ECHO",
    "ts": 1793008800,
    "url": "https://www.btc-echo.de/news/bitcoin-auf-kredit-mehr-rendite-mit-fremdkapital-239754/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin unter 80.000 US-Dollar: Droht ein weiterer Abverkauf?",
-   "summary": "Fast 80 Prozent der Marktteilnehmer rechnen im Dezember mit einer Zinserhöhung der US-Notenbank. Wir das der nächste Kursrutsch für BTC? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1792999112,
-   "url": "https://www.btc-echo.de/news/bitcoin-unter-80-000-us-dollar-droht-ein-weiterer-abverkauf-239834/",
    "ad": false
   },
   {
