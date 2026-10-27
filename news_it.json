@@ -1,8 +1,32 @@
 {
- "updated": 1793099668,
+ "updated": 1793103117,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+   "summary": "NIP Group says Bitcoin mining has \"earned its place\" as the esports giant swaps 247 million shares for more machines.",
+   "source": "Decrypt",
+   "ts": 1793101611,
+   "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+   "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
+   "source": "CoinDesk",
+   "ts": 1793101250,
+   "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+   "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+   "source": "CoinDesk",
+   "ts": 1793100765,
+   "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+   "ad": false
+  },
   {
    "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
    "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
@@ -57,30 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793086537,
    "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
-   "ad": false
-  },
-  {
-   "title": "US Treasury Bitcoin Buy Odds Hit 21% on Kalshi but Few Are Betting",
-   "summary": "A Kalshi contract betting that the U.S. Treasury will buy bitcoin before 2028 touched 21%, but only a sliver of money is backing that number. The Contract's Ask Odds on Kalshi had risen past 20% that the U.S. Treasury will buy bitcoin next year. The fine print, however, was narrower and it bears mentioning that […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793074508,
-   "url": "https://news.bitcoin.com/featured/kalshi-us-treasury-bitcoin-purchase-odds-21-percent/",
-   "ad": false
-  },
-  {
-   "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
-   "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
-   "source": "The Block",
-   "ts": 1793073487,
-   "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
-   "ad": false
-  },
-  {
-   "title": "Arbistar Ponzi Scheme Wallets Moved Over $1.1B in Bitcoin After Collapse: Report",
-   "summary": "Spanish authorities investigating the fraudulent cryptocurrency platform Arbistar have uncovered massive post-collapse bitcoin movements. Post-Collapse Bitcoin Transfers Uncovered New details have emerged in Spain's investigation into Arbistar, the fraudulent cryptocurrency platform that fleeced tens of thousands of investors…",
-   "source": "Bitcoin.com News",
-   "ts": 1793072733,
-   "url": "https://news.bitcoin.com/market-updates/arbistar-ponzi-scheme-wallets-moved-1-1-billion-bitcoin-after-collapse/",
    "ad": false
   }
  ]
