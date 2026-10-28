@@ -1,8 +1,24 @@
 {
- "updated": 1793209788,
+ "updated": 1793213415,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Fed Stands Pat, Bitcoin Holds Steady–But a December Rate Hike Is in Play",
+   "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+   "source": "Decrypt",
+   "ts": 1793211918,
+   "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Returns to $81K as Federal Reserve Holds Rates Steady",
+   "summary": "Bitcoin experienced sharp price swings Wednesday ahead of the Federal Reserve's interest rate decision, briefly surging to $81,687 before retreating below $80,500. The Fed ultimately held rates steady, with bitcoin rising back to $81,000 in the minutes afterwards. Bitcoin Briefly Surges Above $81K Ahead of Fed Decision The…",
+   "source": "Bitcoin.com News",
+   "ts": 1793211079,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-returns-81k-federal-reserve-holds-rates-steady/",
+   "ad": false
+  },
   {
    "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
    "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793200534,
    "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Faces Another Red October as Price Drops 4.2%",
-   "summary": "Bitcoin's reputation for strong October rallies is facing another test. After five consecutive years of gains during the month, the cryptocurrency is now on track for its second negative October in a row. Data from CryptoQuant shows Bitcoin falling 4.2% between September 30 and October 25, with its price slipping from $83,567…",
-   "source": "Bitcoinist",
-   "ts": 1793200200,
-   "url": "https://bitcoinist.com/bitcoin-faces-another-red-october-as-price-drops-4-2/",
-   "ad": false
-  },
-  {
-   "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-   "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
-   "source": "Cointelegraph",
-   "ts": 1793195271,
-   "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
    "ad": false
   }
  ]

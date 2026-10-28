@@ -1,8 +1,16 @@
 {
- "updated": 1793209788,
+ "updated": 1793213415,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Fed lässt Leitzins unverändert: Was bedeutet das für Bitcoin?",
+   "summary": "Die Fed steckt in der Zwickmühle und Bitcoin spürt die Folgen. Fast 90 Prozent der Marktteilnehmer erwarten für Dezember eine Zinserhöhung. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793210601,
+   "url": "https://www.btc-echo.de/news/fed-laesst-leitzins-unveraendert-was-bedeutet-das-fuer-bitcoin-240008/",
+   "ad": false
+  },
   {
    "title": "Bitcoin vor neuem Bullenmarkt? CoinShares sieht entscheidende Hürde",
    "summary": "Die Bitcoin-Futures-Basis erreicht nur einen Bruchteil der Werte von 2024. CoinShares-Experten zufolge fehlt für eine nachhaltige Rallye damit noch das Fundament. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793111392,
    "url": "https://www.blocktrainer.de/blog/europas-neue-bitcoin-regeln-mehr-sicherheit-oder-immer-mehr-ueberwachung",
-   "ad": false
-  },
-  {
-   "title": "Trotz institutioneller Adoption: 80 % der Bitcoin befinden sich noch im Besitz von…",
-   "summary": "Laut River entfallen 79,6 % der Bitcoin auf Privatpersonen – das ist deutlich mehr als bei anderen großen Anlageklassen. Doch in welche Richtung zeigt der Trend?",
-   "source": "Blocktrainer",
-   "ts": 1793106628,
-   "url": "https://www.blocktrainer.de/blog/80-der-bitcoin-befinden-sich-im-besitz-von-privatpersonen",
    "ad": false
   }
  ]
