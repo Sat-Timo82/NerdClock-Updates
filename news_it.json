@@ -1,8 +1,16 @@
 {
- "updated": 1793195998,
+ "updated": 1793199352,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin ETFs Add $176M as 2-Day Inflows Top $286M",
+   "summary": "U.S. bitcoin ETFs attracted $175.99 million on Tuesday, extending their winning streak to two sessions and bringing week-to-date inflows to more than $286 million. Blackrock, Fidelity Drive Bitcoin ETF Streak Bitcoin's institutional bid strengthened Tuesday, and this time the buying widened beyond Blackrock. Spot bitcoin…",
+   "source": "Bitcoin.com News",
+   "ts": 1793197825,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-176m-as-2-day-inflows-top-286m/",
+   "ad": false
+  },
   {
    "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
    "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
@@ -52,7 +60,7 @@
    "ad": false
   },
   {
-   "title": "Datavault AI's Biconomy Mishap Warns Bitcoin Treasury Investors",
+   "title": "Nasdaq-Listed Firm's Stock Plunges After Losing Access to Bitcoin, Spotlighting Treasury Risks",
    "summary": "The most recent \"not your keys, not your coins\" incident involving a small Nasdaq-listed company that lost access to its bitcoin and saw its stock crash 50% serves as a reminder of the risks facing bitcoin treasury investors. On Oct. 26, tech company Datavault AI disclosed that it had been unable to withdraw bitcoin from […]",
    "source": "Bitcoin.com News",
    "ts": 1793190607,
@@ -73,14 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793187048,
    "url": "https://news.bitcoin.com/crypto-news/google-searches-bitcoin-5-year-low-bottom/",
-   "ad": false
-  },
-  {
-   "title": "Live updates: Bitcoin sheds early gains, with Fed decision looming",
-   "summary": "The U.S. central bank is expected to leave rates on hold later Wednesday but deliver a hawkish message to prepare markets for a December rate hike.",
-   "source": "CoinDesk",
-   "ts": 1793186614,
-   "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
    "ad": false
   }
  ]
