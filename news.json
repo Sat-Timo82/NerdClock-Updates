@@ -1,8 +1,24 @@
 {
- "updated": 1793181061,
+ "updated": 1793184477,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Prognosen bis 2030: So weit reichen die aktuellen Erwartungen",
+   "summary": "Die Kursziele reichen von 120.000 bis weit über eine Million US-Dollar. Doch wie belastbar sind die Annahmen hinter diesen Modellen? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793181600,
+   "url": "https://www.btc-echo.de/news/bitcoin-prognosen-2030-wie-weit-steigt-btc-239948/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin und Gold so eng verbunden wie nie: Was steckt dahinter?",
+   "summary": "Bitcoin korreliert stärker denn je mit Gold. Welche Rolle spielen die US-Staatsverschuldung, steigende Zinsen und die Geldpolitik?",
+   "source": "Blocktrainer",
+   "ts": 1793178352,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-und-gold-so-eng-verbunden-wie-nie-was-steckt-dahinter",
+   "ad": false
+  },
   {
    "title": "Bitcoin vor Fed-Zinsentscheid: On-Chain-Daten machen Hoffnung",
    "summary": "Bitcoin nimmt vor dem Fed-Entscheid wieder die Marke von 81.000 US-Dollar ins Visier. Auch bei den Altcoins geht es nach oben. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +73,6 @@
    "source": "BTC-ECHO",
    "ts": 1793032350,
    "url": "https://www.btc-echo.de/news/strive-kauft-fuer-511-millionen-us-dollar-bitcoin-und-rueckt-metaplanet-auf-die-pelle-239906/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin weg: Wie eine harmlose Wallet-Funktion zur Falle wurde",
-   "summary": "Angreifer tauschten Zahlungen aus und ließen die Opfer den Rest erledigen. Mindestens ein Nutzer verlor dabei seine Bitcoin. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793030015,
-   "url": "https://www.btc-echo.de/news/electrum-sicherheitsluecke-bitcoin-diebstahl-239891/",
    "ad": false
   },
   {
