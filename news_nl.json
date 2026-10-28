@@ -1,8 +1,16 @@
 {
- "updated": 1793174367,
+ "updated": 1793177597,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+   "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October's net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
+   "source": "Cointelegraph",
+   "ts": 1793174238,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
   {
    "title": "Datavault AI Stock Plunges 50% Amid Bitcoin Access Issues",
    "summary": "A major Bitcoin-related accounting controversy has shaken investor confidence in Datavault AI, sending its shares down nearly 50% after the company revealed difficulties accessing cryptocurrency associated with a $150 million investment agreement. We believe the development raises an important question for companies adopting…",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793114081,
    "url": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block.",
-   "source": "The Block",
-   "ts": 1793111528,
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
    "ad": false
   }
  ]
