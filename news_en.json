@@ -1,8 +1,16 @@
 {
- "updated": 1793220583,
+ "updated": 1793223721,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+   "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
+   "source": "CoinDesk",
+   "ts": 1793222024,
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
    "summary": "Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote. This post Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -36,14 +44,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
-   "summary": "TLDR Bitcoin climbed to $81,687 on Wednesday, with bid liquidity thickening around $79,000 and $80,000. South Korea's KOSPI jumped 6.63% as tech stocks rebounded from earlier October losses. Morgan Stanley's Mike Wilson says most of the market correction is already over. Analyst Rekt Capital compares Bitcoin's weekly chart to…",
-   "source": "Bitcoinist",
-   "ts": 1793206972,
-   "url": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
    "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
    "source": "Cointelegraph",
@@ -68,19 +68,19 @@
    "ad": false
   },
   {
-   "title": "Bitcoin ETFs Pull in $176M as BTC Tops $80K",
-   "summary": "TLDR US spot Bitcoin ETFs recorded about $176 million in net inflows on Tuesday, their second straight day of gains. The two-day total reached $286 million, following $110 million on Monday. October's net outflows have narrowed to roughly $26 million, while year-to-date inflows sit near $850 million. Ether ETFs are moving the…",
-   "source": "Bitcoinist",
-   "ts": 1793202824,
-   "url": "https://bitcoinist.com/bitcoin-etfs-pull-in-176m-as-btc-tops-80k/",
+   "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+   "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+   "source": "Decrypt",
+   "ts": 1793200534,
+   "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
    "ad": false
   },
   {
-   "title": "Bitcoin Titan Strategy Set to Pay Daily Dividends on STRC After Shareholder Vote",
-   "summary": "Michael Saylor's bitcoin treasury giant Strategy has secured shareholder approval to implement daily dividends across four preferred stock offerings, clearing a major hurdle ahead of the planned November launch for STRC shares. Strategy Set for Daily Dividends Strategy (Nasdaq: MSTR) shareholders voted overwhelmingly Wednesday…",
-   "source": "Bitcoin.com News",
-   "ts": 1793200809,
-   "url": "https://news.bitcoin.com/crypto-news/bitcoin-titan-strategy-pay-daily-dividends-strc-shareholder-vote/",
+   "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+   "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
+   "source": "Cointelegraph",
+   "ts": 1793195271,
+   "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
    "ad": false
   }
  ]
