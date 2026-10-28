@@ -1,8 +1,16 @@
 {
- "updated": 1793213415,
+ "updated": 1793216999,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Jason Calacanis' Bleak Bitcoin Prediction Draws $3M in Rival Bets–but He Won't Bite",
+   "summary": "Three bitcoin investors have thrown down $1 million challenges to Jason Calacanis after he declared the cryptocurrency would never reclaim its record high. One offered a decade-long wager, the other just two years, but Calacanis wants a shorter contest. Adding to the stakes, Hollywood producer and bitcoin educator Terence…",
+   "source": "Bitcoin.com News",
+   "ts": 1793213824,
+   "url": "https://news.bitcoin.com/price-predictions/jason-calacanis-bitcoin-prediction-draws-3m-rival-bets-wont-bite/",
+   "ad": false
+  },
   {
    "title": "Fed Stands Pat, Bitcoin Holds Steady–But a December Rate Hike Is in Play",
    "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793200809,
    "url": "https://news.bitcoin.com/crypto-news/bitcoin-titan-strategy-pay-daily-dividends-strc-shareholder-vote/",
-   "ad": false
-  },
-  {
-   "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-   "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
-   "source": "Decrypt",
-   "ts": 1793200534,
-   "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
    "ad": false
   }
  ]
