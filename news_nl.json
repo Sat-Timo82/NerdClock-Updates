@@ -1,8 +1,16 @@
 {
- "updated": 1793145904,
+ "updated": 1793149141,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Eyes $125K as Galaxy Says Bear Market Has Ended",
+   "summary": "Galaxy sees favorable conditions for bitcoin to retake $125,000, arguing that its bear market ended in June and selling pressure has diminished. Its analysis also cited fiscal pressures and weak investor attention to support its bullish outlook. Galaxy Sees Favorable Setup for $125K Bitcoin Bitcoin had a favorable setup for…",
+   "source": "Bitcoin.com News",
+   "ts": 1793148036,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-eyes-125k-as-galaxy-says-bear-market-has-ended/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Accelerate AI Expansion",
    "summary": "Bitcoin mining technology company Luxor has raised $16 million in a strategic funding round led by CMT Digital, accelerating its expansion into artificial intelligence infrastructure as cryptocurrency mining businesses increasingly pursue opportunities in the rapidly growing AI computing market. Luxor Raises $16 Million The…",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1793111462,
    "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-   "ad": false
-  },
-  {
-   "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by…",
-   "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
-   "source": "CoinDesk",
-   "ts": 1793109600,
-   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
    "ad": false
   }
  ]
