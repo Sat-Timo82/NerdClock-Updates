@@ -1,8 +1,24 @@
 {
- "updated": 1793203000,
+ "updated": 1793206475,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Wall Street's Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+   "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+   "source": "Decrypt",
+   "ts": 1793204102,
+   "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+   "ad": false
+  },
+  {
+   "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+   "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
+   "source": "The Block",
+   "ts": 1793203628,
+   "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Pull in $176M as BTC Tops $80K",
    "summary": "TLDR US spot Bitcoin ETFs recorded about $176 million in net inflows on Tuesday, their second straight day of gains. The two-day total reached $286 million, following $110 million on Monday. October's net outflows have narrowed to roughly $26 million, while year-to-date inflows sit near $850 million. Ether ETFs are moving the…",
@@ -44,14 +60,6 @@
    "ad": false
   },
   {
-   "title": "Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying",
-   "summary": "Bitwise raised its 2036 bitcoin price target to $1.6 million, projecting 34.3% annual growth on institutional demand and fixed supply. This post Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793200058,
-   "url": "https://bitcoinmagazine.com/markets/bitwise-raises-bitcoin-target",
-   "ad": false
-  },
-  {
    "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
    "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
    "source": "Cointelegraph",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793194212,
    "url": "https://bitcoinmagazine.com/videos/samara-asset-group-ceo-bitcoin-treasury-companies-a-disservice-to-shareholders",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price \"Climbing the Wall of Worry\" – Early Signs of Bull Market | Michael Sullivan",
-   "summary": "Bitcoin Magazine Bitcoin Price \"Climbing the Wall of Worry\" – Early Signs of Bull Market | Michael Sullivan Holding $80K amid washed-out sentiment mimics 2015's disbelief rally, explains Michael Sullivan as language-based data reveals a hidden bullish setup. This post Bitcoin Price \"Climbing the Wall of Worry\" – Early Signs of…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793193897,
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-price-climbing-the-wall-of-worry-early-signs-of-bull-market-michael-sullivan",
    "ad": false
   }
  ]

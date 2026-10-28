@@ -1,8 +1,24 @@
 {
- "updated": 1793203000,
+ "updated": 1793206475,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin vor neuem Bullenmarkt? CoinShares sieht entscheidende Hürde",
+   "summary": "Die Bitcoin-Futures-Basis erreicht nur einen Bruchteil der Werte von 2024. CoinShares-Experten zufolge fehlt für eine nachhaltige Rallye damit noch das Fundament. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793205476,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-neuem-bullenmarkt-coinshares-sieht-entscheidende-huerde-240002/",
+   "ad": false
+  },
+  {
+   "title": "Abstimmung erfolgreich: Strategys STRC zahlt ab November täglich Dividenden – Comeback der…",
+   "summary": "STRC kratzt an der 100-US-Dollar-Marke, nachdem die MSTR-Halter täglichen Dividenden zugestimmt haben. Gelingt so das Comeback von Strategys Bitcoin-Kaufmaschine?",
+   "source": "Blocktrainer",
+   "ts": 1793203341,
+   "url": "https://www.blocktrainer.de/blog/strategys-strc-zahlt-ab-november-taeglich-dividenden",
+   "ad": false
+  },
   {
    "title": "Datavault AI: Aktie crasht, nachdem das Unternehmen seine Bitcoin nicht von der Börse…",
    "summary": "Die Aktie von Datavault AI ist um 50 % gefallen, nachdem das Unternehmen offengelegt hat, seit Monaten vergeblich zu versuchen, Bitcoin von Biconomy abzuziehen.",
@@ -65,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793106628,
    "url": "https://www.blocktrainer.de/blog/80-der-bitcoin-befinden-sich-im-besitz-von-privatpersonen",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs unter 80.000 US-Dollar: Das müssen Anleger vor der Fed-Sitzung noch wissen",
-   "summary": "Bitcoin rutscht unter 80.000 US-Dollar und auch Altcoins geraten unter Druck. Anleger warten jetzt mit Spannung auf die neuen Fed-Zahlen – und auf einen Börsengang. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793084044,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-das-muessen-anleger-vor-fed-sitzung-wissen-239909/",
    "ad": false
   }
  ]
