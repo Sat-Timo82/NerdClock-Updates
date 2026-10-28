@@ -1,5 +1,5 @@
 {
- "updated": 1793149141,
+ "updated": 1793152607,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -44,14 +44,6 @@
    "ad": false
   },
   {
-   "title": "Two Solo Bitcoin Miners Hit the Jackpot Against Industrial Mining Giants",
-   "summary": "Two solo miners independently discovered Bitcoin blocks in rapid succession on Monday and Tuesday, marking an unusual back-to-back occurrence on a network mostly dominated by wins from mining firms and collective pools. Futurebit Apollo Miner Defies the Odds With Rare Bitcoin Block Discovery Reports and onchain data from the…",
-   "source": "Bitcoin.com News",
-   "ts": 1793127936,
-   "url": "https://news.bitcoin.com/mining/two-solo-bitcoin-miners-hit-jackpot-against-industrial-mining-giants/",
-   "ad": false
-  },
-  {
    "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
    "summary": "A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family. This post 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
    "source": "Bitcoin Magazine",
@@ -81,6 +73,14 @@
    "source": "Decrypt",
    "ts": 1793111462,
    "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
+   "ad": false
+  },
+  {
+   "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by…",
+   "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+   "source": "CoinDesk",
+   "ts": 1793109600,
+   "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
    "ad": false
   }
  ]
