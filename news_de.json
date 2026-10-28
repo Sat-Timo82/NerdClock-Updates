@@ -1,8 +1,16 @@
 {
- "updated": 1793170431,
+ "updated": 1793174367,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin vor Fed-Zinsentscheid: On-Chain-Daten machen Hoffnung",
+   "summary": "Bitcoin nimmt vor dem Fed-Entscheid wieder die Marke von 81.000 US-Dollar ins Visier. Auch bei den Altcoins geht es nach oben. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793171397,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-fed-zinsentscheid-on-chain-daten-machen-hoffnung-239962/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Wale halten still – doch Kleinanleger werden nervös",
    "summary": "Bitcoin notiert weiterhin über dem Einstandskurs kurzfristiger Trader. Doch wie lange bleibt das so und können die Käufer eine größere Korrektur noch verhindern? Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793025000,
    "url": "https://www.btc-echo.de/news/in-dieser-europaeischen-stadt-gehoert-bitcoin-laengst-zum-alltag-239850/",
-   "ad": false
-  },
-  {
-   "title": "Strategy und Bitmine setzen verstärkt auf Aktienrückkäufe",
-   "summary": "Strategy hat in der vergangenen Woche keine Bitcoin gekauft, dafür Vorzugsaktien für 205 Millionen US-Dollar. Beim größten Ether-Halter sieht es ähnlich aus. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793022620,
-   "url": "https://www.btc-echo.de/news/strategy-und-bitmine-setzen-verstaerkt-auf-aktienrueckkaeufe-239886/",
    "ad": false
   }
  ]
