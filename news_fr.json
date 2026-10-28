@@ -1,8 +1,16 @@
 {
- "updated": 1793223721,
+ "updated": 1793227337,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Treasury Datavault AI Says It Can't Access Its BTC, Stock Tanks",
+   "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
+   "source": "Decrypt",
+   "ts": 1793223962,
+   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+   "ad": false
+  },
   {
    "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
    "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
@@ -44,6 +52,14 @@
    "ad": false
   },
   {
+   "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
+   "summary": "TLDR Bitcoin climbed to $81,687 on Wednesday, with bid liquidity thickening around $79,000 and $80,000. South Korea's KOSPI jumped 6.63% as tech stocks rebounded from earlier October losses. Morgan Stanley's Mike Wilson says most of the market correction is already over. Analyst Rekt Capital compares Bitcoin's weekly chart to…",
+   "source": "Bitcoinist",
+   "ts": 1793206972,
+   "url": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
+   "ad": false
+  },
+  {
    "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
    "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
    "source": "Cointelegraph",
@@ -65,22 +81,6 @@
    "source": "The Block",
    "ts": 1793203628,
    "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
-   "ad": false
-  },
-  {
-   "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-   "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
-   "source": "Decrypt",
-   "ts": 1793200534,
-   "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
-   "ad": false
-  },
-  {
-   "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
-   "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
-   "source": "Cointelegraph",
-   "ts": 1793195271,
-   "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
    "ad": false
   }
  ]
