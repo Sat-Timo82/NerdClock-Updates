@@ -1,8 +1,16 @@
 {
- "updated": 1793187878,
+ "updated": 1793192091,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Datavault AI: Aktie crasht, nachdem das Unternehmen seine Bitcoin nicht von der Börse…",
+   "summary": "Die Aktie von Datavault AI ist um 50 % gefallen, nachdem das Unternehmen offengelegt hat, seit Monaten vergeblich zu versuchen, Bitcoin von Biconomy abzuziehen.",
+   "source": "Blocktrainer",
+   "ts": 1793191535,
+   "url": "https://www.blocktrainer.de/blog/datavault-ai-aktie-crasht-nachdem-das-unternehmen-seine-bitcoin-nicht-von-der-boerse-abziehen-kann",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Prognosen bis 2030: So weit reichen die aktuellen Erwartungen",
    "summary": "Die Kursziele reichen von 120.000 bis weit über eine Million US-Dollar. Doch wie belastbar sind die Annahmen hinter diesen Modellen? Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793032350,
    "url": "https://www.btc-echo.de/news/strive-kauft-fuer-511-millionen-us-dollar-bitcoin-und-rueckt-metaplanet-auf-die-pelle-239906/",
-   "ad": false
-  },
-  {
-   "title": "Größter Kauf in der Unternehmensgeschichte: Strive hat 6.182 Bitcoin gekauft, während…",
-   "summary": "Strive hat letzte Woche so viele Bitcoin gekauft wie noch nie zuvor, während Strategy in dieser Hinsicht inaktiv war. Wieso wächst Strive gerade so viel schneller?",
-   "source": "Blocktrainer",
-   "ts": 1793025992,
-   "url": "https://www.blocktrainer.de/blog/strive-hat-6182-bitcoin-fuer-gekauft-waehrend-strategy-die-fuesse-stillhaelt",
    "ad": false
   }
  ]

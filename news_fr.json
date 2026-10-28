@@ -1,8 +1,16 @@
 {
- "updated": 1793187878,
+ "updated": 1793192091,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Datavault AI's Biconomy Mishap Warns Bitcoin Treasury Investors",
+   "summary": "The most recent \"not your keys, not your coins\" incident involving a small Nasdaq-listed company that lost access to its bitcoin and saw its stock crash 50% serves as a reminder of the risks facing bitcoin treasury investors. On Oct. 26, tech company Datavault AI disclosed that it had been unable to withdraw bitcoin from […]",
+   "source": "Bitcoin.com News",
+   "ts": 1793190607,
+   "url": "https://news.bitcoin.com/finance/datavault-ais-biconomy-mishap-warns-bitcoin-treasury-investors/",
+   "ad": false
+  },
   {
    "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
    "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
@@ -17,6 +25,14 @@
    "source": "Bitcoin.com News",
    "ts": 1793187048,
    "url": "https://news.bitcoin.com/crypto-news/google-searches-bitcoin-5-year-low-bottom/",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin edges higher ahead of Fed decision Wednesday afternoon.",
+   "summary": "HYPE and ZEC led a broad bounce, with every top token in the green hours before the Federal Reserve's rate call.",
+   "source": "CoinDesk",
+   "ts": 1793186614,
+   "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793133199,
    "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_c",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
-   "summary": "Bitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this week's Fed decision and the November midterms. This post Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793130528,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms",
-   "ad": false
-  },
-  {
-   "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
-   "summary": "VanEck launched its Wealth Builder ETF (WBMO) on the NYSE, bundling stocks, bonds, gold and indirect bitcoin exposure into one fund for 0.26% a year. This post VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793128686,
-   "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
    "ad": false
   }
  ]
