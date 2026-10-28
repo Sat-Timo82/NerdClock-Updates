@@ -1,13 +1,37 @@
 {
- "updated": 1793184477,
+ "updated": 1793187878,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
   {
+   "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+   "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
+   "source": "CoinDesk",
+   "ts": 1793187151,
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Related Google Searches Hit a 5-Year Low as Traders Eye a Bottom",
+   "summary": "Google searches for \"bitcoin\" have dropped to a five-year low, and some traders note that the last two times interest sank this far, the asset's price found a steady bottom. Retail Has Left the Building Google Trends does not measure raw search volume but rather scores interest on a relative scale from 0 to 100, […]",
+   "source": "Bitcoin.com News",
+   "ts": 1793187048,
+   "url": "https://news.bitcoin.com/crypto-news/google-searches-bitcoin-5-year-low-bottom/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Slips Below $80,000 as $404 Million in Crypto Longs Are Liquidated",
+   "summary": "Bitcoin briefly fell below $80,000, triggering approximately $404.15 million in cryptocurrency long liquidations over four hours. The move coincided with heavy withdrawals from US spot Bitcoin exchange-traded funds (ETFs), adding to signs of caution among leveraged traders and some institutional investors. TL;DR $404.15…",
+   "source": "Bitcoinist",
+   "ts": 1793185352,
+   "url": "https://bitcoinist.com/bitcoin-slips-below-80000-as-404-million-in-crypto-longs-are-liquidated/",
+   "ad": false
+  },
+  {
    "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
    "summary": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.",
    "source": "Cointelegraph",
-   "ts": 1793181329,
+   "ts": 1793181360,
    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=r",
    "ad": false
   },
@@ -28,27 +52,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-   "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October's net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
-   "source": "Cointelegraph",
-   "ts": 1793174238,
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
-   "ad": false
-  },
-  {
    "title": "Datavault AI Stock Plunges 50% Amid Bitcoin Access Issues",
    "summary": "A major Bitcoin-related accounting controversy has shaken investor confidence in Datavault AI, sending its shares down nearly 50% after the company revealed difficulties accessing cryptocurrency associated with a $150 million investment agreement. We believe the development raises an important question for companies adopting…",
    "source": "Bitcoinist",
    "ts": 1793173966,
    "url": "https://bitcoinist.com/datavault-ai-stock-plunges-50-amid-bitcoin-access-issues/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
-   "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
-   "source": "CoinDesk",
-   "ts": 1793160920,
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793128686,
    "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
-   "ad": false
-  },
-  {
-   "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
-   "summary": "A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family. This post 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793127189,
-   "url": "https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot",
    "ad": false
   }
  ]
