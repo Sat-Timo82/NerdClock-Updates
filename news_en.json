@@ -1,14 +1,54 @@
 {
- "updated": 1793199352,
+ "updated": 1793203000,
  "mode": "stichworte",
  "lang": "en",
  "items": [
   {
-   "title": "Bitcoin ETFs Add $176M as 2-Day Inflows Top $286M",
-   "summary": "U.S. bitcoin ETFs attracted $175.99 million on Tuesday, extending their winning streak to two sessions and bringing week-to-date inflows to more than $286 million. Blackrock, Fidelity Drive Bitcoin ETF Streak Bitcoin's institutional bid strengthened Tuesday, and this time the buying widened beyond Blackrock. Spot bitcoin…",
+   "title": "Bitcoin ETFs Pull in $176M as BTC Tops $80K",
+   "summary": "TLDR US spot Bitcoin ETFs recorded about $176 million in net inflows on Tuesday, their second straight day of gains. The two-day total reached $286 million, following $110 million on Monday. October's net outflows have narrowed to roughly $26 million, while year-to-date inflows sit near $850 million. Ether ETFs are moving the…",
+   "source": "Bitcoinist",
+   "ts": 1793202824,
+   "url": "https://bitcoinist.com/bitcoin-etfs-pull-in-176m-as-btc-tops-80k/",
+   "ad": false
+  },
+  {
+   "title": "Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks",
+   "summary": "Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793201528,
+   "url": "https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Titan Strategy Set to Pay Daily Dividends on STRC After Shareholder Vote",
+   "summary": "Michael Saylor's bitcoin treasury giant Strategy has secured shareholder approval to implement daily dividends across four preferred stock offerings, clearing a major hurdle ahead of the planned November launch for STRC shares. Strategy Set for Daily Dividends Strategy (Nasdaq: MSTR) shareholders voted overwhelmingly Wednesday…",
    "source": "Bitcoin.com News",
-   "ts": 1793197825,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-176m-as-2-day-inflows-top-286m/",
+   "ts": 1793200809,
+   "url": "https://news.bitcoin.com/crypto-news/bitcoin-titan-strategy-pay-daily-dividends-strc-shareholder-vote/",
+   "ad": false
+  },
+  {
+   "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+   "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+   "source": "Decrypt",
+   "ts": 1793200534,
+   "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Faces Another Red October as Price Drops 4.2%",
+   "summary": "Bitcoin's reputation for strong October rallies is facing another test. After five consecutive years of gains during the month, the cryptocurrency is now on track for its second negative October in a row. Data from CryptoQuant shows Bitcoin falling 4.2% between September 30 and October 25, with its price slipping from $83,567…",
+   "source": "Bitcoinist",
+   "ts": 1793200200,
+   "url": "https://bitcoinist.com/bitcoin-faces-another-red-october-as-price-drops-4-2/",
+   "ad": false
+  },
+  {
+   "title": "Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying",
+   "summary": "Bitwise raised its 2036 bitcoin price target to $1.6 million, projecting 34.3% annual growth on institutional demand and fixed supply. This post Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793200058,
+   "url": "https://bitcoinmagazine.com/markets/bitwise-raises-bitcoin-target",
    "ad": false
   },
   {
@@ -41,46 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793193897,
    "url": "https://bitcoinmagazine.com/videos/bitcoin-price-climbing-the-wall-of-worry-early-signs-of-bull-market-michael-sullivan",
-   "ad": false
-  },
-  {
-   "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
-   "summary": "Bitcoin Magazine BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In Sean Hagan breaks down the hash ribbon recovery, historical 72% edge, and miner stress easing, while questioning if voluntary miner exits distort the signal. This post BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793193624,
-   "url": "https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in",
-   "ad": false
-  },
-  {
-   "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
-   "summary": "Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain.",
-   "source": "Decrypt",
-   "ts": 1793192462,
-   "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
-   "ad": false
-  },
-  {
-   "title": "Nasdaq-Listed Firm's Stock Plunges After Losing Access to Bitcoin, Spotlighting Treasury Risks",
-   "summary": "The most recent \"not your keys, not your coins\" incident involving a small Nasdaq-listed company that lost access to its bitcoin and saw its stock crash 50% serves as a reminder of the risks facing bitcoin treasury investors. On Oct. 26, tech company Datavault AI disclosed that it had been unable to withdraw bitcoin from […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793190607,
-   "url": "https://news.bitcoin.com/finance/datavault-ais-biconomy-mishap-warns-bitcoin-treasury-investors/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-   "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
-   "source": "CoinDesk",
-   "ts": 1793187151,
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Related Google Searches Hit a 5-Year Low as Traders Eye a Bottom",
-   "summary": "Google searches for \"bitcoin\" have dropped to a five-year low, and some traders note that the last two times interest sank this far, the asset's price found a steady bottom. Retail Has Left the Building Google Trends does not measure raw search volume but rather scores interest on a relative scale from 0 to 100, […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793187048,
-   "url": "https://news.bitcoin.com/crypto-news/google-searches-bitcoin-5-year-low-bottom/",
    "ad": false
   }
  ]
