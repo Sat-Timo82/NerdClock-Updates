@@ -1,8 +1,32 @@
 {
- "updated": 1793206475,
+ "updated": 1793209788,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
+   "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
+   "source": "Decrypt",
+   "ts": 1793207012,
+   "url": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
+   "summary": "TLDR Bitcoin climbed to $81,687 on Wednesday, with bid liquidity thickening around $79,000 and $80,000. South Korea's KOSPI jumped 6.63% as tech stocks rebounded from earlier October losses. Morgan Stanley's Mike Wilson says most of the market correction is already over. Analyst Rekt Capital compares Bitcoin's weekly chart to…",
+   "source": "Bitcoinist",
+   "ts": 1793206972,
+   "url": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+   "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
+   "source": "Cointelegraph",
+   "ts": 1793206406,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss_tag_bit",
+   "ad": false
+  },
   {
    "title": "Wall Street's Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
    "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
@@ -25,14 +49,6 @@
    "source": "Bitcoinist",
    "ts": 1793202824,
    "url": "https://bitcoinist.com/bitcoin-etfs-pull-in-176m-as-btc-tops-80k/",
-   "ad": false
-  },
-  {
-   "title": "Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks",
-   "summary": "Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793201528,
-   "url": "https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793195271,
    "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
-   "ad": false
-  },
-  {
-   "title": "Galaxy Asset Management: \"Now Is The Time\" to Buy Bitcoin",
-   "summary": "Bitcoin Magazine Galaxy Asset Management: \"Now Is The Time\" to Buy Bitcoin \"The bottom is in,\" says Galaxy's Alex Thorn, explaining why reclaiming the 50-week moving average historically limits Bitcoin downside to just 8.4%. This post Galaxy Asset Management: \"Now Is The Time\" to Buy Bitcoin first appeared on Bitcoin Magazine…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793194526,
-   "url": "https://bitcoinmagazine.com/videos/galaxy-asset-management-now-is-the-time-to-buy-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Samara Asset Group CEO: Bitcoin Treasury Companies a \"Disservice to Shareholders\"",
-   "summary": "Bitcoin Magazine Samara Asset Group CEO: Bitcoin Treasury Companies a \"Disservice to Shareholders\" Patrick Lowry argues 'digital gold' was flawed marketing, explaining why the market rejects pure treasury plays and how Samara deploys BTC as working capital. This post Samara Asset Group CEO: Bitcoin Treasury Companies a…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793194212,
-   "url": "https://bitcoinmagazine.com/videos/samara-asset-group-ceo-bitcoin-treasury-companies-a-disservice-to-shareholders",
    "ad": false
   }
  ]
