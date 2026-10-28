@@ -1,8 +1,16 @@
 {
- "updated": 1793159196,
+ "updated": 1793162776,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+   "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
+   "source": "CoinDesk",
+   "ts": 1793160920,
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+   "ad": false
+  },
   {
    "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150…",
    "summary": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793114081,
    "url": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/",
-   "ad": false
-  },
-  {
-   "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
-   "summary": "Crypto traders think the McRib's return to McDonald's means a Bitcoin pump is coming. Experts say there is \"no correlation at all.\"",
-   "source": "Decrypt",
-   "ts": 1793111462,
-   "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
    "ad": false
   }
  ]
