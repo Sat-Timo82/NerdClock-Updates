@@ -1,8 +1,16 @@
 {
- "updated": 1793306760,
+ "updated": 1793310234,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily…",
+   "summary": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
+   "source": "The Block",
+   "ts": 1793307515,
+   "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
+   "ad": false
+  },
   {
    "title": "9 AI Models Predict Bitcoin's Year-End Price, From $82K to $112K",
    "summary": "Bitcoin continues to circle the $80,000 threshold, repeatedly crossing above and below the price level that has become familiar territory for the cryptocurrency, at least for now. With its next decisive move still an open question, we're turning to a group of artificial intelligence (AI) models to see where their year-end…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793287413,
    "url": "https://news.bitcoin.com/technology/quantum-researchers-30k-qubits-crack-bitcoin-keys-one-hour/",
-   "ad": false
-  },
-  {
-   "title": "Why Switzerland's first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-   "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
-   "source": "CoinDesk",
-   "ts": 1793283346,
-   "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
    "ad": false
   }
  ]
