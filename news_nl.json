@@ -1,8 +1,24 @@
 {
- "updated": 1793285916,
+ "updated": 1793289333,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+   "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet's Q3 earnings miss.",
+   "source": "Cointelegraph",
+   "ts": 1793288394,
+   "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+   "ad": false
+  },
+  {
+   "title": "Quantum Researchers Say 30K Qubits Could Crack Bitcoin Keys in Just One Hour",
+   "summary": "New research from quantum computing company Alice & Bob suggests that breaking the cryptography protecting the Bitcoin network could require far fewer quantum computing resources than previously believed, adding urgency to efforts to prepare the cryptocurrency for a post-quantum future. Bitcoin's 'Q-Day' Threat Draws Nearer…",
+   "source": "Bitcoin.com News",
+   "ts": 1793287413,
+   "url": "https://news.bitcoin.com/technology/quantum-researchers-30k-qubits-crack-bitcoin-keys-one-hour/",
+   "ad": false
+  },
   {
    "title": "Why Switzerland's first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
    "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793275200,
    "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=r",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-   "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed's preferred inflation gauge is due later today.",
-   "source": "CoinDesk",
-   "ts": 1793272308,
-   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-   "ad": false
-  },
-  {
-   "title": "Grant Cardone Bets $1 Million on Bitcoin's Comeback",
-   "summary": "Bitcoin's recent struggles have sparked another heated argument between investors, and this time, there's a potential $1 million wager involved. Real estate investor Grant Cardone has challenged venture capitalist Jason Calacanis to bet on whether Bitcoin can return to its previous all-time high within two years. The…",
-   "source": "Bitcoinist",
-   "ts": 1793272162,
-   "url": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
    "ad": false
   }
  ]

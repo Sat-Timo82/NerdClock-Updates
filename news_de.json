@@ -1,8 +1,24 @@
 {
- "updated": 1793285916,
+ "updated": 1793289333,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "1,5 Milliarden US-Dollar: Unternehmen mit Verbindung zu Dubais Herrscherfamilie setzt auf…",
+   "summary": "Dubai setzt weiter auf Bitcoin: Eine neue Investitionsgesellschaft mit königlicher Beteiligung kündigt eine Strategie über 1,5 Milliarden Dollar an.",
+   "source": "Blocktrainer",
+   "ts": 1793287430,
+   "url": "https://www.blocktrainer.de/blog/15-milliarden-us-dollar-unternehmen-mit-verbindung-zu-dubais-herrscherfamilie-setzt-auf-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Long-Trade: Spannendes Swing-Setup",
+   "summary": "Bitcoin notiert weiterhin oberhalb der 80.000 US-Dollar. Die Kursstärke könnte jedoch trügen. Kommt es zu einem Rückfall in Richtung der 200Tagelinie, würde sich ein spannender Swing-Trade für Bitcoin-Bullen bieten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793287246,
+   "url": "https://www.btc-echo.de/news/bitcoin-long-trade-spannendes-swing-setup-240060/",
+   "ad": false
+  },
   {
    "title": "Drei Sicherheitslücken in Bitcoin Core entdeckt – Updates bereits verfügbar",
    "summary": "Sicherheitsalarm bei Bitcoin Core: Drei Schwachstellen wurden offengelegt. Betreiber von Bitcoin-Core-Nodes sollten ihre Software aktualisieren.",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793205476,
    "url": "https://www.btc-echo.de/news/bitcoin-vor-neuem-bullenmarkt-coinshares-sieht-entscheidende-huerde-240002/",
-   "ad": false
-  },
-  {
-   "title": "Abstimmung erfolgreich: Strategys STRC zahlt ab November täglich Dividenden – Comeback der…",
-   "summary": "STRC kratzt an der 100-US-Dollar-Marke, nachdem die MSTR-Halter täglichen Dividenden zugestimmt haben. Gelingt so das Comeback von Strategys Bitcoin-Kaufmaschine?",
-   "source": "Blocktrainer",
-   "ts": 1793203341,
-   "url": "https://www.blocktrainer.de/blog/strategys-strc-zahlt-ab-november-taeglich-dividenden",
-   "ad": false
-  },
-  {
-   "title": "Datavault AI: Aktie crasht, nachdem das Unternehmen seine Bitcoin nicht von der Börse…",
-   "summary": "Die Aktie von Datavault AI ist um 50 % gefallen, nachdem das Unternehmen offengelegt hat, seit Monaten vergeblich zu versuchen, Bitcoin von Biconomy abzuziehen.",
-   "source": "Blocktrainer",
-   "ts": 1793191535,
-   "url": "https://www.blocktrainer.de/blog/datavault-ai-aktienkurs-crasht-nachdem-das-unternehmen-seine-bitcoin-nicht-von-der-boerse-abziehen-kann",
    "ad": false
   }
  ]
