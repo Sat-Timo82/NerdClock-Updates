@@ -1,8 +1,16 @@
 {
- "updated": 1793252735,
+ "updated": 1793256897,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+   "summary": "Three flaws a language-model scan dug up are the first disclosed under Core's new rules for bugs that are easy to find.",
+   "source": "CoinDesk",
+   "ts": 1793253279,
+   "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+   "ad": false
+  },
   {
    "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
    "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793206972,
    "url": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
-   "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
-   "source": "Cointelegraph",
-   "ts": 1793206406,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss_tag_bit",
    "ad": false
   }
  ]

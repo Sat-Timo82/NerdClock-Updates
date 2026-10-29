@@ -1,8 +1,16 @@
 {
- "updated": 1793252735,
+ "updated": 1793256897,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Nach Fed-Entscheid: Bitcoin kämpft mit der 80.000US-Dollar-Marke – das wird jetzt wichtig",
+   "summary": "Bitcoin hat sich nach einem Rücksetzer unter 80.000 US-Dollar wieder leicht erholt. Doch die Fed, schwache Tech-Aktien und hohe Liquidationen sorgen für Unsicherheit am Krypto-Markt. Wie geht es jetzt weiter? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793256381,
+   "url": "https://www.btc-echo.de/news/nach-fed-entscheid-bitcoin-kaempft-mit-der-80-000-us-dollar-marke-das-wird-jetzt-wichtig-240015/",
+   "ad": false
+  },
   {
    "title": "Federal Reserve pausiert Zinsanhebungen – Wie reagiert Bitcoin?",
    "summary": "Die Federal Reserve hat den Leitzins in der Spanne von 3,75 bis 4,00 % belassen. Wie reagiert Bitcoin auf die Zinspause und die Aussagen von Fed-Chef Kevin Warsh?",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793156400,
    "url": "https://www.btc-echo.de/news/bitcoin-wale-halten-still-doch-kleinanleger-werden-nervoes-239911/",
-   "ad": false
-  },
-  {
-   "title": "Trotz KI-Hype: Bitcoin-Hashrate auf dem Weg zu einem neuen Allzeithoch?",
-   "summary": "Trotz KI-Boom ist die Bitcoin-Hashrate wieder in Richtung der Höchststände gestiegen. Was steckt dahinter und ist die Miner-Kapitulation jetzt vorbei?",
-   "source": "Blocktrainer",
-   "ts": 1793115600,
-   "url": "https://www.blocktrainer.de/blog/trotz-ki-hype-bitcoin-hashrate-auf-dem-weg-zu-einem-neuen-allzeithoch",
    "ad": false
   }
  ]
