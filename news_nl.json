@@ -1,8 +1,24 @@
 {
- "updated": 1793278518,
+ "updated": 1793282633,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+   "summary": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
+   "source": "CoinDesk",
+   "ts": 1793282142,
+   "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+   "ad": false
+  },
+  {
+   "title": "Understanding the Various Bitcoin Per Share Metrics",
+   "summary": "Bitcoin per share, Bitcoin per assumed diluted shares, Net Bitcoin per share, and what to make of it all. This post Understanding the Various Bitcoin Per Share Metrics first appeared on Bitcoin Magazine and is written by Allard Peng .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793281002,
+   "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-per-share-metrics",
+   "ad": false
+  },
   {
    "title": "Mosaic: The Art Hidden in Bitcoin",
    "summary": "How generative artist BitArt is transforming sats into a collective visual and musical composition, and why Bitcoin Art Society believes the network could become a permanent medium for contemporary art. This post Mosaic: The Art Hidden in Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch .",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793270803,
    "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss_tag",
-   "ad": false
-  },
-  {
-   "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
-   "summary": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
-   "source": "CoinDesk",
-   "ts": 1793268276,
-   "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Find New Support From Long-Term Investors",
-   "summary": "Bitcoin ETFs are experiencing an interesting change in ownership. Some of Wall Street's biggest trading firms have been reducing their positions, while sovereign wealth funds and wealth managers are quietly increasing theirs. At first glance, declining institutional holdings might suggest that investors are losing interest in…",
-   "source": "Bitcoinist",
-   "ts": 1793261831,
-   "url": "https://bitcoinist.com/bitcoin-etfs-find-new-support-from-long-term-investors/",
    "ad": false
   }
  ]

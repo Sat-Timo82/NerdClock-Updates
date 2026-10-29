@@ -1,8 +1,24 @@
 {
- "updated": 1793278518,
+ "updated": 1793282633,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Drei Sicherheitslücken in Bitcoin Core entdeckt – Updates bereits verfügbar",
+   "summary": "Sicherheitsalarm bei Bitcoin Core: Drei Schwachstellen wurden offengelegt. Betreiber von Bitcoin-Core-Nodes sollten ihre Software aktualisieren.",
+   "source": "Blocktrainer",
+   "ts": 1793280123,
+   "url": "https://www.blocktrainer.de/blog/drei-sicherheitsluecken-in-bitcoin-core-entdeckt-updates-bereits-verfuegbar",
+   "ad": false
+  },
+  {
+   "title": "EZB bestätigt Zinspause: Das müssen Bitcoin-Anleger jetzt wissen",
+   "summary": "Die EZB hält an ihrem Leitzins fest. So reagiert Bitcoin auf die Entscheidung der Notenbank. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793279801,
+   "url": "https://www.btc-echo.de/news/ezb-bestaetigt-zinspause-das-muessen-bitcoin-anleger-jetzt-wissen-240049/",
+   "ad": false
+  },
   {
    "title": "Bitcoin bei 1,6 Millionen US-Dollar? Bitwise veröffentlicht neue Langfristprognose",
    "summary": "Steht Bitcoin vor einer gewaltigen Rallye? Bitwise prognostiziert 1,6 Millionen Dollar bis 2036 und erwartet Billionen an institutionellen Zuflüssen.",
@@ -17,14 +33,6 @@
    "source": "BTC-ECHO",
    "ts": 1793268000,
    "url": "https://www.btc-echo.de/news/bitcoin-kaufen-verkaufen-trading-strategie-239985/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Nodes in Gefahr? KI deckt gleich drei Sicherheitslücken auf",
-   "summary": "Eine KI-Analyse hat mehrere Schwachstellen in Bitcoin Core aufgedeckt. Die Entwickler haben Sicherheitsupdates veröffentlicht und ihre Regeln zur Offenlegung geändert. Für bestimmte Nodes bleibt jedoch ein Risiko bestehen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793259534,
-   "url": "https://www.btc-echo.de/news/bitcoin-nodes-in-gefahr-ki-deckt-gleich-drei-sicherheitsluecken-auf-240018/",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793191535,
    "url": "https://www.blocktrainer.de/blog/datavault-ai-aktienkurs-crasht-nachdem-das-unternehmen-seine-bitcoin-nicht-von-der-boerse-abziehen-kann",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Prognosen bis 2030: So weit reichen die aktuellen Erwartungen",
-   "summary": "Die Kursziele reichen von 120.000 bis weit über eine Million US-Dollar. Doch wie belastbar sind die Annahmen hinter diesen Modellen? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793181600,
-   "url": "https://www.btc-echo.de/news/bitcoin-prognosen-2030-wie-weit-steigt-btc-239948/",
    "ad": false
   }
  ]
