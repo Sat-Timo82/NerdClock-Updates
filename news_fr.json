@@ -1,14 +1,30 @@
 {
- "updated": 1793271005,
+ "updated": 1793274295,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
   {
-   "title": "Live updates: Bitcoin clings to $80,000 as Strategy's cushion thins before earnings",
-   "summary": "Bitcoin slipped nearly 2% ahead of Strategy's third-quarter results, and the largest corporate holder's coins are now worth only about 6% more than it paid for them.",
+   "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+   "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed's preferred inflation gauge is due later today.",
    "source": "CoinDesk",
-   "ts": 1793270499,
-   "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+   "ts": 1793272308,
+   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+   "ad": false
+  },
+  {
+   "title": "Grant Cardone Bets $1 Million on Bitcoin's Comeback",
+   "summary": "Bitcoin's recent struggles have sparked another heated argument between investors, and this time, there's a potential $1 million wager involved. Real estate investor Grant Cardone has challenged venture capitalist Jason Calacanis to bet on whether Bitcoin can return to its previous all-time high within two years. The…",
+   "source": "Bitcoinist",
+   "ts": 1793272162,
+   "url": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+   "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
+   "source": "Cointelegraph",
+   "ts": 1793270803,
+   "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss_tag",
    "ad": false
   },
   {
@@ -60,27 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
-   "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+   "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
+   "summary": "Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
    "source": "CoinDesk",
    "ts": 1793244763,
    "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
-   "ad": false
-  },
-  {
-   "title": "Fed's hawkish rate hold keeps pressure on Bitcoin: Analysts",
-   "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin's next move.",
-   "source": "Cointelegraph",
-   "ts": 1793236321,
-   "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&ut",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Treasury Datavault AI Says It Can't Access Its BTC, Stock Tanks",
-   "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
-   "source": "Decrypt",
-   "ts": 1793223962,
-   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
    "ad": false
   }
  ]
