@@ -1,0 +1,6 @@
+{
+  "name": "NerdAxe Gaia (Nerdminer.de)",
+  "version": "1.1.1-rc1 Nerdminer.de",
+  "new_install_prompt_erase": true,
+  "builds": [ { "chipFamily": "ESP32-S3", "parts": [ { "path": "nerdaxe-gaia.bin", "offset": 0 } ] } ]
+}
