@@ -1,8 +1,16 @@
 {
- "updated": 1793267582,
+ "updated": 1793271005,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin kaufen und verkaufen: Diese Strategie nutzt ein Trading-Profi",
+   "summary": "Wann lohnt sich der Einstieg bei Bitcoin und wann sollten Anleger Gewinne mitnehmen? Trading-Experte Florian Sondershausen erklärt, welche Regeln für ihn entscheidend sind und wie er beim Vermögensaufbau vorgeht. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793268000,
+   "url": "https://www.btc-echo.de/news/bitcoin-kaufen-verkaufen-trading-strategie-239985/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Nodes in Gefahr? KI deckt gleich drei Sicherheitslücken auf",
    "summary": "Eine KI-Analyse hat mehrere Schwachstellen in Bitcoin Core aufgedeckt. Die Entwickler haben Sicherheitsupdates veröffentlicht und ihre Regeln zur Offenlegung geändert. Für bestimmte Nodes bleibt jedoch ein Risiko bestehen. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793178352,
    "url": "https://www.blocktrainer.de/blog/bitcoin-und-gold-so-eng-verbunden-wie-nie-was-steckt-dahinter",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor Fed-Zinsentscheid: On-Chain-Daten machen Hoffnung",
-   "summary": "Bitcoin nimmt vor dem Fed-Entscheid wieder die Marke von 81.000 US-Dollar ins Visier. Auch bei den Altcoins geht es nach oben. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793171397,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-fed-zinsentscheid-on-chain-daten-machen-hoffnung-239962/",
    "ad": false
   }
  ]

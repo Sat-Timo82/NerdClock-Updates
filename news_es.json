@@ -1,8 +1,24 @@
 {
- "updated": 1793267582,
+ "updated": 1793271005,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Live updates: Bitcoin clings to $80,000 as Strategy's cushion thins before earnings",
+   "summary": "Bitcoin slipped nearly 2% ahead of Strategy's third-quarter results, and the largest corporate holder's coins are now worth only about 6% more than it paid for them.",
+   "source": "CoinDesk",
+   "ts": 1793270499,
+   "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+   "ad": false
+  },
+  {
+   "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+   "summary": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
+   "source": "CoinDesk",
+   "ts": 1793268276,
+   "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Find New Support From Long-Term Investors",
    "summary": "Bitcoin ETFs are experiencing an interesting change in ownership. Some of Wall Street's biggest trading firms have been reducing their positions, while sovereign wealth funds and wealth managers are quietly increasing theirs. At first glance, declining institutional holdings might suggest that investors are losing interest in…",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793223962,
    "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-   "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
-   "source": "CoinDesk",
-   "ts": 1793222024,
-   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
-   "summary": "Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote. This post Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793217788,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
    "ad": false
   }
  ]
