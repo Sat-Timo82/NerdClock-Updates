@@ -1,8 +1,16 @@
 {
- "updated": 1793282633,
+ "updated": 1793285916,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Why Switzerland's first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+   "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
+   "source": "CoinDesk",
+   "ts": 1793283346,
+   "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+   "ad": false
+  },
   {
    "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
    "summary": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793272162,
    "url": "https://bitcoinist.com/grant-cardone-bets-1-million-on-bitcoins-comeback/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
-   "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
-   "source": "Cointelegraph",
-   "ts": 1793270803,
-   "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss_tag",
    "ad": false
   }
  ]
