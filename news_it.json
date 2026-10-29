@@ -1,8 +1,16 @@
 {
- "updated": 1793242184,
+ "updated": 1793245691,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+   "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+   "source": "CoinDesk",
+   "ts": 1793244763,
+   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+   "ad": false
+  },
   {
    "title": "Fed's hawkish rate hold keeps pressure on Bitcoin: Analysts",
    "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin's next move.",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793206406,
    "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss_tag_bit",
-   "ad": false
-  },
-  {
-   "title": "Wall Street's Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-   "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
-   "source": "Decrypt",
-   "ts": 1793204102,
-   "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
    "ad": false
   }
  ]
