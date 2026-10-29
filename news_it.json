@@ -1,8 +1,24 @@
 {
- "updated": 1793313835,
+ "updated": 1793317189,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
+   "summary": "Strategy reported record $20.91 billion in Q3 2026 operating income, driven by Bitcoin's rebound, despite declining revenue, negative year-to-date BTC yield, and continued pressure to fund preferred dividends. This post Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026 first appeared on Bitcoin…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793315907,
+   "url": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
+   "summary": "Bitcoin price fell below $79,000 as reports of a suspected Binance hack, with outflows of up to $5.8 billion, prompted Tether and Circle to freeze roughly $1.8 to $2.4 billion in stablecoins. This post Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793315197,
+   "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-binance",
+   "ad": false
+  },
   {
    "title": "Strategy's $21B Quarter Is Its Biggest Ever as Saylor Sees New Bitcoin Bull Run",
    "summary": "Strategy reported record operating profit as bitcoin gains lifted quarterly results, while Michael Saylor said a new bull market was beginning. Daily preferred dividends and a CFO transition accompanied the earnings announcement. Bitcoin Gains Lift Operating Profit to a Record Record operating income of $20.91 billion and…",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793291184,
    "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-   "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet's Q3 earnings miss.",
-   "source": "Cointelegraph",
-   "ts": 1793288394,
-   "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
-   "ad": false
-  },
-  {
-   "title": "Why Switzerland's first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
-   "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
-   "source": "CoinDesk",
-   "ts": 1793283346,
-   "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
    "ad": false
   }
  ]
