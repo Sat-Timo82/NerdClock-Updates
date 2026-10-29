@@ -1,8 +1,16 @@
 {
- "updated": 1793299892,
+ "updated": 1793303484,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "9 AI Models Predict Bitcoin's Year-End Price, From $82K to $112K",
+   "summary": "Bitcoin continues to circle the $80,000 threshold, repeatedly crossing above and below the price level that has become familiar territory for the cryptocurrency, at least for now. With its next decisive move still an open question, we're turning to a group of artificial intelligence (AI) models to see where their year-end…",
+   "source": "Bitcoin.com News",
+   "ts": 1793303448,
+   "url": "https://news.bitcoin.com/price-predictions/9-ai-models-predict-bitcoin-year-end-price-82482-112k/",
+   "ad": false
+  },
   {
    "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
    "summary": "A miner running FutureBit's Apollo Solo setup found Bitcoin block 973,262 on Oct. 26, collecting the full 3.154 BTC subsidy-plus-fees reward from 2,477 transactions. This post FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC first appeared on Bitcoin Magazine and is written by Juan Galt .",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793283346,
    "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
-   "ad": false
-  },
-  {
-   "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-   "summary": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
-   "source": "CoinDesk",
-   "ts": 1793282142,
-   "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
    "ad": false
   }
  ]
