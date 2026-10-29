@@ -1,8 +1,32 @@
 {
- "updated": 1793256897,
+ "updated": 1793260924,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "The chart bitcoin traders should be paying attention to",
+   "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+   "source": "CoinDesk",
+   "ts": 1793259884,
+   "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+   "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
+   "source": "Cointelegraph",
+   "ts": 1793259140,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_i",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Core Fixes 3 Security Bugs Discovered by AI",
+   "summary": "Bitcoin Core developers have released security updates after an AI-powered code scan uncovered three vulnerabilities, including one that could allow attackers to crash Bitcoin nodes running on Windows and macOS. The findings were made public on October 28, after developers verified the issues and distributed fixes across…",
+   "source": "Bitcoinist",
+   "ts": 1793258692,
+   "url": "https://bitcoinist.com/bitcoin-core-fixes-3-security-bugs-discovered-by-ai/",
+   "ad": false
+  },
   {
    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
    "summary": "Three flaws a language-model scan dug up are the first disclosed under Core's new rules for bugs that are easy to find.",
@@ -57,30 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793213824,
    "url": "https://news.bitcoin.com/price-predictions/jason-calacanis-bitcoin-prediction-draws-3m-rival-bets-wont-bite/",
-   "ad": false
-  },
-  {
-   "title": "Fed Stands Pat, Bitcoin Holds Steady–But a December Rate Hike Is in Play",
-   "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
-   "source": "Decrypt",
-   "ts": 1793211918,
-   "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-   "ad": false
-  },
-  {
-   "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
-   "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January.",
-   "source": "Decrypt",
-   "ts": 1793207012,
-   "url": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Nears $82K as Wall Street Sees Correction Fading",
-   "summary": "TLDR Bitcoin climbed to $81,687 on Wednesday, with bid liquidity thickening around $79,000 and $80,000. South Korea's KOSPI jumped 6.63% as tech stocks rebounded from earlier October losses. Morgan Stanley's Mike Wilson says most of the market correction is already over. Analyst Rekt Capital compares Bitcoin's weekly chart to…",
-   "source": "Bitcoinist",
-   "ts": 1793206972,
-   "url": "https://bitcoinist.com/bitcoin-nears-82k-as-wall-street-sees-correction-fading/",
    "ad": false
   }
  ]

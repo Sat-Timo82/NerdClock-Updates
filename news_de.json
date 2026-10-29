@@ -1,8 +1,16 @@
 {
- "updated": 1793256897,
+ "updated": 1793260924,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin Nodes in Gefahr? KI deckt gleich drei Sicherheitslücken auf",
+   "summary": "Eine KI-Analyse hat mehrere Schwachstellen in Bitcoin Core aufgedeckt. Die Entwickler haben Sicherheitsupdates veröffentlicht und ihre Regeln zur Offenlegung geändert. Für bestimmte Nodes bleibt jedoch ein Risiko bestehen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793259534,
+   "url": "https://www.btc-echo.de/news/bitcoin-nodes-in-gefahr-ki-deckt-gleich-drei-sicherheitsluecken-auf-240018/",
+   "ad": false
+  },
   {
    "title": "Nach Fed-Entscheid: Bitcoin kämpft mit der 80.000US-Dollar-Marke – das wird jetzt wichtig",
    "summary": "Bitcoin hat sich nach einem Rücksetzer unter 80.000 US-Dollar wieder leicht erholt. Doch die Fed, schwache Tech-Aktien und hohe Liquidationen sorgen für Unsicherheit am Krypto-Markt. Wie geht es jetzt weiter? Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793171397,
    "url": "https://www.btc-echo.de/news/bitcoin-vor-fed-zinsentscheid-on-chain-daten-machen-hoffnung-239962/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Wale halten still – doch Kleinanleger werden nervös",
-   "summary": "Bitcoin notiert weiterhin über dem Einstandskurs kurzfristiger Trader. Doch wie lange bleibt das so und können die Käufer eine größere Korrektur noch verhindern? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793156400,
-   "url": "https://www.btc-echo.de/news/bitcoin-wale-halten-still-doch-kleinanleger-werden-nervoes-239911/",
    "ad": false
   }
  ]
