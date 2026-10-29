@@ -1,8 +1,32 @@
 {
- "updated": 1793289333,
+ "updated": 1793292963,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+   "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+   "source": "Decrypt",
+   "ts": 1793291567,
+   "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
+   "ad": false
+  },
+  {
+   "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
+   "summary": "Franklin Templeton's two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq. This post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793291184,
+   "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Bulls Eye $95K Price While Options Bears Quietly Load Up",
+   "summary": "Bitcoin's derivatives market is carrying $54.78 billion in futures open interest, while options traders are stacking bullish bets around $90,000, $95,000, and $100,000 with bitcoin trading between $79,262 to $81,939 this week. On Thursday, the market's speculative machinery is humming, although not everyone agrees on which…",
+   "source": "Bitcoin.com News",
+   "ts": 1793290168,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-bulls-eye-95k-options-bears-quietly-load-up/",
+   "ad": false
+  },
   {
    "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
    "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet's Q3 earnings miss.",
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793277960,
    "url": "https://bitcoinmagazine.com/videos/senator-bill-hagerty-expanding-the-u-s-strategic-bitcoin-reserve-the-future-of-dollar-hegemony",
-   "ad": false
-  },
-  {
-   "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-   "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
-   "source": "Decrypt",
-   "ts": 1793277038,
-   "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-   "ad": false
-  },
-  {
-   "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-   "summary": "Your day-ahead look for Oct. 29, 2026",
-   "source": "CoinDesk",
-   "ts": 1793275490,
-   "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-   "summary": "A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role.",
-   "source": "Cointelegraph",
-   "ts": 1793275200,
-   "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=r",
    "ad": false
   }
  ]
