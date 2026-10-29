@@ -1,8 +1,48 @@
 {
- "updated": 1793274295,
+ "updated": 1793278518,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Mosaic: The Art Hidden in Bitcoin",
+   "summary": "How generative artist BitArt is transforming sats into a collective visual and musical composition, and why Bitcoin Art Society believes the network could become a permanent medium for contemporary art. This post Mosaic: The Art Hidden in Bitcoin first appeared on Bitcoin Magazine and is written by Dennis Koch .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793278412,
+   "url": "https://bitcoinmagazine.com/culture/mosaic-the-art-hidden-in-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar…",
+   "summary": "Bitcoin Magazine Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony Sen. Bill Hagerty explains why CBDCs threaten freedom, how regulatory ambiguity enabled SEC overreach, and what Congress can accomplish before January. This post Senator Bill Hagerty: Expanding the U.S…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793277960,
+   "url": "https://bitcoinmagazine.com/videos/senator-bill-hagerty-expanding-the-u-s-strategic-bitcoin-reserve-the-future-of-dollar-hegemony",
+   "ad": false
+  },
+  {
+   "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+   "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
+   "source": "Decrypt",
+   "ts": 1793277038,
+   "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
+   "ad": false
+  },
+  {
+   "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+   "summary": "Your day-ahead look for Oct. 29, 2026",
+   "source": "CoinDesk",
+   "ts": 1793275490,
+   "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+   "summary": "A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role.",
+   "source": "Cointelegraph",
+   "ts": 1793275200,
+   "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=r",
+   "ad": false
+  },
   {
    "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
    "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed's preferred inflation gauge is due later today.",
@@ -41,46 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793261831,
    "url": "https://bitcoinist.com/bitcoin-etfs-find-new-support-from-long-term-investors/",
-   "ad": false
-  },
-  {
-   "title": "The chart bitcoin traders should be paying attention to",
-   "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
-   "source": "CoinDesk",
-   "ts": 1793259884,
-   "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs add $137M, pushing October back into the green",
-   "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
-   "source": "Cointelegraph",
-   "ts": 1793259140,
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_i",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Core Fixes 3 Security Bugs Discovered by AI",
-   "summary": "Bitcoin Core developers have released security updates after an AI-powered code scan uncovered three vulnerabilities, including one that could allow attackers to crash Bitcoin nodes running on Windows and macOS. The findings were made public on October 28, after developers verified the issues and distributed fixes across…",
-   "source": "Bitcoinist",
-   "ts": 1793258692,
-   "url": "https://bitcoinist.com/bitcoin-core-fixes-3-security-bugs-discovered-by-ai/",
-   "ad": false
-  },
-  {
-   "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
-   "summary": "Three flaws a language-model scan dug up are the first disclosed under Core's new rules for bugs that are easy to find.",
-   "source": "CoinDesk",
-   "ts": 1793253279,
-   "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin briefly dips below $80,000 as tech jitters and hawkish Fed weigh on crypto",
-   "summary": "Bitcoin fell below $80,000 as Alphabet and Samsung-drove tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
-   "source": "CoinDesk",
-   "ts": 1793244763,
-   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
    "ad": false
   }
  ]

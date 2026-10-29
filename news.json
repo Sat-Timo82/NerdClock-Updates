@@ -1,8 +1,16 @@
 {
- "updated": 1793274295,
+ "updated": 1793278518,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin bei 1,6 Millionen US-Dollar? Bitwise veröffentlicht neue Langfristprognose",
+   "summary": "Steht Bitcoin vor einer gewaltigen Rallye? Bitwise prognostiziert 1,6 Millionen Dollar bis 2036 und erwartet Billionen an institutionellen Zuflüssen.",
+   "source": "Blocktrainer",
+   "ts": 1793277962,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-bei-16-millionen-us-dollar-bitwise-veroeffentlicht-neue-langfristprognose",
+   "ad": false
+  },
   {
    "title": "Bitcoin kaufen und verkaufen: Diese Strategie nutzt ein Trading-Profi",
    "summary": "Wann lohnt sich der Einstieg bei Bitcoin und wann sollten Anleger Gewinne mitnehmen? Trading-Experte Florian Sondershausen erklärt, welche Regeln für ihn entscheidend sind und wie er beim Vermögensaufbau vorgeht. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793181600,
    "url": "https://www.btc-echo.de/news/bitcoin-prognosen-2030-wie-weit-steigt-btc-239948/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin und Gold so eng verbunden wie nie: Was steckt dahinter?",
-   "summary": "Bitcoin korreliert stärker denn je mit Gold. Welche Rolle spielen die US-Staatsverschuldung, steigende Zinsen und die Geldpolitik?",
-   "source": "Blocktrainer",
-   "ts": 1793178352,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-und-gold-so-eng-verbunden-wie-nie-was-steckt-dahinter",
    "ad": false
   }
  ]
