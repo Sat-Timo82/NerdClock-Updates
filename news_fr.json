@@ -1,8 +1,16 @@
 {
- "updated": 1793235303,
+ "updated": 1793239024,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Fed's hawkish rate hold keeps pressure on Bitcoin: Analysts",
+   "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin's next move.",
+   "source": "Cointelegraph",
+   "ts": 1793236321,
+   "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&ut",
+   "ad": false
+  },
   {
    "title": "Bitcoin Treasury Datavault AI Says It Can't Access Its BTC, Stock Tanks",
    "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1793204102,
    "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
-   "ad": false
-  },
-  {
-   "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-   "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
-   "source": "The Block",
-   "ts": 1793203628,
-   "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
    "ad": false
   }
  ]
