@@ -1,8 +1,48 @@
 {
- "updated": 1793364935,
+ "updated": 1793368883,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\"",
+   "summary": "Bitcoin Magazine Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\" Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027. This post Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793367075,
+   "url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
+   "ad": false
+  },
+  {
+   "title": "Will gold's 'infinite mint bug' make Bitcoin more valuable?",
+   "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin's claim to be a better form of digital gold?",
+   "source": "Cointelegraph",
+   "ts": 1793367000,
+   "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign",
+   "ad": false
+  },
+  {
+   "title": "Doomberg: US Treasury Sanctions are \"Wildly Bullish\" for Bitcoin & Gold",
+   "summary": "Bitcoin Magazine Doomberg: US Treasury Sanctions are \"Wildly Bullish\" for Bitcoin & Gold U.S. pressure to hold Treasuries forces central banks to sell what they can, says Doomberg, setting up a wildly bullish long-term case for gold and Bitcoin. This post Doomberg: US Treasury Sanctions are \"Wildly Bullish\" for Bitcoin & Gold…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793366803,
+   "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
+   "ad": false
+  },
+  {
+   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
+   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793366541,
+   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
+   "ad": false
+  },
+  {
+   "title": "Alexandre Laizet on The French Debt Crisis: \"Europe is in Need of Bitcoin\"",
+   "summary": "Bitcoin Magazine Alexandre Laizet on The French Debt Crisis: \"Europe is in Need of Bitcoin\" France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy. This post Alexandre Laizet on The French Debt Crisis: \"Europe is in Need of…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793366231,
+   "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
+   "ad": false
+  },
   {
    "title": "Here's how big bitcoin traders responded after the Binance hack hit",
    "summary": "Your day-ahead look for Oct. 30, 2026",
@@ -41,46 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793339587,
    "url": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
-   "ad": false
-  },
-  {
-   "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-   "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
-   "source": "CoinDesk",
-   "ts": 1793335842,
-   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-   "ad": false
-  },
-  {
-   "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily…",
-   "summary": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
-   "source": "The Block",
-   "ts": 1793307515,
-   "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
-   "ad": false
-  },
-  {
-   "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
-   "summary": "A miner running FutureBit's Apollo Solo setup found Bitcoin block 973,262 on Oct. 26, collecting the full 3.154 BTC subsidy-plus-fees reward from 2,477 transactions. This post FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC first appeared on Bitcoin Magazine and is written by Juan Galt .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793296672,
-   "url": "https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc",
-   "ad": false
-  },
-  {
-   "title": "$11 Billion in Bitcoin Options Expire Tomorrow–Here's What It Means",
-   "summary": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
-   "source": "Decrypt",
-   "ts": 1793294111,
-   "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
-   "ad": false
-  },
-  {
-   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-   "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-   "source": "Decrypt",
-   "ts": 1793291567,
-   "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
    "ad": false
   }
  ]
