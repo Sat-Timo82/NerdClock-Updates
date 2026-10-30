@@ -1,14 +1,14 @@
 {
- "updated": 1793382250,
+ "updated": 1793386065,
  "mode": "stichworte",
  "lang": "it",
  "items": [
   {
-   "title": "Bitcoin Price Rebounds Above $77K, but Binance Hack Keeps Traders on Edge",
-   "summary": "Bitcoin stabilized above $77,000 after a $6.3 billion Binance hack triggered a marketwide sell-off, pushing the cryptocurrency to a multiweek low of $76,320. Bitcoin Plunges to Multiweek Low Following Binance Hack Bitcoin price stabilized above $77,000 following a marketwide sell-off triggered by Thursday's $6.3 billion hack…",
-   "source": "Bitcoin.com News",
-   "ts": 1793379751,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-rebounds-above-77k-binance-hack-keeps-traders-edge/",
+   "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+   "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+   "source": "Decrypt",
+   "ts": 1793385903,
+   "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
    "ad": false
   },
   {
@@ -33,14 +33,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793376335,
    "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-441m-4-days-zcash-streak-hits-day-8/",
-   "ad": false
-  },
-  {
-   "title": "Coinbase, Bitcoin Giant Strategy Fall as Binance Hack Rocks Crypto Stocks",
-   "summary": "Crypto-linked stocks plunged Friday as a multibillion-dollar Binance security breach collided with a broader technology selloff driven by concerns over AI spending. Coinbase dropped more than 12% and Strategy fell 6%, even after both companies reported quarterly profits on Thursday night. Binance Hack Adds a Crypto-Specific…",
-   "source": "Bitcoin.com News",
-   "ts": 1793373973,
-   "url": "https://news.bitcoin.com/market-updates/coinbase-bitcoin-giant-strategy-fall-binance-hack-rocks-crypto-stocks/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366803,
    "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
+   "ad": false
+  },
+  {
+   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
+   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793366541,
+   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
    "ad": false
   }
  ]
