@@ -1,8 +1,16 @@
 {
- "updated": 1793343319,
+ "updated": 1793347320,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin fällt nach Binance-Hack – HYPE legt kräftig zu",
+   "summary": "Der Milliarden-Hack bei Binance belastet den Krypto-Markt. Bitcoin fällt unter 79.000 US-Dollar, BNB verliert mehr als fünf Prozent. Nur HYPE stemmt sich gegen den Abverkauf. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793345817,
+   "url": "https://www.btc-echo.de/news/bitcoin-faellt-nach-binance-hack-hype-legt-kraeftig-zu-240093/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kurs auf 3,7 Millionen Dollar bis 2036? Bitwise wird noch bullisher",
    "summary": "Bitwise erwartet im Bull Case eine mehr als 4.000-prozentige Bitcoin-Rendite binnen zehn Jahren. Warum der Vermögensverwalter seine BTC-Prognose nach oben korrigiert. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793210601,
    "url": "https://www.btc-echo.de/news/fed-laesst-leitzins-unveraendert-was-bedeutet-das-fuer-bitcoin-240008/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor neuem Bullenmarkt? CoinShares sieht entscheidende Hürde",
-   "summary": "Die Bitcoin-Futures-Basis erreicht nur einen Bruchteil der Werte von 2024. CoinShares-Experten zufolge fehlt für eine nachhaltige Rallye damit noch das Fundament. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793205476,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-neuem-bullenmarkt-coinshares-sieht-entscheidende-huerde-240002/",
    "ad": false
   }
  ]

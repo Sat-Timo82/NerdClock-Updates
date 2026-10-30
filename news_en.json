@@ -1,5 +1,5 @@
 {
- "updated": 1793343319,
+ "updated": 1793347320,
  "mode": "stichworte",
  "lang": "en",
  "items": [
@@ -52,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Strategy's $21B Quarter Is Its Biggest Ever as Saylor Sees New Bitcoin Bull Run",
-   "summary": "Strategy reported record operating profit as bitcoin gains lifted quarterly results, while Michael Saylor said a new bull market was beginning. Daily preferred dividends and a CFO transition accompanied the earnings announcement. Bitcoin Gains Lift Operating Profit to a Record Record operating income of $20.91 billion and…",
-   "source": "Bitcoin.com News",
-   "ts": 1793313687,
-   "url": "https://news.bitcoin.com/featured/strategys-21b-quarter-is-its-biggest-ever-as-saylor-sees-new-bitcoin-bull-run/",
-   "ad": false
-  },
-  {
    "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily…",
    "summary": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
    "source": "The Block",
@@ -81,6 +73,14 @@
    "source": "Decrypt",
    "ts": 1793294111,
    "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+   "ad": false
+  },
+  {
+   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+   "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+   "source": "Decrypt",
+   "ts": 1793291567,
+   "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
    "ad": false
   }
  ]
