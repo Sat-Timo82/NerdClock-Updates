@@ -1,8 +1,16 @@
 {
- "updated": 1793339203,
+ "updated": 1793343320,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+   "summary": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.",
+   "source": "Cointelegraph",
+   "ts": 1793339587,
+   "url": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
+   "ad": false
+  },
   {
    "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
    "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1793294111,
    "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
-   "ad": false
-  },
-  {
-   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-   "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-   "source": "Decrypt",
-   "ts": 1793291567,
-   "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
    "ad": false
   }
  ]
