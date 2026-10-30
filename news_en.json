@@ -1,8 +1,16 @@
 {
- "updated": 1793332148,
+ "updated": 1793335730,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
+   "summary": "Binance says the attacker reportedly gained access through a compromised employee laptop, and about $3 billion has been frozen onchain. This post Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793333140,
+   "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
+   "ad": false
+  },
   {
    "title": "Bitcoin to $1.6 Million: Bitwise Raises Its Long-Term Price Target",
    "summary": "Bitwise raised its long-term bitcoin price forecast to $1.6 million by 2036, increasing its projected annual return despite a volatile year. The outlook rests on institutional adoption, limited supply, and growing demand for protection against currency debasement. Bitcoin's $1.6 Million Target Implies 34.3% Annual Growth…",
@@ -17,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793327402,
    "url": "https://news.bitcoin.com/featured/tim-draper-calls-not-owning-bitcoin-irresponsible-warns-of-dollar-shift/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-   "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
-   "source": "The Block",
-   "ts": 1793326951,
-   "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
    "ad": false
   },
   {
