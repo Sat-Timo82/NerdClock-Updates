@@ -1,22 +1,38 @@
 {
- "updated": 1793325501,
+ "updated": 1793328557,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin to $1.6 Million: Bitwise Raises Its Long-Term Price Target",
+   "summary": "Bitwise raised its long-term bitcoin price forecast to $1.6 million by 2036, increasing its projected annual return despite a volatile year. The outlook rests on institutional adoption, limited supply, and growing demand for protection against currency debasement. Bitcoin's $1.6 Million Target Implies 34.3% Annual Growth…",
+   "source": "Bitcoin.com News",
+   "ts": 1793327407,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-to-1-6-million-bitwise-raises-its-long-term-price-target/",
+   "ad": false
+  },
+  {
+   "title": "Tim Draper Calls Not Owning Bitcoin 'Irresponsible,' Warns of Dollar Shift",
+   "summary": "Tim Draper warned that businesses could eventually reject dollars in favor of bitcoin, triggering bank runs as demand for fiat currencies erodes. His comments echoed the adoption argument behind his longstanding $250,000 bitcoin forecast. Draper Predicts a Shift From Dollars to Bitcoin Individuals and companies holding…",
+   "source": "Bitcoin.com News",
+   "ts": 1793327402,
+   "url": "https://news.bitcoin.com/featured/tim-draper-calls-not-owning-bitcoin-irresponsible-warns-of-dollar-shift/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+   "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+   "source": "The Block",
+   "ts": 1793326951,
+   "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+   "ad": false
+  },
   {
    "title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
    "summary": "Strategy reported record $20.91 billion in Q3 2026 operating income, driven by Bitcoin's rebound, despite declining revenue, negative year-to-date BTC yield, and continued pressure to fund preferred dividends. This post Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026 first appeared on Bitcoin…",
    "source": "Bitcoin Magazine",
    "ts": 1793315907,
    "url": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack",
-   "summary": "Bitcoin price fell below $79,000 as reports of a suspected Binance hack, with outflows of up to $5.8 billion, prompted Tether and Circle to freeze roughly $1.8 to $2.4 billion in stablecoins. This post Bitcoin Price Slides Below $79,000 as Binance Loses $5.8 Billion in Massive Hack first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793315197,
-   "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-binance",
    "ad": false
   },
   {
@@ -33,14 +49,6 @@
    "source": "The Block",
    "ts": 1793307515,
    "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141",
-   "ad": false
-  },
-  {
-   "title": "9 AI Models Predict Bitcoin's Year-End Price, From $82K to $112K",
-   "summary": "Bitcoin continues to circle the $80,000 threshold, repeatedly crossing above and below the price level that has become familiar territory for the cryptocurrency, at least for now. With its next decisive move still an open question, we're turning to a group of artificial intelligence (AI) models to see where their year-end…",
-   "source": "Bitcoin.com News",
-   "ts": 1793303448,
-   "url": "https://news.bitcoin.com/price-predictions/9-ai-models-predict-bitcoin-year-end-price-82482-112k/",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793291184,
    "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
-   "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet's Q3 earnings miss.",
-   "source": "Cointelegraph",
-   "ts": 1793288394,
-   "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
    "ad": false
   }
  ]
