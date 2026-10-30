@@ -1,8 +1,16 @@
 {
- "updated": 1793389719,
+ "updated": 1793392910,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+   "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+   "source": "Decrypt",
+   "ts": 1793390763,
+   "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+   "ad": false
+  },
   {
    "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
    "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366803,
    "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
-   "ad": false
-  },
-  {
-   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
-   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793366541,
-   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
    "ad": false
   }
  ]
