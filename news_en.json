@@ -1,8 +1,24 @@
 {
- "updated": 1793368883,
+ "updated": 1793372288,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Strategy's preferred-stock fix sets up renewed bitcoin buying, analysts say",
+   "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
+   "source": "The Block",
+   "ts": 1793370649,
+   "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
+   "ad": false
+  },
+  {
+   "title": "Who's Next? OneKey CEO Warns Hackers Will Target Blackrock's Bitcoin ETF",
+   "summary": "Yishi Wang, founder and CEO of hardware wallet company OneKey, suggested that North Korean hackers could be eyeing another major target after Binance was ransacked: BlackRock's IBIT, the world's largest bitcoin ETF, holding nearly $63 billion in BTC with Coinbase listed as its sole custodian. BlackRock's IBIT on North Korean…",
+   "source": "Bitcoin.com News",
+   "ts": 1793370620,
+   "url": "https://news.bitcoin.com/security/onekey-ceo-warns-hackers-target-blackrocks-bitcoin-etf/",
+   "ad": false
+  },
   {
    "title": "Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\"",
    "summary": "Bitcoin Magazine Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\" Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027. This post Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly…",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793353267,
    "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Add $423M in 3 Days as Blackrock Leads",
-   "summary": "Bitcoin ETFs attracted $137.33 million on Wednesday, extending their inflow streak to three sessions and lifting week-to-date additions above $423 million. Bitcoin ETFs Add $137M as 3-Day Inflow Streak Builds Three sessions into the week, bitcoin has established a clear lead in the institutional flow race. U.S. spot bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1793350770,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-423m-in-3-days-as-blackrock-leads/",
-   "ad": false
-  },
-  {
-   "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
-   "summary": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.",
-   "source": "Cointelegraph",
-   "ts": 1793339587,
-   "url": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
    "ad": false
   }
  ]
