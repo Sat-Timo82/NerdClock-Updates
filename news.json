@@ -1,8 +1,16 @@
 {
- "updated": 1793353966,
+ "updated": 1793357345,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Weltspartag 2026: Bitcoin-Sparplan statt Sparbuch – lohnt sich das?",
+   "summary": "Die Deutschen sparen weiterhin überdurchschnittlich viel. Zugleich setzen immer mehr Krypto-Anleger auf regelmäßige Bitcoin-Käufe. Doch wie rentabel ist ein Sparplan tatsächlich? Ein Blick auf historische Renditen, die DCA-Strategie und aktuelle Zahlen zum Weltspartag. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793354400,
+   "url": "https://www.btc-echo.de/news/bitcoin-sparplan-weltspartag-2026-239977/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Crash nach Binance-Hack: Die Spur führt nach Nordkorea!",
    "summary": "Nach dem mutmaßlich größten Hackerangriff der Krypto-Geschichte gibt es neue Erkenntnisse. Die Kryptobörse Binance beziffert die Auswirkungen des Vorfalls inzwischen selbst auf rund 6,3 Milliarden US-Dollar und hat erste Hinweise darauf veröffentlicht, wie sich die Angreifer Zugriff auf die Systeme verschaffen konnten.",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793214540,
    "url": "https://www.blocktrainer.de/blog/federal-reserve-pausiert-zinsanhebungen-wie-reagiert-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Fed lässt Leitzins unverändert: Was bedeutet das für Bitcoin?",
-   "summary": "Die Fed steckt in der Zwickmühle und Bitcoin spürt die Folgen. Fast 90 Prozent der Marktteilnehmer erwarten für Dezember eine Zinserhöhung. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793210601,
-   "url": "https://www.btc-echo.de/news/fed-laesst-leitzins-unveraendert-was-bedeutet-das-fuer-bitcoin-240008/",
    "ad": false
   }
  ]
