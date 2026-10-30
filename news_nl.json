@@ -1,8 +1,32 @@
 {
- "updated": 1793350578,
+ "updated": 1793353966,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Strategy CFO resigns as company posts record quarterly profit. MSTR stock falls 6%",
+   "summary": "Andrew Kang's departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+   "source": "CoinDesk",
+   "ts": 1793353267,
+   "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
+   "summary": "TLDR Bitcoin price dropped roughly 2% to around $78,420 as the market reacted to Binance's $6.3 billion security breach. Crypto liquidations reached $1.54 billion over 24 hours, with long positions accounting for approximately $1.3 billion. Binance said about $3 billion in affected assets had been frozen and pledged to cover…",
+   "source": "Bitcoinist",
+   "ts": 1793351351,
+   "url": "https://bitcoinist.com/bitcoin-price-falls-below-80k-after-6-3b-binance-hack/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Add $423M in 3 Days as Blackrock Leads",
+   "summary": "Bitcoin ETFs attracted $137.33 million on Wednesday, extending their inflow streak to three sessions and lifting week-to-date additions above $423 million. Bitcoin ETFs Add $137M as 3-Day Inflow Streak Builds Three sessions into the week, bitcoin has established a clear lead in the institutional flow race. U.S. spot bitcoin…",
+   "source": "Bitcoin.com News",
+   "ts": 1793350770,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-423m-in-3-days-as-blackrock-leads/",
+   "ad": false
+  },
   {
    "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
    "summary": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.",
@@ -17,38 +41,6 @@
    "source": "CoinDesk",
    "ts": 1793335842,
    "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
-   "summary": "Binance says the attacker reportedly gained access through a compromised employee laptop, and about $3 billion has been frozen onchain. This post Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793333140,
-   "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin to $1.6 Million: Bitwise Raises Its Long-Term Price Target",
-   "summary": "Bitwise raised its long-term bitcoin price forecast to $1.6 million by 2036, increasing its projected annual return despite a volatile year. The outlook rests on institutional adoption, limited supply, and growing demand for protection against currency debasement. Bitcoin's $1.6 Million Target Implies 34.3% Annual Growth…",
-   "source": "Bitcoin.com News",
-   "ts": 1793327407,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-to-1-6-million-bitwise-raises-its-long-term-price-target/",
-   "ad": false
-  },
-  {
-   "title": "Tim Draper Calls Not Owning Bitcoin 'Irresponsible,' Warns of Dollar Shift",
-   "summary": "Tim Draper warned that businesses could eventually reject dollars in favor of bitcoin, triggering bank runs as demand for fiat currencies erodes. His comments echoed the adoption argument behind his longstanding $250,000 bitcoin forecast. Draper Predicts a Shift From Dollars to Bitcoin Individuals and companies holding…",
-   "source": "Bitcoin.com News",
-   "ts": 1793327402,
-   "url": "https://news.bitcoin.com/featured/tim-draper-calls-not-owning-bitcoin-irresponsible-warns-of-dollar-shift/",
-   "ad": false
-  },
-  {
-   "title": "Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026",
-   "summary": "Strategy reported record $20.91 billion in Q3 2026 operating income, driven by Bitcoin's rebound, despite declining revenue, negative year-to-date BTC yield, and continued pressure to fund preferred dividends. This post Strategy (MSTR) Posts Record Operating Income as Bitcoin Rebounds in Q3 2026 first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793315907,
-   "url": "https://bitcoinmagazine.com/news/strategy-posts-record-operating-income",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Decrypt",
    "ts": 1793291567,
    "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
+   "ad": false
+  },
+  {
+   "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
+   "summary": "Franklin Templeton's two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq. This post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793291184,
+   "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
    "ad": false
   }
  ]
