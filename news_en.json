@@ -1,5 +1,5 @@
 {
- "updated": 1793317189,
+ "updated": 1793321809,
  "mode": "stichworte",
  "lang": "en",
  "items": [
@@ -52,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price Briefly Nears $82K, but Bears Warn of a Drop Toward $76K",
-   "summary": "Bitcoin surged past $81,800 following stronger-than-expected third-quarter U.S. GDP data, briefly reversing losses triggered by the Federal Reserve's decision to hold interest rates steady ahead of the U.S. midterm elections. Strong GDP Growth Drives Temporary Rally Bitcoin rallied Thursday after new data from the U.S. Bureau…",
-   "source": "Bitcoin.com News",
-   "ts": 1793296011,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-82k-bears-warn-drop-toward-76k/",
-   "ad": false
-  },
-  {
    "title": "$11 Billion in Bitcoin Options Expire Tomorrow–Here's What It Means",
    "summary": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
    "source": "Decrypt",
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793291184,
    "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+   "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet's Q3 earnings miss.",
+   "source": "Cointelegraph",
+   "ts": 1793288394,
+   "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
    "ad": false
   }
  ]
