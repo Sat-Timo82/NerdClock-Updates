@@ -1,5 +1,5 @@
 {
- "updated": 1793400061,
+ "updated": 1793403518,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -52,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Who's Next? OneKey CEO Warns Hackers Will Target Blackrock's Bitcoin ETF",
-   "summary": "Yishi Wang, founder and CEO of hardware wallet company OneKey, suggested that North Korean hackers could be eyeing another major target after Binance was ransacked: BlackRock's IBIT, the world's largest bitcoin ETF, holding nearly $63 billion in BTC with Coinbase listed as its sole custodian. BlackRock's IBIT on North Korean…",
-   "source": "Bitcoin.com News",
-   "ts": 1793370620,
-   "url": "https://news.bitcoin.com/security/onekey-ceo-warns-hackers-target-blackrocks-bitcoin-etf/",
-   "ad": false
-  },
-  {
    "title": "Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\"",
    "summary": "Bitcoin Magazine Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\" Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027. This post Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly…",
    "source": "Bitcoin Magazine",
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366803,
    "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
+   "ad": false
+  },
+  {
+   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
+   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793366541,
+   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
    "ad": false
   }
  ]
