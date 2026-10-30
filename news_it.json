@@ -1,8 +1,24 @@
 {
- "updated": 1793357345,
+ "updated": 1793360511,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+   "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
+   "source": "Cointelegraph",
+   "ts": 1793359763,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss_tag",
+   "ad": false
+  },
+  {
+   "title": "Binance hacker's Bitcoin haul tops Coinbase's corporate treasury",
+   "summary": "The attackers held 18,270 BTC early Friday, topping Coinbase's reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
+   "source": "Cointelegraph",
+   "ts": 1793357670,
+   "url": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
+   "ad": false
+  },
   {
    "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
    "summary": "Andrew Kang's departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793294111,
    "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
-   "ad": false
-  },
-  {
-   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
-   "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
-   "source": "Decrypt",
-   "ts": 1793291567,
-   "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-   "ad": false
-  },
-  {
-   "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
-   "summary": "Franklin Templeton's two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq. This post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793291184,
-   "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
    "ad": false
   }
  ]
