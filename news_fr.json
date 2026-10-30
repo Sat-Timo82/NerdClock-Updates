@@ -1,8 +1,32 @@
 {
- "updated": 1793375583,
+ "updated": 1793378963,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+   "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+   "source": "CoinDesk",
+   "ts": 1793377877,
+   "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+   "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+   "source": "Cointelegraph",
+   "ts": 1793376388,
+   "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss_tag_bitc",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Add $441M in 4 Days as Zcash Streak Hits Day 8",
+   "summary": "Bitcoin ETFs stayed positive for a fourth straight session Thursday, adding $17.07 million and lifting week-to-date inflows above $440 million. Ether and solana funds suffered a fresh wave of redemptions, while zcash extended its winning streak and XRP demand strengthened. Bitcoin ETFs Add $17M to Extend Winning Streak…",
+   "source": "Bitcoin.com News",
+   "ts": 1793376335,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-441m-4-days-zcash-streak-hits-day-8/",
+   "ad": false
+  },
   {
    "title": "Coinbase, Bitcoin Giant Strategy Fall as Binance Hack Rocks Crypto Stocks",
    "summary": "Crypto-linked stocks plunged Friday as a multibillion-dollar Binance security breach collided with a broader technology selloff driven by concerns over AI spending. Coinbase dropped more than 12% and Strategy fell 6%, even after both companies reported quarterly profits on Thursday night. Binance Hack Adds a Crypto-Specific…",
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366541,
    "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
-   "ad": false
-  },
-  {
-   "title": "Alexandre Laizet on The French Debt Crisis: \"Europe is in Need of Bitcoin\"",
-   "summary": "Bitcoin Magazine Alexandre Laizet on The French Debt Crisis: \"Europe is in Need of Bitcoin\" France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy. This post Alexandre Laizet on The French Debt Crisis: \"Europe is in Need of…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793366231,
-   "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-   "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
-   "source": "Cointelegraph",
-   "ts": 1793359763,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss_tag",
-   "ad": false
-  },
-  {
-   "title": "Binance hacker's Bitcoin haul tops Coinbase's corporate treasury",
-   "summary": "The attackers held 18,270 BTC early Friday, topping Coinbase's reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
-   "source": "Cointelegraph",
-   "ts": 1793357670,
-   "url": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
    "ad": false
   }
  ]

@@ -1,8 +1,16 @@
 {
- "updated": 1793375583,
+ "updated": 1793378963,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Kurs: Darum muss der Kurs jetzt Stärke zeigen",
+   "summary": "Bitcoin (BTC) folgt der Schwäche am US-Aktienmarkt. Der Binance-Hack hat die schwierige charttechnische Lage nochmals verstärkt. Darauf müssen Anleger mit Blick auf die Kursentwicklung nun achten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793376000,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-darum-muss-der-kurs-jetzt-staerke-zeigen-240101/",
+   "ad": false
+  },
   {
    "title": "Weltspartag 2026: Bitcoin-Sparplan statt Sparbuch – lohnt sich das?",
    "summary": "Die Deutschen sparen weiterhin überdurchschnittlich viel. Zugleich setzen immer mehr Krypto-Anleger auf regelmäßige Bitcoin-Käufe. Doch wie rentabel ist ein Sparplan tatsächlich? Ein Blick auf historische Renditen, die DCA-Strategie und aktuelle Zahlen zum Weltspartag. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793256381,
    "url": "https://www.btc-echo.de/news/nach-fed-entscheid-bitcoin-kaempft-mit-der-80-000-us-dollar-marke-das-wird-jetzt-wichtig-240015/",
-   "ad": false
-  },
-  {
-   "title": "Federal Reserve pausiert Zinsanhebungen – Wie reagiert Bitcoin?",
-   "summary": "Die Federal Reserve hat den Leitzins in der Spanne von 3,75 bis 4,00 % belassen. Wie reagiert Bitcoin auf die Zinspause und die Aussagen von Fed-Chef Kevin Warsh?",
-   "source": "Blocktrainer",
-   "ts": 1793214540,
-   "url": "https://www.blocktrainer.de/blog/federal-reserve-pausiert-zinsanhebungen-wie-reagiert-bitcoin",
    "ad": false
   }
  ]
