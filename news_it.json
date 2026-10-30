@@ -1,14 +1,14 @@
 {
- "updated": 1793360511,
+ "updated": 1793364935,
  "mode": "stichworte",
  "lang": "it",
  "items": [
   {
-   "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
-   "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
-   "source": "Cointelegraph",
-   "ts": 1793359763,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss_tag",
+   "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+   "summary": "Your day-ahead look for Oct. 30, 2026",
+   "source": "CoinDesk",
+   "ts": 1793361086,
+   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
    "ad": false
   },
   {
@@ -25,14 +25,6 @@
    "source": "CoinDesk",
    "ts": 1793353267,
    "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Falls Below $80K After $6.3B Binance Hack",
-   "summary": "TLDR Bitcoin price dropped roughly 2% to around $78,420 as the market reacted to Binance's $6.3 billion security breach. Crypto liquidations reached $1.54 billion over 24 hours, with long positions accounting for approximately $1.3 billion. Binance said about $3 billion in affected assets had been frozen and pledged to cover…",
-   "source": "Bitcoinist",
-   "ts": 1793351351,
-   "url": "https://bitcoinist.com/bitcoin-price-falls-below-80k-after-6-3b-binance-hack/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Decrypt",
    "ts": 1793294111,
    "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means",
+   "ad": false
+  },
+  {
+   "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+   "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+   "source": "Decrypt",
+   "ts": 1793291567,
+   "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
    "ad": false
   }
  ]
