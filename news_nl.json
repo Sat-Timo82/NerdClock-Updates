@@ -1,8 +1,16 @@
 {
- "updated": 1793335730,
+ "updated": 1793339203,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+   "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
+   "source": "CoinDesk",
+   "ts": 1793335842,
+   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
    "summary": "Binance says the attacker reportedly gained access through a compromised employee laptop, and about $3 billion has been frozen onchain. This post Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1793291567,
    "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode",
-   "ad": false
-  },
-  {
-   "title": "Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin",
-   "summary": "Franklin Templeton's two Bitcoin DRIP ETFs, FBEQ and FIBT, started trading today on the Nasdaq. This post Franklin Templeton Officially Launches 2 Bitcoin DRIP ETFs That Turn Dividends Into Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793291184,
-   "url": "https://bitcoinmagazine.com/news/franklin-templeton-launches-2-bitcoin-etf",
    "ad": false
   }
  ]
