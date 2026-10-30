@@ -1,8 +1,16 @@
 {
- "updated": 1793372288,
+ "updated": 1793375583,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Coinbase, Bitcoin Giant Strategy Fall as Binance Hack Rocks Crypto Stocks",
+   "summary": "Crypto-linked stocks plunged Friday as a multibillion-dollar Binance security breach collided with a broader technology selloff driven by concerns over AI spending. Coinbase dropped more than 12% and Strategy fell 6%, even after both companies reported quarterly profits on Thursday night. Binance Hack Adds a Crypto-Specific…",
+   "source": "Bitcoin.com News",
+   "ts": 1793373973,
+   "url": "https://news.bitcoin.com/market-updates/coinbase-bitcoin-giant-strategy-fall-binance-hack-rocks-crypto-stocks/",
+   "ad": false
+  },
   {
    "title": "Strategy's preferred-stock fix sets up renewed bitcoin buying, analysts say",
    "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
@@ -60,11 +68,11 @@
    "ad": false
   },
   {
-   "title": "Here's how big bitcoin traders responded after the Binance hack hit",
-   "summary": "Your day-ahead look for Oct. 30, 2026",
-   "source": "CoinDesk",
-   "ts": 1793361086,
-   "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+   "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+   "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
+   "source": "Cointelegraph",
+   "ts": 1793359763,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss_tag",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793357670,
    "url": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
-   "ad": false
-  },
-  {
-   "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
-   "summary": "Andrew Kang's departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
-   "source": "CoinDesk",
-   "ts": 1793353267,
-   "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
    "ad": false
   }
  ]
