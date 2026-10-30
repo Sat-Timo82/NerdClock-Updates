@@ -1,8 +1,16 @@
 {
- "updated": 1793378963,
+ "updated": 1793382250,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Price Rebounds Above $77K, but Binance Hack Keeps Traders on Edge",
+   "summary": "Bitcoin stabilized above $77,000 after a $6.3 billion Binance hack triggered a marketwide sell-off, pushing the cryptocurrency to a multiweek low of $76,320. Bitcoin Plunges to Multiweek Low Following Binance Hack Bitcoin price stabilized above $77,000 following a marketwide sell-off triggered by Thursday's $6.3 billion hack…",
+   "source": "Bitcoin.com News",
+   "ts": 1793379751,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-rebounds-above-77k-binance-hack-keeps-traders-edge/",
+   "ad": false
+  },
   {
    "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
    "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366803,
    "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
-   "ad": false
-  },
-  {
-   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
-   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793366541,
-   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
    "ad": false
   }
  ]
