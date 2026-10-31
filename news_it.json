@@ -1,16 +1,8 @@
 {
- "updated": 1793482645,
+ "updated": 1793484805,
  "mode": "stichworte",
  "lang": "it",
  "items": [
-  {
-   "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
-   "summary": "TLDR Bitcoin ETF outflows reached $643.2 million on October 30, erasing four days of inflows and pushing October into negative territory. BlackRock's IBIT led Friday's withdrawals but still finished the month with $932.1 million in net inflows. Ether funds also faced selling, with combined Bitcoin and Ether ETF withdrawals…",
-   "source": "Bitcoinist",
-   "ts": 1793482439,
-   "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
-   "ad": false
-  },
   {
    "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
    "summary": "TLDR; Bitcoin's 18th anniversary has renewed debate over the financial system Satoshi Nakamoto sought to challenge, with small businesses continuing to face the consequences of inflation, rising costs, and repeated financial bailouts. The Bitcoin white paper turns 18 on October 31, marking another milestone for the…",
@@ -28,11 +20,19 @@
    "ad": false
   },
   {
-   "title": "Bitcoin White Paper Turns 18, Putting Its Long-Term Security Model In Focus",
-   "summary": "Bitcoin's white paper turns 18 on October 31, 2026, marking nearly two decades since Satoshi Nakamoto introduced a proposal for electronic payments without a central intermediary. The anniversary also brings renewed attention to a fundamental question: how will the network fund its security […]",
+   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it…",
+   "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
+   "source": "CoinDesk",
+   "ts": 1793469600,
+   "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
+   "summary": "TLDR Bitcoin ETF outflows reached $643.2 million on October 30, erasing four days of inflows and pushing October into negative territory. BlackRock's IBIT led Friday's withdrawals but still finished the month with $932.1 million in net inflows. Ether funds also faced selling, with combined Bitcoin and Ether ETF withdrawals…",
    "source": "Bitcoinist",
-   "ts": 1793475879,
-   "url": "https://bitcoinist.com/bitcoin-white-paper-turns-18-putting-its-long-term-security-model-in-focus/",
+   "ts": 1793468039,
+   "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
    "ad": false
   },
   {
