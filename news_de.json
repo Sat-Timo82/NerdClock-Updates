@@ -1,14 +1,14 @@
 {
- "updated": 1793439669,
+ "updated": 1793443128,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "Happy Whitepaper Day: Die Bitcoin-Idee wird 18 Jahre alt!",
-   "summary": "Heute vor 18 Jahren veröffentlichte Satoshi Nakamoto das Bitcoin-Whitepaper, eine Idee, mit der er die Krypto-Revolution in Gang setzte.",
-   "source": "Blocktrainer",
-   "ts": 1793435841,
-   "url": "https://www.blocktrainer.de/blog/die-bitcoin-idee-wird-18-jahre-alt",
+   "title": "Bitcoin wird volljährig: Whitepaper feiert 18. Geburtstag",
+   "summary": "Am 31. Oktober 2008 veröffentlichte Satoshi Nakamoto das Bitcoin Whitepaper. 18 Jahre später ist aus der Idee eines dezentralen Geldsystems eine weltweit bekannte Finanzinfrastruktur geworden. BTC-ECHO sagt: Happy Birthday! Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793440800,
+   "url": "https://www.btc-echo.de/news/bitcoin-whitepaper-wird-18-satoshi-nakamoto-239947/",
    "ad": false
   },
   {
@@ -73,14 +73,6 @@
    "source": "Blocktrainer",
    "ts": 1793280123,
    "url": "https://www.blocktrainer.de/blog/drei-sicherheitsluecken-in-bitcoin-core-entdeckt-updates-bereits-verfuegbar",
-   "ad": false
-  },
-  {
-   "title": "EZB bestätigt Zinspause: Das müssen Bitcoin-Anleger jetzt wissen",
-   "summary": "Die EZB hält an ihrem Leitzins fest. So reagiert Bitcoin auf die Entscheidung der Notenbank. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793279801,
-   "url": "https://www.btc-echo.de/news/ezb-bestaetigt-zinspause-das-muessen-bitcoin-anleger-jetzt-wissen-240049/",
    "ad": false
   }
  ]
