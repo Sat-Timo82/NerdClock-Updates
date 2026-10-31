@@ -1,8 +1,16 @@
 {
- "updated": 1793421920,
+ "updated": 1793425274,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin stolen from Binance tops Tesla's holdings and is over twice El Salvador's reserve",
+   "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX's disclosed holdings. Blockchain investigators link the attack to North Korea.",
+   "source": "CoinDesk",
+   "ts": 1793422892,
+   "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+   "ad": false
+  },
   {
    "title": "Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run",
    "summary": "Bitcoin Magazine Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk. This post Mike Flaum: MSTR Performance \"Massively\" to the Upside During…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366803,
    "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
-   "ad": false
-  },
-  {
-   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
-   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793366541,
-   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
    "ad": false
   }
  ]
