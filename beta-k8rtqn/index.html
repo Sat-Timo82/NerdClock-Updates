@@ -252,6 +252,19 @@ footer b{color:var(--red);}
           Danach kommen Updates für das Modul über die NerdClock.
         </div>
 
+      <div class="flash-zone" id="bitforge">
+        <div class="flash-zone-title">BitForge Nano 2,8"-Display</div>
+        <div class="flash-zone-sub">ESP32-2432S028R · zeigt Hashrate, Chance, Bitcoin-Preis und Blockinfo deines BitForge Nano (Leistungsstufen Öko · Normal · Power)</div>
+        <esp-web-install-button manifest="manifest-bitforge.json">
+          <button slot="activate">BitForge Nano Display installieren</button>
+          <span slot="unsupported">Dein Browser unterstützt das nicht – bitte <b>Chrome</b> oder <b>Edge</b> am Computer verwenden.</span>
+          <span slot="not-allowed">Bitte die Seite über https öffnen.</span>
+        </esp-web-install-button>
+        <div class="flash-note">
+          Display per USB anschließen, bei „Gerät löschen?“ <strong>Ja</strong> wählen. Danach öffnet das Display das WLAN „BitForge-Display“ zur Einrichtung.
+        </div>
+      </div>
+
       <div class="flash-zone" id="heizung">
         <div class="flash-zone-title">Heizminer 2,8"-Display (NerdHeizung)</div>
         <div class="flash-zone-sub">ESP32-2432S028R · steuert einen Braiins-OS-Miner als Bitcoin-Heizung (Heizstufen, Pool) · findet den Miner auch hinter einem Repeater</div>

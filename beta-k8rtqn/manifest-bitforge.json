@@ -1,0 +1,28 @@
+{
+  "name": "BitForge Nano 2,8\"-Display (Nerdminer.de)",
+  "version": "1.0 Beta",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "bitforge/bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "bitforge/partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "bitforge/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "bitforge/firmware.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}
