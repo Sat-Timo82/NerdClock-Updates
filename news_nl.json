@@ -1,8 +1,16 @@
 {
- "updated": 1793484805,
+ "updated": 1793488096,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Binance Hack Jolts Bitcoin Treasury Firm Into Weighing BTC Sales",
+   "summary": "Next Technology Holding, the 18th-largest publicly traded corporate bitcoin holder at press time, has authorized the sale or pledging of its approximately 5,833 BTC following Binance's major security incident. The company's decision reflects mounting concerns about exchange vulnerabilities, international cyberattacks, and…",
+   "source": "Bitcoin.com News",
+   "ts": 1793485230,
+   "url": "https://news.bitcoin.com/crypto-news/binance-hack-jolts-bitcoin-treasury-firm-into-weighing-btc-sales/",
+   "ad": false
+  },
   {
    "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
    "summary": "TLDR; Bitcoin's 18th anniversary has renewed debate over the financial system Satoshi Nakamoto sought to challenge, with small businesses continuing to face the consequences of inflation, rising costs, and repeated financial bailouts. The Bitcoin white paper turns 18 on October 31, marking another milestone for the…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793408524,
    "url": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
-   "ad": false
-  },
-  {
-   "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-   "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
-   "source": "Decrypt",
-   "ts": 1793390763,
-   "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
    "ad": false
   }
  ]
