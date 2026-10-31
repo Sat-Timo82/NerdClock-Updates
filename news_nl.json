@@ -1,8 +1,24 @@
 {
- "updated": 1793454391,
+ "updated": 1793457509,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin turns 18: Has the original rebel grown up?",
+   "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
+   "source": "Cointelegraph",
+   "ts": 1793456872,
+   "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
+  {
+   "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+   "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
+   "source": "CoinDesk",
+   "ts": 1793455200,
+   "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+   "ad": false
+  },
   {
    "title": "18 years in, what has Bitcoin truly done?",
    "summary": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
@@ -65,22 +81,6 @@
    "source": "The Block",
    "ts": 1793370649,
    "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
-   "ad": false
-  },
-  {
-   "title": "Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\"",
-   "summary": "Bitcoin Magazine Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly Negative\" to \"Strong Accumulation\" Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027. This post Tyler Evans: Bitcoin ETF Flows Flipped From \"Highly…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793367075,
-   "url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
-   "ad": false
-  },
-  {
-   "title": "Will gold's 'infinite mint bug' make Bitcoin more valuable?",
-   "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin's claim to be a better form of digital gold?",
-   "source": "Cointelegraph",
-   "ts": 1793367000,
-   "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign",
    "ad": false
   }
  ]
