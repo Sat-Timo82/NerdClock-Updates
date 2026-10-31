@@ -1,8 +1,16 @@
 {
- "updated": 1793479306,
+ "updated": 1793482645,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
+   "summary": "TLDR Bitcoin ETF outflows reached $643.2 million on October 30, erasing four days of inflows and pushing October into negative territory. BlackRock's IBIT led Friday's withdrawals but still finished the month with $932.1 million in net inflows. Ether funds also faced selling, with combined Bitcoin and Ether ETF withdrawals…",
+   "source": "Bitcoinist",
+   "ts": 1793482439,
+   "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
+   "ad": false
+  },
   {
    "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
    "summary": "TLDR; Bitcoin's 18th anniversary has renewed debate over the financial system Satoshi Nakamoto sought to challenge, with small businesses continuing to face the consequences of inflation, rising costs, and repeated financial bailouts. The Bitcoin white paper turns 18 on October 31, marking another milestone for the…",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1793390763,
    "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
-   "ad": false
-  },
-  {
-   "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-   "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
-   "source": "CoinDesk",
-   "ts": 1793377877,
-   "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
    "ad": false
   }
  ]
