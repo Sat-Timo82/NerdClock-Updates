@@ -1,5 +1,5 @@
 {
- "updated": 1793450915,
+ "updated": 1793454391,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -57,14 +57,6 @@
    "source": "BTC-ECHO",
    "ts": 1793336400,
    "url": "https://www.btc-echo.de/news/bitcoin-auf-37-millionen-bitwise-noch-bullisher-240031/",
-   "ad": false
-  },
-  {
-   "title": "Drei Sicherheitslücken in Bitcoin Core entdeckt – Updates bereits verfügbar",
-   "summary": "Sicherheitsalarm bei Bitcoin Core: Drei Schwachstellen wurden offengelegt. Betreiber von Bitcoin-Core-Nodes sollten ihre Software aktualisieren.",
-   "source": "Blocktrainer",
-   "ts": 1793280123,
-   "url": "https://www.blocktrainer.de/blog/drei-sicherheitsluecken-in-bitcoin-core-entdeckt-updates-bereits-verfuegbar",
    "ad": false
   }
  ]
