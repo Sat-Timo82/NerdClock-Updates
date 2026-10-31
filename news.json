@@ -1,8 +1,16 @@
 {
- "updated": 1793429530,
+ "updated": 1793433228,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Nach Binance-Hack: Bitcoin fällt Richtung 76.000 US-Dollar",
+   "summary": "Bitcoin gibt nach dem Binance-Hack weiter nach. Der Kurs nähert sich dabei einer Marke, die für viele der jüngsten Käufer entscheidend werden könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793432666,
+   "url": "https://www.btc-echo.de/news/nach-binance-hack-bitcoin-faellt-richtung-76-000-us-dollar-240185/",
+   "ad": false
+  },
   {
    "title": "\"Nie wieder ein Allzeithoch\": Kann der McRib Bitcoin noch retten?",
    "summary": "Auf Bitcoin könnten schwere Monate zukommen. Warum der Kurs seine besten Tage hinter sich haben soll – und manche ihre Hoffnungen nun auf den McRib setzen. Source: BTC-ECHO BTC-ECHO",
@@ -25,14 +33,6 @@
    "source": "BTC-ECHO",
    "ts": 1793354400,
    "url": "https://www.btc-echo.de/news/bitcoin-sparplan-weltspartag-2026-239977/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Crash nach Binance-Hack: Die Spur führt nach Nordkorea!",
-   "summary": "Nach dem mutmaßlich größten Hackerangriff der Krypto-Geschichte gibt es neue Erkenntnisse. Die Kryptobörse Binance beziffert die Auswirkungen des Vorfalls inzwischen selbst auf rund 6,3 Milliarden US-Dollar und hat erste Hinweise darauf veröffentlicht, wie sich die Angreifer Zugriff auf die Systeme verschaffen konnten.",
-   "source": "Blocktrainer",
-   "ts": 1793349836,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-crash-nach-binance-hack-spur-fuehrt-nach-nordkorea",
    "ad": false
   },
   {
@@ -73,14 +73,6 @@
    "source": "BTC-ECHO",
    "ts": 1793279801,
    "url": "https://www.btc-echo.de/news/ezb-bestaetigt-zinspause-das-muessen-bitcoin-anleger-jetzt-wissen-240049/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin kaufen und verkaufen: Diese Strategie nutzt ein Trading-Profi",
-   "summary": "Wann lohnt sich der Einstieg bei Bitcoin und wann sollten Anleger Gewinne mitnehmen? Trading-Experte Florian Sondershausen erklärt, welche Regeln für ihn entscheidend sind und wie er beim Vermögensaufbau vorgeht. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793268000,
-   "url": "https://www.btc-echo.de/news/bitcoin-kaufen-verkaufen-trading-strategie-239985/",
    "ad": false
   }
  ]
