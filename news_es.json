@@ -1,5 +1,5 @@
 {
- "updated": 1793414913,
+ "updated": 1793418329,
  "mode": "stichworte",
  "lang": "es",
  "items": [
@@ -44,14 +44,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin ETFs Add $441M in 4 Days as Zcash Streak Hits Day 8",
-   "summary": "Bitcoin ETFs stayed positive for a fourth straight session Thursday, adding $17.07 million and lifting week-to-date inflows above $440 million. Ether and solana funds suffered a fresh wave of redemptions, while zcash extended its winning streak and XRP demand strengthened. Bitcoin ETFs Add $17M to Extend Winning Streak…",
-   "source": "Bitcoin.com News",
-   "ts": 1793376335,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-add-441m-4-days-zcash-streak-hits-day-8/",
-   "ad": false
-  },
-  {
    "title": "Strategy's preferred-stock fix sets up renewed bitcoin buying, analysts say",
    "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
    "source": "The Block",
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793366803,
    "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
+   "ad": false
+  },
+  {
+   "title": "Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In",
+   "summary": "Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says Bitcoin's Bottom is In first appeared on Bitcoin Magazine and…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793366541,
+   "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
    "ad": false
   }
  ]
