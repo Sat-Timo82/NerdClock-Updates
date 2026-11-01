@@ -1,8 +1,16 @@
 {
- "updated": 1793556423,
+ "updated": 1793558904,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "North Korea's $1.4B Bitcoin Haul From Binance Hack Remains Untouched",
+   "summary": "On Oct. 29, during the Binance hack, approximately 18,270.2 BTC worth $1.4 billion was stolen, with the Federal Bureau of Investigation (FBI) subsequently identifying the Democratic People's Republic of Korea (North Korea) as the principal perpetrator. The stolen bitcoin remains untouched, dispersed across 19 separate wallets…",
+   "source": "Bitcoin.com News",
+   "ts": 1793557235,
+   "url": "https://news.bitcoin.com/featured/north-koreas-1-4b-bitcoin-haul-from-binance-hack-remains-untouched/",
+   "ad": false
+  },
   {
    "title": "Bitcoin's 'Uptober' Goes Bust With Worst October Finish Since 2014",
    "summary": "Bitcoin's celebrated \"Uptober\" tradition suffered another setback in 2026, with the leading crypto asset closing October down 7.32% against the greenback, its weakest performance for the month since 2014. Over the past seven days, BTC traded between $76,337 and $81,840 as the major $6.3 billion Binance hack rattled markets…",
@@ -41,14 +49,6 @@
    "source": "CoinDesk",
    "ts": 1793529342,
    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's Volatility Calendar: What Dates Matter, and What Are Myths",
-   "summary": "As bitcoin traders brace for one scheduled event after another, the data suggests there is less to worry about unless you trade one-minute BTC charts. Volatility spikes right after an announcement, lasts about an hour in most cases, and then subsides, with the price usually hovering near where it started. Bitcoin.com News…",
-   "source": "Bitcoin.com News",
-   "ts": 1793518218,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoins-volatility-calendar-what-dates-matter-and-what-are-myths/",
    "ad": false
   },
   {
