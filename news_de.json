@@ -1,8 +1,16 @@
 {
- "updated": 1793524858,
+ "updated": 1793528184,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Erst Alphabet, dann der Krypto-Hack: Bitcoin rutscht auf Sechswochentief",
+   "summary": "Zwei Fed-Mitglieder wollten am Mittwoch die Zinsen erhöhen, die Mehrheit wartete ab. Den Bitcoin-Kurs bewegten am Ende andere Akteure. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793527200,
+   "url": "https://www.btc-echo.de/news/erst-alphabet-dann-der-krypto-hack-bitcoin-rutscht-auf-sechswochentief-240103/",
+   "ad": false
+  },
   {
    "title": "Krypto-Markt in Angst: Droht Bitcoin der nächste Rückschlag?",
    "summary": "Bitcoin startet mit Kursgewinnen in den Sonntag. Doch die Folgen der turbulenten Woche sind nicht ausgestanden: Die Stimmung bleibt angespannt, aus den ETFs fließt weiter Kapital. Source: BTC-ECHO BTC-ECHO",
@@ -49,14 +57,6 @@
    "source": "BTC-ECHO",
    "ts": 1793376000,
    "url": "https://www.btc-echo.de/news/bitcoin-kurs-darum-muss-der-kurs-jetzt-staerke-zeigen-240101/",
-   "ad": false
-  },
-  {
-   "title": "Weltspartag 2026: Bitcoin-Sparplan statt Sparbuch – lohnt sich das?",
-   "summary": "Die Deutschen sparen weiterhin überdurchschnittlich viel. Zugleich setzen immer mehr Krypto-Anleger auf regelmäßige Bitcoin-Käufe. Doch wie rentabel ist ein Sparplan tatsächlich? Ein Blick auf historische Renditen, die DCA-Strategie und aktuelle Zahlen zum Weltspartag. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793354400,
-   "url": "https://www.btc-echo.de/news/bitcoin-sparplan-weltspartag-2026-239977/",
    "ad": false
   }
  ]
