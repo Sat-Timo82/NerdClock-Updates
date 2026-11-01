@@ -1,8 +1,16 @@
 {
- "updated": 1793545927,
+ "updated": 1793549481,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Miner im KI-Boom: Wer verdient hier wirklich?",
+   "summary": "Tech-Konzerne suchen händeringend nach Strom für ihre KI-Rechenzentren suchen, aber viele Bitcoin-Miner sitzen längst an der Quelle. Das eröffnet ihnen völlig neue Verdienstmöglichkeiten. Wie groß das Potenzial wirklich ist. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793548800,
+   "url": "https://www.btc-echo.de/news/bitcoin-miner-im-ki-boom-wer-verdient-hier-wirklich-240012/",
+   "ad": false
+  },
   {
    "title": "Binance nimmt Auszahlungen wieder auf – Bitcoin macht den Anfang",
    "summary": "Drei Tage nach dem milliardenschweren Hack schaltet Binance schrittweise Auszahlungen frei. Bis alle Kryptowährungen wieder verfügbar sind, müssen sich Kunden aber noch gedulden. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1793415600,
    "url": "https://www.btc-echo.de/news/nie-wieder-ein-allzeithoch-kann-der-mcrib-bitcoin-noch-retten-240022/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs: Darum muss der Kurs jetzt Stärke zeigen",
-   "summary": "Bitcoin (BTC) folgt der Schwäche am US-Aktienmarkt. Der Binance-Hack hat die schwierige charttechnische Lage nochmals verstärkt. Darauf müssen Anleger mit Blick auf die Kursentwicklung nun achten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793376000,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-darum-muss-der-kurs-jetzt-staerke-zeigen-240101/",
    "ad": false
   }
  ]

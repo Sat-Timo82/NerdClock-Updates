@@ -1,8 +1,24 @@
 {
- "updated": 1793545927,
+ "updated": 1793549481,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin's 'Uptober' Goes Bust With Worst October Finish Since 2014",
+   "summary": "Bitcoin's celebrated \"Uptober\" tradition suffered another setback in 2026, with the leading crypto asset closing October down 7.32% against the greenback, its weakest performance for the month since 2014. Over the past seven days, BTC traded between $76,337 and $81,840 as the major $6.3 billion Binance hack rattled markets…",
+   "source": "Bitcoin.com News",
+   "ts": 1793549158,
+   "url": "https://news.bitcoin.com/market-updates/bitcoins-uptober-goes-bust-with-worst-october-finish-since-2014/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+   "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
+   "source": "Decrypt",
+   "ts": 1793548862,
+   "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+   "ad": false
+  },
   {
    "title": "Even More Orange: Saylor Sees Bitcoin Bull Run, Hints at More Buying",
    "summary": "Michael Saylor hinted at another Strategy bitcoin purchase after declaring that a new bitcoin bull market was beginning. His latest orange-themed chart showed 848,517 BTC valued at approximately $66 billion, following a week without acquisitions. Saylor Shares Another Orange-Themed Bitcoin Signal Strategy Inc. (Nasdaq: MSTR)…",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793455200,
    "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
-   "ad": false
-  },
-  {
-   "title": "18 years in, what has Bitcoin truly done?",
-   "summary": "The Bitcoin white paper achieved a lot of what Satoshi Nakamoto set out to accomplish, but the cultural impact it had may outweigh Bitcoin itself, writes CoinDesk's Nikhilesh De.",
-   "source": "CoinDesk",
-   "ts": 1793451600,
-   "url": "https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
-   "ad": false
-  },
-  {
-   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
-   "summary": "Next Technology Holding cited exchange security and quantum computing risks in authorizing sales or loans against its 5,833 BTC. It says none of the coins are held at Binance.",
-   "source": "CoinDesk",
-   "ts": 1793450987,
-   "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
    "ad": false
   }
  ]
