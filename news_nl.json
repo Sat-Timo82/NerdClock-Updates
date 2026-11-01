@@ -1,8 +1,16 @@
 {
- "updated": 1793569128,
+ "updated": 1793572711,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Mining Revenue Hits 11-Month High Despite Brutal Hashprice Decline",
+   "summary": "While bitcoin prices have tumbled in the aftermath of the massive $6.3 billion Binance hack, miners closed October with their highest monthly revenue since November 2025. However, the leading crypto asset's recent price deterioration has taken a considerable toll on mining profitability, with current hashprice figures sitting…",
+   "source": "Bitcoin.com News",
+   "ts": 1793572250,
+   "url": "https://news.bitcoin.com/mining/bitcoin-mining-revenue-hits-11-month-high-despite-brutal-hashprice-decline/",
+   "ad": false
+  },
   {
    "title": "North Korea's $1.4B Bitcoin Haul From Binance Hack Remains Untouched",
    "summary": "On Oct. 29, during the Binance hack, approximately 18,270.2 BTC worth $1.4 billion was stolen, with the Federal Bureau of Investigation (FBI) subsequently identifying the Democratic People's Republic of Korea (North Korea) as the principal perpetrator. The stolen bitcoin remains untouched, dispersed across 19 separate wallets…",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793468039,
    "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
-   "ad": false
-  },
-  {
-   "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-   "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
-   "source": "CoinDesk",
-   "ts": 1793455200,
-   "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
    "ad": false
   }
  ]
