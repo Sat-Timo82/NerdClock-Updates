@@ -1,8 +1,16 @@
 {
- "updated": 1793488096,
+ "updated": 1793491575,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "The Largest Crypto Hacks in History Ranked by Dollar Value and Bitcoin Stolen",
+   "summary": "The reported $6.3 billion Binance breach may have rewritten cryptocurrency's record books in dollar terms, but measuring digital heists in bitcoin paints a strikingly different picture. From Mt Gox's hundreds of thousands of vanished BTC to Bybit's $1.5 billion debacle, history's largest cryptocurrency thefts demonstrate how…",
+   "source": "Bitcoin.com News",
+   "ts": 1793489427,
+   "url": "https://news.bitcoin.com/featured/the-largest-crypto-hacks-in-history-ranked-by-dollar-value-and-bitcoin-stolen/",
+   "ad": false
+  },
   {
    "title": "Binance Hack Jolts Bitcoin Treasury Firm Into Weighing BTC Sales",
    "summary": "Next Technology Holding, the 18th-largest publicly traded corporate bitcoin holder at press time, has authorized the sale or pledging of its approximately 5,833 BTC following Binance's major security incident. The company's decision reflects mounting concerns about exchange vulnerabilities, international cyberattacks, and…",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793422892,
    "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
-   "ad": false
-  },
-  {
-   "title": "Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run",
-   "summary": "Bitcoin Magazine Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk. This post Mike Flaum: MSTR Performance \"Massively\" to the Upside During…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793408524,
-   "url": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
    "ad": false
   }
  ]
