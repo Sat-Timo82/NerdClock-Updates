@@ -1,5 +1,5 @@
 {
- "updated": 1793534932,
+ "updated": 1793539625,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
@@ -17,14 +17,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793518218,
    "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoins-volatility-calendar-what-dates-matter-and-what-are-myths/",
-   "ad": false
-  },
-  {
-   "title": "The Largest Crypto Hacks in History Ranked by Dollar Value and Bitcoin Stolen",
-   "summary": "The reported $6.3 billion Binance breach may have rewritten cryptocurrency's record books in dollar terms, but measuring digital heists in bitcoin paints a strikingly different picture. From Mt Gox's hundreds of thousands of vanished BTC to Bybit's $1.5 billion debacle, history's largest cryptocurrency thefts demonstrate how…",
-   "source": "Bitcoin.com News",
-   "ts": 1793489427,
-   "url": "https://news.bitcoin.com/featured/the-largest-crypto-hacks-in-history-ranked-by-dollar-value-and-bitcoin-stolen/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "CoinDesk",
    "ts": 1793422892,
    "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+   "ad": false
+  },
+  {
+   "title": "Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run",
+   "summary": "Bitcoin Magazine Mike Flaum: MSTR Performance \"Massively\" to the Upside During Next BTC Bull Run Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk. This post Mike Flaum: MSTR Performance \"Massively\" to the Upside During…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793408524,
+   "url": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
    "ad": false
   }
  ]
