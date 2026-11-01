@@ -1,5 +1,5 @@
 {
- "updated": 1793518612,
+ "updated": 1793521564,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -49,14 +49,6 @@
    "source": "BTC-ECHO",
    "ts": 1793354400,
    "url": "https://www.btc-echo.de/news/bitcoin-sparplan-weltspartag-2026-239977/",
-   "ad": false
-  },
-  {
-   "title": "Strategy macht 19,5 Milliarden US-Dollar Gewinn",
-   "summary": "Strategy meldet für das dritte Quartal einen Milliardengewinn. Michael Saylor sieht bis zu 30 Milliarden US-Dollar Spielraum für weitere Bitcoin-Käufe. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793348345,
-   "url": "https://www.btc-echo.de/news/strategy-macht-195-milliarden-us-dollar-gewinn-240095/",
    "ad": false
   }
  ]
