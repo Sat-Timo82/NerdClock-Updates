@@ -1,5 +1,5 @@
 {
- "updated": 1793503399,
+ "updated": 1793507270,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -57,14 +57,6 @@
    "source": "BTC-ECHO",
    "ts": 1793348345,
    "url": "https://www.btc-echo.de/news/strategy-macht-195-milliarden-us-dollar-gewinn-240095/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs auf 3,7 Millionen Dollar bis 2036? Bitwise wird noch bullisher",
-   "summary": "Bitwise erwartet im Bull Case eine mehr als 4.000-prozentige Bitcoin-Rendite binnen zehn Jahren. Warum der Vermögensverwalter seine BTC-Prognose nach oben korrigiert. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793336400,
-   "url": "https://www.btc-echo.de/news/bitcoin-auf-37-millionen-bitwise-noch-bullisher-240031/",
    "ad": false
   }
  ]
