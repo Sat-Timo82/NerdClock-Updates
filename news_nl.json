@@ -1,8 +1,16 @@
 {
- "updated": 1793513944,
+ "updated": 1793518612,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin's Volatility Calendar: What Dates Matter, and What Are Myths",
+   "summary": "As bitcoin traders brace for one scheduled event after another, the data suggests there is less to worry about unless you trade one-minute BTC charts. Volatility spikes right after an announcement, lasts about an hour in most cases, and then subsides, with the price usually hovering near where it started. Bitcoin.com News…",
+   "source": "Bitcoin.com News",
+   "ts": 1793518218,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoins-volatility-calendar-what-dates-matter-and-what-are-myths/",
+   "ad": false
+  },
   {
    "title": "Michael Saylor Sees Stronger Crypto Security After Binance's $6.3 Billion Hack",
    "summary": "Michael Saylor expects the crypto industry to strengthen security after Binance's $6.3 billion hack. The Strategy executive chairman also backed the exchange's commitment to use its own balance sheet to make customers whole. Saylor Sees Lessons From Binance Security Failures Strategy Inc. (Nasdaq: MSTR) Executive Chairman…",
@@ -28,14 +36,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
-   "summary": "TLDR; Bitcoin's 18th anniversary has renewed debate over the financial system Satoshi Nakamoto sought to challenge, with small businesses continuing to face the consequences of inflation, rising costs, and repeated financial bailouts. The Bitcoin white paper turns 18 on October 31, marking another milestone for the…",
-   "source": "Bitcoinist",
-   "ts": 1793477469,
-   "url": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin ETFs Lose $643M After Binance Hack Ends 4-Day Inflow Run",
    "summary": "Bitcoin ETFs suffered $643.33 million in net outflows Friday, wiping out four consecutive days of inflows and pushing the week into negative territory. Ether and solana also faced heavy redemptions as the Binance hack triggered a fresh bout of risk aversion across crypto markets. Blackrock, Fidelity Lead $643M Bitcoin ETF…",
    "source": "Bitcoin.com News",
@@ -49,14 +49,6 @@
    "source": "CoinDesk",
    "ts": 1793469600,
    "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
-   "summary": "TLDR Bitcoin ETF outflows reached $643.2 million on October 30, erasing four days of inflows and pushing October into negative territory. BlackRock's IBIT led Friday's withdrawals but still finished the month with $932.1 million in net inflows. Ether funds also faced selling, with combined Bitcoin and Ether ETF withdrawals…",
-   "source": "Bitcoinist",
-   "ts": 1793468039,
-   "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "CoinDesk",
    "ts": 1793450987,
    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin stolen from Binance tops Tesla's holdings and is over twice El Salvador's reserve",
+   "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX's disclosed holdings. Blockchain investigators link the attack to North Korea.",
+   "source": "CoinDesk",
+   "ts": 1793422892,
+   "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
    "ad": false
   }
  ]
