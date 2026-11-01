@@ -1,5 +1,5 @@
 {
- "updated": 1793531513,
+ "updated": 1793534932,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -25,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793489427,
    "url": "https://news.bitcoin.com/featured/the-largest-crypto-hacks-in-history-ranked-by-dollar-value-and-bitcoin-stolen/",
-   "ad": false
-  },
-  {
-   "title": "Binance Hack Jolts Bitcoin Treasury Firm Into Weighing BTC Sales",
-   "summary": "Next Technology Holding, the 18th-largest publicly traded corporate bitcoin holder at press time, has authorized the sale or pledging of its approximately 5,833 BTC following Binance's major security incident. The company's decision reflects mounting concerns about exchange vulnerabilities, international cyberattacks, and…",
-   "source": "Bitcoin.com News",
-   "ts": 1793485230,
-   "url": "https://news.bitcoin.com/crypto-news/binance-hack-jolts-bitcoin-treasury-firm-into-weighing-btc-sales/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "CoinDesk",
    "ts": 1793450987,
    "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin stolen from Binance tops Tesla's holdings and is over twice El Salvador's reserve",
+   "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX's disclosed holdings. Blockchain investigators link the attack to North Korea.",
+   "source": "CoinDesk",
+   "ts": 1793422892,
+   "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
    "ad": false
   }
  ]
