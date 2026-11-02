@@ -1,8 +1,16 @@
 {
- "updated": 1793599367,
+ "updated": 1793604353,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+   "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25.",
+   "source": "CoinDesk",
+   "ts": 1793602001,
+   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+   "ad": false
+  },
   {
    "title": "Strangers are begging the Binance hacker for bitcoin, one 'help me bro' at a time",
    "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793477469,
    "url": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it…",
-   "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
-   "source": "CoinDesk",
-   "ts": 1793469600,
-   "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
    "ad": false
   }
  ]
