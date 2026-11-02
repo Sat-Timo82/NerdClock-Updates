@@ -1,8 +1,24 @@
 {
- "updated": 1793587983,
+ "updated": 1793591812,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Reserve vor dem Aus: Dieses Nasdaq-Unternehmen plant den Verkauf",
+   "summary": "Der Binance-Hack zieht weitere Kreise. Ein Nasdaq-Unternehmen erwägt nun den Verkauf seiner Bitcoin-Reserve im Wert von rund 450 Millionen US-Dollar. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793590200,
+   "url": "https://www.btc-echo.de/news/bitcoin-reserve-vor-dem-aus-dieses-nasdaq-unternehmen-erwaegt-den-verkauf-240227/",
+   "ad": false
+  },
+  {
+   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
+   "summary": "Verschiedene Daten vom US-Arbeitsmarkt sowie Quartalszahlen von Apple und weiteren Tech-Unternehmen könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793588400,
+   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-67-240099/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Miner im KI-Boom: Wer verdient hier wirklich?",
    "summary": "Tech-Konzerne suchen händeringend nach Strom für ihre KI-Rechenzentren suchen, aber viele Bitcoin-Miner sitzen längst an der Quelle. Das eröffnet ihnen völlig neue Verdienstmöglichkeiten. Wie groß das Potenzial wirklich ist. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +73,6 @@
    "source": "BTC-ECHO",
    "ts": 1793432666,
    "url": "https://www.btc-echo.de/news/nach-binance-hack-bitcoin-faellt-richtung-76-000-us-dollar-240185/",
-   "ad": false
-  },
-  {
-   "title": "\"Nie wieder ein Allzeithoch\": Kann der McRib Bitcoin noch retten?",
-   "summary": "Auf Bitcoin könnten schwere Monate zukommen. Warum der Kurs seine besten Tage hinter sich haben soll – und manche ihre Hoffnungen nun auf den McRib setzen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793415600,
-   "url": "https://www.btc-echo.de/news/nie-wieder-ein-allzeithoch-kann-der-mcrib-bitcoin-noch-retten-240022/",
    "ad": false
   }
  ]

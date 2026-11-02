@@ -1,8 +1,16 @@
 {
- "updated": 1793587983,
+ "updated": 1793591812,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Payment Processor Btcpay Hit by Hot Wallet Theft Reports",
+   "summary": "Btcpay Server issued an emergency shutdown warning Nov. 1, 2026, after reports that attackers were draining bitcoin from hot wallets connected to self-hosted payment servers. Founder Nicolas Dorier linked the reported compromises to versions predating 2.4.2, while indicating that public servers running version 2.4.7 had not…",
+   "source": "Bitcoin.com News",
+   "ts": 1793588436,
+   "url": "https://news.bitcoin.com/security/bitcoin-payment-processor-btcpay-hit-by-hot-wallet-theft-reports/",
+   "ad": false
+  },
   {
    "title": "Blackrock, JPMorgan and Visa Bolster Grayscale's Crypto Growth Case",
    "summary": "Grayscale points to tokenized funds and stablecoin payments as evidence that crypto is becoming embedded in mainstream finance. Its research chief argues that institutional adoption should help sustain the industry's progress regardless of the U.S. midterm election outcome. Blackrock and JPMorgan Expand Tokenized Fund Access…",
@@ -17,14 +25,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793572250,
    "url": "https://news.bitcoin.com/mining/bitcoin-mining-revenue-hits-11-month-high-despite-brutal-hashprice-decline/",
-   "ad": false
-  },
-  {
-   "title": "North Korea's $1.4B Bitcoin Haul From Binance Hack Remains Untouched",
-   "summary": "On Oct. 29, during the Binance hack, approximately 18,270.2 BTC worth $1.4 billion was stolen, with the Federal Bureau of Investigation (FBI) subsequently identifying the Democratic People's Republic of Korea (North Korea) as the principal perpetrator. The stolen bitcoin remains untouched, dispersed across 19 separate wallets…",
-   "source": "Bitcoin.com News",
-   "ts": 1793557235,
-   "url": "https://news.bitcoin.com/featured/north-koreas-1-4b-bitcoin-haul-from-binance-hack-remains-untouched/",
    "ad": false
   },
   {
