@@ -1,8 +1,16 @@
 {
- "updated": 1793654525,
+ "updated": 1793658010,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+   "summary": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
+   "source": "Decrypt",
+   "ts": 1793657762,
+   "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+   "ad": false
+  },
   {
    "title": "Metaplanet Buys Back 96.4M Shares to Boost Bitcoin Per Share",
    "summary": "Metaplanet repurchased 96.4 million shares in just over two weeks, deploying about $160 million as the bitcoin treasury company shifts capital toward reducing its share count. The Tokyo-listed firm has already completed nearly half of its authorized buyback of shares while simultaneously freeing more capital for future bitcoin…",
@@ -73,14 +81,6 @@
    "source": "The Block",
    "ts": 1793631696,
    "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
-   "ad": false
-  },
-  {
-   "title": "Bitwise's Andre Dragosch: Bitcoin's \"Fair Value\" of $197,000",
-   "summary": "Bitcoin Magazine Bitwise's Andre Dragosch: Bitcoin's \"Fair Value\" of $197,000 Andre Dragosch details Bitcoin as a liquidity canary, its $197K model fair value, Fed policy shifts, recession risks, and capital rotation from precious metals. This post Bitwise's Andre Dragosch: Bitcoin's \"Fair Value\" of $197,000 first appeared on…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793630175,
-   "url": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
    "ad": false
   }
  ]
