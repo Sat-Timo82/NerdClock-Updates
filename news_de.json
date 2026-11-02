@@ -1,8 +1,16 @@
 {
- "updated": 1793637421,
+ "updated": 1793640798,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Mercado Bitcoin bestätigt Cyberangriff und stoppt alle Auszahlungen",
+   "summary": "Brasiliens größte Krypto-Börse spricht von einem schnell eingedämmten Vorfall ohne Schaden für Kunden. Blockchain-Analysten zählen derweil Abflüsse über zehn Netzwerke hinweg. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793637840,
+   "url": "https://www.btc-echo.de/news/mercado-bitcoin-bestaetigt-cyberangriff-und-stoppt-alle-auszahlungen-240259/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kurs als Gewinner? Das bedeutet eine Fusion von Tesla und SpaceX",
    "summary": "Elon Musks Zukunftspläne verschlingen Milliarden. Dabei könnte der Umgang mit den Bitcoin-Reserven noch für Überraschungen sorgen. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793527200,
    "url": "https://www.btc-echo.de/news/erst-alphabet-dann-der-krypto-hack-bitcoin-rutscht-auf-sechswochentief-240103/",
-   "ad": false
-  },
-  {
-   "title": "Kein neues Bitcoin-Tief im Oktober – Verlängert sich der Zyklus?",
-   "summary": "Trotz Kursverlust blieb das von vielen erwartete neue Bitcoin-Tief im Oktober aus. Verlängert sich der 4-Jahres-Zyklus oder war der Boden bereits im Juli erreicht?",
-   "source": "Blocktrainer",
-   "ts": 1793487600,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-kein-tief-im-oktober",
    "ad": false
   }
  ]
