@@ -1,8 +1,24 @@
 {
- "updated": 1793613974,
+ "updated": 1793617438,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Fell After 3 Straight Midterms, and Tuesday Could Make It 4",
+   "summary": "In each of the last three cycles, bitcoin bottomed 13 to 71 days after a U.S. midterm election. Americans vote again on Tuesday, and Polymarket gives a Democratic sweep 72% odds. The Midterm Pattern Crypto researchers have bitcoin's last three cycle bottoms came soon after the U.S. midterms: In 2014, the low arrived 71 days […]",
+   "source": "Bitcoin.com News",
+   "ts": 1793615433,
+   "url": "https://news.bitcoin.com/price-predictions/bitcoin-bottom-after-midterm-elections/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin US Elections: Jobs Data Could Shake BTC",
+   "summary": "Bitcoin US elections are drawing investor attention this week as the cryptocurrency market prepares for major political developments and important employment figures. The November 3 midterm elections and November 6 employment report could influence financial markets, while additional economic releases and Federal Reserve…",
+   "source": "Bitcoinist",
+   "ts": 1793614112,
+   "url": "https://bitcoinist.com/bitcoin-us-elections-jobs-data-could-shake-btc/",
+   "ad": false
+  },
   {
    "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
    "summary": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.",
@@ -65,22 +81,6 @@
    "source": "The Block",
    "ts": 1793592665,
    "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-   "ad": false
-  },
-  {
-   "title": "Blackrock, JPMorgan and Visa Bolster Grayscale's Crypto Growth Case",
-   "summary": "Grayscale points to tokenized funds and stablecoin payments as evidence that crypto is becoming embedded in mainstream finance. Its research chief argues that institutional adoption should help sustain the industry's progress regardless of the U.S. midterm election outcome. Blackrock and JPMorgan Expand Tokenized Fund Access…",
-   "source": "Bitcoin.com News",
-   "ts": 1793583026,
-   "url": "https://news.bitcoin.com/featured/blackrock-jpmorgan-and-visa-bolster-grayscales-crypto-growth-case/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Recovery: $78K in Sight as LIT Surges 18%",
-   "summary": "TLDR Bitcoin price recovery put $78,000 back in focus on November 1 as the market steadied after last week's sell-off. Lighter's LIT token jumped roughly 18%, while modest moves in major cryptocurrencies contrasted with sharp gains and losses among smaller assets. Bitcoin moved closer to $78,000 on Sunday, offering some relief…",
-   "source": "Bitcoinist",
-   "ts": 1793543735,
-   "url": "https://bitcoinist.com/bitcoin-price-recovery-78k-in-sight-as-lit-surges-18/",
    "ad": false
   }
  ]
