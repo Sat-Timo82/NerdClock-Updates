@@ -1,14 +1,30 @@
 {
- "updated": 1793591812,
+ "updated": 1793595649,
  "mode": "stichworte",
  "lang": "es",
  "items": [
   {
-   "title": "Bitcoin Payment Processor Btcpay Hit by Hot Wallet Theft Reports",
-   "summary": "Btcpay Server issued an emergency shutdown warning Nov. 1, 2026, after reports that attackers were draining bitcoin from hot wallets connected to self-hosted payment servers. Founder Nicolas Dorier linked the reported compromises to versions predating 2.4.2, while indicating that public servers running version 2.4.7 had not…",
-   "source": "Bitcoin.com News",
-   "ts": 1793588436,
-   "url": "https://news.bitcoin.com/security/bitcoin-payment-processor-btcpay-hit-by-hot-wallet-theft-reports/",
+   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+   "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+   "source": "CoinDesk",
+   "ts": 1793594542,
+   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+   "ad": false
+  },
+  {
+   "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of…",
+   "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+   "source": "CoinDesk",
+   "ts": 1793594476,
+   "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+   "ad": false
+  },
+  {
+   "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+   "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
+   "source": "The Block",
+   "ts": 1793592665,
+   "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
    "ad": false
   },
   {
@@ -25,14 +41,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793572250,
    "url": "https://news.bitcoin.com/mining/bitcoin-mining-revenue-hits-11-month-high-despite-brutal-hashprice-decline/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-   "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
-   "source": "Decrypt",
-   "ts": 1793548862,
-   "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793468039,
    "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
-   "ad": false
-  },
-  {
-   "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
-   "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
-   "source": "CoinDesk",
-   "ts": 1793455200,
-   "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
    "ad": false
   }
  ]
