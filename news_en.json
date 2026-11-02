@@ -1,8 +1,24 @@
 {
- "updated": 1793604353,
+ "updated": 1793608972,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "BTCPay Server Hack Raises Alarm Over Bitcoin Wallet Security",
+   "summary": "A BTCPay Server hack has raised fresh security concerns after the Bitcoin payment platform received reports of attackers withdrawing funds from merchants' hot wallets. On November 1, the open-source project issued an emergency warning, asking operators to temporarily shut down their payment servers while its team investigated…",
+   "source": "Bitcoinist",
+   "ts": 1793607988,
+   "url": "https://bitcoinist.com/btcpay-server-hack-raises-alarm-over-bitcoin-wallet-security/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+   "summary": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
+   "source": "Cointelegraph",
+   "ts": 1793605836,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partn",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
    "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25.",
@@ -52,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Mining Revenue Hits 11-Month High Despite Brutal Hashprice Decline",
-   "summary": "While bitcoin prices have tumbled in the aftermath of the massive $6.3 billion Binance hack, miners closed October with their highest monthly revenue since November 2025. However, the leading crypto asset's recent price deterioration has taken a considerable toll on mining profitability, with current hashprice figures sitting…",
-   "source": "Bitcoin.com News",
-   "ts": 1793572250,
-   "url": "https://news.bitcoin.com/mining/bitcoin-mining-revenue-hits-11-month-high-despite-brutal-hashprice-decline/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Price Recovery: $78K in Sight as LIT Surges 18%",
    "summary": "TLDR Bitcoin price recovery put $78,000 back in focus on November 1 as the market steadied after last week's sell-off. Lighter's LIT token jumped roughly 18%, while modest moves in major cryptocurrencies contrasted with sharp gains and losses among smaller assets. Bitcoin moved closer to $78,000 on Sunday, offering some relief…",
    "source": "Bitcoinist",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793529342,
    "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin White Paper 18th Anniversary Highlights Concerns Over Fiat Money",
-   "summary": "TLDR; Bitcoin's 18th anniversary has renewed debate over the financial system Satoshi Nakamoto sought to challenge, with small businesses continuing to face the consequences of inflation, rising costs, and repeated financial bailouts. The Bitcoin white paper turns 18 on October 31, marking another milestone for the…",
-   "source": "Bitcoinist",
-   "ts": 1793477469,
-   "url": "https://bitcoinist.com/bitcoin-white-paper-18th-anniversary-highlights-concerns-over-fiat-money/",
    "ad": false
   }
  ]
