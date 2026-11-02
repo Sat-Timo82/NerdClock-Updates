@@ -1,8 +1,16 @@
 {
- "updated": 1793608972,
+ "updated": 1793613974,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+   "summary": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.",
+   "source": "Cointelegraph",
+   "ts": 1793612496,
+   "url": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
+   "ad": false
+  },
   {
    "title": "BTCPay Server Hack Raises Alarm Over Bitcoin Wallet Security",
    "summary": "A BTCPay Server hack has raised fresh security concerns after the Bitcoin payment platform received reports of attackers withdrawing funds from merchants' hot wallets. On November 1, the open-source project issued an emergency warning, asking operators to temporarily shut down their payment servers while its team investigated…",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793543735,
    "url": "https://bitcoinist.com/bitcoin-price-recovery-78k-in-sight-as-lit-surges-18/",
-   "ad": false
-  },
-  {
-   "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-   "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
-   "source": "CoinDesk",
-   "ts": 1793529342,
-   "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
    "ad": false
   }
  ]

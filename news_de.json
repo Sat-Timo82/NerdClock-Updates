@@ -1,5 +1,5 @@
 {
- "updated": 1793608972,
+ "updated": 1793613974,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -65,14 +65,6 @@
    "source": "Blocktrainer",
    "ts": 1793487600,
    "url": "https://www.blocktrainer.de/blog/bitcoin-kein-tief-im-oktober",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin wird volljährig: Whitepaper feiert 18. Geburtstag",
-   "summary": "Am 31. Oktober 2008 veröffentlichte Satoshi Nakamoto das Bitcoin Whitepaper. 18 Jahre später ist aus der Idee eines dezentralen Geldsystems eine weltweit bekannte Finanzinfrastruktur geworden. BTC-ECHO sagt: Happy Birthday! Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793440800,
-   "url": "https://www.btc-echo.de/news/bitcoin-whitepaper-wird-18-satoshi-nakamoto-239947/",
    "ad": false
   }
  ]
