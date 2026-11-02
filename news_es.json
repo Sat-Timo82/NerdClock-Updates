@@ -1,8 +1,16 @@
 {
- "updated": 1793644093,
+ "updated": 1793647814,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Strive Adds $10M in Bitcoin Following Massive $511M Buying Spree",
+   "summary": "Strive said it bought $10 million in bitcoin last week, increasing its holdings to 43,124 BTC as its investment chief stressed restraint. The purchase marked the first use of its SATS preferred stock sales program, while existing cash supplied most funding. Bitcoin Holdings Reach 43,124 BTC After Smaller Purchase Strive Inc…",
+   "source": "Bitcoin.com News",
+   "ts": 1793645142,
+   "url": "https://news.bitcoin.com/featured/strive-adds-10m-bitcoin-following-massive-511m-buying-spree/",
+   "ad": false
+  },
   {
    "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
    "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793628656,
    "url": "https://news.bitcoin.com/crypto-news/strategy-buys-811-bitcoin-for-65-5m-as-reserve-reaches-4-9b/",
-   "ad": false
-  },
-  {
-   "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
-   "summary": "Strategy bought 811 bitcoin for $65.5 million and Strive added 124 BTC last week, with the two firms together adding 935 coins and Strategy now holding 849,327 BTC. This post Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793627453,
-   "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
    "ad": false
   }
  ]
