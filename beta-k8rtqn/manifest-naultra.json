@@ -1,0 +1,16 @@
+{
+  "name": "NerdAxe Ultra (Nerdminer.de)",
+  "version": "1.1.1 Nerdminer.de",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "nerdaxe-ultra.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
