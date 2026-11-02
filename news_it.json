@@ -1,10 +1,34 @@
 {
- "updated": 1793629349,
+ "updated": 1793633401,
  "mode": "stichworte",
  "lang": "it",
  "items": [
   {
-   "title": "Strategy Buys 811 Bitcoin for $65.5M as Reserve Reaches $4.9B",
+   "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10…",
+   "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
+   "source": "The Block",
+   "ts": 1793631696,
+   "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+   "ad": false
+  },
+  {
+   "title": "Bitwise's Andre Dragosch: Bitcoin's \"Fair Value\" of $197,000",
+   "summary": "Bitcoin Magazine Bitwise's Andre Dragosch: Bitcoin's \"Fair Value\" of $197,000 Andre Dragosch details Bitcoin as a liquidity canary, its $197K model fair value, Fed policy shifts, recession risks, and capital rotation from precious metals. This post Bitwise's Andre Dragosch: Bitcoin's \"Fair Value\" of $197,000 first appeared on…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793630175,
+   "url": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
+   "ad": false
+  },
+  {
+   "title": "Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption",
+   "summary": "Bitcoin Magazine Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption Adam Back explains why Bitcoin's third wave–pensions, managed funds, and model portfolios–is still to come, and how Swiss banks are already preparing. This post Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption first appeared on…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793629788,
+   "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
+   "ad": false
+  },
+  {
+   "title": "Strategy Buys 811 Bitcoin for $65.5M as Cash Reserve Reaches $4.9B",
    "summary": "Strategy acquired 811 bitcoins for approximately $65.5 million, bringing its total holdings to 849,327 BTC and U.S. dollar assets to $4.9 billion. Record Earnings and Financial Growth Bitcoin treasury giant Strategy has acquired 811 bitcoins for approximately $65.5 million alongside a repurchase of $208.2 million in STRC…",
    "source": "Bitcoin.com News",
    "ts": 1793628656,
@@ -57,30 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793622617,
    "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs Lose $203M as Friday Rout Wipes out Weekly Gains",
-   "summary": "Bitcoin ETFs lost $202.59 million in the week through Oct. 30 after a violent Friday reversal erased four days of inflows. Ether suffered an even steeper $431.53 million withdrawal, while solana posted its largest weekly outflow on record. Bitcoin's Friday Reversal Erases 4 Days of ETF Buying For most of the week, bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1793619026,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-203m-as-friday-rout-wipes-out-weekly-gains/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
-   "summary": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
-   "source": "CoinDesk",
-   "ts": 1793619000,
-   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
-   "ad": false
-  },
-  {
-   "title": "From Uptober to Hacktober: Are Bitcoin's seasonal patterns becoming obsolete?",
-   "summary": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month's historically strong returns, as analysts reassess seasonal signals.",
-   "source": "Cointelegraph",
-   "ts": 1793618358,
-   "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_i",
    "ad": false
   }
  ]
