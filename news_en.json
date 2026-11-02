@@ -1,8 +1,16 @@
 {
- "updated": 1793595649,
+ "updated": 1793599367,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Strangers are begging the Binance hacker for bitcoin, one 'help me bro' at a time",
+   "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
+   "source": "CoinDesk",
+   "ts": 1793596692,
+   "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+   "ad": false
+  },
   {
    "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
    "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793469600,
    "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETF Outflows Hit $643M, but BlackRock Bucks Trend",
-   "summary": "TLDR Bitcoin ETF outflows reached $643.2 million on October 30, erasing four days of inflows and pushing October into negative territory. BlackRock's IBIT led Friday's withdrawals but still finished the month with $932.1 million in net inflows. Ether funds also faced selling, with combined Bitcoin and Ether ETF withdrawals…",
-   "source": "Bitcoinist",
-   "ts": 1793468039,
-   "url": "https://bitcoinist.com/bitcoin-etf-outflows-hit-643m-but-blackrock-bucks-trend/",
    "ad": false
   }
  ]
