@@ -1,8 +1,24 @@
 {
- "updated": 1793647814,
+ "updated": 1793650856,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Mercado Bitcoin, Brazil's largest crypto exchange, hit by $46 million security breach",
+   "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
+   "source": "The Block",
+   "ts": 1793650789,
+   "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+   "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+   "source": "Cointelegraph",
+   "ts": 1793647678,
+   "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss_tag_bi",
+   "ad": false
+  },
   {
    "title": "Strive Adds $10M in Bitcoin Following Massive $511M Buying Spree",
    "summary": "Strive said it bought $10 million in bitcoin last week, increasing its holdings to 43,124 BTC as its investment chief stressed restraint. The purchase marked the first use of its SATS preferred stock sales program, while existing cash supplied most funding. Bitcoin Holdings Reach 43,124 BTC After Smaller Purchase Strive Inc…",
@@ -36,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident…",
-   "summary": "Brazil's largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen. This post Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793635745,
-   "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
-   "ad": false
-  },
-  {
    "title": "Binance Outflows and ETF Selling Weigh In On BTC",
    "summary": "TL;DR Bitcoin slipped 0.4% to around $77,900 as investors assessed the fallout from Binance's $6.3 billion hack as binance outflows pressure BTC's price. Binance reported $3.64 billion in net outflows during the first nine and a half hours after withdrawals resumed. U.S. spot Bitcoin ETFs recorded $643 million in outflows on…",
    "source": "Bitcoinist",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793629788,
    "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
-   "ad": false
-  },
-  {
-   "title": "Strategy Buys 811 Bitcoin for $65.5M as Cash Reserve Reaches $4.9B",
-   "summary": "Strategy acquired 811 bitcoins for approximately $65.5 million, bringing its total holdings to 849,327 BTC and U.S. dollar assets to $4.9 billion. Record Earnings and Financial Growth Bitcoin treasury giant Strategy has acquired 811 bitcoins for approximately $65.5 million alongside a repurchase of $208.2 million in STRC…",
-   "source": "Bitcoin.com News",
-   "ts": 1793628656,
-   "url": "https://news.bitcoin.com/crypto-news/strategy-buys-811-bitcoin-for-65-5m-as-reserve-reaches-4-9b/",
    "ad": false
   }
  ]
