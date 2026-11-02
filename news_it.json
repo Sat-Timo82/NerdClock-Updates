@@ -1,8 +1,32 @@
 {
- "updated": 1793617438,
+ "updated": 1793620656,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin ETFs Lose $203M as Friday Rout Wipes out Weekly Gains",
+   "summary": "Bitcoin ETFs lost $202.59 million in the week through Oct. 30 after a violent Friday reversal erased four days of inflows. Ether suffered an even steeper $431.53 million withdrawal, while solana posted its largest weekly outflow on record. Bitcoin's Friday Reversal Erases 4 Days of ETF Buying For most of the week, bitcoin…",
+   "source": "Bitcoin.com News",
+   "ts": 1793619026,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-203m-as-friday-rout-wipes-out-weekly-gains/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+   "summary": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
+   "source": "CoinDesk",
+   "ts": 1793619000,
+   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+   "ad": false
+  },
+  {
+   "title": "From Uptober to Hacktober: Are Bitcoin's seasonal patterns becoming obsolete?",
+   "summary": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month's historically strong returns, as analysts reassess seasonal signals.",
+   "source": "Cointelegraph",
+   "ts": 1793618358,
+   "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_i",
+   "ad": false
+  },
   {
    "title": "Bitcoin Fell After 3 Straight Midterms, and Tuesday Could Make It 4",
    "summary": "In each of the last three cycles, bitcoin bottomed 13 to 71 days after a U.S. midterm election. Americans vote again on Tuesday, and Polymarket gives a Democratic sweep 72% odds. The Midterm Pattern Crypto researchers have bitcoin's last three cycle bottoms came soon after the U.S. midterms: In 2014, the low arrived 71 days […]",
@@ -57,30 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793596692,
    "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-   "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
-   "source": "CoinDesk",
-   "ts": 1793594542,
-   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-   "ad": false
-  },
-  {
-   "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of…",
-   "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
-   "source": "CoinDesk",
-   "ts": 1793594476,
-   "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
-   "ad": false
-  },
-  {
-   "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-   "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
-   "source": "The Block",
-   "ts": 1793592665,
-   "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
    "ad": false
   }
  ]
