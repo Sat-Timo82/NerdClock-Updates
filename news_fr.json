@@ -1,8 +1,24 @@
 {
- "updated": 1793633401,
+ "updated": 1793637421,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident…",
+   "summary": "Brazil's largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen. This post Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793635745,
+   "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+   "ad": false
+  },
+  {
+   "title": "Binance Outflows and ETF Selling Weigh In On BTC",
+   "summary": "TL;DR Bitcoin slipped 0.4% to around $77,900 as investors assessed the fallout from Binance's $6.3 billion hack as binance outflows pressure BTC's price. Binance reported $3.64 billion in net outflows during the first nine and a half hours after withdrawals resumed. U.S. spot Bitcoin ETFs recorded $643 million in outflows on…",
+   "source": "Bitcoinist",
+   "ts": 1793633802,
+   "url": "https://bitcoinist.com/binance-outflows-and-etf-selling-weigh-in-on-btc/",
+   "ad": false
+  },
   {
    "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10…",
    "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793625707,
    "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partne",
-   "ad": false
-  },
-  {
-   "title": "'We found room for even more orange': Michael Saylor's Strategy scoops up another 811 bitcoin…",
-   "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
-   "source": "The Block",
-   "ts": 1793624983,
-   "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's 'volatility curve' has a midterm bump",
-   "summary": "Your day-ahead look for Nov. 2, 2026",
-   "source": "CoinDesk",
-   "ts": 1793622617,
-   "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
    "ad": false
   }
  ]
