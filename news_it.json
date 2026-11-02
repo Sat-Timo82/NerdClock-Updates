@@ -1,14 +1,38 @@
 {
- "updated": 1793640798,
+ "updated": 1793644093,
  "mode": "stichworte",
  "lang": "it",
  "items": [
   {
-   "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-   "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-   "source": "Decrypt",
-   "ts": 1793637963,
-   "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+   "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
+   "source": "CoinDesk",
+   "ts": 1793643237,
+   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+   "ad": false
+  },
+  {
+   "title": "Mercado Bitcoin Suspends Withdrawals After $40M in Suspcious Transfers",
+   "summary": "TL;DR Brazil-based Mercado Bitcoin suspended deposits and withdrawals after suspicious transfers affected wallets across at least 10 blockchain networks. Security researchers estimate that more than $40 million in crypto assets moved to new addresses. The exchange says it contained the incident, with no customer harm or data…",
+   "source": "Bitcoinist",
+   "ts": 1793642810,
+   "url": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
+   "ad": false
+  },
+  {
+   "title": "Binance Hack Fallout Keeps Bitcoin Price Under Pressure Below $77K",
+   "summary": "Bitcoin slipped below $77,000 on Monday, despite Binance's announcement that it had fully replenished assets lost in the recent hack using its own funds. Another, albeit much smaller crypto exchange hack also popped up on Monday. Bitcoin Drops Below $77K Bitcoin slipped below $77,000 on Monday as the cryptocurrency continued…",
+   "source": "Bitcoin.com News",
+   "ts": 1793641775,
+   "url": "https://news.bitcoin.com/market-updates/binance-hack-fallout-keeps-bitcoin-price-under-pressure-77k/",
+   "ad": false
+  },
+  {
+   "title": "Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident…",
+   "summary": "Brazil's largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen. This post Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793635745,
+   "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
    "ad": false
   },
   {
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793627453,
    "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
-   "ad": false
-  },
-  {
-   "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-   "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
-   "source": "Cointelegraph",
-   "ts": 1793627308,
-   "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbo",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Holds 50-Week Trend Despite $6.3B Binance Hack",
-   "summary": "Bitcoin has closed above its 50-week moving average for a seventh consecutive week despite the $6.3 billion Binance hack and renewed crypto-market volatility. Glassnode says even a pullback toward $75,800 could leave the broader technical setup intact. Bitcoin Closes Above 50-Week Average for 7th Straight Week Bitcoin just…",
-   "source": "Bitcoin.com News",
-   "ts": 1793626220,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-holds-50-week-trend-despite-6-3b-binance-hack/",
-   "ad": false
-  },
-  {
-   "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
-   "summary": "Binance's SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
-   "source": "Cointelegraph",
-   "ts": 1793625707,
-   "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partne",
    "ad": false
   }
  ]
