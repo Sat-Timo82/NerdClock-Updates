@@ -1,8 +1,16 @@
 {
- "updated": 1793624790,
+ "updated": 1793629349,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Michael Saylor trotzt der Krypto-Angst: Strategy kauft Bitcoin nach",
+   "summary": "Michael Saylor nutzt Warren Buffetts Strategie: Sei gierig, wenn andere ängstlich sind. Mit Strategy kaufte der Bitcoin-Maximalist auch letzte Woche wie gewohnt ein. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793626625,
+   "url": "https://www.btc-echo.de/news/michael-saylor-trotzt-der-krypto-angst-strategy-kauft-bitcoin-nach-240252/",
+   "ad": false
+  },
   {
    "title": "BTCPay Server gehackt: Angreifer räumen Bitcoin-Wallets leer",
    "summary": "Der zahlungsdienst BTCPay Server warnt vor Angriffen auf Bitcoin Wallets, ältere Softwareversionen sind offenbar betroffen. Das ist bisher bekannt. Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1793527200,
    "url": "https://www.btc-echo.de/news/erst-alphabet-dann-der-krypto-hack-bitcoin-rutscht-auf-sechswochentief-240103/",
-   "ad": false
-  },
-  {
-   "title": "Krypto-Markt in Angst: Droht Bitcoin der nächste Rückschlag?",
-   "summary": "Bitcoin startet mit Kursgewinnen in den Sonntag. Doch die Folgen der turbulenten Woche sind nicht ausgestanden: Die Stimmung bleibt angespannt, aus den ETFs fließt weiter Kapital. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793521742,
-   "url": "https://www.btc-echo.de/news/krypto-markt-in-angst-droht-bitcoin-der-naechste-rueckschlag-240214/",
    "ad": false
   },
   {
