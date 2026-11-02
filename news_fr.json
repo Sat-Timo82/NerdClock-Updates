@@ -1,8 +1,16 @@
 {
- "updated": 1793650856,
+ "updated": 1793654525,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Metaplanet Buys Back 96.4M Shares to Boost Bitcoin Per Share",
+   "summary": "Metaplanet repurchased 96.4 million shares in just over two weeks, deploying about $160 million as the bitcoin treasury company shifts capital toward reducing its share count. The Tokyo-listed firm has already completed nearly half of its authorized buyback of shares while simultaneously freeing more capital for future bitcoin…",
+   "source": "Bitcoin.com News",
+   "ts": 1793652611,
+   "url": "https://news.bitcoin.com/finance/metaplanet-buys-back-96-4m-shares-boost-bitcoin-per-share/",
+   "ad": false
+  },
   {
    "title": "Mercado Bitcoin, Brazil's largest crypto exchange, hit by $46 million security breach",
    "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793630175,
    "url": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
-   "ad": false
-  },
-  {
-   "title": "Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption",
-   "summary": "Bitcoin Magazine Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption Adam Back explains why Bitcoin's third wave–pensions, managed funds, and model portfolios–is still to come, and how Swiss banks are already preparing. This post Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption first appeared on…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793629788,
-   "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
    "ad": false
   }
  ]
