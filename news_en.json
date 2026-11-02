@@ -1,8 +1,24 @@
 {
- "updated": 1793620656,
+ "updated": 1793624790,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Binance Hack: $6.3 Billion Theft Raises Bitcoin Fears",
+   "summary": "The Binance hack has renewed concerns about cryptocurrency security after attackers stole approximately $6.3 billion in digital assets from the world's largest crypto exchange. The October 29 breach is believed to be the biggest cryptocurrency theft ever recorded, surpassing the $1.46 billion Bybit attack in February 2025…",
+   "source": "Bitcoinist",
+   "ts": 1793624652,
+   "url": "https://bitcoinist.com/binance-hack-6-3-billion-theft-raises-bitcoin-fears/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's 'volatility curve' has a midterm bump",
+   "summary": "Your day-ahead look for Nov. 2, 2026",
+   "source": "CoinDesk",
+   "ts": 1793622617,
+   "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Lose $203M as Friday Rout Wipes out Weekly Gains",
    "summary": "Bitcoin ETFs lost $202.59 million in the week through Oct. 30 after a violent Friday reversal erased four days of inflows. Ether suffered an even steeper $431.53 million withdrawal, while solana posted its largest weekly outflow on record. Bitcoin's Friday Reversal Erases 4 Days of ETF Buying For most of the week, bitcoin…",
@@ -28,7 +44,7 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Fell After 3 Straight Midterms, and Tuesday Could Make It 4",
+   "title": "Bitcoin Price Fell After 3 Straight Midterms, and Tuesday Could Make It 4",
    "summary": "In each of the last three cycles, bitcoin bottomed 13 to 71 days after a U.S. midterm election. Americans vote again on Tuesday, and Polymarket gives a Democratic sweep 72% odds. The Midterm Pattern Crypto researchers have bitcoin's last three cycle bottoms came soon after the U.S. midterms: In 2014, the low arrived 71 days […]",
    "source": "Bitcoin.com News",
    "ts": 1793615433,
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793605836,
    "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partn",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-   "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25.",
-   "source": "CoinDesk",
-   "ts": 1793602001,
-   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
-   "ad": false
-  },
-  {
-   "title": "Strangers are begging the Binance hacker for bitcoin, one 'help me bro' at a time",
-   "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
-   "source": "CoinDesk",
-   "ts": 1793596692,
-   "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
    "ad": false
   }
  ]
