@@ -1,8 +1,16 @@
 {
- "updated": 1793739401,
+ "updated": 1793742875,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "October's Dormant Bitcoin Awakenings Cool as Transfers Plunge 81% From August",
+   "summary": "Dormant bitcoin wallets dating back to 2012 moved 2,159.15 BTC valued at $167.56 million last month, marking a second consecutive monthly slowdown. Despite the declining activity, wallets originating in 2013 dominated the month, while addresses from Bitcoin's earliest years remained conspicuously absent. Dormant Bitcoin…",
+   "source": "Bitcoin.com News",
+   "ts": 1793739938,
+   "url": "https://news.bitcoin.com/featured/octobers-dormant-bitcoin-awakenings-cool-transfers-plunge-august/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Flips a 12-Year Midterm Pattern. Can It Hold Through Friday?",
    "summary": "Bitcoin crossed its most telling election-day threshold before a single vote was counted. On the morning of November 3, BTC traded near $76,990, roughly $3,821 above its 200-day moving average. On each of the previous three U.S. midterm election days, Bitcoin was still trading below that line. That gives investors a more…",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793715158,
    "url": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
-   "summary": ", pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793713599,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
    "ad": false
   }
  ]

@@ -1,8 +1,16 @@
 {
- "updated": 1793739401,
+ "updated": 1793742875,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Zum Ausbau der strategischen Bitcoin-Reserve? Nordkorea streitet Binance-Hack ab und stellt…",
+   "summary": "Nach dem Milliarden-Hack veröffentlicht Binance neue Details und das FBI macht Nordkorea verantwortlich. Doch Pjöngjang widerspricht und verdächtigt sogar die USA.",
+   "source": "Blocktrainer",
+   "ts": 1793740500,
+   "url": "https://www.blocktrainer.de/blog/nordkorea-streitet-binance-hack-ab",
+   "ad": false
+  },
   {
    "title": "Binance-Notfallreserve halbiert: Nur noch 7.500 Bitcoin übrig",
    "summary": "Für zehn Coins können Kunden ihre Guthaben jetzt selbst kryptografisch überprüfen. Bei weniger liquiden Token dauert der Ausgleich noch an. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793626625,
    "url": "https://www.btc-echo.de/news/michael-saylor-trotzt-der-krypto-angst-strategy-kauft-bitcoin-nach-240252/",
-   "ad": false
-  },
-  {
-   "title": "BTCPay Server gehackt: Angreifer räumen Bitcoin-Wallets leer",
-   "summary": "Der zahlungsdienst BTCPay Server warnt vor Angriffen auf Bitcoin Wallets, ältere Softwareversionen sind offenbar betroffen. Das ist bisher bekannt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793615507,
-   "url": "https://www.btc-echo.de/news/btcpay-server-gehackt-angreifer-raeumen-bitcoin-wallets-leer-240242/",
    "ad": false
   }
  ]
