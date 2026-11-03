@@ -1,8 +1,32 @@
 {
- "updated": 1793698095,
+ "updated": 1793701817,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+   "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
+   "source": "Cointelegraph",
+   "ts": 1793700245,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
+   "ad": false
+  },
+  {
+   "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+   "summary": "A fifth straight weekly decline would mark bitcoin's joint third-longest losing streak, as oil rebounds and Apple's margin warning adds to investor caution ahead of the U.S. midterms.",
+   "source": "CoinDesk",
+   "ts": 1793699416,
+   "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+   "ad": false
+  },
+  {
+   "title": "Good News, Finally: Liquid Network Restores Its Bitcoin Reserves",
+   "summary": "As crypto asset market participants and users jump from one hack story to another, the Liquid Network, a Bitcoin sidechain that suffered a hack in September, has finally restored its bitcoin (BTC) reserves. Its LBTC token is now fully backed by bitcoin again. \"250 BTC added, closing out the remaining shortfall,\" Samson Mow…",
+   "source": "Bitcoin.com News",
+   "ts": 1793698212,
+   "url": "https://news.bitcoin.com/blockchain/good-news-finally-liquid-network-restores-its-bitcoin-reserves/",
+   "ad": false
+  },
   {
    "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
    "summary": "Strive has expanded its Bitcoin treasury once again, purchasing another 124 BTC for approximately $10 million as the company continues building one of the largest corporate cryptocurrency portfolios. The latest acquisition brings Strive's total holdings to 43,124 BTC, placing the company within reach of several major publicly…",
@@ -57,30 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793684216,
    "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
-   "summary": "The company's revenue dropped 63% in the third quarter, while a $127 million accounting gain helped turn an operating loss into a reported profit.",
-   "source": "CoinDesk",
-   "ts": 1793683788,
-   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
-   "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
-   "source": "CoinDesk",
-   "ts": 1793681297,
-   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-   "summary": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
-   "source": "Decrypt",
-   "ts": 1793657762,
-   "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
    "ad": false
   }
  ]

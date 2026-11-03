@@ -1,8 +1,16 @@
 {
- "updated": 1793698095,
+ "updated": 1793701817,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Gerald Hörhan verrät, wie er sein Vermögen aufbaut – und welche Rolle Bitcoin spielt",
+   "summary": "Immobilien bilden das Fundament seines Vermögens, Bitcoin ist für ihn eine Ergänzung. Im exklusiven BTC-ECHO Interview erklärt Investmentpunk Gerald Hörhan, worauf es beim Vermögensaufbau wirklich ankommt und welche Fehler Anleger vermeiden sollten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793700000,
+   "url": "https://www.btc-echo.de/news/gerald-hoerhan-investmentpunk-bitcoin-strategie-240293/",
+   "ad": false
+  },
   {
    "title": "US-Midterms: Fällt Bitcoin nach der Wahl auf ein neues Jahrestief?",
    "summary": "Mehr als 137 Millionen US-Dollar hat die Krypto-Branche in den US-Wahlkampf gesteckt. Doch nach den letzten Midterms brach der Bitcoin-Kurs teils um 50 Prozent ein. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793548800,
    "url": "https://www.btc-echo.de/news/bitcoin-miner-im-ki-boom-wer-verdient-hier-wirklich-240012/",
-   "ad": false
-  },
-  {
-   "title": "Binance nimmt Auszahlungen wieder auf – Bitcoin macht den Anfang",
-   "summary": "Drei Tage nach dem milliardenschweren Hack schaltet Binance schrittweise Auszahlungen frei. Bis alle Kryptowährungen wieder verfügbar sind, müssen sich Kunden aber noch gedulden. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793532600,
-   "url": "https://www.btc-echo.de/news/binance-nimmt-auszahlungen-wieder-auf-bitcoin-macht-den-anfang-240221/",
    "ad": false
   }
  ]
