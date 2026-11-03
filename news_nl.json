@@ -1,8 +1,16 @@
 {
- "updated": 1793728555,
+ "updated": 1793732144,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+   "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+   "source": "Decrypt",
+   "ts": 1793729763,
+   "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Rebounds From $76K Amid Sizable ETF Outflows, Liquidations",
    "summary": "Bitcoin experienced volatile trading Tuesday, falling to $76,268 before recovering above $77,700 as investors weighed the fallout from the Binance hack and U.S. midterm election uncertainty. Bitcoin endured a volatile trading session Tuesday as the leading cryptocurrency struggled to regain its footing days after a massive…",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793711261,
    "url": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
-   "summary": "Your day-ahead look for Nov. 3, 2026",
-   "source": "CoinDesk",
-   "ts": 1793709009,
-   "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
    "ad": false
   }
  ]
