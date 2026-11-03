@@ -1,8 +1,24 @@
 {
- "updated": 1793721216,
+ "updated": 1793725237,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Wall Street killed Bitcoin's wild rallies: 10x's Markus Thielen",
+   "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+   "source": "Cointelegraph",
+   "ts": 1793724421,
+   "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
+   "summary": "TL;DR Bitcoin price risks another drop as it fell below $77,000 on Monday despite a sharp decline in oil prices fueled by hopes of a diplomatic resolution to the US-Iran conflict. BTC failed to break above $78,500, raising concerns about another move lower. Analysts warn that Bitcoin could fall below $76,000 if bearish…",
+   "source": "Bitcoinist",
+   "ts": 1793722430,
+   "url": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
+   "ad": false
+  },
   {
    "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in 'political gridlock'",
    "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793705280,
    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-   "ad": false
-  },
-  {
-   "title": "Liquid's bitcoin IOUs are fully backed again after a $320 million exploit",
-   "summary": "A final 250 BTC transfer closed the hole left by September's bug, but the federation behind the network still hasn't said who paid to fill it.",
-   "source": "CoinDesk",
-   "ts": 1793704332,
-   "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
-   "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
-   "source": "Cointelegraph",
-   "ts": 1793700245,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
    "ad": false
   }
  ]
