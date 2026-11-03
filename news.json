@@ -1,8 +1,16 @@
 {
- "updated": 1793674377,
+ "updated": 1793678005,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "US-Midterms: Fällt Bitcoin nach der Wahl auf ein neues Jahrestief?",
+   "summary": "Mehr als 137 Millionen US-Dollar hat die Krypto-Branche in den US-Wahlkampf gesteckt. Doch nach den letzten Midterms brach der Bitcoin-Kurs teils um 50 Prozent ein. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793674800,
+   "url": "https://www.btc-echo.de/news/us-midterms-faellt-bitcoin-nach-der-wahl-auf-ein-neues-jahrestief-240266/",
+   "ad": false
+  },
   {
    "title": "Mercado Bitcoin bestätigt Cyberangriff und stoppt alle Auszahlungen",
    "summary": "Brasiliens größte Krypto-Börse spricht von einem schnell eingedämmten Vorfall ohne Schaden für Kunden. Blockchain-Analysten zählen derweil Abflüsse über zehn Netzwerke hinweg. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793532600,
    "url": "https://www.btc-echo.de/news/binance-nimmt-auszahlungen-wieder-auf-bitcoin-macht-den-anfang-240221/",
-   "ad": false
-  },
-  {
-   "title": "Erst Alphabet, dann der Krypto-Hack: Bitcoin rutscht auf Sechswochentief",
-   "summary": "Zwei Fed-Mitglieder wollten am Mittwoch die Zinsen erhöhen, die Mehrheit wartete ab. Den Bitcoin-Kurs bewegten am Ende andere Akteure. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793527200,
-   "url": "https://www.btc-echo.de/news/erst-alphabet-dann-der-krypto-hack-bitcoin-rutscht-auf-sechswochentief-240103/",
    "ad": false
   }
  ]
