@@ -1,8 +1,24 @@
 {
- "updated": 1793717862,
+ "updated": 1793721216,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Binance-Notfallreserve halbiert: Nur noch 7.500 Bitcoin übrig",
+   "summary": "Für zehn Coins können Kunden ihre Guthaben jetzt selbst kryptografisch überprüfen. Bei weniger liquiden Token dauert der Ausgleich noch an. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793720520,
+   "url": "https://www.btc-echo.de/news/binance-notfallreserve-halbiert-nur-noch-7-500-bitcoin-uebrig-240325/",
+   "ad": false
+  },
+  {
+   "title": "Polymarket sieht Demokraten bei Midterms vorne: Das sind die Folgen für Bitcoin",
+   "summary": "Polymarket sieht die Demokraten bei den Midterms vorne. Welche Folgen haben die Zwischenwahlen für Bitcoin, den Clarity Act und die Krypto-Branche? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793718178,
+   "url": "https://www.btc-echo.de/news/polymarket-sieht-demokraten-bei-midterms-vorne-das-sind-die-folgen-fuer-bitcoin-240317/",
+   "ad": false
+  },
   {
    "title": "Zcash-Kurs im freien Fall? Warum ein Wal trotzdem Millionen riskiert",
    "summary": "Zcash bricht ein – kurz vor einem wichtigen Upgrade. Doch es gibt noch Hoffnung: Was den ZEC-Kurs jetzt erwartet. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793615507,
    "url": "https://www.btc-echo.de/news/btcpay-server-gehackt-angreifer-raeumen-bitcoin-wallets-leer-240242/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin nach Binance-Hack zurück auf Erholungskurs: Doch jetzt blicken Anleger in die USA",
-   "summary": "Bitcoin erholt sich nach dem Milliarden-Hack auf Binance. Die Börse nimmt erste Auszahlungen wieder auf. Doch US-Konjunkturdaten und die Zwischenwahlen könnten neue Kursbewegungen auslösen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793601704,
-   "url": "https://www.btc-echo.de/news/bitcoin-nach-binance-hack-zurueck-auf-erholungskurs-240234/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Reserve vor dem Aus: Dieses Nasdaq-Unternehmen plant den Verkauf",
-   "summary": "Der Binance-Hack zieht weitere Kreise. Ein Nasdaq-Unternehmen erwägt nun den Verkauf seiner Bitcoin-Reserve im Wert von rund 450 Millionen US-Dollar. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793590200,
-   "url": "https://www.btc-echo.de/news/bitcoin-reserve-vor-dem-aus-dieses-nasdaq-unternehmen-erwaegt-den-verkauf-240227/",
    "ad": false
   }
  ]

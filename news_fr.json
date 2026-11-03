@@ -1,8 +1,24 @@
 {
- "updated": 1793717862,
+ "updated": 1793721216,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in 'political gridlock'",
+   "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
+   "source": "Cointelegraph",
+   "ts": 1793720682,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=",
+   "ad": false
+  },
+  {
+   "title": "Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral",
+   "summary": "Bitcoin Magazine Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral Battery Finance's Andrew Hohns explains why taxes won't fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds. This post Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral first appeared on Bitcoin Magazine and…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793719031,
+   "url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Lose $399M as 2-Day Outflows Top $1.04B",
    "summary": "U.S. bitcoin ETFs opened November with $398.62 million in net outflows, extending the heavy selling that closed October. Ether funds lost another $139.80 million, while Zcash, HYPE and XRP also started the month in negative territory. Blackrock Drives $399M Bitcoin ETF Exit November began with institutional investors still…",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793700245,
    "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
-   "ad": false
-  },
-  {
-   "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
-   "summary": "Strive has expanded its Bitcoin treasury once again, purchasing another 124 BTC for approximately $10 million as the company continues building one of the largest corporate cryptocurrency portfolios. The latest acquisition brings Strive's total holdings to 43,124 BTC, placing the company within reach of several major publicly…",
-   "source": "Bitcoinist",
-   "ts": 1793697882,
-   "url": "https://bitcoinist.com/strive-buys-more-bitcoin-as-holdings-reach-43124-btc/",
-   "ad": false
-  },
-  {
-   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-   "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
-   "source": "CoinDesk",
-   "ts": 1793696208,
-   "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
    "ad": false
   }
  ]
