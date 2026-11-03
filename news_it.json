@@ -1,8 +1,16 @@
 {
- "updated": 1793725237,
+ "updated": 1793728555,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin Price Rebounds From $76K Amid Sizable ETF Outflows, Liquidations",
+   "summary": "Bitcoin experienced volatile trading Tuesday, falling to $76,268 before recovering above $77,700 as investors weighed the fallout from the Binance hack and U.S. midterm election uncertainty. Bitcoin endured a volatile trading session Tuesday as the leading cryptocurrency struggled to regain its footing days after a massive…",
+   "source": "Bitcoin.com News",
+   "ts": 1793725487,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-76k-sizable-etf-outflows-liquidations/",
+   "ad": false
+  },
   {
    "title": "Wall Street killed Bitcoin's wild rallies: 10x's Markus Thielen",
    "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
@@ -73,14 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793709009,
    "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-   "summary": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 billion.",
-   "source": "CoinDesk",
-   "ts": 1793705280,
-   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
    "ad": false
   }
  ]
