@@ -1,8 +1,24 @@
 {
- "updated": 1793701817,
+ "updated": 1793705265,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+   "summary": "Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
+   "source": "Decrypt",
+   "ts": 1793704930,
+   "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+   "ad": false
+  },
+  {
+   "title": "Liquid's bitcoin IOUs are fully backed again after a $320 million exploit",
+   "summary": "A final 250 BTC transfer closed the hole left by September's bug, but the federation behind the network still hasn't said who paid to fill it.",
+   "source": "CoinDesk",
+   "ts": 1793704332,
+   "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+   "ad": false
+  },
   {
    "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
    "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
@@ -17,14 +33,6 @@
    "source": "CoinDesk",
    "ts": 1793699416,
    "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-   "ad": false
-  },
-  {
-   "title": "Good News, Finally: Liquid Network Restores Its Bitcoin Reserves",
-   "summary": "As crypto asset market participants and users jump from one hack story to another, the Liquid Network, a Bitcoin sidechain that suffered a hack in September, has finally restored its bitcoin (BTC) reserves. Its LBTC token is now fully backed by bitcoin again. \"250 BTC added, closing out the remaining shortfall,\" Samson Mow…",
-   "source": "Bitcoin.com News",
-   "ts": 1793698212,
-   "url": "https://news.bitcoin.com/blockchain/good-news-finally-liquid-network-restores-its-bitcoin-reserves/",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793692191,
    "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
-   "ad": false
-  },
-  {
-   "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
-   "summary": "The user protection fund now sits below the $800 million level that Binance's own rules say triggers a top-up, and the exchange hasn't said when it will refill it.",
-   "source": "CoinDesk",
-   "ts": 1793684216,
-   "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
    "ad": false
   }
  ]
