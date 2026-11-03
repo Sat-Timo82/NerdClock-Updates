@@ -1,8 +1,40 @@
 {
- "updated": 1793694729,
+ "updated": 1793698095,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
+   "summary": "Strive has expanded its Bitcoin treasury once again, purchasing another 124 BTC for approximately $10 million as the company continues building one of the largest corporate cryptocurrency portfolios. The latest acquisition brings Strive's total holdings to 43,124 BTC, placing the company within reach of several major publicly…",
+   "source": "Bitcoinist",
+   "ts": 1793697882,
+   "url": "https://bitcoinist.com/strive-buys-more-bitcoin-as-holdings-reach-43124-btc/",
+   "ad": false
+  },
+  {
+   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+   "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
+   "source": "CoinDesk",
+   "ts": 1793696208,
+   "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's latest chart signal looks a lot like the ones before its big crashes",
+   "summary": "The Guppy Multiple Moving Average bands signal a bearish momentum, even as seasonality and post-midterm history lean bullish.",
+   "source": "CoinDesk",
+   "ts": 1793695856,
+   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Falls Below $77K as Market Fears Grow",
+   "summary": "Bitcoin price dropped below $77,000 on Tuesday, November 3, as investors reacted to another wave of selling across technology stocks and growing uncertainty ahead of the US midterm elections. The world's largest cryptocurrency lost approximately 2% during Asian trading hours, reversing its brief recovery from Monday. The…",
+   "source": "Bitcoinist",
+   "ts": 1793695100,
+   "url": "https://bitcoinist.com/bitcoin-price-falls-below-77k-as-market-fears-grow/",
+   "ad": false
+  },
   {
    "title": "$1 Billion in Bitcoin Added to OKX in the Month Binance Got Hacked",
    "summary": "OKX's latest reserve report shows customer bitcoin holdings jumped 9.66% to 156,609 BTC in a month that ended with Binance losing $6.3 billion to hackers. OKX's 49th Reserve Report Lands as Binance Bleeds Crypto exchange OKX has published its 49th consecutive proof-of-reserves report, a cryptographic audit that lets users…",
@@ -49,38 +81,6 @@
    "source": "Decrypt",
    "ts": 1793657762,
    "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
-   "ad": false
-  },
-  {
-   "title": "Mercado Bitcoin, Brazil's largest crypto exchange, hit by $46 million security breach",
-   "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
-   "source": "The Block",
-   "ts": 1793650789,
-   "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-   "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
-   "source": "Cointelegraph",
-   "ts": 1793647678,
-   "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss_tag_bi",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-   "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
-   "source": "CoinDesk",
-   "ts": 1793643237,
-   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-   "ad": false
-  },
-  {
-   "title": "Mercado Bitcoin Suspends Withdrawals After $40M in Suspcious Transfers",
-   "summary": "TL;DR Brazil-based Mercado Bitcoin suspended deposits and withdrawals after suspicious transfers affected wallets across at least 10 blockchain networks. Security researchers estimate that more than $40 million in crypto assets moved to new addresses. The exchange says it contained the incident, with no customer harm or data…",
-   "source": "Bitcoinist",
-   "ts": 1793642810,
-   "url": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
    "ad": false
   }
  ]
