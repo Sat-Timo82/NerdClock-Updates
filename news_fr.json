@@ -1,14 +1,38 @@
 {
- "updated": 1793689711,
+ "updated": 1793694729,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "$1 Billion in Bitcoin Added to OKX in the Month Binance Got Hacked",
+   "summary": "OKX's latest reserve report shows customer bitcoin holdings jumped 9.66% to 156,609 BTC in a month that ended with Binance losing $6.3 billion to hackers. OKX's 49th Reserve Report Lands as Binance Bleeds Crypto exchange OKX has published its 49th consecutive proof-of-reserves report, a cryptographic audit that lets users…",
+   "source": "Bitcoin.com News",
+   "ts": 1793694626,
+   "url": "https://news.bitcoin.com/exchanges/okx-proof-of-reserves-13800-bitcoin-binance-hack/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock's IBIT sees biggest Bitcoin ETF outflows since June",
+   "summary": "BlackRock's Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.",
+   "source": "Cointelegraph",
+   "ts": 1793692191,
+   "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
+   "ad": false
+  },
   {
    "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
    "summary": "The user protection fund now sits below the $800 million level that Binance's own rules say triggers a top-up, and the exchange hasn't said when it will refill it.",
    "source": "CoinDesk",
    "ts": 1793684216,
    "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+   "summary": "The company's revenue dropped 63% in the third quarter, while a $127 million accounting gain helped turn an operating loss into a reported profit.",
+   "source": "CoinDesk",
+   "ts": 1793683788,
+   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
    "ad": false
   },
   {
@@ -25,14 +49,6 @@
    "source": "Decrypt",
    "ts": 1793657762,
    "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
-   "ad": false
-  },
-  {
-   "title": "Metaplanet Buys Back 96.4M Shares to Boost Bitcoin Per Share",
-   "summary": "Metaplanet repurchased 96.4 million shares in just over two weeks, deploying about $160 million as the bitcoin treasury company shifts capital toward reducing its share count. The Tokyo-listed firm has already completed nearly half of its authorized buyback of shares while simultaneously freeing more capital for future bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1793652611,
-   "url": "https://news.bitcoin.com/finance/metaplanet-buys-back-96-4m-shares-boost-bitcoin-per-share/",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793642810,
    "url": "https://bitcoinist.com/mercado-bitcoin-suspends-withdrawals-after-40m-in-suspcious-transfers/",
-   "ad": false
-  },
-  {
-   "title": "Binance Outflows and ETF Selling Weigh In On BTC",
-   "summary": "TL;DR Bitcoin slipped 0.4% to around $77,900 as investors assessed the fallout from Binance's $6.3 billion hack as binance outflows pressure BTC's price. Binance reported $3.64 billion in net outflows during the first nine and a half hours after withdrawals resumed. U.S. spot Bitcoin ETFs recorded $643 million in outflows on…",
-   "source": "Bitcoinist",
-   "ts": 1793633802,
-   "url": "https://bitcoinist.com/binance-outflows-and-etf-selling-weigh-in-on-btc/",
-   "ad": false
-  },
-  {
-   "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10…",
-   "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
-   "source": "The Block",
-   "ts": 1793631696,
-   "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
    "ad": false
   }
  ]
