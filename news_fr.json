@@ -1,8 +1,16 @@
 {
- "updated": 1793681764,
+ "updated": 1793685368,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+   "summary": "The user protection fund now sits below the $800 million level that Binance's own rules say triggers a top-up, and the exchange hasn't said when it will refill it.",
+   "source": "CoinDesk",
+   "ts": 1793684216,
+   "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+   "ad": false
+  },
   {
    "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
    "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
@@ -41,14 +49,6 @@
    "source": "Cointelegraph",
    "ts": 1793647678,
    "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss_tag_bi",
-   "ad": false
-  },
-  {
-   "title": "Strive Adds $10M in Bitcoin Following Massive $511M Buying Spree",
-   "summary": "Strive said it bought $10 million in bitcoin last week, increasing its holdings to 43,124 BTC as its investment chief stressed restraint. The purchase marked the first use of its SATS preferred stock sales program, while existing cash supplied most funding. Bitcoin Holdings Reach 43,124 BTC After Smaller Purchase Strive Inc…",
-   "source": "Bitcoin.com News",
-   "ts": 1793645142,
-   "url": "https://news.bitcoin.com/featured/strive-adds-10m-bitcoin-following-massive-511m-buying-spree/",
    "ad": false
   },
   {
