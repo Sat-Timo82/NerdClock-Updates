@@ -1,5 +1,5 @@
 {
- "updated": 1793745927,
+ "updated": 1793749333,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
@@ -68,19 +68,19 @@
    "ad": false
   },
   {
-   "title": "Bitcoin ETFs Lose $399M as 2-Day Outflows Top $1.04B",
-   "summary": "U.S. bitcoin ETFs opened November with $398.62 million in net outflows, extending the heavy selling that closed October. Ether funds lost another $139.80 million, while Zcash, HYPE and XRP also started the month in negative territory. Blackrock Drives $399M Bitcoin ETF Exit November began with institutional investors still…",
-   "source": "Bitcoin.com News",
-   "ts": 1793716251,
-   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-399m-as-2-day-outflows-top-1-04b/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
    "summary": "TL;DR Bitcoin faces more losses as it heads toward a potential fifth consecutive weekly decline, extending its slide from around $87,000 to near $76,500. Uncertainty surrounding the US midterm elections is keeping investors cautious about risk-sensitive assets, including cryptocurrencies. Apple's warning about rising memory…",
    "source": "Bitcoinist",
    "ts": 1793715158,
    "url": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+   "summary": ", pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793713599,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
    "ad": false
   }
  ]
