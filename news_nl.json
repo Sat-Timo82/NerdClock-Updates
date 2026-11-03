@@ -1,8 +1,32 @@
 {
- "updated": 1793713517,
+ "updated": 1793717862,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin ETFs Lose $399M as 2-Day Outflows Top $1.04B",
+   "summary": "U.S. bitcoin ETFs opened November with $398.62 million in net outflows, extending the heavy selling that closed October. Ether funds lost another $139.80 million, while Zcash, HYPE and XRP also started the month in negative territory. Blackrock Drives $399M Bitcoin ETF Exit November began with institutional investors still…",
+   "source": "Bitcoin.com News",
+   "ts": 1793716251,
+   "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-399m-as-2-day-outflows-top-1-04b/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
+   "summary": "TL;DR Bitcoin faces more losses as it heads toward a potential fifth consecutive weekly decline, extending its slide from around $87,000 to near $76,500. Uncertainty surrounding the US midterm elections is keeping investors cautious about risk-sensitive assets, including cryptocurrencies. Apple's warning about rising memory…",
+   "source": "Bitcoinist",
+   "ts": 1793715158,
+   "url": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+   "summary": ", pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793713599,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
+   "ad": false
+  },
   {
    "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
    "summary": "Liquid Network has restored full Bitcoin backing for its LBTC tokens, marking a vital recovery milestone nearly two months after a security exploit drained $320 million from the Bitcoin sidechain. The Liquid Federation confirmed on November 3 that its reserves once again match the amount of LBTC in circulation, restoring the…",
@@ -44,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
-   "summary": "A fifth straight weekly decline would mark bitcoin's joint third-longest losing streak, as oil rebounds and Apple's margin warning adds to investor caution ahead of the U.S. midterms.",
-   "source": "CoinDesk",
-   "ts": 1793699416,
-   "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-   "ad": false
-  },
-  {
    "title": "Strive Buys More Bitcoin as Holdings Reach 43,124 BTC",
    "summary": "Strive has expanded its Bitcoin treasury once again, purchasing another 124 BTC for approximately $10 million as the company continues building one of the largest corporate cryptocurrency portfolios. The latest acquisition brings Strive's total holdings to 43,124 BTC, placing the company within reach of several major publicly…",
    "source": "Bitcoinist",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793696208,
    "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's latest chart signal looks a lot like the ones before its big crashes",
-   "summary": "The Guppy Multiple Moving Average bands signal a bearish momentum, even as seasonality and post-midterm history lean bullish.",
-   "source": "CoinDesk",
-   "ts": 1793695856,
-   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Falls Below $77K as Market Fears Grow",
-   "summary": "Bitcoin price dropped below $77,000 on Tuesday, November 3, as investors reacted to another wave of selling across technology stocks and growing uncertainty ahead of the US midterm elections. The world's largest cryptocurrency lost approximately 2% during Asian trading hours, reversing its brief recovery from Monday. The…",
-   "source": "Bitcoinist",
-   "ts": 1793695100,
-   "url": "https://bitcoinist.com/bitcoin-price-falls-below-77k-as-market-fears-grow/",
    "ad": false
   }
  ]
