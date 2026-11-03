@@ -1,14 +1,22 @@
 {
- "updated": 1793708763,
+ "updated": 1793713517,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
   {
-   "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
-   "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds.",
-   "source": "The Block",
-   "ts": 1793706560,
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+   "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
+   "summary": "Liquid Network has restored full Bitcoin backing for its LBTC tokens, marking a vital recovery milestone nearly two months after a security exploit drained $320 million from the Bitcoin sidechain. The Liquid Federation confirmed on November 3 that its reserves once again match the amount of LBTC in circulation, restoring the…",
+   "source": "Bitcoinist",
+   "ts": 1793711261,
+   "url": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+   "summary": "Your day-ahead look for Nov. 3, 2026",
+   "source": "CoinDesk",
+   "ts": 1793709009,
+   "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
    "ad": false
   },
   {
@@ -17,6 +25,14 @@
    "source": "CoinDesk",
    "ts": 1793705280,
    "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+   "ad": false
+  },
+  {
+   "title": "Liquid's bitcoin IOUs are fully backed again after a $320 million exploit",
+   "summary": "A final 250 BTC transfer closed the hole left by September's bug, but the federation behind the network still hasn't said who paid to fill it.",
+   "source": "CoinDesk",
+   "ts": 1793704332,
+   "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793695100,
    "url": "https://bitcoinist.com/bitcoin-price-falls-below-77k-as-market-fears-grow/",
-   "ad": false
-  },
-  {
-   "title": "$1 Billion in Bitcoin Added to OKX in the Month Binance Got Hacked",
-   "summary": "OKX's latest reserve report shows customer bitcoin holdings jumped 9.66% to 156,609 BTC in a month that ended with Binance losing $6.3 billion to hackers. OKX's 49th Reserve Report Lands as Binance Bleeds Crypto exchange OKX has published its 49th consecutive proof-of-reserves report, a cryptographic audit that lets users…",
-   "source": "Bitcoin.com News",
-   "ts": 1793694626,
-   "url": "https://news.bitcoin.com/exchanges/okx-proof-of-reserves-13800-bitcoin-binance-hack/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock's IBIT sees biggest Bitcoin ETF outflows since June",
-   "summary": "BlackRock's Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.",
-   "source": "Cointelegraph",
-   "ts": 1793692191,
-   "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
    "ad": false
   }
  ]

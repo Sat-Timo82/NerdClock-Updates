@@ -1,8 +1,16 @@
 {
- "updated": 1793708763,
+ "updated": 1793713517,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Zcash-Kurs im freien Fall? Warum ein Wal trotzdem Millionen riskiert",
+   "summary": "Zcash bricht ein – kurz vor einem wichtigen Upgrade. Doch es gibt noch Hoffnung: Was den ZEC-Kurs jetzt erwartet. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793710800,
+   "url": "https://www.btc-echo.de/news/zcash-kurs-im-freien-fall-warum-ein-wal-trotzdem-millionen-riskiert-240300/",
+   "ad": false
+  },
   {
    "title": "Hohe Wahrscheinlichkeit für Sieg der Demokraten: Wie reagiert der Bitcoin-Kurs auf die…",
    "summary": "Die Demokraten dürften die Midterm-Wahlen gewinnen. Was würde das für den Bitcoin-Kurs, der immer erst nach den Midterms das Zyklustief erreicht hat, bedeuten?",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793590200,
    "url": "https://www.btc-echo.de/news/bitcoin-reserve-vor-dem-aus-dieses-nasdaq-unternehmen-erwaegt-den-verkauf-240227/",
-   "ad": false
-  },
-  {
-   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
-   "summary": "Verschiedene Daten vom US-Arbeitsmarkt sowie Quartalszahlen von Apple und weiteren Tech-Unternehmen könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793588400,
-   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-67-240099/",
    "ad": false
   }
  ]
