@@ -1,22 +1,22 @@
 {
- "updated": 1793705265,
+ "updated": 1793708763,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
   {
-   "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-   "summary": "Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
-   "source": "Decrypt",
-   "ts": 1793704930,
-   "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+   "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+   "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds.",
+   "source": "The Block",
+   "ts": 1793706560,
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
    "ad": false
   },
   {
-   "title": "Liquid's bitcoin IOUs are fully backed again after a $320 million exploit",
-   "summary": "A final 250 BTC transfer closed the hole left by September's bug, but the federation behind the network still hasn't said who paid to fill it.",
+   "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+   "summary": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 billion.",
    "source": "CoinDesk",
-   "ts": 1793704332,
-   "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+   "ts": 1793705280,
+   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
    "ad": false
   },
   {
