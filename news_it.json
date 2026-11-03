@@ -1,8 +1,16 @@
 {
- "updated": 1793732144,
+ "updated": 1793735644,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin Flips a 12-Year Midterm Pattern. Can It Hold Through Friday?",
+   "summary": "Bitcoin crossed its most telling election-day threshold before a single vote was counted. On the morning of November 3, BTC traded near $76,990, roughly $3,821 above its 200-day moving average. On each of the previous three U.S. midterm election days, Bitcoin was still trading below that line. That gives investors a more…",
+   "source": "Bitcoinist",
+   "ts": 1793734054,
+   "url": "https://bitcoinist.com/bitcoin-flips-a-12-year-midterm-pattern-can-it-hold-through-friday/",
+   "ad": false
+  },
   {
    "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
    "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793713599,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
-   "ad": false
-  },
-  {
-   "title": "Liquid Network Restores Bitcoin Backing After Major Hack",
-   "summary": "Liquid Network has restored full Bitcoin backing for its LBTC tokens, marking a vital recovery milestone nearly two months after a security exploit drained $320 million from the Bitcoin sidechain. The Liquid Federation confirmed on November 3 that its reserves once again match the amount of LBTC in circulation, restoring the…",
-   "source": "Bitcoinist",
-   "ts": 1793711261,
-   "url": "https://bitcoinist.com/liquid-network-restores-bitcoin-backing-after-major-hack/",
    "ad": false
   }
  ]
