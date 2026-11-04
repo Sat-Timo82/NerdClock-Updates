@@ -1,8 +1,24 @@
 {
- "updated": 1793827608,
+ "updated": 1793831093,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+   "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
+   "source": "The Block",
+   "ts": 1793829289,
+   "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
+   "ad": false
+  },
+  {
+   "title": "How Aussie Bitcoiners can avoid 2027's shock CGT hike: Part 1",
+   "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027's massive CGT hike.",
+   "source": "Cointelegraph",
+   "ts": 1793827800,
+   "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_",
+   "ad": false
+  },
   {
    "title": "Bitcoin Fork ECX Price Crashes 76% From Peak as Binance Hack Steals Spotlight",
    "summary": "The recent $6.3 billion Binance hack and subsequent cryptocurrency market downturn largely eclipsed Drivechain creator Paul Sztorc's ECX launch on Oct. 29, 2026. Since the start of the phased launch and subsequent trading, the forked digital asset climbed to an all-time high of $134.97 per coin before relinquishing 76% of its…",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793815234,
    "url": "https://bitcoinmagazine.com/news/libreria-de-satoshi-rebrands-to-ismos-launches-global-platform-to-train-one-million-bitcoin-developers",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Taps $81K After Midterms–But Analysts Warn a Trap Is Set",
-   "summary": "Bitcoin rebounded from an intraday low of $75,618 to surge past $81,000 for the first time since Oct. 29, climbing nearly 4% on the day to bring its market cap near $1.62 trillion. Volatile Surge Following Election Night Bitcoin experienced extreme volatility Wednesday, rebounding from a multi-week low to breach $81,000 for…",
-   "source": "Bitcoin.com News",
-   "ts": 1793813960,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-taps-81k-after-midterms-analysts-warn-trap-set/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-   "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto's exposure to shifting US political power.",
-   "source": "Decrypt",
-   "ts": 1793810971,
-   "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
    "ad": false
   }
  ]
