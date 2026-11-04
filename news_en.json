@@ -1,22 +1,30 @@
 {
- "updated": 1793816868,
+ "updated": 1793821006,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
+   "summary": "Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8. Anthropic's Frontier Red Team demonstrated a remote root exploit against systems with a Multipath TCP listener. This post Matt Corallo Flags Critical Linux…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793817116,
+   "url": "https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation",
+   "ad": false
+  },
+  {
+   "title": "Strategy's STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks",
+   "summary": "Strategy's STRC preferred hit $100 par on Wednesday for the first time since May, after billions in buybacks, a 12% dividend rate and a switch to daily payouts. This post Strategy's STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793816941,
+   "url": "https://bitcoinmagazine.com/news/strategys-strc-hits-100-par-may",
+   "ad": false
+  },
   {
    "title": "Jack Dorsey's Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves",
    "summary": "Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3 profit, while bitcoin gross profit fell 50% after the company cut trading fees. This post Jack Dorsey's Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin…",
    "source": "Bitcoin Magazine",
    "ts": 1793815898,
    "url": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Giant Strategy's STRC Hits $100 for First Time Since May After Daily Dividend Shift",
-   "summary": "Strategy's STRC preferred shares reached the $100 mark on Wednesday for the first time since May, marking a significant milestone for the bitcoin treasury company just days after it began paying daily dividends to shareholders. The stock touched $100 during Wednesday's trading session, according to Google Finance data…",
-   "source": "Bitcoin.com News",
-   "ts": 1793815285,
-   "url": "https://news.bitcoin.com/finance/bitcoin-giant-strategy-strc-hits-100-first-time-may-daily-dividends/",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793803071,
    "url": "https://bitcoinist.com/bitcoin-bounces-back-as-markets-digest-midterms/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
-   "summary": "Bitcoin trades near $79,000 after a dip to $75,600 as Democrats sweep both chambers of Congress. This post Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793802095,
-   "url": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
    "ad": false
   }
  ]
