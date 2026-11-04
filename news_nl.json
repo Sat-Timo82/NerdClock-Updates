@@ -1,8 +1,16 @@
 {
- "updated": 1793768304,
+ "updated": 1793771951,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Price Dips Under $76K Then Recovers as Blue Wave Hits Washington",
+   "summary": "Bitcoin slid to about $75,740 overnight before recovering to $77,000 as U.S. midterm returns showed Democrats taking the House and closing in on the Senate, dragging stock futures and crypto lower together. The Midterm Effect Bitcoin's price took a hit on election night, dipping to roughly $75,740 as the results came in. It is…",
+   "source": "Bitcoin.com News",
+   "ts": 1793771731,
+   "url": "https://news.bitcoin.com/crypto-news/bitcoin-price-dips-under-76k-democrats-midterms/",
+   "ad": false
+  },
   {
    "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
    "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793720682,
    "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=",
-   "ad": false
-  },
-  {
-   "title": "Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral",
-   "summary": "Bitcoin Magazine Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral Battery Finance's Andrew Hohns explains why taxes won't fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds. This post Andrew Hohns: Why Bitcoin Can Fix America's Debt Spiral first appeared on Bitcoin Magazine and…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793719031,
-   "url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
    "ad": false
   }
  ]
