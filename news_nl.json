@@ -1,8 +1,16 @@
 {
- "updated": 1793754054,
+ "updated": 1793757595,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Mercado Bitcoin Vows to Cover Customer Losses After Massive Hack",
+   "summary": "Brazilian cryptocurrency exchange Mercado Bitcoin disclosed a major security incident on Nov. 2, 2026, involving approximately $38 million in digital assets. The attack presents a substantial financial and operational challenge for one of Latin America's largest cryptocurrency platforms, with its response now drawing attention…",
+   "source": "Bitcoin.com News",
+   "ts": 1793755835,
+   "url": "https://news.bitcoin.com/crypto-news/mercado-bitcoin-vows-to-cover-customer-losses-after-massive-hack/",
+   "ad": false
+  },
   {
    "title": "October's Dormant Bitcoin Awakenings Cool as Transfers Plunge 81% From August",
    "summary": "Dormant bitcoin wallets dating back to 2012 moved 2,159.15 BTC valued at $167.56 million last month, marking a second consecutive monthly slowdown. Despite the declining activity, wallets originating in 2013 dominated the month, while addresses from Bitcoin's earliest years remained conspicuously absent. Dormant Bitcoin…",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793715158,
    "url": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
-   "summary": ", pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793713599,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
    "ad": false
   }
  ]
