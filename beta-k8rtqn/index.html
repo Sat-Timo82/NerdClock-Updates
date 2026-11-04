@@ -560,8 +560,8 @@ async function start(btn) {
   busy = false;
   const mode = await new Promise(res => {
     show(`<div class="dlg-dev">${name}</div><h3>Wie möchtest du installieren?</h3>
-      <button class="dlg-opt" id="d-up"><b>Update<span class="rec">Empfohlen</span></b><span>Neue Software aufspielen. WLAN, BTC-Adresse und alle Einstellungen bleiben erhalten.</span></button>
-      <button class="dlg-opt" id="d-new"><b>Neu einrichten</b><span>Alles löschen und frisch installieren. Danach WLAN und BTC-Adresse neu eintragen.</span></button>
+      <button class="dlg-opt" id="d-up"><b>Update</b><span>Nur für Geräte, die schon mit unserer Software laufen. Neue Software aufspielen, WLAN, BTC-Adresse und alle Einstellungen bleiben erhalten.</span></button>
+      <button class="dlg-opt" id="d-new"><b>Neu einrichten<span class="rec">Für neue Geräte</span></b><span>Für fabrikneue Geräte und zum Zurücksetzen. Alles löschen und frisch installieren, mit unseren Einstellungen. Danach WLAN und BTC-Adresse neu eintragen.</span></button>
       <div class="dlg-act"><button id="d-c">Abbrechen</button></div>`);
     document.getElementById("d-up").onclick = () => res("up");
     document.getElementById("d-new").onclick = () => res("new");
