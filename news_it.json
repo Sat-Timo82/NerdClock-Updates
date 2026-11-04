@@ -1,8 +1,24 @@
 {
- "updated": 1793806030,
+ "updated": 1793809745,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin Defies Selling Pressure as $75K Holds the Line",
+   "summary": "Bitcoin defies selling pressure after it recovered toward $78,000 on November 4 after briefly falling below $76,000, showing renewed buying interest as cryptocurrency markets adjusted to the outcome of the U.S. midterm elections. The rebound followed a seven-week low of $75,618, suggesting that buyers remain active around…",
+   "source": "Bitcoinist",
+   "ts": 1793808489,
+   "url": "https://bitcoinist.com/bitcoin-defies-selling-pressure-as-75k-holds-the-line/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+   "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats' midterm election gains and oil prices fell.",
+   "source": "Cointelegraph",
+   "ts": 1793806163,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
+   "ad": false
+  },
   {
    "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
    "summary": "Riot has sold 20,264 bitcoin this year to fund AI data centers, leaving it with 2,418 BTC, while Hut 8 sold 3,102 to buy back $250 million of stock. This post Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793788501,
    "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Analysis: Can BTC Reach $80K?",
-   "summary": "Bitcoin Price Analysis is back in focus after BTC staged a sharp V-shaped recovery following the US midterm elections. After briefly dropping below $76,000, Bitcoin rebounded toward $78,000, raising an important question: Can buyers overcome key resistance levels and push BTC toward $80,000? However, one important technical…",
-   "source": "Bitcoinist",
-   "ts": 1793786865,
-   "url": "https://bitcoinist.com/bitcoin-price-analysis-can-btc-reach-80k/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling 'short-term'",
-   "summary": "Bitwise's Andre Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.",
-   "source": "Cointelegraph",
-   "ts": 1793785087,
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
    "ad": false
   }
  ]

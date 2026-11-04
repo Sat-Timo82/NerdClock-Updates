@@ -1,8 +1,24 @@
 {
- "updated": 1793806030,
+ "updated": 1793809745,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin und Gold vor der Korrektur? Bloomberg-Analyst erwartet Blow-off-Top",
+   "summary": "Bloomberg-Experte Mike McGlone zeichnet für Bitcoin und Gold ein düsteres Bild. Warum er mit viel Gegenwind und wenig Eigendynamik bei beiden Assets rechnet. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793808000,
+   "url": "https://www.btc-echo.de/news/bitcoin-und-gold-korrektur-bloomberg-experte-warnt-240353/",
+   "ad": false
+  },
+  {
+   "title": "Historischer Schritt? Bhutan erlaubt neuer Zentralbank, Bitcoin als Reserve zu halten",
+   "summary": "Bhutan genehmigt eine neue Zentralbank in der Sonderverwaltungsregion Gelephu, die unter anderem auch Bitcoin als Reserve halten darf.",
+   "source": "Blocktrainer",
+   "ts": 1793806085,
+   "url": "https://www.blocktrainer.de/blog/bhutan-neue-zentralbank-in-sonderverwaltungsregion-darf-bitcoin-als-reserve-halten",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Miner Riot verkauft Tausende Coins: Steckt hinter KI das bessere Geschäft?",
    "summary": "Riot verkauft BTC und investiert massiv in KI-Rechenzentren. Hinter dem Kurswechsel steckt ein Geschäft, das immer wichtiger werden könnte. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793710800,
    "url": "https://www.btc-echo.de/news/zcash-kurs-im-freien-fall-warum-ein-wal-trotzdem-millionen-riskiert-240300/",
-   "ad": false
-  },
-  {
-   "title": "Hohe Wahrscheinlichkeit für Sieg der Demokraten: Wie reagiert der Bitcoin-Kurs auf die…",
-   "summary": "Die Demokraten dürften die Midterm-Wahlen gewinnen. Was würde das für den Bitcoin-Kurs, der immer erst nach den Midterms das Zyklustief erreicht hat, bedeuten?",
-   "source": "Blocktrainer",
-   "ts": 1793701800,
-   "url": "https://www.blocktrainer.de/blog/wie-reagiert-der-bitcoin-kurs-auf-die-midterm-wahlen",
-   "ad": false
-  },
-  {
-   "title": "Gerald Hörhan verrät, wie er sein Vermögen aufbaut – und welche Rolle Bitcoin spielt",
-   "summary": "Immobilien bilden das Fundament seines Vermögens, Bitcoin ist für ihn eine Ergänzung. Im exklusiven BTC-ECHO Interview erklärt Investmentpunk Gerald Hörhan, worauf es beim Vermögensaufbau wirklich ankommt und welche Fehler Anleger vermeiden sollten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793700000,
-   "url": "https://www.btc-echo.de/news/gerald-hoerhan-investmentpunk-bitcoin-strategie-240293/",
    "ad": false
   }
  ]
