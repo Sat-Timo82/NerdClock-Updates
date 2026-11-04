@@ -1,0 +1,16 @@
+{
+  "name": "NerdQAxe++ (Nerdminer.de)",
+  "version": "1.1.1 Nerdminer.de",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "nerdqaxe-plus.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
