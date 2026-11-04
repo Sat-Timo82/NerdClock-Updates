@@ -199,7 +199,7 @@ def select_with_claude(items):
 
 # ── Übersetzung in alle Sprachen der Uhr (Sprach-Knöpfe im News-Bericht) ──
 LANGS = ["de", "en", "fr", "es", "nl", "it"]
-TR_MODEL = os.environ.get("NEWS_TR_MODEL", "claude-sonnet-5-5")
+TR_MODEL = os.environ.get("NEWS_TR_MODEL", "claude-haiku-5-5")      # Haiku 5.5: 0,10 $ / 0,50 $ je Mio. Token – reicht für Nachrichten-Übersetzungen (Sonnet 5.5 kostet das 20-fache)
 TR_SYSTEM = """Du übersetzt Bitcoin-Nachrichten für die Anzeige "NerdClock" in die Sprachen
 de (Deutsch), en (Englisch), fr (Französisch), es (Spanisch), nl (Niederländisch), it (Italienisch).
 Sinngetreu, natürlich und sachlich; Fachbegriffe wie Bitcoin, Mining, Hashrate, ETF, Lightning, Satoshi,
@@ -226,10 +226,13 @@ def translate(news, cache):
     import anthropic
     client = anthropic.Anthropic()
     listing = json.dumps([{"id": news_id(n), "title": n["title"], "summary": n["summary"]} for n in todo], ensure_ascii=False)
+    kw = {}
+    if "haiku" in TR_MODEL: kw["thinking"] = {"type": "disabled"}              # kein Nachdenken nötig → keine zusätzlichen (bezahlten) Token
+    elif "sonnet-5-5" in TR_MODEL: kw["thinking"] = {"type": "between_tools"}   # Sonnet 5.5 verträgt "disabled" nicht
     response = client.messages.create(
         model=TR_MODEL, max_tokens=16000,
-        output_config={"format": {"type": "json_schema", "schema": TR_SCHEMA}},
-        system=TR_SYSTEM, messages=[{"role": "user", "content": listing}])
+        output_config={"effort": "low", "format": {"type": "json_schema", "schema": TR_SCHEMA}},
+        system=TR_SYSTEM, messages=[{"role": "user", "content": listing}], **kw)
     text = next(b.text for b in response.content if b.type == "text")
     for it in json.loads(text)["items"]:
         cache[it["id"]] = {l: {"title": for_display(it[l]["title"], 95), "summary": for_display(it[l]["summary"], 330)} for l in LANGS}

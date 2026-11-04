@@ -1,4 +1,18 @@
-bitforge|Bitforge Nano|9|280|280|assist
+nerdclock_premium|NerdClock Premium|6|760|1075
+nerdaxe|NerdAxe Gamma|9|280|280|assist
+nerdqaxe|NerdQAxe++|9|280|280|assist
+nerdaxe_ultra|NerdAxe Ultra|9|280|280|assist
+bitaxe|Bitaxe Gamma 602 / 603|9|280|280|assist
+bitforge_nano|Bitforge Nano mit Display|14|280|280|assist
+bitforge|Bitforge ohne Display|10|280|280|assist
+nerdminer_giga|Giga-NerdMiner|10|280|280|assist
+nerdminer_28|NerdMiner 2,8 Zoll|10|280|280|assist
+nerdminer_19|NerdMiner Classic 1,9 Zoll|10|280|280|assist
+nerdheizung|NerdHeizung|10|280|280|assist
+braiins_pool|Braiins Pool Account und Auszahlung|7|280|280|assist
+nerdnode_neu|NerdNode (neue NerdNode)|8|280|280|assist
+nerdnode_vorhanden|NerdNode auf vorhandener Node|6|280|280|assist
+nerdnode_tor|NerdNode: Fernzugang über Tor|5|280|280|assist
+seedsigner|SeedSigner|13|280|280|assist
+bitbox|BitBox02|7|280|280|assist
 candy|Candy Dispenser|10|280|280|assist
-seedsigner|SeedSigner|12|280|280|assist
-nerdqaxe|NerdQAxe++|8|280|280|assist
