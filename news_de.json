@@ -1,8 +1,24 @@
 {
- "updated": 1793802022,
+ "updated": 1793806030,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Miner Riot verkauft Tausende Coins: Steckt hinter KI das bessere Geschäft?",
+   "summary": "Riot verkauft BTC und investiert massiv in KI-Rechenzentren. Hinter dem Kurswechsel steckt ein Geschäft, das immer wichtiger werden könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793805335,
+   "url": "https://www.btc-echo.de/news/bitcoin-miner-riot-verkauft-tausende-coins-steckt-hinter-ki-das-bessere-geschaeft-240392/",
+   "ad": false
+  },
+  {
+   "title": "\"Fake Money\": Darum setzt Robert Kiyosaki weiter auf Bitcoin",
+   "summary": "Robert Kiyosaki lässt sich vom fallenden Bitcoin-Kurs nicht abschrecken. Der Bestsellerautor erklärt, warum er weiter nachkauft und welche Gefahren er für das Finanzsystem sieht. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793803070,
+   "url": "https://www.btc-echo.de/news/fake-money-darum-setzt-robert-kiyosaki-weiter-auf-bitcoin-240377/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Geschäft von Block bricht um 50 Prozent ein",
    "summary": "Das Bitcoin-Geschäft von Jack Dorseys Block bricht im dritten Quartal deutlich ein. Zudem steht eine Einigung mit der US-Justiz über 764 Millionen US-Dollar bevor. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793700000,
    "url": "https://www.btc-echo.de/news/gerald-hoerhan-investmentpunk-bitcoin-strategie-240293/",
-   "ad": false
-  },
-  {
-   "title": "US-Midterms: Fällt Bitcoin nach der Wahl auf ein neues Jahrestief?",
-   "summary": "Mehr als 137 Millionen US-Dollar hat die Krypto-Branche in den US-Wahlkampf gesteckt. Doch nach den letzten Midterms brach der Bitcoin-Kurs teils um 50 Prozent ein. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793674800,
-   "url": "https://www.btc-echo.de/news/us-midterms-faellt-bitcoin-nach-der-wahl-auf-ein-neues-jahrestief-240266/",
-   "ad": false
-  },
-  {
-   "title": "Mercado Bitcoin bestätigt Cyberangriff und stoppt alle Auszahlungen",
-   "summary": "Brasiliens größte Krypto-Börse spricht von einem schnell eingedämmten Vorfall ohne Schaden für Kunden. Blockchain-Analysten zählen derweil Abflüsse über zehn Netzwerke hinweg. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793637840,
-   "url": "https://www.btc-echo.de/news/mercado-bitcoin-bestaetigt-cyberangriff-und-stoppt-alle-auszahlungen-240259/",
    "ad": false
   }
  ]

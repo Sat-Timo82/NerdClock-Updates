@@ -1,22 +1,38 @@
 {
- "updated": 1793802022,
+ "updated": 1793806030,
  "mode": "stichworte",
  "lang": "en",
  "items": [
   {
-   "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+   "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
+   "summary": "Riot has sold 20,264 bitcoin this year to fund AI data centers, leaving it with 2,418 BTC, while Hut 8 sold 3,102 to buy back $250 million of stock. This post Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793805449,
+   "url": "https://bitcoinmagazine.com/news/riot-and-hut-8-sell-thousands-of-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Bounces Back as Markets Digest Midterms",
+   "summary": "Bitcoin bounces back as it staged a sharp V-shaped recovery after briefly falling below $76,000 following the U.S. midterm elections, returning towards the $78,000 level as traders reassessed the political and economic outlook. However, despite renewed buying interest, BTC's recovery remains technically fragile, with key…",
+   "source": "Bitcoinist",
+   "ts": 1793803071,
+   "url": "https://bitcoinist.com/bitcoin-bounces-back-as-markets-digest-midterms/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
+   "summary": "Bitcoin trades near $79,000 after a dip to $75,600 as Democrats sweep both chambers of Congress. This post Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793802095,
+   "url": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue…",
    "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
    "source": "CoinDesk",
    "ts": 1793800853,
    "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
-   "summary": "Experts say the Democratic sweep was largely priced in, but it makes the road ahead harder for crypto policy.",
-   "source": "Decrypt",
-   "ts": 1793798004,
-   "url": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793785087,
    "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
-   "ad": false
-  },
-  {
-   "title": "Binance's $570M SAFU Bitcoin Just Moved Again to a Mystery Wallet",
-   "summary": "The 7,500 BTC that Binance pulled from its emergency user fund to cover its $6.3 billion hack has moved again, this time to an unlabeled, high-volume address. A Silent Move That Could Unnerve Investors Binance's Secure Asset Fund for Users (SAFU), the reserve the exchange set up to protect customers in extreme events, is now […]",
-   "source": "Bitcoin.com News",
-   "ts": 1793784652,
-   "url": "https://news.bitcoin.com/security/binance-safu-bitcoin-moves-again-unlabeled-wallet/",
-   "ad": false
-  },
-  {
-   "title": "US Midterm Elections Shake Markets: Could Bitcoin Be Ready for a Comeback?",
-   "summary": "The 2026 US midterm elections have delivered a major political shift, and financial markets are already responding. Democrats secured majorities in both the House of Representatives and Senate, changing the balance of power in Washington for the remainder of President Donald Trump's term. For cryptocurrency investors, however…",
-   "source": "Bitcoinist",
-   "ts": 1793784471,
-   "url": "https://bitcoinist.com/us-midterm-elections-shake-markets-could-bitcoin-be-ready-for-a-comeback/",
    "ad": false
   }
  ]
