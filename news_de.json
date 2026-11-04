@@ -1,8 +1,16 @@
 {
- "updated": 1793831093,
+ "updated": 1793834509,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "STRC zurück bei 100 US-Dollar – Kann Strategy jetzt wieder im großen Stil Bitcoin kaufen?",
+   "summary": "STRC von Strategy ist wieder auf 100 US-Dollar gestiegen. Wie gelang das Comeback und kann Michael Saylor jetzt wieder Milliarden pro Woche in Bitcoin investieren?",
+   "source": "Blocktrainer",
+   "ts": 1793831232,
+   "url": "https://www.blocktrainer.de/blog/strc-wieder-bei-100-us-dollar-kann-strategy-jetzt-wieder-im-grossen-stil-bitcoin-kaufen",
+   "ad": false
+  },
   {
    "title": "Bitcoin steigt über 80.000 US-Dollar: Was der Sieg der Demokraten bedeutet",
    "summary": "Die Demokraten gewinnen die Mehrheit in beiden Kammern und Bitcoin reagiert mit kräftigen Kursgewinnen. Ein Krypto-Experte erklärt, welche Folgen der Machtwechsel jetzt haben könnte. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793720520,
    "url": "https://www.btc-echo.de/news/binance-notfallreserve-halbiert-nur-noch-7-500-bitcoin-uebrig-240325/",
-   "ad": false
-  },
-  {
-   "title": "Polymarket sieht Demokraten bei Midterms vorne: Das sind die Folgen für Bitcoin",
-   "summary": "Polymarket sieht die Demokraten bei den Midterms vorne. Welche Folgen haben die Zwischenwahlen für Bitcoin, den Clarity Act und die Krypto-Branche? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793718178,
-   "url": "https://www.btc-echo.de/news/polymarket-sieht-demokraten-bei-midterms-vorne-das-sind-die-folgen-fuer-bitcoin-240317/",
    "ad": false
   }
  ]

@@ -1,8 +1,24 @@
 {
- "updated": 1793831093,
+ "updated": 1793834509,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+   "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
+   "source": "CoinDesk",
+   "ts": 1793832702,
+   "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+   "ad": false
+  },
+  {
+   "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+   "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it's about Bitcoin maintenance.",
+   "source": "Decrypt",
+   "ts": 1793832363,
+   "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+   "ad": false
+  },
   {
    "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
    "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793816941,
    "url": "https://bitcoinmagazine.com/news/strategys-strc-hits-100-par-may",
-   "ad": false
-  },
-  {
-   "title": "Jack Dorsey's Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves",
-   "summary": "Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3 profit, while bitcoin gross profit fell 50% after the company cut trading fees. This post Jack Dorsey's Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793815898,
-   "url": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million",
-   "ad": false
-  },
-  {
-   "title": "Libreria de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin…",
-   "summary": "Dulce Villarreal's ISMOS rebrands from Latin America's Libreria de Satoshi and launches a multilingual open-source platform to train one million Bitcoin and Freedom Tech developers worldwide, backed by Btrust and the Human Rights Foundation. This post Libreria de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793815234,
-   "url": "https://bitcoinmagazine.com/news/libreria-de-satoshi-rebrands-to-ismos-launches-global-platform-to-train-one-million-bitcoin-developers",
    "ad": false
   }
  ]
