@@ -1,8 +1,24 @@
 {
- "updated": 1793764443,
+ "updated": 1793768304,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+   "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
+   "source": "CoinDesk",
+   "ts": 1793767696,
+   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+   "ad": false
+  },
+  {
+   "title": "Arthur Hayes Says Bitcoin Rally May Depend on Banks, Not Just Fed",
+   "summary": "Arthur Hayes linked bitcoin's next rally to renewed dollar liquidity from commercial banks or the Federal Reserve. His near-term warning follows a longer-term bullish outlook that includes bitcoin eventually reaching $1 million and a money-creation-driven crypto bull run. Hayes Points to Banks Alongside the Fed Arthur Hayes…",
+   "source": "Bitcoin.com News",
+   "ts": 1793766629,
+   "url": "https://news.bitcoin.com/market-updates/arthur-hayes-says-bitcoin-rally-may-depend-on-banks-not-just-fed/",
+   "ad": false
+  },
   {
    "title": "Mercado Bitcoin Vows to Cover Customer Losses After Massive Hack",
    "summary": "Brazilian cryptocurrency exchange Mercado Bitcoin disclosed a major security incident on Nov. 2, 2026, involving approximately $38 million in digital assets. The attack presents a substantial financial and operational challenge for one of Latin America's largest cryptocurrency platforms, with its response now drawing attention…",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793719031,
    "url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Faces Fifth Weekly Loss as US Midterms Weigh In",
-   "summary": "TL;DR Bitcoin faces more losses as it heads toward a potential fifth consecutive weekly decline, extending its slide from around $87,000 to near $76,500. Uncertainty surrounding the US midterm elections is keeping investors cautious about risk-sensitive assets, including cryptocurrencies. Apple's warning about rising memory…",
-   "source": "Bitcoinist",
-   "ts": 1793715158,
-   "url": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
-   "summary": ", pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793713599,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
    "ad": false
   }
  ]
