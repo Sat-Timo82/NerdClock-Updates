@@ -1,8 +1,48 @@
 {
- "updated": 1793784844,
+ "updated": 1793793462,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Price Outlook: Falling Oil Fuels Recovery Hopes",
+   "summary": "Bitcoin Price Outlook is attracting renewed attention as falling oil prices offer financial markets some relief from inflation concerns. While BTC continues navigating a challenging economic environment, the latest energy-market developments could create more favorable conditions for its recovery. Bitcoin climbed approximately…",
+   "source": "Bitcoinist",
+   "ts": 1793792899,
+   "url": "https://bitcoinist.com/bitcoin-price-outlook-falling-oil-fuels-recovery-hopes/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+   "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
+   "source": "CoinDesk",
+   "ts": 1793788738,
+   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+   "ad": false
+  },
+  {
+   "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+   "summary": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
+   "source": "Decrypt",
+   "ts": 1793788501,
+   "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Analysis: Can BTC Reach $80K?",
+   "summary": "Bitcoin Price Analysis is back in focus after BTC staged a sharp V-shaped recovery following the US midterm elections. After briefly dropping below $76,000, Bitcoin rebounded toward $78,000, raising an important question: Can buyers overcome key resistance levels and push BTC toward $80,000? However, one important technical…",
+   "source": "Bitcoinist",
+   "ts": 1793786865,
+   "url": "https://bitcoinist.com/bitcoin-price-analysis-can-btc-reach-80k/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling 'short-term'",
+   "summary": "Bitwise's Andre Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.",
+   "source": "Cointelegraph",
+   "ts": 1793785087,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
+   "ad": false
+  },
   {
    "title": "Binance's $570M SAFU Bitcoin Just Moved Again to a Mystery Wallet",
    "summary": "The 7,500 BTC that Binance pulled from its emergency user fund to cover its $6.3 billion hack has moved again, this time to an unlabeled, high-volume address. A Silent Move That Could Unnerve Investors Binance's Secure Asset Fund for Users (SAFU), the reserve the exchange set up to protect customers in extreme events, is now […]",
@@ -41,46 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793773000,
    "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
-   "ad": false
-  },
-  {
-   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-   "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
-   "source": "CoinDesk",
-   "ts": 1793772364,
-   "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Dips Under $76K Then Recovers as Blue Wave Hits Washington",
-   "summary": "Bitcoin slid to about $75,740 overnight before recovering to $77,000 as U.S. midterm returns showed Democrats taking the House and closing in on the Senate, dragging stock futures and crypto lower together. The Midterm Effect Bitcoin's price took a hit on election night, dipping to roughly $75,740 as the results came in. It is…",
-   "source": "Bitcoin.com News",
-   "ts": 1793771731,
-   "url": "https://news.bitcoin.com/crypto-news/bitcoin-price-dips-under-76k-democrats-midterms/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-   "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
-   "source": "CoinDesk",
-   "ts": 1793767696,
-   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
-   "ad": false
-  },
-  {
-   "title": "Arthur Hayes Says Bitcoin Rally May Depend on Banks, Not Just Fed",
-   "summary": "Arthur Hayes linked bitcoin's next rally to renewed dollar liquidity from commercial banks or the Federal Reserve. His near-term warning follows a longer-term bullish outlook that includes bitcoin eventually reaching $1 million and a money-creation-driven crypto bull run. Hayes Points to Banks Alongside the Fed Arthur Hayes…",
-   "source": "Bitcoin.com News",
-   "ts": 1793766629,
-   "url": "https://news.bitcoin.com/market-updates/arthur-hayes-says-bitcoin-rally-may-depend-on-banks-not-just-fed/",
-   "ad": false
-  },
-  {
-   "title": "Mercado Bitcoin Vows to Cover Customer Losses After Massive Hack",
-   "summary": "Brazilian cryptocurrency exchange Mercado Bitcoin disclosed a major security incident on Nov. 2, 2026, involving approximately $38 million in digital assets. The attack presents a substantial financial and operational challenge for one of Latin America's largest cryptocurrency platforms, with its response now drawing attention…",
-   "source": "Bitcoin.com News",
-   "ts": 1793755835,
-   "url": "https://news.bitcoin.com/crypto-news/mercado-bitcoin-vows-to-cover-customer-losses-after-massive-hack/",
    "ad": false
   }
  ]

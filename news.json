@@ -1,8 +1,16 @@
 {
- "updated": 1793784844,
+ "updated": 1793793462,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Geschäft von Block bricht um 50 Prozent ein",
+   "summary": "Das Bitcoin-Geschäft von Jack Dorseys Block bricht im dritten Quartal deutlich ein. Zudem steht eine Einigung mit der US-Justiz über 764 Millionen US-Dollar bevor. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793784908,
+   "url": "https://www.btc-echo.de/news/bitcoin-geschaeft-von-block-bricht-um-50-prozent-ein-240347/",
+   "ad": false
+  },
   {
    "title": "Demokraten gewinnen die Midterms – Was bedeutet das für Bitcoin und die Wirtschaft?",
    "summary": "Die Demokraten gewinnen die Midterms und beide Kammern des US-Kongresses. Was das für Bitcoin, Krypto-Gesetze und die Finanzpolitik der nächsten Jahre bedeutet.",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793637840,
    "url": "https://www.btc-echo.de/news/mercado-bitcoin-bestaetigt-cyberangriff-und-stoppt-alle-auszahlungen-240259/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs als Gewinner? Das bedeutet eine Fusion von Tesla und SpaceX",
-   "summary": "Elon Musks Zukunftspläne verschlingen Milliarden. Dabei könnte der Umgang mit den Bitcoin-Reserven noch für Überraschungen sorgen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793635200,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-als-gewinner-einer-fusion-von-tesla-und-spacex-240011/",
    "ad": false
   }
  ]
