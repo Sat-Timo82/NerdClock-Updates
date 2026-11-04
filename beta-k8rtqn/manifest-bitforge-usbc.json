@@ -1,0 +1,28 @@
+{
+  "name": "BitForge Nano 2,8\"-Display USB-C (Nerdminer.de)",
+  "version": "1.1 Beta",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "bitforge-usbc/bootloader.bin",
+          "offset": 4096
+        },
+        {
+          "path": "bitforge-usbc/partitions.bin",
+          "offset": 32768
+        },
+        {
+          "path": "bitforge-usbc/boot_app0.bin",
+          "offset": 57344
+        },
+        {
+          "path": "bitforge-usbc/firmware.bin",
+          "offset": 65536
+        }
+      ]
+    }
+  ]
+}
