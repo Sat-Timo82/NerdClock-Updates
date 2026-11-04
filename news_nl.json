@@ -1,8 +1,16 @@
 {
- "updated": 1793809745,
+ "updated": 1793813313,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+   "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto's exposure to shifting US political power.",
+   "source": "Decrypt",
+   "ts": 1793810971,
+   "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+   "ad": false
+  },
   {
    "title": "Bitcoin Defies Selling Pressure as $75K Holds the Line",
    "summary": "Bitcoin defies selling pressure after it recovered toward $78,000 on November 4 after briefly falling below $76,000, showing renewed buying interest as cryptocurrency markets adjusted to the outcome of the U.S. midterm elections. The rebound followed a seven-week low of $75,618, suggesting that buyers remain active around…",
@@ -65,14 +73,6 @@
    "source": "Bitcoinist",
    "ts": 1793792899,
    "url": "https://bitcoinist.com/bitcoin-price-outlook-falling-oil-fuels-recovery-hopes/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
-   "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
-   "source": "CoinDesk",
-   "ts": 1793788738,
-   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
    "ad": false
   },
   {

@@ -1,8 +1,16 @@
 {
- "updated": 1793809745,
+ "updated": 1793813313,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin steigt über 80.000 US-Dollar: Was der Sieg der Demokraten bedeutet",
+   "summary": "Die Demokraten gewinnen die Mehrheit in beiden Kammern und Bitcoin reagiert mit kräftigen Kursgewinnen. Ein Krypto-Experte erklärt, welche Folgen der Machtwechsel jetzt haben könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793810537,
+   "url": "https://www.btc-echo.de/news/bitcoin-steigt-ueber-80-000-us-dollar-was-der-sieg-der-demokraten-bedeutet-240399/",
+   "ad": false
+  },
   {
    "title": "Bitcoin und Gold vor der Korrektur? Bloomberg-Analyst erwartet Blow-off-Top",
    "summary": "Bloomberg-Experte Mike McGlone zeichnet für Bitcoin und Gold ein düsteres Bild. Warum er mit viel Gegenwind und wenig Eigendynamik bei beiden Assets rechnet. Source: BTC-ECHO BTC-ECHO",
@@ -44,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "Demokraten gewinnen die Midterms – Was bedeutet das für Bitcoin und die Wirtschaft?",
-   "summary": "Die Demokraten gewinnen die Midterms und beide Kammern des US-Kongresses. Was das für Bitcoin, Krypto-Gesetze und die Finanzpolitik der nächsten Jahre bedeutet.",
-   "source": "Blocktrainer",
-   "ts": 1793777119,
-   "url": "https://www.blocktrainer.de/blog/demokraten-gewinnen-die-midterms-was-bedeutet-das-fuer-bitcoin-und-die-wirtschaft",
-   "ad": false
-  },
-  {
    "title": "Bitcoin und die US-Wahl: Droht erneut ein heftiger Einbruch?",
    "summary": "Der Krypto-Markt blickt nervös auf die Zwischenwahlen in den USA. Warum es nach den Midterms ungemütlich für Bitcoin-Anleger werden könnte. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -76,11 +76,11 @@
    "ad": false
   },
   {
-   "title": "Zcash-Kurs im freien Fall? Warum ein Wal trotzdem Millionen riskiert",
-   "summary": "Zcash bricht ein – kurz vor einem wichtigen Upgrade. Doch es gibt noch Hoffnung: Was den ZEC-Kurs jetzt erwartet. Source: BTC-ECHO BTC-ECHO",
+   "title": "Polymarket sieht Demokraten bei Midterms vorne: Das sind die Folgen für Bitcoin",
+   "summary": "Polymarket sieht die Demokraten bei den Midterms vorne. Welche Folgen haben die Zwischenwahlen für Bitcoin, den Clarity Act und die Krypto-Branche? Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1793710800,
-   "url": "https://www.btc-echo.de/news/zcash-kurs-im-freien-fall-warum-ein-wal-trotzdem-millionen-riskiert-240300/",
+   "ts": 1793718178,
+   "url": "https://www.btc-echo.de/news/polymarket-sieht-demokraten-bei-midterms-vorne-das-sind-die-folgen-fuer-bitcoin-240317/",
    "ad": false
   }
  ]
