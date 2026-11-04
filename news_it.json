@@ -1,5 +1,5 @@
 {
- "updated": 1793757595,
+ "updated": 1793760767,
  "mode": "stichworte",
  "lang": "it",
  "items": [
@@ -33,14 +33,6 @@
    "source": "Decrypt",
    "ts": 1793729763,
    "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Rebounds From $76K Amid Sizable ETF Outflows, Liquidations",
-   "summary": "Bitcoin experienced volatile trading Tuesday, falling to $76,268 before recovering above $77,700 as investors weighed the fallout from the Binance hack and U.S. midterm election uncertainty. Bitcoin endured a volatile trading session Tuesday as the leading cryptocurrency struggled to regain its footing days after a massive…",
-   "source": "Bitcoin.com News",
-   "ts": 1793725487,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-76k-sizable-etf-outflows-liquidations/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoinist",
    "ts": 1793715158,
    "url": "https://bitcoinist.com/bitcoin-faces-fifth-weekly-loss-as-us-midterms-weigh-in/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+   "summary": ", pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This post Bitcoin Price Trades Near $77,500 as Midterm Voting Begins first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793713599,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
    "ad": false
   }
  ]
