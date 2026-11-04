@@ -1,8 +1,24 @@
 {
- "updated": 1793771951,
+ "updated": 1793776401,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+   "summary": "BTC is steaming higher as U.S. midterm election uncertainty fades.",
+   "source": "CoinDesk",
+   "ts": 1793773000,
+   "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+   "ad": false
+  },
+  {
+   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+   "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+   "source": "CoinDesk",
+   "ts": 1793772364,
+   "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Dips Under $76K Then Recovers as Blue Wave Hits Washington",
    "summary": "Bitcoin slid to about $75,740 overnight before recovering to $77,000 as U.S. midterm returns showed Democrats taking the House and closing in on the Senate, dragging stock futures and crypto lower together. The Midterm Effect Bitcoin's price took a hit on election night, dipping to roughly $75,740 as the results came in. It is…",
@@ -36,14 +52,6 @@
    "ad": false
   },
   {
-   "title": "October's Dormant Bitcoin Awakenings Cool as Transfers Plunge 81% From August",
-   "summary": "Dormant bitcoin wallets dating back to 2012 moved 2,159.15 BTC valued at $167.56 million last month, marking a second consecutive monthly slowdown. Despite the declining activity, wallets originating in 2013 dominated the month, while addresses from Bitcoin's earliest years remained conspicuously absent. Dormant Bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1793739938,
-   "url": "https://news.bitcoin.com/featured/octobers-dormant-bitcoin-awakenings-cool-transfers-plunge-august/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Flips a 12-Year Midterm Pattern. Can It Hold Through Friday?",
    "summary": "Bitcoin crossed its most telling election-day threshold before a single vote was counted. On the morning of November 3, BTC traded near $76,990, roughly $3,821 above its 200-day moving average. On each of the previous three U.S. midterm election days, Bitcoin was still trading below that line. That gives investors a more…",
    "source": "Bitcoinist",
@@ -73,14 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793722430,
    "url": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in 'political gridlock'",
-   "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
-   "source": "Cointelegraph",
-   "ts": 1793720682,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=",
    "ad": false
   }
  ]

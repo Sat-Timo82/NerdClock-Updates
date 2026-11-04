@@ -1,8 +1,16 @@
 {
- "updated": 1793771951,
+ "updated": 1793776401,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Demokraten gewinnen US-Wahl – Bitcoin steigt",
+   "summary": "Die Demokraten gewinnen bei den US-Zwischenwahlen beide Kammern des Kongresses. Bitcoin dreht nach dem Rücksetzer in der Wahlnacht wieder ins Plus. Doch die Nachfrage bleibt schwach. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793775899,
+   "url": "https://www.btc-echo.de/news/demokraten-gewinnen-us-wahl-bitcoin-steigt-240342/",
+   "ad": false
+  },
   {
    "title": "Bitcoin und die US-Wahl: Droht erneut ein heftiger Einbruch?",
    "summary": "Der Krypto-Markt blickt nervös auf die Zwischenwahlen in den USA. Warum es nach den Midterms ungemütlich für Bitcoin-Anleger werden könnte. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793637840,
    "url": "https://www.btc-echo.de/news/mercado-bitcoin-bestaetigt-cyberangriff-und-stoppt-alle-auszahlungen-240259/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs als Gewinner? Das bedeutet eine Fusion von Tesla und SpaceX",
-   "summary": "Elon Musks Zukunftspläne verschlingen Milliarden. Dabei könnte der Umgang mit den Bitcoin-Reserven noch für Überraschungen sorgen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793635200,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-als-gewinner-einer-fusion-von-tesla-und-spacex-240011/",
    "ad": false
   }
  ]
