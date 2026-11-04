@@ -1,14 +1,14 @@
 {
- "updated": 1793776401,
+ "updated": 1793781339,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "Demokraten gewinnen US-Wahl – Bitcoin steigt",
-   "summary": "Die Demokraten gewinnen bei den US-Zwischenwahlen beide Kammern des Kongresses. Bitcoin dreht nach dem Rücksetzer in der Wahlnacht wieder ins Plus. Doch die Nachfrage bleibt schwach. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793775899,
-   "url": "https://www.btc-echo.de/news/demokraten-gewinnen-us-wahl-bitcoin-steigt-240342/",
+   "title": "Demokraten gewinnen die Midterms – Was bedeutet das für Bitcoin und die Wirtschaft?",
+   "summary": "Die Demokraten gewinnen die Midterms und beide Kammern des US-Kongresses. Was das für Bitcoin, Krypto-Gesetze und die Finanzpolitik der nächsten Jahre bedeutet.",
+   "source": "Blocktrainer",
+   "ts": 1793777119,
+   "url": "https://www.blocktrainer.de/blog/demokraten-gewinnen-die-midterms-was-bedeutet-das-fuer-bitcoin-und-die-wirtschaft",
    "ad": false
   },
   {
@@ -33,14 +33,6 @@
    "source": "BTC-ECHO",
    "ts": 1793720520,
    "url": "https://www.btc-echo.de/news/binance-notfallreserve-halbiert-nur-noch-7-500-bitcoin-uebrig-240325/",
-   "ad": false
-  },
-  {
-   "title": "Polymarket sieht Demokraten bei Midterms vorne: Das sind die Folgen für Bitcoin",
-   "summary": "Polymarket sieht die Demokraten bei den Midterms vorne. Welche Folgen haben die Zwischenwahlen für Bitcoin, den Clarity Act und die Krypto-Branche? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793718178,
-   "url": "https://www.btc-echo.de/news/polymarket-sieht-demokraten-bei-midterms-vorne-das-sind-die-folgen-fuer-bitcoin-240317/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "BTC-ECHO",
    "ts": 1793637840,
    "url": "https://www.btc-echo.de/news/mercado-bitcoin-bestaetigt-cyberangriff-und-stoppt-alle-auszahlungen-240259/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Kurs als Gewinner? Das bedeutet eine Fusion von Tesla und SpaceX",
+   "summary": "Elon Musks Zukunftspläne verschlingen Milliarden. Dabei könnte der Umgang mit den Bitcoin-Reserven noch für Überraschungen sorgen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793635200,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-als-gewinner-einer-fusion-von-tesla-und-spacex-240011/",
    "ad": false
   }
  ]

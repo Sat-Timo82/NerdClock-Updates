@@ -1,8 +1,24 @@
 {
- "updated": 1793776401,
+ "updated": 1793781339,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+   "summary": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system.",
+   "source": "CoinDesk",
+   "ts": 1793779444,
+   "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+   "summary": "Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.",
+   "source": "Cointelegraph",
+   "ts": 1793777147,
+   "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss_tag_bit",
+   "ad": false
+  },
   {
    "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
    "summary": "BTC is steaming higher as U.S. midterm election uncertainty fades.",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1793729763,
    "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
-   "ad": false
-  },
-  {
-   "title": "Wall Street killed Bitcoin's wild rallies: 10x's Markus Thielen",
-   "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
-   "source": "Cointelegraph",
-   "ts": 1793724421,
-   "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Risks Drop Below $76K as Oil Prices Slide 7%",
-   "summary": "TL;DR Bitcoin price risks another drop as it fell below $77,000 on Monday despite a sharp decline in oil prices fueled by hopes of a diplomatic resolution to the US-Iran conflict. BTC failed to break above $78,500, raising concerns about another move lower. Analysts warn that Bitcoin could fall below $76,000 if bearish…",
-   "source": "Bitcoinist",
-   "ts": 1793722430,
-   "url": "https://bitcoinist.com/bitcoin-price-risks-drop-below-76k-as-oil-prices-slide-7/",
    "ad": false
   }
  ]
