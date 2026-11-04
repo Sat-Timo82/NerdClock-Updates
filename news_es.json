@@ -1,8 +1,24 @@
 {
- "updated": 1793821006,
+ "updated": 1793824136,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+   "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+   "source": "The Block",
+   "ts": 1793822998,
+   "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Miner Riot Platforms Sells $750M in BTC as Hut 8 Dumps $250M",
+   "summary": "Bitcoin mining companies Riot Platforms and Hut 8 disclosed substantial bitcoin sales in their respective third-quarter earnings reports on Wednesday, with Riot liquidating more than 10,000 BTC during the quarter to finance its data center expansion and Hut 8 selling cryptocurrency to fund share repurchases. Bitcoin Miners…",
+   "source": "Bitcoin.com News",
+   "ts": 1793822156,
+   "url": "https://news.bitcoin.com/mining/bitcoin-miner-riot-platforms-sells-750m-btc-hut-8-dumps-250m/",
+   "ad": false
+  },
   {
    "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
    "summary": "Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8. Anthropic's Frontier Red Team demonstrated a remote root exploit against systems with a Multipath TCP listener. This post Matt Corallo Flags Critical Linux…",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793806163,
    "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
-   "ad": false
-  },
-  {
-   "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
-   "summary": "Riot has sold 20,264 bitcoin this year to fund AI data centers, leaving it with 2,418 BTC, while Hut 8 sold 3,102 to buy back $250 million of stock. This post Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793805449,
-   "url": "https://bitcoinmagazine.com/news/riot-and-hut-8-sell-thousands-of-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Bounces Back as Markets Digest Midterms",
-   "summary": "Bitcoin bounces back as it staged a sharp V-shaped recovery after briefly falling below $76,000 following the U.S. midterm elections, returning towards the $78,000 level as traders reassessed the political and economic outlook. However, despite renewed buying interest, BTC's recovery remains technically fragile, with key…",
-   "source": "Bitcoinist",
-   "ts": 1793803071,
-   "url": "https://bitcoinist.com/bitcoin-bounces-back-as-markets-digest-midterms/",
    "ad": false
   }
  ]
