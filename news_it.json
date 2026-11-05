@@ -1,8 +1,40 @@
 {
- "updated": 1793896784,
+ "updated": 1793901416,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Keel Infrastructure Dumps Entire Bitcoin Treasury for $192M as Mining Exit Accelerates",
+   "summary": "Former bitcoin mining company Keel Infrastructure sold its entire BTC treasury during the third quarter, generating $192 million in proceeds as it accelerates its transition into artificial intelligence (AI) infrastructure amid a broader sell-off in mining and AI-related stocks. Keel Infrastructure, formerly known as Bitfarms…",
+   "source": "Bitcoin.com News",
+   "ts": 1793898904,
+   "url": "https://news.bitcoin.com/mining/keel-infrastructure-dumps-entire-bitcoin-treasury-192m-mining-exit/",
+   "ad": false
+  },
+  {
+   "title": "Canary's Injective ETF debuts on Nasdaq with exposure to staking rewards",
+   "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
+   "source": "The Block",
+   "ts": 1793897636,
+   "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+   "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
+   "source": "Cointelegraph",
+   "ts": 1793897321,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
+   "ad": false
+  },
+  {
+   "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
+   "summary": "Keel sold 2,520 bitcoin in the third quarter, left its treasury near zero and said Quebec-mined coins will now be sold every day as it pivots to AI data centers. This post Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793897100,
+   "url": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
+   "ad": false
+  },
   {
    "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
    "summary": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.",
@@ -49,38 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793885380,
    "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-   "summary": "Your day-ahead look for Nov. 5, 2026",
-   "source": "CoinDesk",
-   "ts": 1793881624,
-   "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-   "ad": false
-  },
-  {
-   "title": "South Korea Crypto Tax Delay Could Boost Bitcoin Adoption Until 2029",
-   "summary": "South Korea's crypto tax delay could become an encouraging development for Bitcoin investors as the government seeks to postpone its planned cryptocurrency gains tax for another two years. Finance Minister Lee Hyoung-il announced on November 5 that authorities will work with lawmakers to move the tax's implementation from…",
-   "source": "Bitcoinist",
-   "ts": 1793880269,
-   "url": "https://bitcoinist.com/south-korea-crypto-tax-delay-could-boost-bitcoin-adoption-until-2029/",
-   "ad": false
-  },
-  {
-   "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
-   "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts' forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
-   "source": "CoinDesk",
-   "ts": 1793879154,
-   "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
-   "ad": false
-  },
-  {
-   "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
-   "summary": "There's been no letup in the selling of the AI chip stocks, with Micron and AMD among those suffering double-digit percentage declines; Nvidia is down 8%.",
-   "source": "CoinDesk",
-   "ts": 1793876231,
-   "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
    "ad": false
   }
  ]
