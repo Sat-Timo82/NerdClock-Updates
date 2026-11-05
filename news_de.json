@@ -1,8 +1,24 @@
 {
- "updated": 1793873039,
+ "updated": 1793876750,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Warum Bitcoin ohne diese Erfindung sofort scheitern würde",
+   "summary": "Bitcoin hat keine zentrale Uhr und keine Instanz, die Transaktionen verbindlich sortiert. Trotzdem funktioniert das Netzwerk seit Jahren. Dahinter steckt eine geniale Idee von Satoshi Nakamoto, ohne die digitales Geld zum Problem würde. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793872800,
+   "url": "https://www.btc-echo.de/news/bitcoin-satoshi-zeitrechnung-proof-of-work-240372/",
+   "ad": false
+  },
+  {
+   "title": "Ist Elon Musk doch Satoshi Nakamoto? Alte E-Mail sorgt erneut für Spekulationen",
+   "summary": "Ist Elon Musk der Bitcoin-Erfinder Satoshi Nakamoto? Eine mysteriöse E-Mail aus dem Jahr 1998 sorgt auf X für wilde Spekulationen.",
+   "source": "Blocktrainer",
+   "ts": 1793870801,
+   "url": "https://www.blocktrainer.de/blog/ist-elon-musk-doch-satoshi-nakamoto-alte-e-mail-sorgt-erneut-fuer-spekulationen",
+   "ad": false
+  },
   {
    "title": "Gerd Kommer: Warum der einstige Krypto-Kritiker jetzt selbst Bitcoin kauft",
    "summary": "Solana und XRP kommen für Gerd Kommer nicht infrage. Weshalb er nur auf zwei Kryptowährungen im Portfolio setzt, erklärt der ETF-Pionier im Interview. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793784908,
    "url": "https://www.btc-echo.de/news/bitcoin-geschaeft-von-block-bricht-um-50-prozent-ein-240347/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin und die US-Wahl: Droht erneut ein heftiger Einbruch?",
-   "summary": "Der Krypto-Markt blickt nervös auf die Zwischenwahlen in den USA. Warum es nach den Midterms ungemütlich für Bitcoin-Anleger werden könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793761200,
-   "url": "https://www.btc-echo.de/news/bitcoin-und-die-us-wahl-droht-erneut-ein-heftiger-einbruch-240290/",
-   "ad": false
-  },
-  {
-   "title": "Zum Ausbau der strategischen Bitcoin-Reserve? Nordkorea streitet Binance-Hack ab und stellt…",
-   "summary": "Nach dem Milliarden-Hack veröffentlicht Binance neue Details und das FBI macht Nordkorea verantwortlich. Doch Pjöngjang widerspricht und verdächtigt sogar die USA.",
-   "source": "Blocktrainer",
-   "ts": 1793740500,
-   "url": "https://www.blocktrainer.de/blog/nordkorea-streitet-binance-hack-ab",
    "ad": false
   }
  ]

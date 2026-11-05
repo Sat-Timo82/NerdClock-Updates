@@ -1,8 +1,48 @@
 {
- "updated": 1793873039,
+ "updated": 1793876750,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
+   "summary": "Ether jumped 4% and crypto ETFs drew fresh money after Wall Street turned higher and Brent crude fell nearly 9%.",
+   "source": "CoinDesk",
+   "ts": 1793876231,
+   "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
+   "ad": false
+  },
+  {
+   "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+   "summary": "The same attacker took about $391,000, mostly from wallets Bitquery ties to BitMart, whose founder confirmed a Nov. 2 hack and suspects a link.",
+   "source": "CoinDesk",
+   "ts": 1793875494,
+   "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin win rate vs. S&P 500 recovers as post-midterm history favors stocks",
+   "summary": "Bitcoin outperformed the S&P 500 in half of the past 90 US trading sessions, while historical midterm data highlights gains for stocks.",
+   "source": "Cointelegraph",
+   "ts": 1793874506,
+   "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
+   "ad": false
+  },
+  {
+   "title": "Crypto Legislation: A New Opportunity for Bitcoin?",
+   "summary": "The future of crypto legislation is back in focus after the US midterm elections, with renewed discussions in Washington raising hopes that the digital asset industry could eventually secure a clearer regulatory framework. Fundstrat's Tom Lee has suggested that changing political attitudes toward cryptocurrency could be…",
+   "source": "Bitcoinist",
+   "ts": 1793873701,
+   "url": "https://bitcoinist.com/crypto-legislation-a-new-opportunity-for-bitcoin/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+   "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
+   "source": "CoinDesk",
+   "ts": 1793871392,
+   "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Breakout Faces a Crucial Test: Can BTC Confirm a Bullish Reversal?",
    "summary": "Bitcoin Price Breakout is becoming an important story as BTC shows signs of improving momentum following a turbulent period for cryptocurrency markets. While Bitcoin's recovery above $80,000 has attracted attention, we believe the more important development is the potential change in its short-term market structure. A strong…",
@@ -41,46 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793851893,
    "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
-   "ad": false
-  },
-  {
-   "title": "Convicted Murderer Wins Back Bitcoin Wallet Despite Life Sentence",
-   "summary": "Convicted killer William Sandeson won a court order for the return of his bitcoin wallet while serving a life sentence for murder. The ruling covered a laptop seized after his arrest, while cash remained withheld. Why the Judge Ordered Sandeson's Bitcoin Returned William Sandeson secured the return of his bitcoin wallet…",
-   "source": "Bitcoin.com News",
-   "ts": 1793849456,
-   "url": "https://news.bitcoin.com/regulation-and-legal/convicted-murderer-wins-back-bitcoin-wallet-despite-life-sentence/",
-   "ad": false
-  },
-  {
-   "title": "Saylor Links Republican and Democratic Wins to Bitcoin Reserves",
-   "summary": "Michael Saylor cited victories by Republican Byron Donalds in Florida and Democrat James Talarico in Texas as evidence of bipartisan support for government bitcoin holdings. Their legislative records connected the election results to federal and state reserve initiatives. Saylor Cites Republican and Democratic Election Winners…",
-   "source": "Bitcoin.com News",
-   "ts": 1793845837,
-   "url": "https://news.bitcoin.com/featured/saylor-links-republican-and-democratic-wins-to-bitcoin-reserves/",
-   "ad": false
-  },
-  {
-   "title": "Kiyosaki Buys Bitcoin During Market Panic, Warns of a Bigger Threat",
-   "summary": "Robert Kiyosaki said he added bitcoin, gold, and silver while others panicked over falling prices. The Rich Dad Poor Dad author tied his purchases to concerns about growing debt and the treatment of workers' savings under government-issued money. Kiyosaki Reports Buying During Market Declines Robert Kiyosaki, author of Rich…",
-   "source": "Bitcoin.com News",
-   "ts": 1793842201,
-   "url": "https://news.bitcoin.com/featured/kiyosaki-buys-bitcoin-during-market-panic-warns-of-a-bigger-threat/",
-   "ad": false
-  },
-  {
-   "title": "Analyst Sees Bitcoin Rally Potential Despite Democratic Sweep",
-   "summary": "Bitcoin could see a relief rally as U.S. midterm election uncertainty clears, with a Democratic sweep largely priced in, an analyst said. He warned that slower crypto reform could weigh more heavily on companies awaiting regulatory permissions. Analyst Sees Room for a Bitcoin Relief Rally James Butterfill, head of research at…",
-   "source": "Bitcoin.com News",
-   "ts": 1793838633,
-   "url": "https://news.bitcoin.com/market-updates/analyst-sees-bitcoin-rally-potential-despite-democratic-sweep/",
-   "ad": false
-  },
-  {
-   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-   "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
-   "source": "CoinDesk",
-   "ts": 1793832702,
-   "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
    "ad": false
   }
  ]

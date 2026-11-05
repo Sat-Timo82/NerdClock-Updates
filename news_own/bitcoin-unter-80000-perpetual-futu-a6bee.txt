@@ -1,0 +1,13 @@
+Perpetual-Seller erhöhen den Druck auf Bitcoin
+
+Bitcoin fiel vergangene Woche unter 80.000 US-Dollar, nachdem Verkäufer in Perpetual-Futures den Abwärtsdruck am Donnerstag verstärkten. Am Montag notierte BTC nahe 78.000 US-Dollar und beendete die Vorwoche rund 2 Prozent niedriger. Der Perpetual Cumulative Volume Delta sank von minus 381,7 Millionen auf minus 564,8 Millionen US-Dollar. Gleichzeitig blieb der Leverage hoch: Das Futures Open Interest lag bei rund 37,4 Milliarden US-Dollar, während die Funding-Zahlungen der Long-Seite um 40,5 Prozent auf 3,1 Millionen US-Dollar stiegen.
+
+Spot-Nachfrage bleibt stabil, Optionsmarkt wird defensiver
+
+Die Spot-Nachfrage zeigte sich widerstandsfähiger. Der Spot Cumulative Volume Delta verbesserte sich von minus 78,6 Millionen auf plus 25,3 Millionen US-Dollar. US-Spot-Bitcoin-ETFs verzeichneten wöchentliche Zuflüsse von 46,7 Millionen US-Dollar, während ihr Handelsvolumen um 21,6 Prozent auf 13,1 Milliarden US-Dollar stieg und sich vor allem auf den Ausverkauf am Freitag konzentrierte. Options-Trader agierten vorsichtiger: Der 25-Delta-Skew kletterte auf 11,2 Prozent, der Volatilitätsspread stieg von 36,2 auf 41,6 Prozent. Nach dem monatlichen Verfall sank das Options Open Interest um 9,8 Prozent auf 34,7 Milliarden US-Dollar.
+
+On-Chain-Aktivität nimmt zu
+
+Auch die On-Chain-Aktivität legte zu. Das um Entities bereinigte Transfer-Volumen stieg um 12,2 Prozent auf 6,1 Milliarden US-Dollar, während die Zahl der täglich aktiven Adressen 646.100 erreichte. Der Anteil kürzlich bewegten "heißen" Kapitals erhöhte sich auf 21,8 Prozent, und der Supply von Short-Term Holdern nahm im Verhältnis zu den Beständen langfristiger Holder zu. Realisierte Verluste überstiegen die Gewinne leicht. Zugleich fiel das Verhältnis nicht realisierter Gewinne zu Verlusten von 7,3 auf 4,0, da die Margen kurzfristiger Holder schrumpften.
+
+Dein Bitcoin-Miner für zu Hause

@@ -31,7 +31,7 @@ jobs:
           fi
       - name: Nur bei Änderungen speichern
         run: |
-          git add news.json news_*.json news_cache.json events.json
+          git add news.json news_*.json news_own news_cache.json events.json
           if git diff --cached --quiet; then echo "nichts Neues"; exit 0; fi
           git config user.name "Sat-Timo82"
           git config user.email "timobartz13@gmail.com"

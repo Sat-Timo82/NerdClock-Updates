@@ -80,6 +80,75 @@ def fetch_feed(name, url):
     return items
 
 
+# ── Eigene News von nerdminer.de (Blog „News“, Atom-Feed): ALLE Beiträge, Berichte ganz lesbar ──
+OWN_FEED = "https://nerdminer.de/blogs/news.atom"
+OWN_MAX = 40                  # so viele Beiträge zeigt die Uhr (der Shopify-Feed liefert die letzten 30)
+OWN_BODY_MAX = 14000          # Zeichen je Bericht (die Uhr lädt einen Bericht erst beim Öffnen)
+ATOM = "{http://www.w3.org/2005/Atom}"
+
+
+def html_to_paras(h):
+    """HTML → Absätze (für die Display-Schrift): Überschriften/Absätze/Listen werden getrennte Absätze, der Rest Text."""
+    h = h or ""
+    h = re.sub(r"(?is)<(script|style|figure|iframe)[^>]*>.*?</\1>", " ", h)
+    h = re.sub(r"(?i)<br\s*/?>", "\n", h)
+    h = re.sub(r"(?i)<li[^>]*>", "\n\n\u2022 ", h)
+    h = re.sub(r"(?i)</?(p|div|h[1-6]|ul|ol|blockquote|tr|section|article)[^>]*>", "\n\n", h)
+    paras = []
+    for part in re.split(r"\n\s*\n", h):
+        t = for_display(part, 1800)
+        if t:
+            paras.append(t)
+    return paras
+
+
+def fetch_own():
+    req = urllib.request.Request(OWN_FEED, headers={"User-Agent": "Mozilla/5.0 NerdClock-News/1.0"})
+    root = ET.fromstring(urllib.request.urlopen(req, timeout=25).read())
+    out = []
+    for e in root.findall(ATOM + "entry"):
+        link = ""
+        for l in e.findall(ATOM + "link"):
+            if l.get("rel", "alternate") == "alternate":
+                link = l.get("href", "")
+        full = re.sub(r"[^a-z0-9\-]", "", link.rstrip("/").split("/")[-1].lower())
+        slug = full if len(full) <= 40 else full[:34] + "-" + hashlib.sha1(full.encode()).hexdigest()[:5]      # kurz, aber eindeutig
+        if not slug:
+            continue
+        title = for_display(e.findtext(ATOM + "title") or "", 95)
+        pub = (e.findtext(ATOM + "published") or e.findtext(ATOM + "updated") or "")[:19]
+        try:
+            ts = int(time.mktime(time.strptime(pub, "%Y-%m-%dT%H:%M:%S")))
+        except Exception:
+            ts = int(time.time())
+        summ_html = e.findtext(ATOM + "summary") or ""
+        summ_html = re.split(r"(?i)<p><a class=.read-more", summ_html)[0]
+        paras = html_to_paras(e.findtext(ATOM + "content") or "")
+        summary = for_display(summ_html, 330) or (paras[0][:330] if paras else "")
+        au = e.find(ATOM + "author")
+        author = for_display(au.findtext(ATOM + "name") if au is not None else "", 40)
+        body = "\n\n".join(paras)[:OWN_BODY_MAX]
+        out.append({"id": slug, "title": title, "summary": summary, "ts": ts, "url": link[:150], "author": author, "body": body})
+    out.sort(key=lambda x: x["ts"], reverse=True)
+    return out[:OWN_MAX]
+
+
+def write_own(out_dir, own):
+    """news_own.json (Liste ohne Text) + news_own/<id>.txt (ganzer Bericht, nur Text). Berichte, die nicht mehr im Blog stehen, werden gelöscht."""
+    d = out_dir / "news_own"
+    d.mkdir(exist_ok=True)
+    keep = set()
+    for o in own:
+        (d / (o["id"] + ".txt")).write_text(o["body"], encoding="utf-8")
+        keep.add(o["id"] + ".txt")
+    for f in d.glob("*.txt"):
+        if f.name not in keep:
+            f.unlink()
+    lst = [{k: o[k] for k in ("id", "title", "summary", "ts", "url", "author")} for o in own]
+    (out_dir / "news_own.json").write_text(json.dumps({"updated": int(time.time()), "source": "Nerdminer.de", "items": lst}, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"Eigene News: {len(own)} Beiträge von nerdminer.de")
+
+
 def collect():
     now = time.time()
     all_items, seen = [], set()
@@ -263,6 +332,10 @@ def main():
     if len(de) < 3:
         de = to_news(select_keywords(items), by_id)           # Notfall: zu wenige deutsche Meldungen
     per = {"de": de, "en": en}
+    try:
+        write_own(out.parent, fetch_own())
+    except Exception as e:
+        print("Eigene News übersprungen:", type(e).__name__, e)
     # fr/es/nl/it: die englischen Meldungen übersetzen (nur neue; mit ANTHROPIC_API_KEY, sonst/bei Fehler bleibt Englisch)
     cache = json.loads(cache_f.read_text(encoding="utf-8")) if cache_f.exists() else {}
     if os.environ.get("ANTHROPIC_API_KEY"):

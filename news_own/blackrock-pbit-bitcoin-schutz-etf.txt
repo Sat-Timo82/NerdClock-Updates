@@ -1,0 +1,13 @@
+Bitcoin-ETF mit begrenztem Aufwärtspotenzial
+
+BlackRock hat bei der US-Börsenaufsicht SEC die Registrierung des iShares Bitcoin Managed Protection ETF mit dem Ticker PBIT beantragt. Der geplante Fonds soll ein begrenztes Engagement in Bitcoin ermöglichen und zugleich ungefähr die ersten 10 % potenzieller Verluste schützen – jeweils vor Gebühren. Dafür akzeptieren Anleger einen Gewinn-Cap, der von den Marktbedingungen abhängt.
+
+Optionsstrategie statt direktem Bitcoin-Kauf
+
+PBIT würde weder Bitcoin noch Bitcoin-ETFs direkt halten. Stattdessen soll der Fonds Call-Optionen auf den iShares Bitcoin Trust ETF (IBIT) und ähnliche Produkte sowie Cash, Geldmarktfonds und kurzfristige Schuldtitel erwerben. Drei zeitlich versetzte Tranchen sollen jeweils Calls nahe 90 % des Referenzwerts kaufen und höher liegende Calls verkaufen, um die Gewinnobergrenze festzulegen.
+
+Risiken und geplanter Start
+
+Durch die überlappenden Tranchen gibt es keinen einheitlichen festen Verlustschutz oder Gewinn-Cap. Verluste, die von einem höheren Kursniveau aus gemessen werden, können daher mehr als 10 % betragen. Gebühren und Gesamtkosten stehen noch nicht fest; sofern sich der Zeitplan nicht ändert, könnte der ETF Anfang Januar 2027 starten. BlackRocks bestehender BITA ETF begrenzt ebenfalls das Bitcoin-Aufwärtspotenzial, verkauft Calls jedoch zur Erzielung von Erträgen statt zum Schutz vor Kursverlusten.
+
+Dein Bitcoin-Miner für zu Hause

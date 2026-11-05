@@ -1,0 +1,109 @@
+Kurz gesagt: Eine Bitcoin-Heizung erzeugt genauso viel Wärme wie ein Elektroheizer mit gleicher Leistung – und verdient dabei zusätzlich Bitcoin. Bei normalem Haushaltsstrom holst du damit rund 5 % deiner Stromkosten als Satoshis zurück, mit eigenem Solarstrom deutlich mehr. Eine Bitcoin-Heizung lohnt sich vor allem dort, wo du ohnehin elektrisch heizt.
+
+Was ist eine Bitcoin-Heizung?
+
+Eine Bitcoin-Heizung ist ein Bitcoin-Miner, der als Heizung genutzt wird. Ein Miner rechnet am Bitcoin-Netzwerk mit und verbraucht dafür Strom. Physikalisch passiert dabei dasselbe wie in jedem Elektroheizer: Die gesamte elektrische Energie wird zu Wärme. 900 Watt Stromaufnahme bedeuten 900 Watt Heizleistung – egal, ob ein Heizdraht oder ein Mining-Chip den Strom umsetzt.
+
+Der Unterschied: Ein normaler Heizlüfter macht aus dem Strom nur Wärme. Eine Bitcoin-Heizung macht daraus Wärme und Bitcoin. Deshalb sprechen viele auch von "Heizen mit Bitcoin-Bonus".
+
+Wie funktioniert das Heizen mit Mining?
+
+Im Inneren arbeitet ein ASIC-Miner, bei der NerdHeizung ein Bitmain Antminer S9i mit Braiins OS. Die Chips werden beim Rechnen warm, Lüfter blasen die Wärme in den Raum. Die Rechenleistung (Hashrate) wird an einen Mining-Pool geschickt, der die Erträge regelmäßig auszahlt – bei der NerdHeizung per Lightning direkt in deine Wallet.
+
+Damit eine Bitcoin-Heizung wohnzimmertauglich ist, kommt es auf drei Dinge an:
+
+Lautstärke: Original-Miner sind sehr laut. Die NerdHeizung nutzt leise Noctua-Lüfter und liegt bei ca. 35 dB bis 600 W.
+
+Regelbarkeit: Du willst nicht immer volle Leistung. Die NerdHeizung hat fünf Heizstufen von 400 bis 900 W.
+
+Einfache Einrichtung: Fertig montiert, Software und Pool-Account vorkonfiguriert – auspacken, einstecken, heizen.
+
+Rechenbeispiel: Wie viel bringt eine Bitcoin-Heizung?
+
+Die folgenden Werte gelten für die NerdHeizung bei Dauerbetrieb über 24 Stunden. Stand: 23.10.2026 (Hashpreis 45,0 sats je TH/s und Tag, 1 BTC = 72.829 €), Strompreis 0,35 €/kWh.
+
+Heizstufe Strom pro Tag Stromkosten pro Tag Ertrag pro Tag Anteil zurück
+
+400 W 9,6 kWh 3,36 € 207 sats ≈ 0,15 € ≈ 4,5 %
+
+500 W 12,0 kWh 4,20 € 274 sats ≈ 0,20 € ≈ 4,8 %
+
+600 W 14,4 kWh 5,04 € 342 sats ≈ 0,25 € ≈ 4,9 %
+
+750 W 18,0 kWh 6,30 € 436 sats ≈ 0,32 € ≈ 5,0 %
+
+900 W 21,6 kWh 7,56 € 526 sats ≈ 0,38 € ≈ 5,1 %
+
+Beispiel: ein Winter im Arbeitszimmer
+
+Du heizt dein Arbeitszimmer 120 Tage lang je 10 Stunden mit 600 W:
+
+Stromverbrauch: 720 kWh
+
+Stromkosten bei 0,35 €/kWh: 252 € – genauso viel wie mit einem 600-W-Elektroheizer
+
+Bitcoin-Ertrag: ca. 17.100 sats ≈ 12,45 €
+
+Du bekommst also rund 5 % deiner Heizkosten in Bitcoin zurück. Steigt der Bitcoin-Kurs, sind diese Satoshis später entsprechend mehr wert – sinkt er oder steigt die Difficulty, entsprechend weniger.
+
+Mit eigenem Solarstrom
+
+Spannend wird es mit einer Photovoltaik-Anlage. Speist du überschüssigen Strom ins Netz ein, bekommst du dafür oft nur rund 8 ct/kWh. Für dieselben 720 kWh wären das ca. 57,60 € Einspeisevergütung. Nutzt du den Strom stattdessen in der NerdHeizung, bekommst du Wärme plus ca. 12,45 € in Bitcoin – also gut ein Fünftel des entgangenen Einspeiseerlöses direkt zurück, und die Wärme oben drauf.
+
+Alle Werte sind Beispielrechnungen. Der Ertrag schwankt mit Bitcoin-Kurs, Difficulty und Transaktionsgebühren; Pool-Gebühren sind nicht abgezogen. Dies ist keine Anlageberatung.
+
+Lohnt sich eine Bitcoin-Heizung? Die ehrliche Antwort
+
+Ja, wenn du ohnehin elektrisch heizen würdest. Im Vergleich zu einem Heizlüfter, Ölradiator oder einer Infrarotheizung bekommst du dieselbe Wärme und zusätzlich Bitcoin. Typische Einsatzorte:
+
+Arbeitszimmer, Büro oder Home-Office
+
+Hobbyraum, Werkstatt, Gartenhaus mit Stromanschluss
+
+Räume, die die Zentralheizung schlecht erreicht
+
+Haushalte mit Photovoltaik-Überschuss
+
+Nein, als Ersatz für eine Wärmepumpe. Eine Wärmepumpe macht aus 1 kWh Strom etwa 3–4 kWh Wärme und ist damit deutlich effizienter als jede elektrische Direktheizung – auch als eine Bitcoin-Heizung. Die NerdHeizung ist eine Zusatzheizung, keine Zentralheizung.
+
+Und dann ist da noch der Spaß-Faktor: Eine Bitcoin-Heizung ist der einfachste Weg, selbst Teil des Bitcoin-Netzwerks zu werden und Mining hautnah zu erleben – im eigenen Wohnzimmer.
+
+Worauf du beim Kauf achten solltest
+
+Lautstärke: Unter 40 dB ist ein Gerät im Wohnraum angenehm. Achte auf Angaben pro Leistungsstufe.
+
+Heizstufen: Mehrere Stufen erlauben es, Wärme und Lautstärke an den Raum anzupassen.
+
+Einrichtung: Ist der Miner vorkonfiguriert, oder musst du Firmware und Pool selbst einrichten?
+
+Netzwerk: Per LAN oder per WLAN – kann das Gerät dort stehen, wo du Wärme brauchst?
+
+Sicherheit: CE-Kennzeichnung, wärmebeständiges Gehäuse und Garantie für die angegebene Leistung.
+
+Die NerdHeizung von Nerdminer.de
+
+Die NerdHeizung ist unsere Antwort auf genau diese Punkte: ein Antminer S9i im wärmebeständigen PETG-Gehäuse, fünf Heizstufen von 400 bis 900 W, leise Noctua-Lüfter (35–45 dB), wahlweise per LAN oder WLAN-Bridge – fertig montiert und eingerichtet, CE-zertifiziert, gebaut in Deutschland. Steuern kannst du sie im Browser oder ganz bequem mit der NerdClock .
+
+Zur NerdHeizung
+
+Häufige Fragen
+
+Ist eine Bitcoin-Heizung teurer im Betrieb als ein Heizlüfter?
+
+Nein. Bei gleicher Leistung verbrauchen beide gleich viel Strom und erzeugen gleich viel Wärme. Die Bitcoin-Heizung liefert zusätzlich Satoshis.
+
+Wie viel Bitcoin verdient man mit einer Bitcoin-Heizung?
+
+Mit der NerdHeizung je nach Stufe etwa 207 bis 526 Satoshis pro Tag im Dauerbetrieb (Stand 23.10.2026). Das entspricht rund 5 % der Stromkosten bei 0,35 €/kWh.
+
+Ist eine Bitcoin-Heizung laut?
+
+Das hängt vom Gerät ab. Original-Miner sind sehr laut; die NerdHeizung liegt dank Noctua-Lüftern bei ca. 35 dB bis 600 W und 45 dB bei 900 W.
+
+Kann eine Bitcoin-Heizung eine Wärmepumpe ersetzen?
+
+Nein. Eine Wärmepumpe ist deutlich effizienter. Eine Bitcoin-Heizung ersetzt sinnvoll elektrische Zusatzheizungen wie Heizlüfter oder Infrarotheizungen.
+
+Brauche ich Vorkenntnisse?
+
+Nein. Die NerdHeizung kommt fertig eingerichtet. Du steckst sie ein, verbindest sie mit dem Netzwerk und wählst eine Heizstufe.
