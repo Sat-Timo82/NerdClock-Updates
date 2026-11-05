@@ -6,6 +6,7 @@ bitaxe|Bitaxe Gamma 602 / 603|9|280|280|assist
 bitforge_nano|Bitforge Nano mit Display|14|280|280|assist
 bitforge|Bitforge ohne Display|10|280|280|assist
 nerdminer_giga|Giga-NerdMiner|10|280|280|assist
+nerdnos|NerdNOS|10|280|280|assist
 nerdminer_28|NerdMiner 2,8 Zoll|10|280|280|assist
 nerdminer_19|NerdMiner Classic 1,9 Zoll|10|280|280|assist
 nerdheizung|NerdHeizung|10|280|280|assist
