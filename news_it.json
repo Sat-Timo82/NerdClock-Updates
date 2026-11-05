@@ -1,8 +1,16 @@
 {
- "updated": 1793843341,
+ "updated": 1793847380,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Saylor Links Republican and Democratic Wins to Bitcoin Reserves",
+   "summary": "Michael Saylor cited victories by Republican Byron Donalds in Florida and Democrat James Talarico in Texas as evidence of bipartisan support for government bitcoin holdings. Their legislative records connected the election results to federal and state reserve initiatives. Saylor Cites Republican and Democratic Election Winners…",
+   "source": "Bitcoin.com News",
+   "ts": 1793845837,
+   "url": "https://news.bitcoin.com/featured/saylor-links-republican-and-democratic-wins-to-bitcoin-reserves/",
+   "ad": false
+  },
   {
    "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
    "summary": "American Bitcoin swung to about $126 million in third-quarter net income after a $197.3 million gain on its bitcoin holdings, reversing a $57.2 million loss in the prior quarter. This post American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million first appeared on Bitcoin Magazine and is written by Micah…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793824371,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-80000-short",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-   "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-   "source": "The Block",
-   "ts": 1793822998,
-   "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
    "ad": false
   }
  ]
