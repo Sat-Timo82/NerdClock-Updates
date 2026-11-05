@@ -1,7 +1,15 @@
 {
- "updated": 1793904946,
+ "updated": 1793908536,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-unter-76000-tech-aktien-au-47531",
+   "title": "Bitcoin fällt unter 76.000 US-Dollar, während US-Aktien 2,3 Billionen Dollar verlieren",
+   "summary": "Bitcoin rutscht unter 76.000 US-Dollar: Tech-Ausverkauf, Milliarden-Liquidationen und die neue Korrelation zum S&P 500 belasten den Kryptomarkt.",
+   "ts": 1793905961,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-76000-tech-aktien-ausverkauf-krypto-markt",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "moscow-exchange-pilotphase-bitcoin-8a278",
    "title": "Moscow Exchange startet am 1. Dezember Bitcoin- und Krypto-Handel",
@@ -232,14 +240,6 @@
    "summary": "Strive kauft 1.223 BTC und erhöht seine Bitcoin-Bestände auf über 3 Milliarden US-Dollar – schneller als Strategy.",
    "ts": 1792424008,
    "url": "https://nerdminer.de/blogs/news/strive-erwirbt-1223-bitcoin-bestand-ueber-3-milliarden",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "google-quantum-ai-magische-zustaen-3849f",
-   "title": "Google senkt Quantenfehler um das 40-Fache – Durchbruch bei Magic States bedroht…",
-   "summary": "Google reduziert Quantenfehler mit Magic States um das 40-Fache. Was der Durchbruch für Bitcoin, Krypto-Wallets und elliptische Kurven bedeutet.",
-   "ts": 1792163725,
-   "url": "https://nerdminer.de/blogs/news/google-quantum-ai-magische-zustaende-willow-9999-logische-fidelitaet",
    "author": "Yannic Fraebel"
   }
  ]
