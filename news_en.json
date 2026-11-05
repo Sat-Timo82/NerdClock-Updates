@@ -1,8 +1,32 @@
 {
- "updated": 1793876750,
+ "updated": 1793880001,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+   "summary": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
+   "source": "CoinDesk",
+   "ts": 1793879363,
+   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+   "ad": false
+  },
+  {
+   "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+   "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts' forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
+   "source": "CoinDesk",
+   "ts": 1793879154,
+   "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Adoption Expands as Moscow Exchange Prepares December Trading Launch",
+   "summary": "Bitcoin Adoption could gain another important milestone as Russia's largest securities exchange moves closer to introducing direct cryptocurrency trading through its established financial infrastructure. Moscow Exchange has published new details about its planned December 1 launch, confirming that Bitcoin, Ethereum, and USDT…",
+   "source": "Bitcoinist",
+   "ts": 1793876971,
+   "url": "https://bitcoinist.com/bitcoin-adoption-expands-as-moscow-exchange-prepares-december-trading-launch/",
+   "ad": false
+  },
   {
    "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
    "summary": "Ether jumped 4% and crypto ETFs drew fresh money after Wall Street turned higher and Brent crude fell nearly 9%.",
@@ -52,35 +76,11 @@
    "ad": false
   },
   {
-   "title": "Eric Trump's American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
-   "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
-   "source": "The Block",
-   "ts": 1793868752,
-   "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Price Recovery: BTC Reclaims $80K as Election Uncertainty Fades – Is $85K Next?",
    "summary": "Bitcoin Price Recovery is gaining momentum after BTC climbed back above $80,000, overcoming a difficult week marked by the US midterm elections and a major cryptocurrency exchange security incident. On November 5, Bitcoin traded near $80,400, recovering from an election-period low around $75,600. The rebound has renewed…",
    "source": "Bitcoinist",
    "ts": 1793867916,
    "url": "https://bitcoinist.com/bitcoin-price-recovery-btc-reclaims-80k-as-election-uncertainty-fades-is-85k-next/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-   "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
-   "source": "CoinDesk",
-   "ts": 1793855625,
-   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-   "ad": false
-  },
-  {
-   "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-   "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
-   "source": "CoinDesk",
-   "ts": 1793851893,
-   "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
    "ad": false
   }
  ]
