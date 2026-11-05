@@ -1,8 +1,24 @@
 {
- "updated": 1793915376,
+ "updated": 1793919012,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "American Bitcoin's $126M profit masks mining pressure as rivals turn to AI",
+   "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+   "source": "Cointelegraph",
+   "ts": 1793918598,
+   "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+   "summary": "Ueno's collapse trapped millions of Paraguayan depositors and triggered a president's resignation, reviving Bitcoin's argument for self-custody.",
+   "source": "Decrypt",
+   "ts": 1793916963,
+   "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
    "summary": "Bitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations topped $1 billion and Strategy, Coinbase and bitcoin miners sold off in double digits. This post Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction first appeared on Bitcoin Magazine and is…",
@@ -65,22 +81,6 @@
    "source": "The Block",
    "ts": 1793897636,
    "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-   "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
-   "source": "Cointelegraph",
-   "ts": 1793897321,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
-   "ad": false
-  },
-  {
-   "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
-   "summary": "Keel sold 2,520 bitcoin in the third quarter, left its treasury near zero and said Quebec-mined coins will now be sold every day as it pivots to AI data centers. This post Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793897100,
-   "url": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
    "ad": false
   }
  ]
