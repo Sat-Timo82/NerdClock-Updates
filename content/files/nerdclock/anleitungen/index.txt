@@ -11,6 +11,7 @@ nerdminer_28|NerdMiner 2,8 Zoll|10|280|280|assist
 nerdminer_19|NerdMiner Classic 1,9 Zoll|10|280|280|assist
 nerdheizung|NerdHeizung|10|280|280|assist
 braiins_pool|Braiins Pool Account und Auszahlung|7|280|280|assist
+braiins_pool_axe|Braiins Pool mit NerdAxe und Bitaxe verbinden|3|280|280|assist
 seedsigner|SeedSigner|13|280|280|assist
 bitbox|BitBox02|7|280|280|assist
 candy|Candy Dispenser|10|280|280|assist
