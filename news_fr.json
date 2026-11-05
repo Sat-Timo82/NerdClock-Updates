@@ -1,8 +1,32 @@
 {
- "updated": 1793901415,
+ "updated": 1793904946,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half…",
+   "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
+   "source": "CoinDesk",
+   "ts": 1793904520,
+   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+   "ad": false
+  },
+  {
+   "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
+   "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
+   "source": "Decrypt",
+   "ts": 1793903131,
+   "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+   "ad": false
+  },
+  {
+   "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and…",
+   "summary": "Bull Bitcoin is the first Bitcoin exchange to offer Payjoin privacy as a deposit and withdrawal option. Every on-chain buy or sell via BULL Wallet is now a Payjoin by default, automating UTXO aggregation for users while reducing future mining fees and the overall Bitcoin UTXO set. This post Bull Bitcoin Becomes First Exchange…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793901600,
+   "url": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
+   "ad": false
+  },
   {
    "title": "Keel Infrastructure Dumps Entire Bitcoin Treasury for $192M as Mining Exit Accelerates",
    "summary": "Former bitcoin mining company Keel Infrastructure sold its entire BTC treasury during the third quarter, generating $192 million in proceeds as it accelerates its transition into artificial intelligence (AI) infrastructure amid a broader sell-off in mining and AI-related stocks. Keel Infrastructure, formerly known as Bitfarms…",
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793893698,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Mining Stocks Plunge 35% as VanEck Sees Oversold Opportunity",
-   "summary": "Bitcoin mining stocks expanding into AI data center infrastructure dropped an average of 35% in October. VanEck believes the selloff was excessive, arguing that market fears have pushed valuations below what existing business fundamentals would justify. Concerns surrounding rising borrowing costs at AI computing companies…",
-   "source": "Bitcoinist",
-   "ts": 1793889910,
-   "url": "https://bitcoinist.com/bitcoin-mining-stocks-plunge-35-as-vaneck-sees-oversold-opportunity/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates",
-   "summary": "Bitcoin price slipped back below $80,000 on Thursday morning. This post Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793886473,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-79600-oil",
-   "ad": false
-  },
-  {
-   "title": "Google could take stake in bitcoin miner TeraWulf's $19 billion AI project if Anthropic…",
-   "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
-   "source": "CoinDesk",
-   "ts": 1793885380,
-   "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
    "ad": false
   }
  ]
