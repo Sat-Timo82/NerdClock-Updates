@@ -1,8 +1,32 @@
 {
- "updated": 1793908536,
+ "updated": 1793911925,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
+   "summary": "Core Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 as a pure-play AI colocation landlord, with self-mining revenue already down to $12.3 million. This post Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million first appeared on Bitcoin Magazine and…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793911167,
+   "url": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end",
+   "ad": false
+  },
+  {
+   "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+   "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
+   "source": "Decrypt",
+   "ts": 1793909763,
+   "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto…",
+   "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
+   "source": "The Block",
+   "ts": 1793909462,
+   "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+   "ad": false
+  },
   {
    "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half…",
    "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793897100,
    "url": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
-   "summary": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.",
-   "source": "Decrypt",
-   "ts": 1793896151,
-   "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
-   "ad": false
-  },
-  {
-   "title": "U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home",
-   "summary": "Russia's largest exchange, Moscow Exchange,. will open bitcoin trading on Dec. 1 under the country's new crypto law, with retail buyers tested and capped at 300,000 rubles a year. This post U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793894400,
-   "url": "https://bitcoinmagazine.com/news/moscow-exchange-bitcoin-trading-dec-1",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
-   "summary": "Bitcoin price fell from above $80,800 to near $76,600 on Thursday morning as a Nasdaq selloff in chip and AI stocks spilled into crypto. This post Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793893698,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech",
    "ad": false
   }
  ]
