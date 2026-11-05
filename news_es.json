@@ -1,8 +1,24 @@
 {
- "updated": 1793884209,
+ "updated": 1793889313,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates",
+   "summary": "Bitcoin price slipped back below $80,000 on Thursday morning. This post Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793886473,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-79600-oil",
+   "ad": false
+  },
+  {
+   "title": "Google could take stake in bitcoin miner TeraWulf's $19 billion AI project if Anthropic…",
+   "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
+   "source": "CoinDesk",
+   "ts": 1793885380,
+   "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+   "ad": false
+  },
   {
    "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
    "summary": "Your day-ahead look for Nov. 5, 2026",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793874506,
    "url": "https://cointelegraph.com/markets/bitcoin-win-rate-sp-500-us-midterms-stocks-gains?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
-   "ad": false
-  },
-  {
-   "title": "Crypto Legislation: A New Opportunity for Bitcoin?",
-   "summary": "The future of crypto legislation is back in focus after the US midterm elections, with renewed discussions in Washington raising hopes that the digital asset industry could eventually secure a clearer regulatory framework. Fundstrat's Tom Lee has suggested that changing political attitudes toward cryptocurrency could be…",
-   "source": "Bitcoinist",
-   "ts": 1793873701,
-   "url": "https://bitcoinist.com/crypto-legislation-a-new-opportunity-for-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-   "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
-   "source": "CoinDesk",
-   "ts": 1793871392,
-   "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
    "ad": false
   }
  ]
