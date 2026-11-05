@@ -1,8 +1,16 @@
 {
- "updated": 1793850999,
+ "updated": 1793854798,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+   "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
+   "source": "CoinDesk",
+   "ts": 1793851893,
+   "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+   "ad": false
+  },
   {
    "title": "Convicted Murderer Wins Back Bitcoin Wallet Despite Life Sentence",
    "summary": "Convicted killer William Sandeson won a court order for the return of his bitcoin wallet while serving a life sentence for murder. The ruling covered a laptop seized after his arrest, while cash remained withheld. Why the Judge Ordered Sandeson's Bitcoin Returned William Sandeson secured the return of his bitcoin wallet…",
@@ -73,14 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793827800,
    "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Fork ECX Price Crashes 76% From Peak as Binance Hack Steals Spotlight",
-   "summary": "The recent $6.3 billion Binance hack and subsequent cryptocurrency market downturn largely eclipsed Drivechain creator Paul Sztorc's ECX launch on Oct. 29, 2026. Since the start of the phased launch and subsequent trading, the forked digital asset climbed to an all-time high of $134.97 per coin before relinquishing 76% of its…",
-   "source": "Bitcoin.com News",
-   "ts": 1793827168,
-   "url": "https://news.bitcoin.com/crypto-news/bitcoin-fork-ecx-price-crashes-76-percent-binance-hack-steals-spotlight/",
    "ad": false
   }
  ]
