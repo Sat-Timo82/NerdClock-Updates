@@ -1,8 +1,16 @@
 {
- "updated": 1793889313,
+ "updated": 1793892752,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin Mining Stocks Plunge 35% as VanEck Sees Oversold Opportunity",
+   "summary": "Bitcoin mining stocks expanding into AI data center infrastructure dropped an average of 35% in October. VanEck believes the selloff was excessive, arguing that market fears have pushed valuations below what existing business fundamentals would justify. Concerns surrounding rising borrowing costs at AI computing companies…",
+   "source": "Bitcoinist",
+   "ts": 1793889910,
+   "url": "https://bitcoinist.com/bitcoin-mining-stocks-plunge-35-as-vaneck-sees-oversold-opportunity/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates",
    "summary": "Bitcoin price slipped back below $80,000 on Thursday morning. This post Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -36,14 +44,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
-   "summary": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
-   "source": "CoinDesk",
-   "ts": 1793879363,
-   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-   "ad": false
-  },
-  {
    "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
    "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts' forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
    "source": "CoinDesk",
@@ -60,8 +60,8 @@
    "ad": false
   },
   {
-   "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
-   "summary": "There's been no letup in selling of the AI chip stocks, sending Nasdaq 100 futures nearly 1% lower.",
+   "title": "Live updates: Bitcoin plunges as Nasdaq falls 4% in panicky selloff",
+   "summary": "There's been no letup in the selling of the AI chip stocks, with Micron and AMD among those suffering double-digit percentage declines; Nvidia is down 8%.",
    "source": "CoinDesk",
    "ts": 1793876231,
    "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
