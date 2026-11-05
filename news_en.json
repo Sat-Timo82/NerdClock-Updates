@@ -1,8 +1,32 @@
 {
- "updated": 1793867925,
+ "updated": 1793873039,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Price Breakout Faces a Crucial Test: Can BTC Confirm a Bullish Reversal?",
+   "summary": "Bitcoin Price Breakout is becoming an important story as BTC shows signs of improving momentum following a turbulent period for cryptocurrency markets. While Bitcoin's recovery above $80,000 has attracted attention, we believe the more important development is the potential change in its short-term market structure. A strong…",
+   "source": "Bitcoinist",
+   "ts": 1793870176,
+   "url": "https://bitcoinist.com/bitcoin-price-breakout-faces-a-crucial-test-can-btc-confirm-a-bullish-reversal/",
+   "ad": false
+  },
+  {
+   "title": "Eric Trump's American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
+   "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
+   "source": "The Block",
+   "ts": 1793868752,
+   "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Recovery: BTC Reclaims $80K as Election Uncertainty Fades – Is $85K Next?",
+   "summary": "Bitcoin Price Recovery is gaining momentum after BTC climbed back above $80,000, overcoming a difficult week marked by the US midterm elections and a major cryptocurrency exchange security incident. On November 5, Bitcoin traded near $80,400, recovering from an election-period low around $75,600. The rebound has renewed…",
+   "source": "Bitcoinist",
+   "ts": 1793867916,
+   "url": "https://bitcoinist.com/bitcoin-price-recovery-btc-reclaims-80k-as-election-uncertainty-fades-is-85k-next/",
+   "ad": false
+  },
   {
    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
    "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
@@ -36,14 +60,6 @@
    "ad": false
   },
   {
-   "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
-   "summary": "American Bitcoin swung to about $126 million in third-quarter net income after a $197.3 million gain on its bitcoin holdings, reversing a $57.2 million loss in the prior quarter. This post American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793843089,
-   "url": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
-   "ad": false
-  },
-  {
    "title": "Kiyosaki Buys Bitcoin During Market Panic, Warns of a Bigger Threat",
    "summary": "Robert Kiyosaki said he added bitcoin, gold, and silver while others panicked over falling prices. The Rich Dad Poor Dad author tied his purchases to concerns about growing debt and the treatment of workers' savings under government-issued money. Kiyosaki Reports Buying During Market Declines Robert Kiyosaki, author of Rich…",
    "source": "Bitcoin.com News",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793832702,
    "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
-   "ad": false
-  },
-  {
-   "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
-   "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it's about Bitcoin maintenance.",
-   "source": "Decrypt",
-   "ts": 1793832363,
-   "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
-   "ad": false
-  },
-  {
-   "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-   "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
-   "source": "The Block",
-   "ts": 1793829289,
-   "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
    "ad": false
   }
  ]
