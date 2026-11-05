@@ -1,8 +1,16 @@
 {
- "updated": 1793854798,
+ "updated": 1793858532,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+   "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
+   "source": "CoinDesk",
+   "ts": 1793855625,
+   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
+   "ad": false
+  },
   {
    "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
    "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
@@ -73,14 +81,6 @@
    "source": "The Block",
    "ts": 1793829289,
    "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
-   "ad": false
-  },
-  {
-   "title": "How Aussie Bitcoiners can avoid 2027's shock CGT hike",
-   "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027's massive CGT hike.",
-   "source": "Cointelegraph",
-   "ts": 1793827800,
-   "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_",
    "ad": false
   }
  ]
