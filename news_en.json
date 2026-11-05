@@ -1,8 +1,16 @@
 {
- "updated": 1793911925,
+ "updated": 1793915376,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
+   "summary": "Bitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations topped $1 billion and Strategy, Coinbase and bitcoin miners sold off in double digits. This post Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793915195,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
+   "ad": false
+  },
   {
    "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
    "summary": "Core Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 as a pure-play AI colocation landlord, with self-mining revenue already down to $12.3 million. This post Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million first appeared on Bitcoin Magazine and…",
@@ -25,14 +33,6 @@
    "source": "The Block",
    "ts": 1793909462,
    "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half…",
-   "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-   "source": "CoinDesk",
-   "ts": 1793904520,
-   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
    "ad": false
   },
   {
