@@ -1,8 +1,16 @@
 {
- "updated": 1793847380,
+ "updated": 1793850999,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Convicted Murderer Wins Back Bitcoin Wallet Despite Life Sentence",
+   "summary": "Convicted killer William Sandeson won a court order for the return of his bitcoin wallet while serving a life sentence for murder. The ruling covered a laptop seized after his arrest, while cash remained withheld. Why the Judge Ordered Sandeson's Bitcoin Returned William Sandeson secured the return of his bitcoin wallet…",
+   "source": "Bitcoin.com News",
+   "ts": 1793849456,
+   "url": "https://news.bitcoin.com/regulation-and-legal/convicted-murderer-wins-back-bitcoin-wallet-despite-life-sentence/",
+   "ad": false
+  },
   {
    "title": "Saylor Links Republican and Democratic Wins to Bitcoin Reserves",
    "summary": "Michael Saylor cited victories by Republican Byron Donalds in Florida and Democrat James Talarico in Texas as evidence of bipartisan support for government bitcoin holdings. Their legislative records connected the election results to federal and state reserve initiatives. Saylor Cites Republican and Democratic Election Winners…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793827168,
    "url": "https://news.bitcoin.com/crypto-news/bitcoin-fork-ecx-price-crashes-76-percent-binance-hack-steals-spotlight/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze",
-   "summary": "Bitcoin price holds near $80,000 after rebounding from an election-night low of $75,600, as a short squeeze, a stock rally and a 9% drop in oil follow the Democratic sweep of Congress. This post Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793824371,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-80000-short",
    "ad": false
   }
  ]

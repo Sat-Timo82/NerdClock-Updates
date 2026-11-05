@@ -1,8 +1,16 @@
 {
- "updated": 1793847380,
+ "updated": 1793850999,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Gerd Kommer: Warum der einstige Krypto-Kritiker jetzt selbst Bitcoin kauft",
+   "summary": "Solana und XRP kommen für Gerd Kommer nicht infrage. Weshalb er nur auf zwei Kryptowährungen im Portfolio setzt, erklärt der ETF-Pionier im Interview. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793847600,
+   "url": "https://www.btc-echo.de/news/gerd-kommer-warum-der-krypto-kritiker-jetzt-selbst-bitcoin-kauft-240368/",
+   "ad": false
+  },
   {
    "title": "STRC zurück bei 100 US-Dollar – Kann Strategy jetzt wieder im großen Stil Bitcoin kaufen?",
    "summary": "STRC von Strategy ist wieder auf 100 US-Dollar gestiegen. Wie gelang das Comeback und kann Michael Saylor jetzt wieder Milliarden pro Woche in Bitcoin investieren?",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793740500,
    "url": "https://www.blocktrainer.de/blog/nordkorea-streitet-binance-hack-ab",
-   "ad": false
-  },
-  {
-   "title": "Binance-Notfallreserve halbiert: Nur noch 7.500 Bitcoin übrig",
-   "summary": "Für zehn Coins können Kunden ihre Guthaben jetzt selbst kryptografisch überprüfen. Bei weniger liquiden Token dauert der Ausgleich noch an. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793720520,
-   "url": "https://www.btc-echo.de/news/binance-notfallreserve-halbiert-nur-noch-7-500-bitcoin-uebrig-240325/",
    "ad": false
   }
  ]
