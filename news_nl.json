@@ -1,8 +1,24 @@
 {
- "updated": 1793880001,
+ "updated": 1793884209,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+   "summary": "Your day-ahead look for Nov. 5, 2026",
+   "source": "CoinDesk",
+   "ts": 1793881624,
+   "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+   "ad": false
+  },
+  {
+   "title": "South Korea Crypto Tax Delay Could Boost Bitcoin Adoption Until 2029",
+   "summary": "South Korea's crypto tax delay could become an encouraging development for Bitcoin investors as the government seeks to postpone its planned cryptocurrency gains tax for another two years. Finance Minister Lee Hyoung-il announced on November 5 that authorities will work with lawmakers to move the tax's implementation from…",
+   "source": "Bitcoinist",
+   "ts": 1793880269,
+   "url": "https://bitcoinist.com/south-korea-crypto-tax-delay-could-boost-bitcoin-adoption-until-2029/",
+   "ad": false
+  },
   {
    "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
    "summary": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
@@ -28,8 +44,8 @@
    "ad": false
   },
   {
-   "title": "Live updates: Bitcoin steady around $80,000 as markets rally after Democratic sweep",
-   "summary": "Ether jumped 4% and crypto ETFs drew fresh money after Wall Street turned higher and Brent crude fell nearly 9%.",
+   "title": "Live updates: Bitcoin edges lower as markets cool following yesterday's rally",
+   "summary": "There's been no letup in selling of the AI chip stocks, sending Nasdaq 100 futures nearly 1% lower.",
    "source": "CoinDesk",
    "ts": 1793876231,
    "url": "https://www.coindesk.com/business/2026/11/05/live-updates-bitcoin-steady-around-usd80-000-as-markets-rally-after-democratic-sweep",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1793871392,
    "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Breakout Faces a Crucial Test: Can BTC Confirm a Bullish Reversal?",
-   "summary": "Bitcoin Price Breakout is becoming an important story as BTC shows signs of improving momentum following a turbulent period for cryptocurrency markets. While Bitcoin's recovery above $80,000 has attracted attention, we believe the more important development is the potential change in its short-term market structure. A strong…",
-   "source": "Bitcoinist",
-   "ts": 1793870176,
-   "url": "https://bitcoinist.com/bitcoin-price-breakout-faces-a-crucial-test-can-btc-confirm-a-bullish-reversal/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Recovery: BTC Reclaims $80K as Election Uncertainty Fades – Is $85K Next?",
-   "summary": "Bitcoin Price Recovery is gaining momentum after BTC climbed back above $80,000, overcoming a difficult week marked by the US midterm elections and a major cryptocurrency exchange security incident. On November 5, Bitcoin traded near $80,400, recovering from an election-period low around $75,600. The rebound has renewed…",
-   "source": "Bitcoinist",
-   "ts": 1793867916,
-   "url": "https://bitcoinist.com/bitcoin-price-recovery-btc-reclaims-80k-as-election-uncertainty-fades-is-85k-next/",
    "ad": false
   }
  ]
