@@ -1,8 +1,32 @@
 {
- "updated": 1793989444,
+ "updated": 1793993528,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+   "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+   "source": "Decrypt",
+   "ts": 1793990163,
+   "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
+   "summary": "Books opened a third-anniversary campaign for Aaron van Wirdum's The Genesis Book, capping a hand-signed Collectors Edition at 333 numbered copies. This post Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793989952,
+   "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
+   "ad": false
+  },
+  {
+   "title": "US Treasury and Fed Abandon Plan to Track Smaller Bitcoin, Crypto Transfers",
+   "summary": "The U.S. Treasury Department and the Federal Reserve are withdrawing a proposal to expand information collection for international crypto transfers as small as $250. The decision preserves the existing $3,000 threshold as officials reassess rules proposed in 2020. Treasury and Fed Drop Proposed $250 Transfer Threshold The U.S…",
+   "source": "Bitcoin.com News",
+   "ts": 1793989950,
+   "url": "https://news.bitcoin.com/regulation-and-legal/us-treasury-fed-abandon-plan-track-smaller-bitcoin-crypto-transfers/",
+   "ad": false
+  },
   {
    "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more…",
    "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
@@ -57,30 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793980027,
    "url": "https://news.bitcoin.com/finance/strive-posts-509m-q3-profit-bitcoin-holdings-surge-3-25b/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
-   "summary": "Bitcoin finds opportunity once again after struggling to gain traction as more than $1 billion in bullish cryptocurrency positions were liquidated within 24 hours, while institutional investors continued pulling money from spot Bitcoin ETFs. The combination of aggressive forced selling and a lack of fresh buying demand has…",
-   "source": "Bitcoinist",
-   "ts": 1793978916,
-   "url": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Futures Open Interest Drops to $52 Billion as Traders Retreat",
-   "summary": "Bitcoin futures open interest fell 1.88% to $52.04 billion as the leading crypto asset declined nearly 5% to $75,783 on Friday, Nov. 6, 2026. Coinglass data shows declining exposure across major derivatives exchanges, while options activity reveals a curious divergence: Calls dominate outstanding positions, but puts lead…",
-   "source": "Bitcoin.com News",
-   "ts": 1793977605,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-futures-open-interest-drops-52-billion-traders-retreat/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
-   "summary": "Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds Near $75,000 After Hot October Jobs Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793975411,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
    "ad": false
   }
  ]
