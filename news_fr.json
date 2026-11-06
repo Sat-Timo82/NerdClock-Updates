@@ -1,8 +1,24 @@
 {
- "updated": 1793982449,
+ "updated": 1793986013,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Price Falls Below $75K for First Time Since August as Tech Sell-Off Deepens",
+   "summary": "Bitcoin briefly fell below $75,000 on Friday, hitting its lowest level since Aug. 21 as a U.S.-led technology stock sell-off spread across global markets. Bitcoin Slides to Lowest Level in Months Bitcoin briefly dipped below the $75,000 threshold on Friday, caught in the wake of a global equity sell-off that erased trillions…",
+   "source": "Bitcoin.com News",
+   "ts": 1793983826,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-falls-75k-first-time-august-tech-sell-off-deepens/",
+   "ad": false
+  },
+  {
+   "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+   "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+   "source": "Decrypt",
+   "ts": 1793982847,
+   "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+   "ad": false
+  },
   {
    "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
    "summary": "Strive posted $474.8M in Q3 net income to common holders, almost entirely a $533.7M unrealized bitcoin gain, and touted 103.7% year-to-date outperformance versus bitcoin. This post Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2% first appeared on Bitcoin Magazine and is written by Micah…",
@@ -65,22 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793972444,
    "url": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
-   "ad": false
-  },
-  {
-   "title": "TeraWulf's bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-   "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
-   "source": "The Block",
-   "ts": 1793972422,
-   "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
-   "ad": false
-  },
-  {
-   "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-   "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
-   "source": "Decrypt",
-   "ts": 1793971760,
-   "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
    "ad": false
   }
  ]
