@@ -1,14 +1,22 @@
 {
- "updated": 1793947055,
+ "updated": 1793951649,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "Bitcoin stürzt nach US-Wahl auf 75.000 US-Dollar: Das müssen Anleger jetzt wissen",
-   "summary": "Nach dem Wahlsieg der Demokraten war Bitcoin zuerst gestiegen. Doch jetzt geraten Tech-Aktien und Kryptowährungen unter Druck, Bitcoin Miner mit KI-Geschäft trifft es besonders hart. Was hinter dem Ausverkauf steckt. Source: BTC-ECHO BTC-ECHO",
+   "title": "Bitcoin fällt auf die 75.000 US-Dollar Marke",
+   "summary": "Zwei Tage nach der Wahl hat sich die Stimmung komplett gedreht. Ausgerechnet das Ergebnis, das den Markt am Mittwoch beflügelte, bereitet nun Sorgen. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1793895429,
-   "url": "https://www.btc-echo.de/news/bitcoin-stuerzt-us-wahl-auf-75000-dollar-muessen-anleger-jetzt-wissen-240481/",
+   "ts": 1793948590,
+   "url": "https://www.btc-echo.de/news/bitcoin-faellt-auf-die-75-000-us-dollar-marke-240494/",
+   "ad": false
+  },
+  {
+   "title": "Strategy-Aktie STRC legt zu: Was Bitcoin-Anleger jetzt wissen sollten",
+   "summary": "Die STRC-Aktie von Strategy feiert nach deutlichen Verlusten ein Comeback. Auch die hohe Dividende macht die Vorzugsaktie interessant. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793879428,
+   "url": "https://www.btc-echo.de/news/strategy-aktie-strc-legt-zu-was-bitcoin-anleger-jetzt-wissen-sollten-240443/",
    "ad": false
   },
   {
@@ -33,22 +41,6 @@
    "source": "BTC-ECHO",
    "ts": 1793847600,
    "url": "https://www.btc-echo.de/news/gerd-kommer-warum-der-krypto-kritiker-jetzt-selbst-bitcoin-kauft-240368/",
-   "ad": false
-  },
-  {
-   "title": "STRC zurück bei 100 US-Dollar – Kann Strategy jetzt wieder im großen Stil Bitcoin kaufen?",
-   "summary": "STRC von Strategy ist wieder auf 100 US-Dollar gestiegen. Wie gelang das Comeback und kann Michael Saylor jetzt wieder Milliarden pro Woche in Bitcoin investieren?",
-   "source": "Blocktrainer",
-   "ts": 1793831232,
-   "url": "https://www.blocktrainer.de/blog/strc-wieder-bei-100-us-dollar-kann-strategy-jetzt-wieder-im-grossen-stil-bitcoin-kaufen",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin steigt über 80.000 US-Dollar: Was der Sieg der Demokraten bedeutet",
-   "summary": "Die Demokraten gewinnen die Mehrheit in beiden Kammern und Bitcoin reagiert mit kräftigen Kursgewinnen. Ein Krypto-Experte erklärt, welche Folgen der Machtwechsel jetzt haben könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793810537,
-   "url": "https://www.btc-echo.de/news/bitcoin-steigt-ueber-80-000-us-dollar-was-der-sieg-der-demokraten-bedeutet-240399/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "BTC-ECHO",
    "ts": 1793803070,
    "url": "https://www.btc-echo.de/news/fake-money-darum-setzt-robert-kiyosaki-weiter-auf-bitcoin-240377/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Geschäft von Block bricht um 50 Prozent ein",
+   "summary": "Das Bitcoin-Geschäft von Jack Dorseys Block bricht im dritten Quartal deutlich ein. Zudem steht eine Einigung mit der US-Justiz über 764 Millionen US-Dollar bevor. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793784908,
+   "url": "https://www.btc-echo.de/news/bitcoin-geschaeft-von-block-bricht-um-50-prozent-ein-240347/",
    "ad": false
   }
  ]
