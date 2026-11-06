@@ -1,8 +1,32 @@
 {
- "updated": 1793922364,
+ "updated": 1793927187,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Michael Saylor Flags Sharp Market Selloff as Nasdaq Crashes 5.5%",
+   "summary": "Michael Saylor compared a sharp equity sell-off and bitcoin's retreat with Strategy's preferred stock trading near par. His assessment followed the company's shift to daily dividends and the shares' return to their $100 benchmark. Saylor Compares Equity Losses With STRC's Closing Price Michael Saylor, founder and executive…",
+   "source": "Bitcoin.com News",
+   "ts": 1793925932,
+   "url": "https://news.bitcoin.com/market-updates/michael-saylor-flags-sharp-market-selloff-as-nasdaq-crashes-5-5/",
+   "ad": false
+  },
+  {
+   "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+   "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+   "source": "Cointelegraph",
+   "ts": 1793924389,
+   "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss_tag_bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Elon Musk Jokes About 'Election-Interfering Space Lasers' as Polymarket Whale Scores on Texas",
+   "summary": "A Polymarket user who goes by the name Domer made about $62,700 betting against a Republican win in Texas' Senate race and mocked the roughly $250 million that Elon Musk-backed groups spent trying to keep the seat Republican, calling it the stupidest thing anyone could do. Musk, posting separately, joked that his…",
+   "source": "Bitcoin.com News",
+   "ts": 1793922358,
+   "url": "https://news.bitcoin.com/igaming/elon-musk-jokes-election-interfering-space-lasers-polymarket-whale/",
+   "ad": false
+  },
   {
    "title": "American Bitcoin's $126M profit masks mining pressure as rivals turn to AI",
    "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
@@ -25,14 +49,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793915195,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
-   "ad": false
-  },
-  {
-   "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
-   "summary": "Core Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 as a pure-play AI colocation landlord, with self-mining revenue already down to $12.3 million. This post Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million first appeared on Bitcoin Magazine and…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793911167,
-   "url": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793901600,
    "url": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
-   "ad": false
-  },
-  {
-   "title": "Keel Infrastructure Dumps Entire Bitcoin Treasury for $192M as Mining Exit Accelerates",
-   "summary": "Former bitcoin mining company Keel Infrastructure sold its entire BTC treasury during the third quarter, generating $192 million in proceeds as it accelerates its transition into artificial intelligence (AI) infrastructure amid a broader sell-off in mining and AI-related stocks. Keel Infrastructure, formerly known as Bitfarms…",
-   "source": "Bitcoin.com News",
-   "ts": 1793898904,
-   "url": "https://news.bitcoin.com/mining/keel-infrastructure-dumps-entire-bitcoin-treasury-192m-mining-exit/",
-   "ad": false
-  },
-  {
-   "title": "Canary's Injective ETF debuts on Nasdaq with exposure to staking rewards",
-   "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
-   "source": "The Block",
-   "ts": 1793897636,
-   "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
    "ad": false
   }
  ]
