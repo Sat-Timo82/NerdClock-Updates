@@ -1,8 +1,40 @@
 {
- "updated": 1793970165,
+ "updated": 1793974706,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Argentine Bitcoiners Debut \"The Genesis of Satoshi Nakamoto\" Artwork in Downtown Buenos Aires",
+   "summary": "Bitcoin.ar presented the 2.4-meter stainless steel and glass cube \"The Genesis of Satoshi Nakamoto\" on October 29 at Polo Dot as part of LABITCONF 2026's Open Fest. This post Argentine Bitcoiners Debut \"The Genesis of Satoshi Nakamoto\" Artwork in Downtown Buenos Aires first appeared on Bitcoin Magazine and is written by Juan…",
+   "source": "Bitcoin Magazine",
+   "ts": 1793973600,
+   "url": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
+   "summary": "Bitcoin holds critical level as it showed early signs of stabilization on Friday after a sharp market-wide sell-off pushed the cryptocurrency toward $75,000. However, the recovery remains fragile, with investors still cautious following heavy losses across technology stocks, more than $1 billion in crypto liquidations, and…",
+   "source": "Bitcoinist",
+   "ts": 1793972444,
+   "url": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
+   "ad": false
+  },
+  {
+   "title": "TeraWulf's bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+   "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
+   "source": "The Block",
+   "ts": 1793972422,
+   "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+   "ad": false
+  },
+  {
+   "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+   "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
+   "source": "Decrypt",
+   "ts": 1793971760,
+   "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+   "ad": false
+  },
   {
    "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
    "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
@@ -20,7 +52,7 @@
    "ad": false
   },
   {
-   "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+   "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
    "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
    "source": "CoinDesk",
    "ts": 1793966320,
@@ -49,38 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1793960737,
    "url": "https://news.bitcoin.com/press-releases/jack-mallers-headlines-bitcoin-amsterdam-2026-as-finance-privacy-and-self-custody-take-the-stage/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-   "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
-   "source": "CoinDesk",
-   "ts": 1793958807,
-   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan's Blockchain Push Could Be Good News for Bitcoin",
-   "summary": "JPMorgan is continuing to expand its involvement in blockchain technology and tokenized financial products, highlighting how traditional banking institutions are increasingly embracing digital assets. While much of the bank's recent activity focuses on payments, settlement systems, and tokenized funds, we believe these…",
-   "source": "Bitcoinist",
-   "ts": 1793956472,
-   "url": "https://bitcoinist.com/jpmorgans-blockchain-push-could-be-good-news-for-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Democrats Are Coming for AI Data Centers and Bitcoin Miners Could Pay Dearly",
-   "summary": "Newly empowered Democrats from Texas to Ohio are pushing to pause or restrict new data centers, a threat to the bitcoin miners betting their future on artificial intelligence (AI) hosting. A Party-Wide Push Data centers were on the ballot this week, and the winners are now talking about limits. Sen. Bernie Sanders, citing…",
-   "source": "Bitcoin.com News",
-   "ts": 1793953832,
-   "url": "https://news.bitcoin.com/mining/democrats-data-center-moratorium-bitcoin-miners/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Recovery: Why BTC Could Rally Again Soon",
-   "summary": "Bitcoin has experienced another difficult trading period, leaving investors wondering whether the latest decline signals further weakness or an opportunity for a Bitcoin price recovery. Despite the recent selling pressure, we believe there are reasons to remain optimistic about Bitcoin's longer-term prospects. Market…",
-   "source": "Bitcoinist",
-   "ts": 1793953444,
-   "url": "https://bitcoinist.com/bitcoin-price-recovery-why-btc-could-rally-again-soon/",
    "ad": false
   }
  ]
