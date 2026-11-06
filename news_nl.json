@@ -1,8 +1,32 @@
 {
- "updated": 1793966123,
+ "updated": 1793970165,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+   "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
+   "source": "The Block",
+   "ts": 1793968411,
+   "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+   "ad": false
+  },
+  {
+   "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+   "summary": "Your day-ahead look for Nov. 6, 2026",
+   "source": "CoinDesk",
+   "ts": 1793968200,
+   "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+   "summary": "Nasdaq 100 futures were higher by 1.5% following Thursday's 5.5% rout. Japan's Nikkei and Korea's Kospi each slumped 6% overnight.",
+   "source": "CoinDesk",
+   "ts": 1793966320,
+   "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+   "ad": false
+  },
   {
    "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
    "summary": "Bitcoin bounced from around $75,200 after Thursday's AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
@@ -57,30 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1793953444,
    "url": "https://bitcoinist.com/bitcoin-price-recovery-why-btc-could-rally-again-soon/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Clings to $75K as Asian Markets Lose Over $1 Trillion in a Day",
-   "summary": "A post-midterm tech selloff hit Asia on Friday, triggering a circuit breaker in Seoul and pushing Japan's Nikkei into a bear market, while bitcoin held just above $75,000. Seoul Hits the Brakes South Korea's benchmark KOSPI fell as much as 9% during the early hours of the day, triggering a circuit breaker that halted trading…",
-   "source": "Bitcoin.com News",
-   "ts": 1793943004,
-   "url": "https://news.bitcoin.com/market-updates/asia-stocks-1-trillion-crash-kospi-bitcoin-75k/",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan Gives Bitcoin Top Return Forecast, Grayscale Highlights",
-   "summary": "Grayscale highlighted a 10% projected compound annual bitcoin return in JPMorgan Asset Management's long-term assumptions, exceeding estimates for other asset classes. The firm's analysis connected growing institutional recognition with potential diversification benefits and substantial price risk. Bitcoin Forecast Leads…",
-   "source": "Bitcoin.com News",
-   "ts": 1793940304,
-   "url": "https://news.bitcoin.com/market-updates/jpmorgan-gives-bitcoin-top-return-forecast-grayscale-highlights/",
-   "ad": false
-  },
-  {
-   "title": "IREN's bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-   "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
-   "source": "The Block",
-   "ts": 1793939354,
-   "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
    "ad": false
   }
  ]
