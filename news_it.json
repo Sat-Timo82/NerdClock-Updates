@@ -1,8 +1,16 @@
 {
- "updated": 1793993528,
+ "updated": 1793996608,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "LuqEE Simplifies Solo Bitcoin and Bitcoin Cash Mining",
+   "summary": "Buying and operating an ASIC miner remains a substantial barrier to solo Bitcoin mining. LuqEE offers another approach: time-based access to professionally hosted mining hardware for Bitcoin (BTC) and Bitcoin Cash (BCH), without the need to purchase or maintain a mining rig. The model has already produced a public record of…",
+   "source": "Bitcoin.com News",
+   "ts": 1793993827,
+   "url": "https://news.bitcoin.com/branded-spotlight/luqee-simplifies-solo-bitcoin-and-bitcoin-cash-mining/",
+   "ad": false
+  },
   {
    "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
    "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
@@ -73,14 +81,6 @@
    "source": "The Block",
    "ts": 1793981244,
    "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-   "ad": false
-  },
-  {
-   "title": "Strive Posts $509M Q3 Profit as Bitcoin Holdings Surge to $3.25 Billion",
-   "summary": "Bitcoin treasury company Strive reported a $509 million third-quarter profit, fueled by gains in its cryptocurrency holdings, while continuing an aggressive buying campaign that has added more than 15,000 bitcoin since September. Strive Inc. (Nasdaq: ASST) reported net income of $509 million for the third quarter of 2026, or…",
-   "source": "Bitcoin.com News",
-   "ts": 1793980027,
-   "url": "https://news.bitcoin.com/finance/strive-posts-509m-q3-profit-bitcoin-holdings-surge-3-25b/",
    "ad": false
   }
  ]
