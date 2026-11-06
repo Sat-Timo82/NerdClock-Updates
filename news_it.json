@@ -1,8 +1,16 @@
 {
- "updated": 1793935578,
+ "updated": 1793939582,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "IREN's bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+   "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
+   "source": "The Block",
+   "ts": 1793939354,
+   "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+   "ad": false
+  },
   {
    "title": "Bitcoin developer proposes 'landmines' to make quantum thieves lose their own BTC",
    "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
@@ -73,14 +81,6 @@
    "source": "The Block",
    "ts": 1793909462,
    "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-   "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-   "source": "CoinDesk",
-   "ts": 1793904520,
-   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
    "ad": false
   }
  ]
