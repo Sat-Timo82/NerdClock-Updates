@@ -1,8 +1,24 @@
 {
- "updated": 1793986013,
+ "updated": 1793989444,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more…",
+   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+   "source": "The Block",
+   "ts": 1793988419,
+   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+   "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+   "source": "Cointelegraph",
+   "ts": 1793987373,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Falls Below $75K for First Time Since August as Tech Sell-Off Deepens",
    "summary": "Bitcoin briefly fell below $75,000 on Friday, hitting its lowest level since Aug. 21 as a U.S.-led technology stock sell-off spread across global markets. Bitcoin Slides to Lowest Level in Months Bitcoin briefly dipped below the $75,000 threshold on Friday, caught in the wake of a global equity sell-off that erased trillions…",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793975411,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
-   "ad": false
-  },
-  {
-   "title": "Argentine Bitcoiners Debut \"The Genesis of Satoshi Nakamoto\" Artwork in Downtown Buenos Aires",
-   "summary": "Bitcoin.ar presented the 2.4-meter stainless steel and glass cube \"The Genesis of Satoshi Nakamoto\" on October 29 at Polo Dot as part of LABITCONF 2026's Open Fest. This post Argentine Bitcoiners Debut \"The Genesis of Satoshi Nakamoto\" Artwork in Downtown Buenos Aires first appeared on Bitcoin Magazine and is written by Juan…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793973600,
-   "url": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Holds Critical $76K Level as AI Sell-Off Triggers Market-Wide Panic",
-   "summary": "Bitcoin holds critical level as it showed early signs of stabilization on Friday after a sharp market-wide sell-off pushed the cryptocurrency toward $75,000. However, the recovery remains fragile, with investors still cautious following heavy losses across technology stocks, more than $1 billion in crypto liquidations, and…",
-   "source": "Bitcoinist",
-   "ts": 1793972444,
-   "url": "https://bitcoinist.com/bitcoin-holds-critical-76k-level-as-ai-sell-off-triggers-market-wide-panic/",
    "ad": false
   }
  ]
