@@ -1,8 +1,24 @@
 {
- "updated": 1793955510,
+ "updated": 1793959445,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+   "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+   "source": "CoinDesk",
+   "ts": 1793958807,
+   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan's Blockchain Push Could Be Good News for Bitcoin",
+   "summary": "JPMorgan is continuing to expand its involvement in blockchain technology and tokenized financial products, highlighting how traditional banking institutions are increasingly embracing digital assets. While much of the bank's recent activity focuses on payments, settlement systems, and tokenized funds, we believe these…",
+   "source": "Bitcoinist",
+   "ts": 1793956472,
+   "url": "https://bitcoinist.com/jpmorgans-blockchain-push-could-be-good-news-for-bitcoin/",
+   "ad": false
+  },
   {
    "title": "Democrats Are Coming for AI Data Centers and Bitcoin Miners Could Pay Dearly",
    "summary": "Newly empowered Democrats from Texas to Ohio are pushing to pause or restrict new data centers, a threat to the bitcoin miners betting their future on artificial intelligence (AI) hosting. A Party-Wide Push Data centers were on the ballot this week, and the winners are now talking about limits. Sen. Bernie Sanders, citing…",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793924389,
    "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss_tag_bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Elon Musk Jokes About 'Election-Interfering Space Lasers' as Polymarket Whale Scores on Texas",
-   "summary": "A Polymarket user who goes by the name Domer made about $62,700 betting against a Republican win in Texas' Senate race and mocked the roughly $250 million that Elon Musk-backed groups spent trying to keep the seat Republican, calling it the stupidest thing anyone could do. Musk, posting separately, joked that his…",
-   "source": "Bitcoin.com News",
-   "ts": 1793922358,
-   "url": "https://news.bitcoin.com/igaming/elon-musk-jokes-election-interfering-space-lasers-polymarket-whale/",
-   "ad": false
-  },
-  {
-   "title": "American Bitcoin's $126M profit masks mining pressure as rivals turn to AI",
-   "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
-   "source": "Cointelegraph",
-   "ts": 1793918598,
-   "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
    "ad": false
   }
  ]
