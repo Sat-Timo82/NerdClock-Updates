@@ -1,7 +1,15 @@
 {
- "updated": 1793931447,
+ "updated": 1793935578,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "strategy-strc-vorzugsaktie-erreich-25104",
+   "title": "True North: STRC zum Nennwert könnte Strategy den Kauf von 284 BTC ermöglicht haben",
+   "summary": "STRC erreichte erstmals seit Mai wieder 100 US-Dollar. True North schätzt, dass Strategy damit rund 284 BTC finanzieren konnte.",
+   "ts": 1793917602,
+   "url": "https://nerdminer.de/blogs/news/strategy-strc-vorzugsaktie-erreicht-wieder-100-bitcoin-kaeufe",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-unter-76000-tech-aktien-au-47531",
    "title": "Bitcoin fällt unter 76.000 US-Dollar, während US-Aktien 2,3 Billionen Dollar verlieren",
@@ -232,14 +240,6 @@
    "summary": "Strategy kauft 267 Bitcoin für 22,1 Mio. US-Dollar und kauft STRC-Aktien für 193,1 Mio. zurück. Das Rückkaufprogramm wächst auf 3 Mrd.",
    "ts": 1792424008,
    "url": "https://nerdminer.de/blogs/news/strategy-kauft-267-bitcoin-fuer-221-millionen",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strive-erwirbt-1223-bitcoin-bestan-f5e99",
-   "title": "Strive kauft 1.223 BTC und überschreitet Bitcoin-Bestand von 3 Milliarden US-Dollar",
-   "summary": "Strive kauft 1.223 BTC und erhöht seine Bitcoin-Bestände auf über 3 Milliarden US-Dollar – schneller als Strategy.",
-   "ts": 1792424008,
-   "url": "https://nerdminer.de/blogs/news/strive-erwirbt-1223-bitcoin-bestand-ueber-3-milliarden",
    "author": "Yannic Fraebel"
   }
  ]

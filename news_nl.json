@@ -1,5 +1,5 @@
 {
- "updated": 1793931447,
+ "updated": 1793935578,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
@@ -76,11 +76,11 @@
    "ad": false
   },
   {
-   "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-   "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-   "source": "Decrypt",
-   "ts": 1793903131,
-   "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+   "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+   "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
+   "source": "CoinDesk",
+   "ts": 1793904520,
+   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
    "ad": false
   }
  ]
