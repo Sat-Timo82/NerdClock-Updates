@@ -1,8 +1,16 @@
 {
- "updated": 1794003487,
+ "updated": 1794006959,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Terawulf and IREN Bet Big on AI as Bitcoin Mining Revenue Shrinks",
+   "summary": "Despite top-line growth, Terawulf's operating loss widened to $88.2 million in Q3 while IREN saw bitcoin mining revenue fall 88% year-over-year. Operating Losses Widen Amid Rising Costs For the third quarter of 2026, U.S. digital infrastructure provider Terawulf generated $76.2 million in total revenue, a significant…",
+   "source": "Bitcoin.com News",
+   "ts": 1794005155,
+   "url": "https://news.bitcoin.com/mining/terawulf-iren-bet-big-ai-bitcoin-mining-revenue-shrinks/",
+   "ad": false
+  },
   {
    "title": "LuqEE Simplifies Solo Bitcoin and Bitcoin Cash Mining",
    "summary": "Buying and operating an ASIC miner remains a substantial barrier to solo Bitcoin mining. LuqEE offers another approach: time-based access to professionally hosted mining hardware for Bitcoin (BTC) and Bitcoin Cash (BCH), without the need to purchase or maintain a mining rig. The model has already produced a public record of…",
@@ -73,14 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793981700,
    "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
-   "ad": false
-  },
-  {
-   "title": "Strive's bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-   "summary": "Strive's bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
-   "source": "The Block",
-   "ts": 1793981244,
-   "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
    "ad": false
   }
  ]
