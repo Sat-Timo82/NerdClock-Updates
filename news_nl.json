@@ -1,8 +1,24 @@
 {
- "updated": 1793951649,
+ "updated": 1793955510,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Democrats Are Coming for AI Data Centers and Bitcoin Miners Could Pay Dearly",
+   "summary": "Newly empowered Democrats from Texas to Ohio are pushing to pause or restrict new data centers, a threat to the bitcoin miners betting their future on artificial intelligence (AI) hosting. A Party-Wide Push Data centers were on the ballot this week, and the winners are now talking about limits. Sen. Bernie Sanders, citing…",
+   "source": "Bitcoin.com News",
+   "ts": 1793953832,
+   "url": "https://news.bitcoin.com/mining/democrats-data-center-moratorium-bitcoin-miners/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Recovery: Why BTC Could Rally Again Soon",
+   "summary": "Bitcoin has experienced another difficult trading period, leaving investors wondering whether the latest decline signals further weakness or an opportunity for a Bitcoin price recovery. Despite the recent selling pressure, we believe there are reasons to remain optimistic about Bitcoin's longer-term prospects. Market…",
+   "source": "Bitcoinist",
+   "ts": 1793953444,
+   "url": "https://bitcoinist.com/bitcoin-price-recovery-why-btc-could-rally-again-soon/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Clings to $75K as Asian Markets Lose Over $1 Trillion in a Day",
    "summary": "A post-midterm tech selloff hit Asia on Friday, triggering a circuit breaker in Seoul and pushing Japan's Nikkei into a bear market, while bitcoin held just above $75,000. Seoul Hits the Brakes South Korea's benchmark KOSPI fell as much as 9% during the early hours of the day, triggering a circuit breaker that halted trading…",
@@ -65,22 +81,6 @@
    "source": "Cointelegraph",
    "ts": 1793918598,
    "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-   "summary": "Ueno's collapse trapped millions of Paraguayan depositors and triggered a president's resignation, reviving Bitcoin's argument for self-custody.",
-   "source": "Decrypt",
-   "ts": 1793916963,
-   "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
-   "summary": "Bitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations topped $1 billion and Strategy, Coinbase and bitcoin miners sold off in double digits. This post Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793915195,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
    "ad": false
   }
  ]

@@ -1,14 +1,22 @@
 {
- "updated": 1793951649,
+ "updated": 1793955510,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "Bitcoin fällt auf die 75.000 US-Dollar Marke",
-   "summary": "Zwei Tage nach der Wahl hat sich die Stimmung komplett gedreht. Ausgerechnet das Ergebnis, das den Markt am Mittwoch beflügelte, bereitet nun Sorgen. Source: BTC-ECHO BTC-ECHO",
+   "title": "75.000 USD: Crash an der Wall Street zieht Bitcoin mit nach unten",
+   "summary": "Heftige Verluste an der Wall Street erschüttern die Finanzmärkte. Auch Bitcoin verliert deutlich, zeigt gegenüber Tech-Aktien aber relative Stärke.",
+   "source": "Blocktrainer",
+   "ts": 1793955113,
+   "url": "https://www.blocktrainer.de/blog/75000-usd-crash-an-der-wall-street-zieht-bitcoin-mit-nach-unten",
+   "ad": false
+  },
+  {
+   "title": "Einer der größten Bitcoin-Miner steigt bis Jahresende komplett aus",
+   "summary": "Vor einem Jahr war Bitcoin-Mining noch das Kerngeschäft. Inzwischen steuert es gerade einmal 7,5 Prozent zum Umsatz bei. Nun zieht das Unternehmen die Reißleine. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1793948590,
-   "url": "https://www.btc-echo.de/news/bitcoin-faellt-auf-die-75-000-us-dollar-marke-240494/",
+   "ts": 1793952000,
+   "url": "https://www.btc-echo.de/news/einer-der-groessten-bitcoin-miner-steigt-bis-jahresende-komplett-aus-240497/",
    "ad": false
   },
   {
@@ -44,6 +52,14 @@
    "ad": false
   },
   {
+   "title": "Bitcoin steigt über 80.000 US-Dollar: Was der Sieg der Demokraten bedeutet",
+   "summary": "Die Demokraten gewinnen die Mehrheit in beiden Kammern und Bitcoin reagiert mit kräftigen Kursgewinnen. Ein Krypto-Experte erklärt, welche Folgen der Machtwechsel jetzt haben könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793810537,
+   "url": "https://www.btc-echo.de/news/bitcoin-steigt-ueber-80-000-us-dollar-was-der-sieg-der-demokraten-bedeutet-240399/",
+   "ad": false
+  },
+  {
    "title": "Bitcoin und Gold vor der Korrektur? Bloomberg-Analyst erwartet Blow-off-Top",
    "summary": "Bloomberg-Experte Mike McGlone zeichnet für Bitcoin und Gold ein düsteres Bild. Warum er mit viel Gegenwind und wenig Eigendynamik bei beiden Assets rechnet. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793805335,
    "url": "https://www.btc-echo.de/news/bitcoin-miner-riot-verkauft-tausende-coins-steckt-hinter-ki-das-bessere-geschaeft-240392/",
-   "ad": false
-  },
-  {
-   "title": "\"Fake Money\": Darum setzt Robert Kiyosaki weiter auf Bitcoin",
-   "summary": "Robert Kiyosaki lässt sich vom fallenden Bitcoin-Kurs nicht abschrecken. Der Bestsellerautor erklärt, warum er weiter nachkauft und welche Gefahren er für das Finanzsystem sieht. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793803070,
-   "url": "https://www.btc-echo.de/news/fake-money-darum-setzt-robert-kiyosaki-weiter-auf-bitcoin-240377/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Geschäft von Block bricht um 50 Prozent ein",
-   "summary": "Das Bitcoin-Geschäft von Jack Dorseys Block bricht im dritten Quartal deutlich ein. Zudem steht eine Einigung mit der US-Justiz über 764 Millionen US-Dollar bevor. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793784908,
-   "url": "https://www.btc-echo.de/news/bitcoin-geschaeft-von-block-bricht-um-50-prozent-ein-240347/",
    "ad": false
   }
  ]
