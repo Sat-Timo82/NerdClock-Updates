@@ -1,8 +1,24 @@
 {
- "updated": 1793939582,
+ "updated": 1793943250,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin Clings to $75K as Asian Markets Lose Over $1 Trillion in a Day",
+   "summary": "A post-midterm tech selloff hit Asia on Friday, triggering a circuit breaker in Seoul and pushing Japan's Nikkei into a bear market, while bitcoin held just above $75,000. Seoul Hits the Brakes South Korea's benchmark KOSPI fell as much as 9% during the early hours of the day, triggering a circuit breaker that halted trading…",
+   "source": "Bitcoin.com News",
+   "ts": 1793943004,
+   "url": "https://news.bitcoin.com/market-updates/asia-stocks-1-trillion-crash-kospi-bitcoin-75k/",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan Gives Bitcoin Top Return Forecast, Grayscale Highlights",
+   "summary": "Grayscale highlighted a 10% projected compound annual bitcoin return in JPMorgan Asset Management's long-term assumptions, exceeding estimates for other asset classes. The firm's analysis connected growing institutional recognition with potential diversification benefits and substantial price risk. Bitcoin Forecast Leads…",
+   "source": "Bitcoin.com News",
+   "ts": 1793940304,
+   "url": "https://news.bitcoin.com/market-updates/jpmorgan-gives-bitcoin-top-return-forecast-grayscale-highlights/",
+   "ad": false
+  },
   {
    "title": "IREN's bitcoin mining revenue drops 58% as firm plans full exit by year-end",
    "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
@@ -65,22 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793915195,
    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
-   "ad": false
-  },
-  {
-   "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-   "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
-   "source": "Decrypt",
-   "ts": 1793909763,
-   "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto…",
-   "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
-   "source": "The Block",
-   "ts": 1793909462,
-   "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
    "ad": false
   }
  ]
