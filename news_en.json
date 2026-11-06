@@ -1,8 +1,16 @@
 {
- "updated": 1793927187,
+ "updated": 1793931447,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin developer proposes 'landmines' to make quantum thieves lose their own BTC",
+   "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+   "source": "CoinDesk",
+   "ts": 1793928600,
+   "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+   "ad": false
+  },
   {
    "title": "Michael Saylor Flags Sharp Market Selloff as Nasdaq Crashes 5.5%",
    "summary": "Michael Saylor compared a sharp equity sell-off and bitcoin's retreat with Strategy's preferred stock trading near par. His assessment followed the company's shift to daily dividends and the shares' return to their $100 benchmark. Saylor Compares Equity Losses With STRC's Closing Price Michael Saylor, founder and executive…",
@@ -73,14 +81,6 @@
    "source": "Decrypt",
    "ts": 1793903131,
    "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
-   "ad": false
-  },
-  {
-   "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and…",
-   "summary": "Bull Bitcoin is the first Bitcoin exchange to offer Payjoin privacy as a deposit and withdrawal option. Every on-chain buy or sell via BULL Wallet is now a Payjoin by default, automating UTXO aggregation for users while reducing future mining fees and the overall Bitcoin UTXO set. This post Bull Bitcoin Becomes First Exchange…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793901600,
-   "url": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
    "ad": false
   }
  ]
