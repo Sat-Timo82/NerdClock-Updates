@@ -1,8 +1,24 @@
 {
- "updated": 1793978426,
+ "updated": 1793982449,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Arthur Hayes warnt vor Bitcoin-Rückschlag – und verrät, was Anleger jetzt tun sollten",
+   "summary": "Krypto-Veteran Arthur Hayes hält Bitcoin weiterhin für ein überlegenes Risiko-Asset. Dennoch zweifelt er an einem schnellen Anstieg auf 100.000 US-Dollar. Exklusiv gegenüber BTC-ECHO erklärt er, warum die KI-Branche den Krypto-Markt ausbremst und welchen Fehler Anleger vermeiden sollten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793980800,
+   "url": "https://www.btc-echo.de/news/bitcoin-arthur-hayes-kursprognose-anleger-240351/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Erholungsrallye abgeblasen? Analysten warnen vor 73.000 US-Dollar",
+   "summary": "Eine wichtige Bitcoin-Unterstützungszone ist bereits gefallen, der nächste Halt liegt beim 200-Tage-Durchschnitt. Fällt auch der, droht eine neue Bärenmarkt-Debatte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1793980205,
+   "url": "https://www.btc-echo.de/news/bitcoin-rallye-abgeblasen-analysten-warnen-vor-73-000-us-dollar-240539/",
+   "ad": false
+  },
   {
    "title": "75.000 USD: Crash an der Wall Street zieht Bitcoin mit nach unten",
    "summary": "Heftige Verluste an der Wall Street erschüttern die Finanzmärkte. Auch Bitcoin verliert deutlich, zeigt gegenüber Tech-Aktien aber relative Stärke.",
@@ -17,14 +33,6 @@
    "source": "BTC-ECHO",
    "ts": 1793952000,
    "url": "https://www.btc-echo.de/news/einer-der-groessten-bitcoin-miner-steigt-bis-jahresende-komplett-aus-240497/",
-   "ad": false
-  },
-  {
-   "title": "Strategy-Aktie STRC legt zu: Was Bitcoin-Anleger jetzt wissen sollten",
-   "summary": "Die STRC-Aktie von Strategy feiert nach deutlichen Verlusten ein Comeback. Auch die hohe Dividende macht die Vorzugsaktie interessant. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793879428,
-   "url": "https://www.btc-echo.de/news/strategy-aktie-strc-legt-zu-was-bitcoin-anleger-jetzt-wissen-sollten-240443/",
    "ad": false
   },
   {
@@ -52,19 +60,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin steigt über 80.000 US-Dollar: Was der Sieg der Demokraten bedeutet",
-   "summary": "Die Demokraten gewinnen die Mehrheit in beiden Kammern und Bitcoin reagiert mit kräftigen Kursgewinnen. Ein Krypto-Experte erklärt, welche Folgen der Machtwechsel jetzt haben könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793810537,
-   "url": "https://www.btc-echo.de/news/bitcoin-steigt-ueber-80-000-us-dollar-was-der-sieg-der-demokraten-bedeutet-240399/",
-   "ad": false
-  },
-  {
-   "title": "Historischer Schritt? Bhutan erlaubt neuer Zentralbank, Bitcoin als Reserve zu halten",
-   "summary": "Bhutan genehmigt eine neue Zentralbank in der Sonderverwaltungsregion Gelephu, die unter anderem auch Bitcoin als Reserve halten darf.",
+   "title": "STRC zurück bei 100 US-Dollar – Kann Strategy jetzt wieder im großen Stil Bitcoin kaufen?",
+   "summary": "STRC von Strategy ist wieder auf 100 US-Dollar gestiegen. Wie gelang das Comeback und kann Michael Saylor jetzt wieder Milliarden pro Woche in Bitcoin investieren?",
    "source": "Blocktrainer",
-   "ts": 1793806085,
-   "url": "https://www.blocktrainer.de/blog/bhutan-neue-zentralbank-in-sonderverwaltungsregion-darf-bitcoin-als-reserve-halten",
+   "ts": 1793831232,
+   "url": "https://www.blocktrainer.de/blog/strc-wieder-bei-100-us-dollar-kann-strategy-jetzt-wieder-im-grossen-stil-bitcoin-kaufen",
    "ad": false
   }
  ]
