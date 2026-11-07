@@ -1,8 +1,40 @@
 {
- "updated": 1794068524,
+ "updated": 1794083304,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Solo Bitcoin Miners Strike Digital Gold as 2026 Jackpot Wins Reach 36 Blocks",
+   "summary": "A tiny bitcoin mining machine beat astronomical odds during the first week of November, adding another unlikely victory to a year of solo mining jackpots. From compact desktop devices to industrial-scale competitors, 2026 has delivered 36 documented solo-style block discoveries worth millions of dollars. A Tiny Bitcoin Miner…",
+   "source": "Bitcoin.com News",
+   "ts": 1794082339,
+   "url": "https://news.bitcoin.com/mining/solo-bitcoin-miners-strike-digital-gold-as-2026-jackpot-wins-reach-36-blocks/",
+   "ad": false
+  },
+  {
+   "title": "Prediction Markets Favor Another Drop as Year-End Bitcoin Price Forecasts Sour",
+   "summary": "Bitcoin price prediction markets are signaling a difficult finish to 2026, with Polymarket traders assigning a 52% probability to a $70,000 retreat before January and just 9% to a $100,000 comeback, while Kalshi participants concentrate their year-end expectations around $70,000 to $80,000. As of noon Eastern time on Saturday…",
+   "source": "Bitcoin.com News",
+   "ts": 1794075004,
+   "url": "https://news.bitcoin.com/price-predictions/prediction-markets-favor-another-drop-as-year-end-bitcoin-price-forecasts-sour/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+   "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
+   "source": "The Block",
+   "ts": 1794069962,
+   "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+   "ad": false
+  },
+  {
+   "title": "Binance Hack Takes Another Twist as Hackers Amass 2,300 More Bitcoin",
+   "summary": "In the aftermath of the colossal $6.3 billion Binance hack, which saw 18,270.2 BTC drained from the crypto exchange's wallet, onchain intelligence and blockchain analytics firm Elliptic has revealed that the attacker's bitcoin holdings are growing considerably larger. According to Elliptic, the hackers have converted $175…",
+   "source": "Bitcoin.com News",
+   "ts": 1794069013,
+   "url": "https://news.bitcoin.com/featured/binance-hack-takes-another-twist-as-hackers-amass-2300-more-bitcoin/",
+   "ad": false
+  },
   {
    "title": "Bitcoin holders have received eCash – What can you do with it?",
    "summary": "Bitcoin's eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
@@ -49,38 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793989952,
    "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
-   "ad": false
-  },
-  {
-   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more…",
-   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
-   "source": "The Block",
-   "ts": 1793988419,
-   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-   "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
-   "source": "Cointelegraph",
-   "ts": 1793987373,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
-   "ad": false
-  },
-  {
-   "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-   "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
-   "source": "Decrypt",
-   "ts": 1793982847,
-   "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
-   "ad": false
-  },
-  {
-   "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
-   "summary": "Strive posted $474.8M in Q3 net income to common holders, almost entirely a $533.7M unrealized bitcoin gain, and touted 103.7% year-to-date outperformance versus bitcoin. This post Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2% first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1793981700,
-   "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
    "ad": false
   }
  ]
