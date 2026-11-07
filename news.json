@@ -1,8 +1,16 @@
 {
- "updated": 1794045442,
+ "updated": 1794068524,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Chainlink ETFs enttäuschen: Was dem LINK-Kurs jetzt bevorstehen könnte",
+   "summary": "Seit Mitte Oktober können die Chainlink ETFs kein Kapital mehr anziehen. Für den LINK-Kurs wird es nun eng. Diese Chartmarken rücken in den Vordergrund. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794056400,
+   "url": "https://www.btc-echo.de/news/chainlink-etfs-enttaeuschen-was-dem-link-kurs-jetzt-bevorstehen-koennte-240565/",
+   "ad": false
+  },
   {
    "title": "Idee gegen Quantencomputer: Bitcoin-Entwickler will Quanten-Hacker in die Falle locken!",
    "summary": "Mit sogenannten Quanten-Landminen will Bitcoin-Entwickler Cory Fields potenzielle Angreifer austricksen. So funktioniert die ungewöhnliche Idee.",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793952000,
    "url": "https://www.btc-echo.de/news/einer-der-groessten-bitcoin-miner-steigt-bis-jahresende-komplett-aus-240497/",
-   "ad": false
-  },
-  {
-   "title": "Warum Bitcoin ohne diese Erfindung sofort scheitern würde",
-   "summary": "Bitcoin hat keine zentrale Uhr und keine Instanz, die Transaktionen verbindlich sortiert. Trotzdem funktioniert das Netzwerk seit Jahren. Dahinter steckt eine geniale Idee von Satoshi Nakamoto, ohne die digitales Geld zum Problem würde. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793872800,
-   "url": "https://www.btc-echo.de/news/bitcoin-satoshi-zeitrechnung-proof-of-work-240372/",
    "ad": false
   }
  ]

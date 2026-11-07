@@ -1,14 +1,38 @@
 {
- "updated": 1794045442,
+ "updated": 1794068524,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
   {
-   "title": "Terawulf and IREN Bet Big on AI as Bitcoin Mining Revenue Shrinks",
-   "summary": "Despite top-line growth, Terawulf's operating loss widened to $88.2 million in Q3 while IREN saw bitcoin mining revenue fall 88% year-over-year. Operating Losses Widen Amid Rising Costs For the third quarter of 2026, U.S. digital infrastructure provider Terawulf generated $76.2 million in total revenue, a significant…",
+   "title": "Bitcoin holders have received eCash – What can you do with it?",
+   "summary": "Bitcoin's eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+   "source": "Cointelegraph",
+   "ts": 1794058200,
+   "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
+   "summary": "Bitcoin may be quietly setting up its next big move. Despite this week's sell-off, a crypto analyst has spotted a pattern on the weekly chart that last appeared in 2023, shortly before BTC launched a rally that more than doubled its price. BTC is currently trading around $76,000, sitting just above its weekly 50-period moving…",
+   "source": "Bitcoinist",
+   "ts": 1794056693,
+   "url": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Mining Difficulty Has Never Stayed Below Its Peak for This Long",
+   "summary": "Bitcoin's mining difficulty has now spent 374 days below its October 2025 all-time high, the longest such stretch in the network's history, beating a record set after the 2011 crash. A Record Nobody Wanted Economist and author Saifedean Ammous flagged the milestone on Saturday, writing that Bitcoin difficulty has been below…",
    "source": "Bitcoin.com News",
-   "ts": 1794005155,
-   "url": "https://news.bitcoin.com/mining/terawulf-iren-bet-big-ai-bitcoin-mining-revenue-shrinks/",
+   "ts": 1794051053,
+   "url": "https://news.bitcoin.com/featured/bitcoin-mining-difficulty-longest-below-all-time-high/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Steadies Above $76,000, But Wall Street Isn't Buying The Dip Yet",
+   "summary": "Bitcoin is catching its breath this weekend. After a brutal few sessions, the price has stabilized above $76,000, but the money that matters most for a lasting recovery is still heading for the exit. On Saturday morning, BTC was changing hands at around $76,100, up roughly 0.6% on the day. That is a calm picture […]",
+   "source": "Bitcoinist",
+   "ts": 1794049467,
+   "url": "https://bitcoinist.com/bitcoin-steadies-above-76000-but-wall-street-isnt-buying-the-dip-yet/",
    "ad": false
   },
   {
@@ -57,30 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1793981700,
    "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
-   "ad": false
-  },
-  {
-   "title": "Strive's bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-   "summary": "Strive's bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
-   "source": "The Block",
-   "ts": 1793981244,
-   "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
-   "summary": "Bitcoin finds opportunity once again after struggling to gain traction as more than $1 billion in bullish cryptocurrency positions were liquidated within 24 hours, while institutional investors continued pulling money from spot Bitcoin ETFs. The combination of aggressive forced selling and a lack of fresh buying demand has…",
-   "source": "Bitcoinist",
-   "ts": 1793978916,
-   "url": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
-   "summary": "Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds Near $75,000 After Hot October Jobs Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1793975411,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
    "ad": false
   }
  ]
