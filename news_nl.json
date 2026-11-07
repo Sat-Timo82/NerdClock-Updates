@@ -1,5 +1,5 @@
 {
- "updated": 1794019877,
+ "updated": 1794045442,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
@@ -9,14 +9,6 @@
    "source": "Bitcoin.com News",
    "ts": 1794005155,
    "url": "https://news.bitcoin.com/mining/terawulf-iren-bet-big-ai-bitcoin-mining-revenue-shrinks/",
-   "ad": false
-  },
-  {
-   "title": "LuqEE Simplifies Solo Bitcoin and Bitcoin Cash Mining",
-   "summary": "Buying and operating an ASIC miner remains a substantial barrier to solo Bitcoin mining. LuqEE offers another approach: time-based access to professionally hosted mining hardware for Bitcoin (BTC) and Bitcoin Cash (BCH), without the need to purchase or maintain a mining rig. The model has already produced a public record of…",
-   "source": "Bitcoin.com News",
-   "ts": 1793993827,
-   "url": "https://news.bitcoin.com/branded-spotlight/luqee-simplifies-solo-bitcoin-and-bitcoin-cash-mining/",
    "ad": false
   },
   {
@@ -36,14 +28,6 @@
    "ad": false
   },
   {
-   "title": "US Treasury and Fed Abandon Plan to Track Smaller Bitcoin, Crypto Transfers",
-   "summary": "The U.S. Treasury Department and the Federal Reserve are withdrawing a proposal to expand information collection for international crypto transfers as small as $250. The decision preserves the existing $3,000 threshold as officials reassess rules proposed in 2020. Treasury and Fed Drop Proposed $250 Transfer Threshold The U.S…",
-   "source": "Bitcoin.com News",
-   "ts": 1793989950,
-   "url": "https://news.bitcoin.com/regulation-and-legal/us-treasury-fed-abandon-plan-track-smaller-bitcoin-crypto-transfers/",
-   "ad": false
-  },
-  {
    "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more…",
    "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
    "source": "The Block",
@@ -60,14 +44,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price Falls Below $75K for First Time Since August as Tech Sell-Off Deepens",
-   "summary": "Bitcoin briefly fell below $75,000 on Friday, hitting its lowest level since Aug. 21 as a U.S.-led technology stock sell-off spread across global markets. Bitcoin Slides to Lowest Level in Months Bitcoin briefly dipped below the $75,000 threshold on Friday, caught in the wake of a global equity sell-off that erased trillions…",
-   "source": "Bitcoin.com News",
-   "ts": 1793983826,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-falls-75k-first-time-august-tech-sell-off-deepens/",
-   "ad": false
-  },
-  {
    "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
    "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
    "source": "Decrypt",
@@ -81,6 +57,30 @@
    "source": "Bitcoin Magazine",
    "ts": 1793981700,
    "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
+   "ad": false
+  },
+  {
+   "title": "Strive's bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+   "summary": "Strive's bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
+   "source": "The Block",
+   "ts": 1793981244,
+   "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Finds Opportunity as $1.1B in Long Positions Disappear",
+   "summary": "Bitcoin finds opportunity once again after struggling to gain traction as more than $1 billion in bullish cryptocurrency positions were liquidated within 24 hours, while institutional investors continued pulling money from spot Bitcoin ETFs. The combination of aggressive forced selling and a lack of fresh buying demand has…",
+   "source": "Bitcoinist",
+   "ts": 1793978916,
+   "url": "https://bitcoinist.com/bitcoin-finds-opportunity-as-1-1b-in-long-positions-disappear/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
+   "summary": "Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds Near $75,000 After Hot October Jobs Report first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1793975411,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
    "ad": false
   }
  ]

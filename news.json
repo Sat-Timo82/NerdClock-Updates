@@ -1,8 +1,32 @@
 {
- "updated": 1794019877,
+ "updated": 1794045442,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Idee gegen Quantencomputer: Bitcoin-Entwickler will Quanten-Hacker in die Falle locken!",
+   "summary": "Mit sogenannten Quanten-Landminen will Bitcoin-Entwickler Cory Fields potenzielle Angreifer austricksen. So funktioniert die ungewöhnliche Idee.",
+   "source": "Blocktrainer",
+   "ts": 1794042898,
+   "url": "https://www.blocktrainer.de/blog/idee-gegen-quantencomputer-bitcoin-entwickler-will-quanten-hacker-in-die-falle-locken",
+   "ad": false
+  },
+  {
+   "title": "Fällt der Bitcoin-Kurs auf 58.000 Dollar? Tech-Abverkauf beunruhigt Experten",
+   "summary": "Der Nasdaq-100 korrigiert heftig nach den US-Zwischenwahlen. Warum ein Krypto-Analyst nun vor dem Bitcoin-Kursrückfall auf das Sommertief warnt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794040383,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-auf-58-000-dollar-tech-abverkauf-beunruhigt-240515/",
+   "ad": false
+  },
+  {
+   "title": "Verdächtiges Timing: Schafft Trump seine Bitcoin schon beiseite?",
+   "summary": "Trumps Krypto-Geschäfte könnten für ihn zunehmend zum Problem werden. Nach dem Wahlsieg der Demokraten flossen im Hintergrund auch schon die ersten Bitcoin. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794020400,
+   "url": "https://www.btc-echo.de/news/verdaechtiges-timing-schafft-trump-seine-bitcoin-schon-beiseite-240472/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kurs: Können die Bullen die Korrekturausweitung abwenden?",
    "summary": "Bitcoin (BTC) muss sich dem historischen Abverkauf von US-Technologieaktien fügen und rutscht kurzfristig unter die 75.000 US-Dollar ab. Muss die Käuferseite die Segel streichen? Source: BTC-ECHO BTC-ECHO",
@@ -57,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793872800,
    "url": "https://www.btc-echo.de/news/bitcoin-satoshi-zeitrechnung-proof-of-work-240372/",
-   "ad": false
-  },
-  {
-   "title": "Ist Elon Musk doch Satoshi Nakamoto? Alte E-Mail sorgt erneut für Spekulationen",
-   "summary": "Ist Elon Musk der Bitcoin-Erfinder Satoshi Nakamoto? Eine mysteriöse E-Mail aus dem Jahr 1998 sorgt auf X für wilde Spekulationen.",
-   "source": "Blocktrainer",
-   "ts": 1793870801,
-   "url": "https://www.blocktrainer.de/blog/ist-elon-musk-doch-satoshi-nakamoto-alte-e-mail-sorgt-erneut-fuer-spekulationen",
    "ad": false
   }
  ]
