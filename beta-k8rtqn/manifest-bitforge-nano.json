@@ -1,0 +1,6 @@
+{
+  "name": "BitForge Nano Miner (v1.8, Nerdminer-Werkseinstellungen)",
+  "version": "1.8 Nerdminer.de",
+  "new_install_prompt_erase": true,
+  "builds": [ { "chipFamily": "ESP32-S3", "parts": [ { "path": "bitforge-nano/bitforge-nano-nerdminer-v1.8.bin", "offset": 0 } ] } ]
+}
