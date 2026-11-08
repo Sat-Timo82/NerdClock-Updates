@@ -290,6 +290,15 @@ footer b{color:var(--red);}
         </div>
       </div>
 
+      <div class="flash-zone" id="bitforge-nano">
+        <div class="flash-zone-title">BitForge Nano Miner (v1.8, Nerdminer-Werkseinstellungen)</div>
+        <div class="flash-zone-sub">Der Nano-Miner selbst (ESP32-S3, USB-C) · offizielle forge-os-Software v1.8 mit Pool.Nerdminer.de und den Stufen Öko · Normal · Power voreingestellt</div>
+        <button class="nmf-btn" data-manifest="manifest-bitforge-nano.json" data-kind="bn">BitForge Nano Miner installieren</button>
+        <div class="flash-note">
+          Nano per USB-C anschließen. Nach dem Aufspielen: im Nano-Menü bzw. über seinen WLAN-Zugang (Hotspot) dein WLAN einrichten und die BTC-Adresse eintragen. Nach dem Speichern des WLANs den <strong>Restart</strong>-Knopf oben rechts drücken. Einstellungen des Nano gehen bei der Installation verloren.
+        </div>
+      </div>
+
       <div class="flash-zone" id="heizung">
         <div class="flash-zone-title">Heizminer 2,8"-Display (NerdHeizung)</div>
         <div class="flash-zone-sub">ESP32-2432S028R · steuert einen Braiins-OS-Miner als Bitcoin-Heizung (Heizstufen, Pool) · findet den Miner auch hinter einem Repeater</div>
@@ -557,7 +566,7 @@ async function start(btn) {
   const transport = new Transport(port, false);
   let loader, chip;
   try {
-    loader = new ESPLoader({ transport, baudrate: 921600, romBaudrate: 115200, terminal: quiet });
+    loader = new ESPLoader({ transport, baudrate: kind === "bn" ? 230400 : 921600, romBaudrate: 115200, terminal: quiet });
     chip = await loader.main();
   } catch (e) {
     try { await transport.disconnect(); } catch (_) {}
@@ -572,7 +581,14 @@ async function start(btn) {
     return;
   }
   busy = false;
-  const mode = await new Promise(res => {
+  const mode = kind === "bn" ? await new Promise(res => {
+    show(`<div class="dlg-dev">${name}</div><h3>Nano neu einrichten?</h3>
+      <p>Der Nano wird komplett gelöscht und frisch mit unseren Werkseinstellungen installiert (Pool.Nerdminer.de, Stufen Öko · Normal · Power). Danach trägst du WLAN und BTC-Adresse neu ein.</p>
+      <button class="dlg-opt" id="d-new"><b>Neu einrichten<span class="rec">Empfohlen</span></b><span>Alles löschen und frisch installieren.</span></button>
+      <div class="dlg-act"><button id="d-c">Abbrechen</button></div>`);
+    document.getElementById("d-new").onclick = () => res("new");
+    document.getElementById("d-c").onclick = () => res(null);
+  }) : await new Promise(res => {
     show(`<div class="dlg-dev">${name}</div><h3>Wie möchtest du installieren?</h3>
       <button class="dlg-opt" id="d-up"><b>Update</b><span>Nur für Geräte, die schon mit unserer Software laufen. Neue Software aufspielen, WLAN, BTC-Adresse und alle Einstellungen bleiben erhalten.</span></button>
       <button class="dlg-opt" id="d-new"><b>Neu einrichten<span class="rec">Für neue Geräte</span></b><span>Für fabrikneue Geräte und zum Zurücksetzen. Alles löschen und frisch installieren, mit unseren Einstellungen. Danach WLAN und BTC-Adresse neu eintragen.</span></button>
@@ -584,7 +600,7 @@ async function start(btn) {
   if (!mode) { try { await transport.disconnect(); } catch (_) {} dlg.classList.remove("on"); return; }
   busy = true;
   const paint = (pct, txt) => show(`<div class="dlg-dev">${name}</div><h3>${mode === "up" ? "Update wird installiert" : "Wird neu installiert"}</h3>
-    <p><b>Bitte nicht abstecken</b> und das Fenster offen lassen. Das dauert etwa ${(kind === "bx" || kind === "nx") ? "2–4" : "1–2"} Minuten.</p>
+    <p><b>Bitte nicht abstecken</b> und das Fenster offen lassen. Das dauert etwa ${(kind === "bx" || kind === "nx" || kind === "bn") ? "2–4" : "1–2"} Minuten.</p>
     <div class="dlg-pct"><span>${txt}</span><span>${pct} %</span></div><div class="dlg-bar"><i style="width:${pct}%"></i></div>`);
   try {
     paint(0, "Software wird geladen …");
@@ -626,7 +642,7 @@ async function start(btn) {
     ? "Dein Gerät startet neu und läuft mit deinen bisherigen Einstellungen weiter."
     : (kind === "nx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdAxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
                      : kind === "bx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>Bitaxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
-                     : kind === "mp" ? "Dein Gerät startet neu und führt dich durch die Einrichtung."
+                     : kind === "bn" ? "Dein Nano startet neu. Verbinde dich mit seinem WLAN-Zugang (Hotspot) und trage dein WLAN ein. Nach dem Speichern des WLANs den <b>Restart</b>-Knopf oben rechts drücken." : kind === "mp" ? "Dein Gerät startet neu und führt dich durch die Einrichtung."
                      : "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdMinerAP</b> (Passwort <b>MineYourCoins</b>) und trage dein WLAN und deine BTC-Adresse ein.");
   show(`<div class="dlg-ok">✓</div><h3>Fertig!</h3><p>${next}</p><p>Startet er nicht von selbst: USB-Kabel kurz ab- und wieder anstecken.</p>
     <div class="dlg-act"><button class="main" id="d-x">Schließen</button></div>`);
