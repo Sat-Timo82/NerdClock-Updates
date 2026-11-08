@@ -1,8 +1,16 @@
 {
- "updated": 1794095733,
+ "updated": 1794117172,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Michael Saylor Reveals 400-Year History Behind Bitcoin Income",
+   "summary": "Michael Saylor traced Strategy's model of financing bitcoin holdings through income-paying shares to four centuries of financial history. His analysis connected Dutch trading companies, railroad financing, and U.S. tax law to the company's Stretch security. Saylor Traces Bitcoin Income to Four Centuries of Finance In a Nov. 7…",
+   "source": "Bitcoin.com News",
+   "ts": 1794101456,
+   "url": "https://news.bitcoin.com/featured/michael-saylor-reveals-400-year-history-behind-bitcoin-income/",
+   "ad": false
+  },
   {
    "title": "Solo Bitcoin Miners Strike Digital Gold as 2026 Jackpot Wins Reach 36 Blocks",
    "summary": "A tiny bitcoin mining machine beat astronomical odds during the first week of November, adding another unlikely victory to a year of solo mining jackpots. From compact desktop devices to industrial-scale competitors, 2026 has delivered 36 documented solo-style block discoveries worth millions of dollars. A Tiny Bitcoin Miner…",
@@ -28,14 +36,6 @@
    "ad": false
   },
   {
-   "title": "Binance Hack Takes Another Twist as Hackers Amass 2,300 More Bitcoin",
-   "summary": "In the aftermath of the colossal $6.3 billion Binance hack, which saw 18,270.2 BTC drained from the crypto exchange's wallet, onchain intelligence and blockchain analytics firm Elliptic has revealed that the attacker's bitcoin holdings are growing considerably larger. According to Elliptic, the hackers have converted $175…",
-   "source": "Bitcoin.com News",
-   "ts": 1794069013,
-   "url": "https://news.bitcoin.com/featured/binance-hack-takes-another-twist-as-hackers-amass-2300-more-bitcoin/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin holders have received eCash – What can you do with it?",
    "summary": "Bitcoin's eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
    "source": "Cointelegraph",
@@ -49,14 +49,6 @@
    "source": "Bitcoinist",
    "ts": 1794056693,
    "url": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Mining Difficulty Has Never Stayed Below Its Peak for This Long",
-   "summary": "Bitcoin's mining difficulty has now spent 374 days below its October 2025 all-time high, the longest such stretch in the network's history, beating a record set after the 2011 crash. A Record Nobody Wanted Economist and author Saifedean Ammous flagged the milestone on Saturday, writing that Bitcoin difficulty has been below…",
-   "source": "Bitcoin.com News",
-   "ts": 1794051053,
-   "url": "https://news.bitcoin.com/featured/bitcoin-mining-difficulty-longest-below-all-time-high/",
    "ad": false
   },
   {
@@ -81,6 +73,14 @@
    "source": "Bitcoin Magazine",
    "ts": 1793989952,
    "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
+   "ad": false
+  },
+  {
+   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more…",
+   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+   "source": "The Block",
+   "ts": 1793988419,
+   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
    "ad": false
   }
  ]

@@ -1,8 +1,16 @@
 {
- "updated": 1794095733,
+ "updated": 1794117172,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Krypto-News: KI-Crash, Bitcoin-Grüße aus Moskau und Klingbeils neuer Überwachungsplan",
+   "summary": "Die \"Blaue Welle\" erschüttert KI-Aktien, die russische Zentralbank gibt grünes Licht für Bitcoin und das Bundesfinanzministerium strebt nach einer strengeren Überwachung von Anlegern – die Krypto-News der Woche. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794106800,
+   "url": "https://www.btc-echo.de/news/krypto-news-ki-crash-bitcoin-in-russland-und-klingsbeils-plan-240571/",
+   "ad": false
+  },
   {
    "title": "Chainlink ETFs enttäuschen: Was dem LINK-Kurs jetzt bevorstehen könnte",
    "summary": "Seit Mitte Oktober können die Chainlink ETFs kein Kapital mehr anziehen. Für den LINK-Kurs wird es nun eng. Diese Chartmarken rücken in den Vordergrund. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1793955113,
    "url": "https://www.blocktrainer.de/blog/75000-usd-crash-an-der-wall-street-zieht-bitcoin-mit-nach-unten",
-   "ad": false
-  },
-  {
-   "title": "Einer der größten Bitcoin-Miner steigt bis Jahresende komplett aus",
-   "summary": "Vor einem Jahr war Bitcoin-Mining noch das Kerngeschäft. Inzwischen steuert es gerade einmal 7,5 Prozent zum Umsatz bei. Nun zieht das Unternehmen die Reißleine. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793952000,
-   "url": "https://www.btc-echo.de/news/einer-der-groessten-bitcoin-miner-steigt-bis-jahresende-komplett-aus-240497/",
    "ad": false
   }
  ]
