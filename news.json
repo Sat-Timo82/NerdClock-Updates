@@ -1,8 +1,32 @@
 {
- "updated": 1794117172,
+ "updated": 1794143680,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Jagd auf Metaplanet: Strive fehlen nur noch 876 BTC für Platz 2",
+   "summary": "Mit 43.124 Bitcoin im Portfolio greift Strive nach Platz zwei unter den Treasury-Firmen. Jetzt muss sich Metaplanet warm anziehen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794134040,
+   "url": "https://www.btc-echo.de/news/bitcoin-jagd-auf-metaplanet-strive-fehlen-nur-876-btc-240580/",
+   "ad": false
+  },
+  {
+   "title": "\"Wer Bitcoin keinen Aufschlag gibt, hat Bitcoin nicht verstanden\"",
+   "summary": "Swan-Bitcoin-Gründer Cory Klippsten würde Aktien im Wert von 100.000 US-Dollar gegen Bitcoin für 65.000 US-Dollar tauschen. Was steckt hinter dieser Aussage? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794132000,
+   "url": "https://www.btc-echo.de/news/wer-bitcoin-keinen-aufschlag-gibt-hat-bitcoin-nicht-verstanden-240422/",
+   "ad": false
+  },
+  {
+   "title": "Michael Saylor warnt: KI-Angriffe bedrohen Bitcoin nicht, aber Krypto-Börsen umso mehr",
+   "summary": "Cyberkriminelle erbeuten Milliarden bei Krypto-Börsen durch KI-gestützte Angriffe. Michael Saylor schlägt Alarm, aber verteidigt das Bitcoin-Netzwerk als solches gegen Kritik. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794121200,
+   "url": "https://www.btc-echo.de/news/michael-saylor-ki-bedroht-krypto-boersen-nicht-bitcoin-240574/",
+   "ad": false
+  },
   {
    "title": "Krypto-News: KI-Crash, Bitcoin-Grüße aus Moskau und Klingbeils neuer Überwachungsplan",
    "summary": "Die \"Blaue Welle\" erschüttert KI-Aktien, die russische Zentralbank gibt grünes Licht für Bitcoin und das Bundesfinanzministerium strebt nach einer strengeren Überwachung von Anlegern – die Krypto-News der Woche. Source: BTC-ECHO BTC-ECHO",
@@ -57,30 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1793984713,
    "url": "https://www.btc-echo.de/news/peter-schiff-verspottet-michael-saylor-sechs-jahre-bitcoin-fuer-nichts-240552/",
-   "ad": false
-  },
-  {
-   "title": "Arthur Hayes warnt vor Bitcoin-Rückschlag – und verrät, was Anleger jetzt tun sollten",
-   "summary": "Krypto-Veteran Arthur Hayes hält Bitcoin weiterhin für ein überlegenes Risiko-Asset. Dennoch zweifelt er an einem schnellen Anstieg auf 100.000 US-Dollar. Exklusiv gegenüber BTC-ECHO erklärt er, warum die KI-Branche den Krypto-Markt ausbremst und welchen Fehler Anleger vermeiden sollten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793980800,
-   "url": "https://www.btc-echo.de/news/bitcoin-arthur-hayes-kursprognose-anleger-240351/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Erholungsrallye abgeblasen? Analysten warnen vor 73.000 US-Dollar",
-   "summary": "Eine wichtige Bitcoin-Unterstützungszone ist bereits gefallen, der nächste Halt liegt beim 200-Tage-Durchschnitt. Fällt auch der, droht eine neue Bärenmarkt-Debatte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793980205,
-   "url": "https://www.btc-echo.de/news/bitcoin-rallye-abgeblasen-analysten-warnen-vor-73-000-us-dollar-240539/",
-   "ad": false
-  },
-  {
-   "title": "75.000 USD: Crash an der Wall Street zieht Bitcoin mit nach unten",
-   "summary": "Heftige Verluste an der Wall Street erschüttern die Finanzmärkte. Auch Bitcoin verliert deutlich, zeigt gegenüber Tech-Aktien aber relative Stärke.",
-   "source": "Blocktrainer",
-   "ts": 1793955113,
-   "url": "https://www.blocktrainer.de/blog/75000-usd-crash-an-der-wall-street-zieht-bitcoin-mit-nach-unten",
    "ad": false
   }
  ]
