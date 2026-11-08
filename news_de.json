@@ -1,8 +1,24 @@
 {
- "updated": 1794143680,
+ "updated": 1794162548,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Prognose 2040: So hoch steigt der BTC-Kurs laut den Experten",
+   "summary": "Der Bitcoin-Kurs mag kurzfristig erneut unter 80.000 US-Dollar korrigieren, aber wie verändert die Kryptowährung unsere Welt bis zum Jahr 2040? Ein Blick in die Zukunft. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794160800,
+   "url": "https://www.btc-echo.de/news/bitcoin-prognose-2040-das-erwarten-die-experten-239767/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin im Quantenzeitalter: Entwickler schlägt \"finanzielle Landminen\" vor",
+   "summary": "Quantencomputer bedrohen vor allem alte Bitcoin-Adressen von Satoshi Nakamoto. Welchen gewieften Plan ein Entwickler nun entworfen hat, um den Spieß umzudrehen und Angreifern ihre BTC zu entwenden. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794149220,
+   "url": "https://www.btc-echo.de/news/bitcoin-im-quantenzeitalter-finanzielle-landminen-240589/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Jagd auf Metaplanet: Strive fehlen nur noch 876 BTC für Platz 2",
    "summary": "Mit 43.124 Bitcoin im Portfolio greift Strive nach Platz zwei unter den Treasury-Firmen. Jetzt muss sich Metaplanet warm anziehen. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794020400,
    "url": "https://www.btc-echo.de/news/verdaechtiges-timing-schafft-trump-seine-bitcoin-schon-beiseite-240472/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs: Können die Bullen die Korrekturausweitung abwenden?",
-   "summary": "Bitcoin (BTC) muss sich dem historischen Abverkauf von US-Technologieaktien fügen und rutscht kurzfristig unter die 75.000 US-Dollar ab. Muss die Käuferseite die Segel streichen? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793988000,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-koennen-die-bullen-die-korrekturausweitung-abwenden-240519/",
-   "ad": false
-  },
-  {
-   "title": "Peter Schiff verspottet Michael Saylor: Sechs Jahre Bitcoin für nichts?",
-   "summary": "Saylors Konzern finanziert seine Bitcoin-Käufe vor allem über neue Aktien. Fällt der Kurs weiter, könnte das schwieriger werden. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1793984713,
-   "url": "https://www.btc-echo.de/news/peter-schiff-verspottet-michael-saylor-sechs-jahre-bitcoin-fuer-nichts-240552/",
    "ad": false
   }
  ]
