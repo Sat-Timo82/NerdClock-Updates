@@ -1,6 +1,6 @@
 {
   "name": "Heizminer 2,8\"-Display (NerdHeizung)",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "new_install_prompt_erase": true,
   "builds": [
     {
