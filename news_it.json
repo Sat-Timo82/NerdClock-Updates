@@ -1,78 +1,86 @@
 {
- "updated": 1794189383,
+ "updated": 1794217192,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin Political Support Is Growing Across US Parties",
+   "summary": "Bitcoin political support is attracting renewed attention following the 2026 U.S. midterm elections, with Strategy Executive Chairman Michael Saylor highlighting an important development that could influence the cryptocurrency's long-term future. According to Saylor, recent election results suggest that interest in…",
+   "source": "Bitcoinist",
+   "ts": 1794216756,
+   "url": "https://bitcoinist.com/bitcoin-political-support-is-growing-across-us-parties/",
+   "ad": false
+  },
+  {
+   "title": "Popular Analyst Predicted Bitcoin's Latest Slide and Sees More Pain Ahead",
+   "summary": "Benjamin Cowen is claiming vindication with bitcoin's price near $75,000, saying the fourth-quarter stock correction he warned about all year has arrived on schedule. Behind the Victory Lap Market analyst Benjamin Cowen told his followers on Nov. 9 that a correction in equities was always his reason for expecting bitcoin to…",
+   "source": "Bitcoin.com News",
+   "ts": 1794216628,
+   "url": "https://news.bitcoin.com/price-predictions/benjamin-cowen-bitcoin-q4-stock-correction/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Eyes Recovery As Analyst Identifies Key Level For Next Rally",
+   "summary": "Bitcoin price recovery could be approaching a crucial turning point as the world's largest cryptocurrency attempts to regain momentum following its recent correction. Popular crypto analyst Michael van de Poppe believes reclaiming one important price level could signal that buyers are ready to take control. The new trading…",
+   "source": "Bitcoinist",
+   "ts": 1794214494,
+   "url": "https://bitcoinist.com/bitcoin-price-eyes-recovery-as-analyst-identifies-key-level-for-next-rally/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+   "summary": "Investors pulled a net $1.21 billion from BlackRock's IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
+   "source": "Cointelegraph",
+   "ts": 1794212255,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Drops Below $74,000 as Liquidations Top $1 Billion",
+   "summary": "Bitcoin's price dropped from $75,690 to $73,477 in 15 minutes late Sunday as Nvidia's scandal and stalled Iran talks hit thin weekend markets and liquidations exceeded $1 billion. Fifteen Minutes on a Sunday Is All It Took Bitcoin slid from $75,690 to $73,477 in 15 minutes late Sunday afternoon U.S. time, its lowest price…",
+   "source": "Bitcoin.com News",
+   "ts": 1794209439,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-flash-drop-73477-liquidations/",
+   "ad": false
+  },
+  {
+   "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+   "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+   "source": "CoinDesk",
+   "ts": 1794207281,
+   "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+   "ad": false
+  },
+  {
+   "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+   "source": "CoinDesk",
+   "ts": 1794200079,
+   "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+   "ad": false
+  },
+  {
+   "title": "California Orders $4.8M Payout to Bitcoin ATM Scam Victims",
+   "summary": "California ordered Coinflip to compensate scam victims after investigators identified failures in customer checks and suspicious activity controls. The action targets a network of roughly 500 kiosks statewide and requires the operator to stop unlawful practices. Coinflip Faces Compensation Order Over Fraud Safeguards…",
+   "source": "Bitcoin.com News",
+   "ts": 1794198627,
+   "url": "https://news.bitcoin.com/regulation-and-legal/california-orders-4-8m-payout-to-bitcoin-atm-scam-victims/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+   "source": "CoinDesk",
+   "ts": 1794194509,
+   "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+   "ad": false
+  },
   {
    "title": "Bitcoin Packs 11,255 Transactions Into a Single Block, Nears Record",
    "summary": "Bitcoin's blockchain came within striking distance of an 11-year-old transaction record on Saturday, Nov. 7, 2026, when a single block processed 11,255 transactions, the second-highest total in network history, amid a year already producing extraordinary daily transaction counts. Bitcoin's 2015 Transaction Record Faces Its…",
    "source": "Bitcoin.com News",
    "ts": 1794171928,
    "url": "https://news.bitcoin.com/featured/bitcoin-packs-11255-transactions-into-a-single-block-nears-record/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Miners Help Heat Homes Across Finland",
-   "summary": "Bitcoin mining is finding an unusual use beyond securing the cryptocurrency network: keeping homes warm during Finland's cold winters. A Finnish startup is using heat generated from bitcoin miners and machines to provide residential heating, creating a business model that could benefit both households and miners. The project…",
-   "source": "Bitcoinist",
-   "ts": 1794168369,
-   "url": "https://bitcoinist.com/bitcoin-miners-help-heat-homes-across-finland/",
-   "ad": false
-  },
-  {
-   "title": "Lightning Network Security Scare Forces LNbits Servers Offline",
-   "summary": "LNbits, the open-source Lightning Network wallet and payments platform, issued an emergency shutdown warning Sunday, Nov. 8, 2026, after multiple reported security compromises. Operators were instructed to take their servers offline immediately while developers prepared critical patches to address the unfolding attacks. LNbits…",
-   "source": "Bitcoin.com News",
-   "ts": 1794166841,
-   "url": "https://news.bitcoin.com/security/lightning-network-security-scare-forces-lnbits-servers-offline/",
-   "ad": false
-  },
-  {
-   "title": "Saylor Shares $64B Bitcoin Chart, Stirring Strategy Buy Questions",
-   "summary": "Michael Saylor shared a chart showing Strategy's bitcoin holdings valued at $64.44 billion following a sharp market sell-off. His update revisited the company's acquisition history as Strategy balanced bitcoin purchases with preferred-stock buybacks and cash reserves. Saylor Shares Strategy's Bitcoin Acquisition Chart Michael…",
-   "source": "Bitcoin.com News",
-   "ts": 1794150064,
-   "url": "https://news.bitcoin.com/featured/saylor-shares-64b-bitcoin-chart-stirring-strategy-buy-questions/",
-   "ad": false
-  },
-  {
-   "title": "This Bitcoin Developer's Idea Would Make Quantum Attacks a Losing Bet",
-   "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
-   "source": "Decrypt",
-   "ts": 1794146463,
-   "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Technical Analysis: Bullish Checkmate Setup Near $76K",
-   "summary": "Bitcoin is going quiet after a violent week, and chart watchers think that calm could be the setup for the next move higher. Our Bitcoin technical analysis shows that currently, BTC is trading at $75,865, down 0.41% on the day, inside a tight range between $75,645 and $75,979. That is a 0.4% daily range after […]",
-   "source": "Bitcoinist",
-   "ts": 1794130307,
-   "url": "https://bitcoinist.com/bitcoin-technical-analysis-bullish-checkmate-setup-near-76k/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
-   "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund.",
-   "source": "The Block",
-   "ts": 1794069962,
-   "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin holders have received eCash – What can you do with it?",
-   "summary": "Bitcoin's eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
-   "source": "Cointelegraph",
-   "ts": 1794058200,
-   "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Is Repeating The 2023 Setup That Sparked Its Last Major Rally, Analyst Says",
-   "summary": "Bitcoin may be quietly setting up its next big move. Despite this week's sell-off, a crypto analyst has spotted a pattern on the weekly chart that last appeared in 2023, shortly before BTC launched a rally that more than doubled its price. BTC is currently trading around $76,000, sitting just above its weekly 50-period moving…",
-   "source": "Bitcoinist",
-   "ts": 1794056693,
-   "url": "https://bitcoinist.com/bitcoin-is-repeating-the-2023-setup-that-sparked-its-last-major-rally-analyst-says/",
    "ad": false
   }
  ]

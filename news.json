@@ -1,8 +1,40 @@
 {
- "updated": 1794189383,
+ "updated": 1794217192,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin fällt unter wichtige 50-Wochen-Linie – Droht jetzt der nächste Kursrutsch?",
+   "summary": "Bitcoin unter Druck! Nach dem Bruch der 50-Wochen-Linie scheitert auch der erste Erholungsversuch. Wie tief kann der BTC-Kurs jetzt fallen?",
+   "source": "Blocktrainer",
+   "ts": 1794210291,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-faellt-unter-wichtige-50-wochen-linie-droht-jetzt-der-naechste-kursrutsch",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin auf Zweimonatstief: Asiens Börsen nach KI-Ausverkauf",
+   "summary": "Die Märkte rechnen inzwischen fest mit einer Zinserhöhung im Dezember. Für Bitcoin und Co. ist das kein gutes Zeichen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794208213,
+   "url": "https://www.btc-echo.de/news/bitcoin-auf-zweimonatstief-asiens-boersen-nach-ki-ausverkauf-240598/",
+   "ad": false
+  },
+  {
+   "title": "\"Verkauft jetzt\": Platzt die Bitcoin-Blase?",
+   "summary": "Alles redet über das Platzen der KI-Blase, doch Peter Schiff erkennt bei Bitcoin eine größere Gefahr. Warum er Anlegern jetzt zum Verkauf rät – und was er stattdessen empfiehlt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794198600,
+   "url": "https://www.btc-echo.de/news/verkauft-jetzt-platzt-die-bitcoin-blase-240592/",
+   "ad": false
+  },
+  {
+   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
+   "summary": "Aktuelle US-Inflationsdaten sowie Quartalszahlen von Neocloud-Anbietern könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794193200,
+   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-68-240511/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Prognose 2040: So hoch steigt der BTC-Kurs laut den Experten",
    "summary": "Der Bitcoin-Kurs mag kurzfristig erneut unter 80.000 US-Dollar korrigieren, aber wie verändert die Kryptowährung unsere Welt bis zum Jahr 2040? Ein Blick in die Zukunft. Source: BTC-ECHO BTC-ECHO",
@@ -49,38 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794106800,
    "url": "https://www.btc-echo.de/news/krypto-news-ki-crash-bitcoin-in-russland-und-klingsbeils-plan-240571/",
-   "ad": false
-  },
-  {
-   "title": "Chainlink ETFs enttäuschen: Was dem LINK-Kurs jetzt bevorstehen könnte",
-   "summary": "Seit Mitte Oktober können die Chainlink ETFs kein Kapital mehr anziehen. Für den LINK-Kurs wird es nun eng. Diese Chartmarken rücken in den Vordergrund. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794056400,
-   "url": "https://www.btc-echo.de/news/chainlink-etfs-enttaeuschen-was-dem-link-kurs-jetzt-bevorstehen-koennte-240565/",
-   "ad": false
-  },
-  {
-   "title": "Idee gegen Quantencomputer: Bitcoin-Entwickler will Quanten-Hacker in die Falle locken!",
-   "summary": "Mit sogenannten Quanten-Landminen will Bitcoin-Entwickler Cory Fields potenzielle Angreifer austricksen. So funktioniert die ungewöhnliche Idee.",
-   "source": "Blocktrainer",
-   "ts": 1794042898,
-   "url": "https://www.blocktrainer.de/blog/idee-gegen-quantencomputer-bitcoin-entwickler-will-quanten-hacker-in-die-falle-locken",
-   "ad": false
-  },
-  {
-   "title": "Fällt der Bitcoin-Kurs auf 58.000 Dollar? Tech-Abverkauf beunruhigt Experten",
-   "summary": "Der Nasdaq-100 korrigiert heftig nach den US-Zwischenwahlen. Warum ein Krypto-Analyst nun vor dem Bitcoin-Kursrückfall auf das Sommertief warnt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794040383,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-auf-58-000-dollar-tech-abverkauf-beunruhigt-240515/",
-   "ad": false
-  },
-  {
-   "title": "Verdächtiges Timing: Schafft Trump seine Bitcoin schon beiseite?",
-   "summary": "Trumps Krypto-Geschäfte könnten für ihn zunehmend zum Problem werden. Nach dem Wahlsieg der Demokraten flossen im Hintergrund auch schon die ersten Bitcoin. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794020400,
-   "url": "https://www.btc-echo.de/news/verdaechtiges-timing-schafft-trump-seine-bitcoin-schon-beiseite-240472/",
    "ad": false
   }
  ]
