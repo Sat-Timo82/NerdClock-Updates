@@ -1,8 +1,48 @@
 {
- "updated": 1794217192,
+ "updated": 1794256821,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Strategy schlägt wieder zu und knackt die Marke von 850.000 Bitcoin",
+   "summary": "Michael Saylors Unternehmen kauft weiter Bitcoin, wenn auch in kleinen Schritten. Beim Blick auf die Ausgaben fällt eine andere Position deutlich stärker ins Gewicht. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794235658,
+   "url": "https://www.btc-echo.de/news/strategy-schlaegt-wieder-zu-und-knackt-die-marke-von-850-000-bitcoin-240622/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock: Bitcoin-Besitzer schieben Milliarden in ETFs – aus Angst vor Hacks!",
+   "summary": "Angst vor Bitcoin-Hacks? Laut BlackRock schichten immer mehr Großinvestoren ihre BTC in ETFs um. Bereits Milliarden wurden so übertragen.",
+   "source": "Blocktrainer",
+   "ts": 1794234469,
+   "url": "https://www.blocktrainer.de/blog/blackrock-bitcoin-besitzer-schieben-milliarden-in-etfs-aus-angst-vor-hacks",
+   "ad": false
+  },
+  {
+   "title": "Trotz Kurs bei 100 US-Dollar: Strategy hat keine neuen STRC-Aktien ausgegeben, um Bitcoin zu…",
+   "summary": "Obwohl STRC in der vergangenen Woche wieder bei 100 US-Dollar handelte, nahm Strategy so kein Geld ein, um Bitcoin zu kaufen. Dennoch kamen 1.036 BTC hinzu.",
+   "source": "Blocktrainer",
+   "ts": 1794234076,
+   "url": "https://www.blocktrainer.de/blog/strategy-hat-keine-neuen-strc-aktien-ausgegeben-um-bitcoin-zu-kaufen",
+   "ad": false
+  },
+  {
+   "title": "Hat sich die Regierung bei der Bitcoin-Haltefrist \"verständigt\"? Was Anleger wissen müssen",
+   "summary": "Der Referentenentwurf zur Bitcoin-Haltefrist sieht den 1. Januar 2027 als Starttermin vor, doch im Kabinett ist er noch nicht angekommen. BTC-ECHO hat beim Finanzministerium und in der Koalition nachgefragt – das wird jetzt wichtig. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794218400,
+   "url": "https://www.btc-echo.de/news/hat-sich-die-regierung-bei-der-bitcoin-haltefrist-verstaendigt-was-anleger-wissen-muessen-240517/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Haltefrist vor dem Aus: Fällt diese Woche eine Entscheidung?",
+   "summary": "Diese Woche stehen wichtige Haushaltsberatungen an. Fällt dabei auch eine Entscheidung über die geplante Abschaffung der Bitcoin-Haltefrist?",
+   "source": "Blocktrainer",
+   "ts": 1794218393,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-haltefrist-vor-dem-aus-faellt-diese-woche-eine-entscheidung",
+   "ad": false
+  },
   {
    "title": "Bitcoin fällt unter wichtige 50-Wochen-Linie – Droht jetzt der nächste Kursrutsch?",
    "summary": "Bitcoin unter Druck! Nach dem Bruch der 50-Wochen-Linie scheitert auch der erste Erholungsversuch. Wie tief kann der BTC-Kurs jetzt fallen?",
@@ -28,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
-   "summary": "Aktuelle US-Inflationsdaten sowie Quartalszahlen von Neocloud-Anbietern könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794193200,
-   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-68-240511/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin-Prognose 2040: So hoch steigt der BTC-Kurs laut den Experten",
    "summary": "Der Bitcoin-Kurs mag kurzfristig erneut unter 80.000 US-Dollar korrigieren, aber wie verändert die Kryptowährung unsere Welt bis zum Jahr 2040? Ein Blick in die Zukunft. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
@@ -49,38 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794149220,
    "url": "https://www.btc-echo.de/news/bitcoin-im-quantenzeitalter-finanzielle-landminen-240589/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Jagd auf Metaplanet: Strive fehlen nur noch 876 BTC für Platz 2",
-   "summary": "Mit 43.124 Bitcoin im Portfolio greift Strive nach Platz zwei unter den Treasury-Firmen. Jetzt muss sich Metaplanet warm anziehen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794134040,
-   "url": "https://www.btc-echo.de/news/bitcoin-jagd-auf-metaplanet-strive-fehlen-nur-876-btc-240580/",
-   "ad": false
-  },
-  {
-   "title": "\"Wer Bitcoin keinen Aufschlag gibt, hat Bitcoin nicht verstanden\"",
-   "summary": "Swan-Bitcoin-Gründer Cory Klippsten würde Aktien im Wert von 100.000 US-Dollar gegen Bitcoin für 65.000 US-Dollar tauschen. Was steckt hinter dieser Aussage? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794132000,
-   "url": "https://www.btc-echo.de/news/wer-bitcoin-keinen-aufschlag-gibt-hat-bitcoin-nicht-verstanden-240422/",
-   "ad": false
-  },
-  {
-   "title": "Michael Saylor warnt: KI-Angriffe bedrohen Bitcoin nicht, aber Krypto-Börsen umso mehr",
-   "summary": "Cyberkriminelle erbeuten Milliarden bei Krypto-Börsen durch KI-gestützte Angriffe. Michael Saylor schlägt Alarm, aber verteidigt das Bitcoin-Netzwerk als solches gegen Kritik. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794121200,
-   "url": "https://www.btc-echo.de/news/michael-saylor-ki-bedroht-krypto-boersen-nicht-bitcoin-240574/",
-   "ad": false
-  },
-  {
-   "title": "Krypto-News: KI-Crash, Bitcoin-Grüße aus Moskau und Klingbeils neuer Überwachungsplan",
-   "summary": "Die \"Blaue Welle\" erschüttert KI-Aktien, die russische Zentralbank gibt grünes Licht für Bitcoin und das Bundesfinanzministerium strebt nach einer strengeren Überwachung von Anlegern – die Krypto-News der Woche. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794106800,
-   "url": "https://www.btc-echo.de/news/krypto-news-ki-crash-bitcoin-in-russland-und-klingsbeils-plan-240571/",
    "ad": false
   }
  ]
