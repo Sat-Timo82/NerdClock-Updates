@@ -302,13 +302,13 @@ footer b{color:var(--red);}
       <div class="flash-zone" id="heizung">
         <div class="flash-zone-title">Heizminer 2,8"-Display (NerdHeizung)</div>
         <div class="flash-zone-sub">ESP32-2432S028R · steuert einen Braiins-OS-Miner als Bitcoin-Heizung (Heizstufen, Pool) · findet den Miner auch hinter einem Repeater</div>
-        <button class="nmf-btn" data-manifest="manifest-heizung_umgekehrt.json" data-kind="mp">Installieren – Display mit umgekehrten Farben (USB-C)</button>
+        <button class="nmf-btn" data-manifest="manifest-heizung_umgekehrt.json" data-kind="hz">Installieren – Display mit umgekehrten Farben (USB-C)</button>
         <div style="height:10px"></div>
-        <button class="nmf-btn" data-manifest="manifest-heizung_normal.json" data-kind="mp">Installieren – Display mit normalen Farben (Micro-USB)</button>
+        <button class="nmf-btn" data-manifest="manifest-heizung_normal.json" data-kind="hz">Installieren – Display mit normalen Farben (Micro-USB)</button>
         <div class="flash-note">
           Welche Variante? Erscheint nach dem Flashen alles negativ (heller Hintergrund, falsche Farben), einfach die andere Variante nehmen –
           oder am Display in den Einstellungen unter „Farben“ umschalten.<br>
-          Danach verbindet sich das Display mit dem WLAN „NerdHeizungAP“ zur Einrichtung.
+          Danach erscheint das WLAN <strong>NerdHeizungAP</strong> (Passwort <strong>nerdheizung</strong>): WLAN, Pool und Benutzer eintragen, speichern – fertig. Falsches WLAN? Im Betrieb BOOT 5 Sekunden halten.
         </div>
       </div>
 
@@ -642,7 +642,7 @@ async function start(btn) {
     ? "Dein Gerät startet neu und läuft mit deinen bisherigen Einstellungen weiter."
     : (kind === "nx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdAxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
                      : kind === "bx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>Bitaxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
-                     : kind === "bn" ? "Dein Nano startet neu. Verbinde dich mit seinem WLAN-Zugang (Hotspot) und trage dein WLAN ein. Nach dem Speichern des WLANs den <b>Restart</b>-Knopf oben rechts drücken." : kind === "mp" ? "Dein Gerät startet neu und führt dich durch die Einrichtung."
+                     : kind === "bn" ? "Dein Nano startet neu. Verbinde dich mit seinem WLAN-Zugang (Hotspot) und trage dein WLAN ein. Nach dem Speichern des WLANs den <b>Restart</b>-Knopf oben rechts drücken." : kind === "hz" ? "Dein Display startet neu. Verbinde dich mit dem WLAN <b>NerdHeizungAP</b> (Passwort <b>nerdheizung</b>) und trage dein WLAN, Pool und Benutzer ein. Falsches WLAN? BOOT 5 Sekunden halten." : kind === "mp" ? "Dein Gerät startet neu und führt dich durch die Einrichtung."
                      : "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdMinerAP</b> (Passwort <b>MineYourCoins</b>) und trage dein WLAN und deine BTC-Adresse ein.");
   show(`<div class="dlg-ok">✓</div><h3>Fertig!</h3><p>${next}</p><p>Startet er nicht von selbst: USB-Kabel kurz ab- und wieder anstecken.</p>
     <div class="dlg-act"><button class="main" id="d-x">Schließen</button></div>`);
