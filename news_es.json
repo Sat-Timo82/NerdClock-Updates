@@ -1,86 +1,86 @@
 {
- "updated": 1794310939,
+ "updated": 1794339579,
  "mode": "stichworte",
  "lang": "es",
  "items": [
   {
-   "title": "Cathie Wood Says Gold Is Going Down While Bitcoin Marches on",
-   "summary": "Ark Invest CEO Cathie Wood says gold is headed lower and bitcoin is set to keep gaining on it, even as BTC trails the metal since last week's U.S. midterm elections. \"Gold Is Going Down\" Wood made the call in remarks this week, with her main argument being statistical. She stated: Gold is going down. […]",
-   "source": "Bitcoin.com News",
-   "ts": 1794310234,
-   "url": "https://news.bitcoin.com/price-predictions/cathie-wood-gold-going-down-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
-   "summary": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
-   "source": "CoinDesk",
-   "ts": 1794309850,
-   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Faces New Political Test As Democrats Prepare Crypto Bill",
-   "summary": "Bitcoin is facing a new political test following the 2026 US midterm elections, with Democrats preparing to take control of Congress and reportedly discussing new cryptocurrency legislation. The development adds another dimension to the ongoing debate over crypto regulation and what Washington's changing political landscape…",
-   "source": "Bitcoinist",
-   "ts": 1794308586,
-   "url": "https://bitcoinist.com/bitcoin-faces-new-political-test-as-democrats-prepare-crypto-bill/",
-   "ad": false
-  },
-  {
-   "title": "Live news: Traders price in Fed rate hike for December as bitcoin, gold retreat",
-   "summary": "Markets price in a December Fed rate hike ahead of U.S. inflation data, while bitcoin and gold fall and oil retreats on easing Iran tensions.",
-   "source": "CoinDesk",
-   "ts": 1794307305,
-   "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
-   "ad": false
-  },
-  {
-   "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
-   "summary": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.",
+   "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+   "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
    "source": "The Block",
-   "ts": 1794307013,
-   "url": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+   "ts": 1794339498,
+   "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
    "ad": false
   },
   {
-   "title": "MARA Dumps Over 13,500 Bitcoin for Over $1B to Wipe out Its BTC Loans",
-   "summary": "Bitcoin miner MARA Holdings sold 13,597 BTC for about $1.1 billion after the third quarter closed and used $750 million of the proceeds to repay all of its bitcoin-backed loans. A $1.1 Billion Sale Disclosed in the 10-Q The sale surfaced in MARA's quarterly report filed with the Securities and Exchange Commission (SEC) on Nov…",
-   "source": "Bitcoin.com News",
-   "ts": 1794306635,
-   "url": "https://news.bitcoin.com/mining/mara-sells-13597-bitcoin-repays-750m-loans/",
+   "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+   "summary": "Grayscale's Zcash push comes as its ETF faces continued withdrawals, extending October's net outflows.",
+   "source": "The Block",
+   "ts": 1794333134,
+   "url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
    "ad": false
   },
   {
-   "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
-   "summary": "Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting.",
-   "source": "Cointelegraph",
-   "ts": 1794305302,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm",
+   "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+   "summary": "TON Strategy reported $13.1M in Q3 revenue, mostly from GRAM staking, and a $24M net loss as Telegram rolled out its native Gram Wallet.",
+   "source": "The Block",
+   "ts": 1794331484,
+   "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
    "ad": false
   },
   {
-   "title": "Bitcoin Slips Under $75K as Peter Schiff Says Sell Before a Short Window Closes",
-   "summary": "Economist and gold advocate Peter Schiff is urging bitcoin holders to sell now, warning that BTC's slide below $75,000 leaves only \"a short window before the crash.\" \"Make Sure to Sell\" Schiff spelled out his case on X on Monday as markets diverged, stating: \"In case Bitcoiners haven't noticed, the stock market is up big […]",
-   "source": "Bitcoin.com News",
-   "ts": 1794303053,
-   "url": "https://news.bitcoin.com/market-updates/peter-schiff-sell-bitcoin-before-crash/",
+   "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
+   "summary": "Canaan's mining-machine sales fell to $4.8 million from $118.6 million a year earlier, but a $51.9 million fair-value gain turned an operating loss into $8.0 million of net income. This post Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96% first appeared on Bitcoin Magazine and is written…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794330925,
+   "url": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
    "ad": false
   },
   {
-   "title": "Bitcoin Price Could Avoid New Lows As Analyst Points To Historical Pattern",
-   "summary": "Bitcoin price has come under renewed pressure following its latest market decline, but one prominent analyst believes historical data offers a reason for cautious optimism. Galaxy's head of firmwide research, Alex Thorn, has identified a technical pattern that previously appeared during two major Bitcoin market recoveries…",
+   "title": "BlackRock IBIT Outflows Hit $1.66B Over Seven Sessions",
+   "summary": "BlackRock IBIT outflows recorded its seventh straight day of outflows totaling $1.66 billion. US spot Bitcoin ETFs lost $201 million Monday as year-to-date flows turn negative. US spot Bitcoin exchange-traded funds continued to lose assets on Monday, with BlackRock's iShares Bitcoin Trust (IBIT) posting its seventh consecutive…",
    "source": "Bitcoinist",
-   "ts": 1794300292,
-   "url": "https://bitcoinist.com/bitcoin-price-could-avoid-new-lows-as-analyst-points-to-historical-pattern/",
+   "ts": 1794328404,
+   "url": "https://bitcoinist.com/blackrock-ibit-outflows-hit-1-66b-over-seven-sessions/",
    "ad": false
   },
   {
-   "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
-   "summary": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock's IBIT totaling $1.66 billion.",
+   "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+   "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
+   "source": "Decrypt",
+   "ts": 1794328077,
+   "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin nears 11-week low after 'discouraging' US CPI inflation beat",
+   "summary": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.",
    "source": "Cointelegraph",
-   "ts": 1794297725,
-   "url": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inbound",
+   "ts": 1794327903,
+   "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
+   "ad": false
+  },
+  {
+   "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
+   "summary": "Miami-Dade Tax Collector Dariel Fernandez said Monday his office now accepts bitcoin for property taxes online and in person, with every payment converted to dollars before it reaches the county. This post Miami-Dade County Now Accepts Bitcoin for Property Taxes first appeared on Bitcoin Magazine and is written by Micah…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794327358,
+   "url": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
+   "ad": false
+  },
+  {
+   "title": "Canaan's Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+   "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.",
+   "source": "The Block",
+   "ts": 1794326522,
+   "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Wallets 'Drop', Telegram Wallets Rise, and Both Are Nothingburgers",
+   "summary": "Crypto asset investors looking for places to put their money now have two more data points to consider. The number of nonempty bitcoin wallets has reportedly fallen by almost 109,000 in less than a month, while users created more than 900,000 wallets on Telegram in 48 hours. However, a closer look shows that the first […]",
+   "source": "Bitcoin.com News",
+   "ts": 1794324055,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-wallets-drop-telegram-wallets-rise-and-both-are-nothingburgers/",
    "ad": false
   }
  ]

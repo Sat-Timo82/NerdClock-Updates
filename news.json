@@ -1,8 +1,72 @@
 {
- "updated": 1794310939,
+ "updated": 1794339579,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Andauernde Abflüsse aus Krypto-ETFs: Wir halten die Füße still",
+   "summary": "Der Krypto-Markt fügt sich der Schwäche am USFinanzmarkt nach dem Wahlsieg der Demokraten. Das Musterdepot weist im Wochenvergleich moderate Kursabschläge auf. Frische Impulse könnte der zeitnahe Handelsstart des KIUnternehmens Anthropic liefern. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794333600,
+   "url": "https://www.btc-echo.de/news/andauernde-abfluesse-aus-krypto-etfs-wir-halten-die-fuesse-still-240659/",
+   "ad": false
+  },
+  {
+   "title": "Keine Lust mehr auf Bitcoin: 14 Firmen geben BTC in Milliardenhöhe ab",
+   "summary": "Erst vor gut einem Jahr baute ein französischer Chiphersteller seine Bitcoin-Reserve auf. Jetzt ist sie vollständig verkauft. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794329152,
+   "url": "https://www.btc-echo.de/news/keine-lust-mehr-auf-bitcoin-14-firmen-geben-btc-in-milliardenhoehe-ab-240712/",
+   "ad": false
+  },
+  {
+   "title": "Jede Nacht verschwinden 290 Millionen Dollar und kehren zurück: Das Rätsel um einen Krypto-Wal",
+   "summary": "Auf Aave springt der USDC-Kreditzins immer zur gleichen Zeit auf fast 14 Prozent. Wer dann abheben will, geht womöglich leer aus. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794326400,
+   "url": "https://www.btc-echo.de/news/jede-nacht-verschwinden-290-millionen-dollar-und-kehren-zurueck-das-raetsel-um-einen-krypto-wal-240525/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Short-Trade: Erholung als Einstiegsmöglichkeit",
+   "summary": "Bitcoin muss weiter Federn lassen. Eine technische Zwischenerholung bietet eine interessante Chance für aktive Trader, von der jüngsten Kursschwäche zu profitieren. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794324045,
+   "url": "https://www.btc-echo.de/news/bitcoin-short-trade-zwischenerholung-als-einstiegsmoeglichkeit-240678/",
+   "ad": false
+  },
+  {
+   "title": "73.400 US-Dollar: Bitcoin fällt nach höher als erwarteten US-Inflationsdaten auf ein neues…",
+   "summary": "Bitcoin ist nach heißen US-Inflationsdaten, die sogar eine Zinsanhebung um 50 Basispunkte bei der Dezembertagung möglich machen, auf 73.400 US-Dollar gefallen.",
+   "source": "Blocktrainer",
+   "ts": 1794320700,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-inflation-oktober",
+   "ad": false
+  },
+  {
+   "title": "US-Inflation gestiegen: Das bedeuten die neuen Zahlen für Bitcoin und die Fed",
+   "summary": "Die US-Inflation zieht im Oktober stärker an als erwartet – eine Zinserhöhung im Dezember gilt als nahezu sicher. Warum steigende Zinsen für Bitcoin zum Problem werden können. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794318373,
+   "url": "https://www.btc-echo.de/news/us-inflation-gestiegen-das-bedeuten-die-neuen-zahlen-fuer-bitcoin-und-die-fed-240665/",
+   "ad": false
+  },
+  {
+   "title": "Gefährliche iPhone-Sicherheitslücke entdeckt: Bitcoin-Wallets möglicherweise in Gefahr!",
+   "summary": "Gefährliche iOS-Sicherheitslücke entdeckt! Angreifer könnten sensible Wallet-Daten auslesen. Sind Bitcoin-Nutzer mit iPhones in Gefahr?",
+   "source": "Blocktrainer",
+   "ts": 1794317881,
+   "url": "https://www.blocktrainer.de/blog/gefaehrliche-iphone-sicherheitsluecke-entdeckt-bitcoin-wallets-moeglicherweise-in-gefahr",
+   "ad": false
+  },
+  {
+   "title": "Zentralbank Kasachstans gibt Krypto- und Bitcoin-Investment für 190 Millionen US-Dollar bekannt",
+   "summary": "Die Kasachische Zentralbank hat 100 Millionen US-Dollar in Krypto-Fonds sowie weitere 90 Millionen US-Dollar in Kryptowährungen und Bitcoin-ETFs investiert.",
+   "source": "Blocktrainer",
+   "ts": 1794310182,
+   "url": "https://www.blocktrainer.de/blog/zentralbank-kasachstans-gibt-krypto-und-bitcoin-investment-fuer-190-millionen-us-dollar-bekannt",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kurs weiterhin unter 75.000 US-Dollar: Doch diese Daten bringen neuen Schwung",
    "summary": "Bitcoin tritt bei 74.500 US-Dollar auf der Stelle, doch jetzt richten sich alle Augen auf die US-Inflationsdaten am Nachmittag. Sie könnten entscheiden, ob die Fed im Dezember die Zinsen erhöht. Was das für den Kurs bedeutet. Source: BTC-ECHO BTC-ECHO",
@@ -17,70 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794235658,
    "url": "https://www.btc-echo.de/news/strategy-schlaegt-wieder-zu-und-knackt-die-marke-von-850-000-bitcoin-240622/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock: Bitcoin-Besitzer schieben Milliarden in ETFs – aus Angst vor Hacks!",
-   "summary": "Angst vor Bitcoin-Hacks? Laut BlackRock schichten immer mehr Großinvestoren ihre BTC in ETFs um. Bereits Milliarden wurden so übertragen.",
-   "source": "Blocktrainer",
-   "ts": 1794234469,
-   "url": "https://www.blocktrainer.de/blog/blackrock-bitcoin-besitzer-schieben-milliarden-in-etfs-aus-angst-vor-hacks",
-   "ad": false
-  },
-  {
-   "title": "Trotz Kurs bei 100 US-Dollar: Strategy hat keine neuen STRC-Aktien ausgegeben, um Bitcoin zu…",
-   "summary": "Obwohl STRC in der vergangenen Woche wieder bei 100 US-Dollar handelte, nahm Strategy so kein Geld ein, um Bitcoin zu kaufen. Dennoch kamen 1.036 BTC hinzu.",
-   "source": "Blocktrainer",
-   "ts": 1794234076,
-   "url": "https://www.blocktrainer.de/blog/strategy-hat-keine-neuen-strc-aktien-ausgegeben-um-bitcoin-zu-kaufen",
-   "ad": false
-  },
-  {
-   "title": "Hat sich die Regierung bei der Bitcoin-Haltefrist \"verständigt\"? Was Anleger wissen müssen",
-   "summary": "Der Referentenentwurf zur Bitcoin-Haltefrist sieht den 1. Januar 2027 als Starttermin vor, doch im Kabinett ist er noch nicht angekommen. BTC-ECHO hat beim Finanzministerium und in der Koalition nachgefragt – das wird jetzt wichtig. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794218400,
-   "url": "https://www.btc-echo.de/news/hat-sich-die-regierung-bei-der-bitcoin-haltefrist-verstaendigt-was-anleger-wissen-muessen-240517/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Haltefrist vor dem Aus: Fällt diese Woche eine Entscheidung?",
-   "summary": "Diese Woche stehen wichtige Haushaltsberatungen an. Fällt dabei auch eine Entscheidung über die geplante Abschaffung der Bitcoin-Haltefrist?",
-   "source": "Blocktrainer",
-   "ts": 1794218393,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-haltefrist-vor-dem-aus-faellt-diese-woche-eine-entscheidung",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin fällt unter wichtige 50-Wochen-Linie – Droht jetzt der nächste Kursrutsch?",
-   "summary": "Bitcoin unter Druck! Nach dem Bruch der 50-Wochen-Linie scheitert auch der erste Erholungsversuch. Wie tief kann der BTC-Kurs jetzt fallen?",
-   "source": "Blocktrainer",
-   "ts": 1794210291,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-faellt-unter-wichtige-50-wochen-linie-droht-jetzt-der-naechste-kursrutsch",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin auf Zweimonatstief: Asiens Börsen nach KI-Ausverkauf",
-   "summary": "Die Märkte rechnen inzwischen fest mit einer Zinserhöhung im Dezember. Für Bitcoin und Co. ist das kein gutes Zeichen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794208213,
-   "url": "https://www.btc-echo.de/news/bitcoin-auf-zweimonatstief-asiens-boersen-nach-ki-ausverkauf-240598/",
-   "ad": false
-  },
-  {
-   "title": "\"Verkauft jetzt\": Platzt die Bitcoin-Blase?",
-   "summary": "Alles redet über das Platzen der KI-Blase, doch Peter Schiff erkennt bei Bitcoin eine größere Gefahr. Warum er Anlegern jetzt zum Verkauf rät – und was er stattdessen empfiehlt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794198600,
-   "url": "https://www.btc-echo.de/news/verkauft-jetzt-platzt-die-bitcoin-blase-240592/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Prognose 2040: So hoch steigt der BTC-Kurs laut den Experten",
-   "summary": "Der Bitcoin-Kurs mag kurzfristig erneut unter 80.000 US-Dollar korrigieren, aber wie verändert die Kryptowährung unsere Welt bis zum Jahr 2040? Ein Blick in die Zukunft. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794160800,
-   "url": "https://www.btc-echo.de/news/bitcoin-prognose-2040-das-erwarten-die-experten-239767/",
    "ad": false
   }
  ]
