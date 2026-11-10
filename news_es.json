@@ -1,8 +1,40 @@
 {
- "updated": 1794256821,
+ "updated": 1794281327,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+   "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
+   "source": "CoinDesk",
+   "ts": 1794280946,
+   "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+   "ad": false
+  },
+  {
+   "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+   "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
+   "source": "Cointelegraph",
+   "ts": 1794271359,
+   "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
+   "ad": false
+  },
+  {
+   "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+   "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
+   "source": "The Block",
+   "ts": 1794262020,
+   "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's 6% Price Drop After $6.3B Binance Hack Signals Maturity: Fitch Ratings",
+   "summary": "According to Fitch Ratings, bitcoin demonstrated growing market resilience following the $6.3 billion Binance hack, falling just 6%–a far milder price decline than those seen during previous crypto crises. Bitcoin's Drop Defies Historical Market Sell-Offs Bitcoin's market response to the massive Binance hack demonstrated…",
+   "source": "Bitcoin.com News",
+   "ts": 1794257457,
+   "url": "https://news.bitcoin.com/featured/bitcoin-6-percent-price-drop-after-binance-hack-signals-maturity-fitch/",
+   "ad": false
+  },
   {
    "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
    "summary": "Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from quarter-end. This post Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
@@ -49,38 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1794243335,
    "url": "https://bitcoinist.com/bitcoin-etfs-see-1-3-billion-weekly-outflows-largest-since-june/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
-   "summary": "BlackRock's Robbie Mitchnick told Barron's demand to swap directly held bitcoin for IBIT shares is at its highest yet, with \"security and peace of mind\" the top reason as kidnappings and hacks rise. This post BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT first appeared on Bitcoin Magazine and is written by…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794241800,
-   "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
-   "ad": false
-  },
-  {
-   "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-   "summary": "The AntPool block came within 984 transactions of Bitcoin's 2015 record, even as fees made up less than 0.1% of the miner's payout.",
-   "source": "CoinDesk",
-   "ts": 1794241185,
-   "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
-   "ad": false
-  },
-  {
-   "title": "TradingView Glitch Sends Bitcoin Dominance Below 25%",
-   "summary": "A TradingView glitch in data briefly showed crypto's market cap at $6 trillion and Bitcoin dominance at 24%. Bitcoin's price did not move, and sentiment data still points to fear. A TradingView glitch on Monday, November 9, made it look as if the crypto market had more than doubled and Bitcoin dominance had collapsed. Ash […]",
-   "source": "Bitcoinist",
-   "ts": 1794238359,
-   "url": "https://bitcoinist.com/tradingview-glitch-sends-bitcoin-dominance-below-25/",
-   "ad": false
-  },
-  {
-   "title": "BTC Drops Then Rebounds Near $74K as Nvidia Scandal Sparks $1B Liquidations",
-   "summary": "BTC drops in a sharp two-way volatility over the weekend of November 8–9, 2026, sliding to its lowest level since August before staging a quick rebound. The moves, which wiped out more than $1 billion in leveraged positions, came as markets digested two uncomfortable headlines: an investigation into Nvidia CEO Jensen Huang's…",
-   "source": "Bitcoinist",
-   "ts": 1794237575,
-   "url": "https://bitcoinist.com/btc-drops-then-rebounds-near-74k-as-nvidia-scandal-sparks-1b-liquidations/",
    "ad": false
   }
  ]
