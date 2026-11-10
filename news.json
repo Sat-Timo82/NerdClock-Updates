@@ -1,8 +1,16 @@
 {
- "updated": 1794281327,
+ "updated": 1794310939,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Kurs weiterhin unter 75.000 US-Dollar: Doch diese Daten bringen neuen Schwung",
+   "summary": "Bitcoin tritt bei 74.500 US-Dollar auf der Stelle, doch jetzt richten sich alle Augen auf die US-Inflationsdaten am Nachmittag. Sie könnten entscheiden, ob die Fed im Dezember die Zinsen erhöht. Was das für den Kurs bedeutet. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794293236,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-weiterhin-unter-75-000-us-dollar-doch-diese-daten-bringen-neuen-schwung-240643/",
+   "ad": false
+  },
   {
    "title": "Strategy schlägt wieder zu und knackt die Marke von 850.000 Bitcoin",
    "summary": "Michael Saylors Unternehmen kauft weiter Bitcoin, wenn auch in kleinen Schritten. Beim Blick auf die Ausgaben fällt eine andere Position deutlich stärker ins Gewicht. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794160800,
    "url": "https://www.btc-echo.de/news/bitcoin-prognose-2040-das-erwarten-die-experten-239767/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin im Quantenzeitalter: Entwickler schlägt \"finanzielle Landminen\" vor",
-   "summary": "Quantencomputer bedrohen vor allem alte Bitcoin-Adressen von Satoshi Nakamoto. Welchen gewieften Plan ein Entwickler nun entworfen hat, um den Spieß umzudrehen und Angreifern ihre BTC zu entwenden. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794149220,
-   "url": "https://www.btc-echo.de/news/bitcoin-im-quantenzeitalter-finanzielle-landminen-240589/",
    "ad": false
   }
  ]
