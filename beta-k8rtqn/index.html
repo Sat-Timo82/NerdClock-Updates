@@ -295,7 +295,7 @@ footer b{color:var(--red);}
         <div class="flash-zone-sub">Der Nano-Miner selbst (ESP32-S3, USB-C) · offizielle forge-os-Software v1.8 mit Pool.Nerdminer.de und den Stufen Öko · Normal · Power voreingestellt</div>
         <button class="nmf-btn" data-manifest="manifest-bitforge-nano.json" data-kind="bn">BitForge Nano Miner installieren</button>
         <div class="flash-note">
-          Nano per USB-C anschließen. Nach dem Aufspielen: im Nano-Menü bzw. über seinen WLAN-Zugang (Hotspot) dein WLAN einrichten und die BTC-Adresse eintragen. Nach dem Speichern des WLANs den <strong>Restart</strong>-Knopf oben rechts drücken. Einstellungen des Nano gehen bei der Installation verloren.
+          Nano per USB-C anschließen. Nach dem Aufspielen: über seinen WLAN-Zugang (Hotspot) mit der <strong>Lupe</strong> dein WLAN wählen, Passwort eingeben und speichern. Dann den <strong>Restart</strong>-Knopf oben rechts drücken. Danach das Dashboard über die IP-Adresse öffnen und unter <strong>Einstellungen</strong> die BTC-Adresse eintragen. Einstellungen des Nano gehen bei der Installation verloren.
         </div>
       </div>
 
@@ -368,9 +368,7 @@ footer b{color:var(--red);}
           <button class="nmf-btn" data-manifest="manifest-bx603g.json" data-kind="bx">603 großes Display installieren</button>
         </div>
       </div>
-      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>Bitaxe_…</strong>: dort <strong>dein WLAN</strong> und
-        <strong>deine BTC-Adresse</strong> eintragen (Felder „mein WLAN“ und „meine BTC-Adresse“ ersetzen). Primary und Secondary Pool sind
-        auf Pool.Nerdminer.de voreingestellt. Updates bitte immer hier über den Webflasher, nicht über das Dashboard.</div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>Bitaxe_…</strong>: Verbinde dich damit, tippe auf die <strong>Lupe</strong>, wähle <strong>dein WLAN</strong>, gib das WLAN-Passwort ein, speichere und starte neu (<strong>Restart</strong>). Danach erreichst du das Dashboard über die <strong>IP-Adresse</strong> des Miners (steht im Router). Dort unter <strong>Einstellungen</strong> trägst du <strong>deine BTC-Adresse</strong> ein (Feld „meine BTC-Adresse“ ersetzen) und kannst den Pool ändern. Primary und Secondary Pool sind auf Pool.Nerdminer.de voreingestellt. Updates bitte immer hier über den Webflasher, nicht über das Dashboard.</div>
     </div>
   </div>
 
@@ -402,9 +400,7 @@ footer b{color:var(--red);}
           <button class="nmf-btn" data-manifest="manifest-nqaxeplus.json" data-kind="nx">NerdQAxe++ installieren</button>
         </div>
       </div>
-      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>NerdAxe_…</strong>: dort <strong>dein WLAN</strong> und
-        <strong>deine BTC-Adresse</strong> eintragen (Felder „mein WLAN“ und „meine BTC-Adresse“ ersetzen). Primary und Fallback Pool sind
-        auf Pool.Nerdminer.de voreingestellt.</div>
+      <div class="flash-note">Nach dem Aufspielen erscheint das WLAN <strong>NerdAxe_…</strong>: Verbinde dich damit, tippe auf die <strong>Lupe</strong>, wähle <strong>dein WLAN</strong>, gib das WLAN-Passwort ein, speichere und starte neu (<strong>Restart</strong>). Danach erreichst du das Dashboard über die <strong>IP-Adresse</strong> des Miners (steht im Router). Dort unter <strong>Einstellungen</strong> trägst du <strong>deine BTC-Adresse</strong> ein (Feld „meine BTC-Adresse“ ersetzen) und kannst den Pool ändern. Primary und Fallback Pool sind auf Pool.Nerdminer.de voreingestellt.</div>
     </div>
   </div>
 
@@ -640,9 +636,9 @@ async function start(btn) {
   busy = false;
   const next = mode === "up"
     ? "Dein Gerät startet neu und läuft mit deinen bisherigen Einstellungen weiter."
-    : (kind === "nx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdAxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
-                     : kind === "bx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>Bitaxe_…</b> und trage dein WLAN und deine BTC-Adresse ein."
-                     : kind === "bn" ? "Dein Nano startet neu. Verbinde dich mit seinem WLAN-Zugang (Hotspot) und trage dein WLAN ein. Nach dem Speichern des WLANs den <b>Restart</b>-Knopf oben rechts drücken." : kind === "hz" ? "Dein Display startet neu. Verbinde dich mit dem WLAN <b>NerdHeizungAP</b> (Passwort <b>nerdheizung</b>) und trage dein WLAN, Pool und Benutzer ein. Falsches WLAN? BOOT 5 Sekunden halten." : kind === "mp" ? "Dein Gerät startet neu und führt dich durch die Einrichtung."
+    : (kind === "nx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdAxe_…</b>, tippe auf die <b>Lupe</b>, wähle dein WLAN, gib das Passwort ein, speichere und starte neu (Restart). Danach öffnest du das Dashboard über die IP-Adresse des Miners und trägst unter <b>Einstellungen</b> deine BTC-Adresse ein."
+                     : kind === "bx" ? "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>Bitaxe_…</b>, tippe auf die <b>Lupe</b>, wähle dein WLAN, gib das Passwort ein, speichere und starte neu (Restart). Danach öffnest du das Dashboard über die IP-Adresse des Miners und trägst unter <b>Einstellungen</b> deine BTC-Adresse ein."
+                     : kind === "bn" ? "Dein Nano startet neu. Verbinde dich mit seinem WLAN-Zugang (Hotspot), tippe auf die <b>Lupe</b>, wähle dein WLAN, gib das Passwort ein und speichere. Dann den <b>Restart</b>-Knopf oben rechts drücken. Danach öffnest du das Dashboard über die IP-Adresse des Nanos und trägst unter <b>Einstellungen</b> deine BTC-Adresse ein." : kind === "hz" ? "Dein Display startet neu. Verbinde dich mit dem WLAN <b>NerdHeizungAP</b> (Passwort <b>nerdheizung</b>) und trage dein WLAN, Pool und Benutzer ein. Falsches WLAN? BOOT 5 Sekunden halten." : kind === "mp" ? "Dein Gerät startet neu und führt dich durch die Einrichtung."
                      : "Dein Miner startet neu. Verbinde dich mit dem WLAN <b>NerdMinerAP</b> (Passwort <b>MineYourCoins</b>) und trage dein WLAN und deine BTC-Adresse ein.");
   show(`<div class="dlg-ok">✓</div><h3>Fertig!</h3><p>${next}</p><p>Startet er nicht von selbst: USB-Kabel kurz ab- und wieder anstecken.</p>
     <div class="dlg-act"><button class="main" id="d-x">Schließen</button></div>`);
