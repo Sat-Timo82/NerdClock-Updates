@@ -215,7 +215,7 @@ footer b{color:var(--red);}
           <span slot="not-allowed">Bitte die Seite über https öffnen.</span>
         </esp-web-install-button>
         <div class="flash-note">
-          Display per USB-C (Buchse „UART“) anschließen, Gerät meist „USB-SERIAL CH340“. Bei „Gerät löschen?“ <strong>Ja</strong> wählen.<br>
+          Display per USB-C (Buchse „UART“) anschließen, Gerät meist „USB-SERIAL CH340“. Bei „Gerät löschen?“ <strong>Ja</strong> wählen. Das Aufspielen dauert <strong>etwa 5–6 Minuten</strong> – bitte nicht abstecken und das Fenster offen lassen.<br>
           Danach führt die Uhr durch die Einrichtung; den WLAN-Chip bringt sie beim ersten Start selbst auf den neuesten Stand.
         </div>
       </div>
@@ -645,6 +645,60 @@ async function start(btn) {
   document.getElementById("d-x").onclick = hide;
 }
 document.querySelectorAll(".nmf-btn").forEach(b => b.onclick = () => start(b));
+</script>
+<script>
+/* Deutsche Texte für das Installationsfenster (esp-web-tools liefert nur Englisch) */
+(function () {
+  var last = "";
+  document.addEventListener("click", function (e) {
+    var p = e.composedPath ? e.composedPath() : [];
+    for (var i = 0; i < p.length; i++) { if (p[i] && p[i].tagName === "ESP-WEB-INSTALL-BUTTON") { last = p[i].getAttribute("manifest") || ""; break; } }
+  }, true);
+  var T = {
+    "Installing": "Wird installiert", "Preparing installation": "Installation wird vorbereitet", "Wrapping up": "Wird abgeschlossen",
+    "Installation complete!": "Installation abgeschlossen!", "Installation failed": "Installation fehlgeschlagen", "Confirm Installation": "Installation bestätigen",
+    "Keep this page visible to prevent slow down": "Bitte dieses Fenster sichtbar lassen und das Gerät nicht abstecken, sonst wird es langsamer.",
+    "Erase device": "Gerät löschen", "Next": "Weiter", "Install": "Installieren", "Close": "Schließen", "Back": "Zurück", "Skip": "Überspringen",
+    "Connect": "Verbinden", "Logs & Console": "Protokoll und Konsole", "Download Logs": "Protokoll herunterladen", "Reset Device": "Gerät neu starten",
+    "Visit Device": "Gerät öffnen", "Erase User Data": "Benutzerdaten löschen", "Add to Home Assistant": "Zu Home Assistant hinzufügen",
+    "Fund Development": "Entwicklung unterstützen", "Configure Wi-Fi": "WLAN einrichten", "Network Name": "Netzwerkname", "Network": "Netzwerk",
+    "Password": "Passwort", "Continue": "Weiter", "Disconnected": "Getrennt", "Timeout": "Zeitüberschreitung", "Unable to connect": "Verbindung nicht möglich",
+    "Join other?": "Anderes Netzwerk?", "Failed to download manifest": "Installationsdaten konnten nicht geladen werden",
+    "Connect your device to the network to start using it.": "Verbinde dein Gerät mit dem WLAN, um es zu benutzen.",
+    "Device connected to the network!": "Gerät ist mit dem WLAN verbunden!",
+    "Do you want to reset your device and erase all user data from your device?": "Möchtest du das Gerät zurücksetzen und alle Benutzerdaten löschen?",
+    "Serial port is not ready. Close any other application using it and try again.": "Der USB-Anschluss ist nicht bereit. Schließe andere Programme, die ihn nutzen, und versuche es erneut.",
+    "All data on the device will be erased.": "Alle Daten auf dem Gerät werden gelöscht.",
+    "New installs typically benefit from erasing your device first.": "Bei einer Neuinstallation sollte das Gerät zuerst gelöscht werden.",
+    "Erasing": "Wird gelöscht", "Your device is running": "Auf deinem Gerät läuft"
+  };
+  function minutes() { return /premium/i.test(last) ? "etwa 5–6 Minuten" : "etwa 2 Minuten"; }
+  function tr(s) {
+    var t = s.replace(/\s+/g, " ").trim(); if (!t) return null;
+    if (T[t]) return T[t];
+    var m;
+    if ((m = t.match(/^This will take (a minute|\d+ minutes?)\.$/))) return "Das dauert " + minutes() + ".";
+    if ((m = t.match(/^Do you want to (install|update to) (.+)\?$/))) return "Möchtest du " + m[2] + (m[1] === "install" ? " installieren?" : " aktualisieren?");
+    if ((m = t.match(/^Install (.+)$/))) return m[1] + " installieren";
+    if ((m = t.match(/^Update (.+)$/))) return m[1] + " aktualisieren";
+    return null;
+  }
+  function walk(n) {
+    if (!n) return;
+    if (n.nodeType === 3) { var r = tr(n.nodeValue); if (r) { var lead = n.nodeValue.match(/^\s*/)[0], tail = n.nodeValue.match(/\s*$/)[0]; n.nodeValue = lead + r + tail; } return; }
+    if (n.nodeType !== 1 && n.nodeType !== 11) return;
+    if (n.tagName === "SCRIPT" || n.tagName === "STYLE") return;
+    if (n.nodeType === 1) { ["label", "headline", "heading", "title"].forEach(function (a) { if (n.hasAttribute && n.hasAttribute(a)) { var r = tr(n.getAttribute(a)); if (r) n.setAttribute(a, r); } }); if (n.label && typeof n.label === "string") { var r2 = tr(n.label); if (r2) n.label = r2; } }
+    if (n.shadowRoot) { watch(n.shadowRoot); walk(n.shadowRoot); }
+    for (var c = n.firstChild; c; c = c.nextSibling) walk(c);
+  }
+  var seen = new WeakSet();
+  function watch(root) {
+    if (seen.has(root)) return; seen.add(root);
+    new MutationObserver(function (ml) { ml.forEach(function (m) { walk(m.target); m.addedNodes.forEach(walk); }); }).observe(root, { childList: true, subtree: true, characterData: true, attributes: true, attributeFilter: ["label", "headline", "heading"] });
+  }
+  watch(document); setInterval(function () { walk(document.body); }, 400);
+})();
 </script>
 </body>
 </html>
