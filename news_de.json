@@ -1,8 +1,24 @@
 {
- "updated": 1794409731,
+ "updated": 1794435284,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Streichungsliste veröffentlicht: Bitcoin-Halter Strategy und Metaplanet fliegen aus…",
+   "summary": "Jetzt ist es offiziell: MSCI exkludiert Strategy und Metaplanet, die größten börsennotierten Bitcoin-Halter, aus den eigenen Indizes, wie die Streichungsliste zeigt.",
+   "source": "Blocktrainer",
+   "ts": 1794435000,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-halter-strategy-und-metaplanet-fliegen-aus-msci-indizes",
+   "ad": false
+  },
+  {
+   "title": "Ex-Krypto-Berater des Weißen Hauses: Trump habe Interesse an Bitcoin-Käufen für die…",
+   "summary": "Laut dem ehemaligen Krypto-Berater des Weißen Hauses sei Trump an Bitcoin-Käufen für die Reserve interessiert. Trotz Fortschritten gebe es aber noch große Hürden.",
+   "source": "Blocktrainer",
+   "ts": 1794415037,
+   "url": "https://www.blocktrainer.de/blog/trump-sei-interessiert-daran-bitcoin-fuer-die-strategische-reserve-zu-kaufen",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Haltefrist bleibt offenbar bestehen: Laut BILD kommt die neue Krypto-Steuer nicht für…",
    "summary": "Wie die BILD aus Koalitionskreisen erfahren hat, soll die neue Steuer auf Krypto-Gewinne nicht mehr kommen. Die Bitcoin-Haltefrist würde demnach bestehen bleiben.",
@@ -44,7 +60,7 @@
    "ad": false
   },
   {
-   "title": "Andauernde Abflüsse aus Krypto-ETFs: Wir halten die Füße still",
+   "title": "Anhaltende Abflüsse aus Krypto-ETFs: Ist jetzt Handeln angesagt?",
    "summary": "Der Krypto-Markt fügt sich der Schwäche am USFinanzmarkt nach dem Wahlsieg der Demokraten. Das Musterdepot weist im Wochenvergleich moderate Kursabschläge auf. Frische Impulse könnte der zeitnahe Handelsstart des KIUnternehmens Anthropic liefern. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1794333600,
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794326400,
    "url": "https://www.btc-echo.de/news/jede-nacht-verschwinden-290-millionen-dollar-und-kehren-zurueck-das-raetsel-um-einen-krypto-wal-240525/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Short-Trade: Erholung als Einstiegsmöglichkeit",
-   "summary": "Bitcoin muss weiter Federn lassen. Eine technische Zwischenerholung bietet eine interessante Chance für aktive Trader, von der jüngsten Kursschwäche zu profitieren. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794324045,
-   "url": "https://www.btc-echo.de/news/bitcoin-short-trade-zwischenerholung-als-einstiegsmoeglichkeit-240678/",
-   "ad": false
-  },
-  {
-   "title": "73.400 US-Dollar: Bitcoin fällt nach höher als erwarteten US-Inflationsdaten auf ein neues…",
-   "summary": "Bitcoin ist nach heißen US-Inflationsdaten, die sogar eine Zinsanhebung um 50 Basispunkte bei der Dezembertagung möglich machen, auf 73.400 US-Dollar gefallen.",
-   "source": "Blocktrainer",
-   "ts": 1794320700,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-inflation-oktober",
    "ad": false
   }
  ]

@@ -1,86 +1,86 @@
 {
- "updated": 1794409731,
+ "updated": 1794435284,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
   {
-   "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
-   "summary": "Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not named any customers or disclosed fees. This post Deutsche Bank Switches On Bitcoin Custody for Paying Clients first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+   "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+   "source": "Decrypt",
+   "ts": 1794431763,
+   "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+   "ad": false
+  },
+  {
+   "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+   "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
+   "source": "Cointelegraph",
+   "ts": 1794429799,
+   "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_part",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Is 'Running on Empty' as Price Bets and Hedges Shift: Glassnode",
+   "summary": "Bitcoin's weakening market structure has prompted fresh scrutiny of its next move, with Glassnode's Nov. 11, 2026, report warning that capital is departing even as larger investors accumulate. Meanwhile, options traders are hedging downside exposure, and prediction markets are assigning increasingly cautious probabilities to…",
+   "source": "Bitcoin.com News",
+   "ts": 1794429053,
+   "url": "https://news.bitcoin.com/price-predictions/bitcoin-running-empty-price-bets-hedges-shift-glassnode/",
+   "ad": false
+  },
+  {
+   "title": "Tavi Costa: Bitcoin \"Very Undervalued with \"Violent Moves Ahead\"",
+   "summary": "Bitcoin Magazine Tavi Costa: Bitcoin \"Very Undervalued with \"Violent Moves Ahead\" Tavi Costa, Founder & CEO of Azuria Capital, explains why he thinks Bitcoin looks \"very undervalued\" right now, with many former supporters giving up on it, and why he expects Bitcoin and silver to see \"violent moves\" as the Fed's hiking cycle…",
    "source": "Bitcoin Magazine",
-   "ts": 1794408490,
-   "url": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
+   "ts": 1794424581,
+   "url": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
    "ad": false
   },
   {
-   "title": "Bitcoin 'ripe for a squeeze' as options traders raise odds of sub-$70,000 Christmas",
-   "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
+   "title": "Sam Lyman: \"Bitcoin doesn't need America. America needs Bitcoin.\"",
+   "summary": "Bitcoin Magazine Sam Lyman: \"Bitcoin doesn't need America. America needs Bitcoin.\" Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connection, you can access the dollar. This post Sam Lyman: \"Bitcoin doesn't need America. America needs Bitcoin.\" first appeared on…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794421309,
+   "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+   "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
+   "source": "Decrypt",
+   "ts": 1794419762,
+   "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Reclaims $74K After CPI Sell-Off Sparks Volatility",
+   "summary": "Bitcoin rebounded to above $74,600 after dropping to $72,787 following hotter-than-expected U.S. inflation data. The range-bound price action led to low leverage wipeouts, with bitcoin liquidations standing at $51 million out of $199 million market-wide. Derivatives Cool Off as Liquidations Drop Below $200M After plunging to…",
+   "source": "Bitcoin.com News",
+   "ts": 1794418352,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-reclaims-74k-after-cpi-sell-off-sparks-volatility/",
+   "ad": false
+  },
+  {
+   "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It…",
+   "summary": "MSCI publishes its November index review at 5 p.m. ET, the first under a new non-operating company screen. Its potential list, built on Sept. 30 filings, already marks Strategy, Metaplanet and three others as Deleted. This post MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794416700,
+   "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
+   "ad": false
+  },
+  {
+   "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining–Bitcoin Core Has a Fix",
+   "summary": "Three bugs–spanning denial-of-service and privacy issues rather than coin theft–have all been patched, with the most serious capable of halting a miner's ability to build new blocks.",
+   "source": "Decrypt",
+   "ts": 1794416337,
+   "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+   "ad": false
+  },
+  {
+   "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+   "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace.",
    "source": "The Block",
-   "ts": 1794408271,
-   "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY – How Bitcoin could carry state…",
-   "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
-   "source": "Cointelegraph",
-   "ts": 1794403578,
-   "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
-   "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
-   "source": "The Block",
-   "ts": 1794401408,
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
-   "ad": false
-  },
-  {
-   "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-   "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
-   "source": "CoinDesk",
-   "ts": 1794399684,
-   "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-   "summary": "Your day-ahead look for Nov. 11, 2026",
-   "source": "CoinDesk",
-   "ts": 1794399570,
-   "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
-   "ad": false
-  },
-  {
-   "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-   "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity's Bitcoin ETF.",
-   "source": "Cointelegraph",
-   "ts": 1794398183,
-   "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_in",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin and Blockchain Basics",
-   "summary": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not only that Bitcoin is digital money. It is that Bitcoin showed how a…",
-   "source": "The Block",
-   "ts": 1794397430,
-   "url": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-   "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
-   "source": "CoinDesk",
-   "ts": 1794397024,
-   "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-   "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders' average cost basis of about $75,700, according to CryptoQuant.",
-   "source": "Cointelegraph",
-   "ts": 1794395126,
-   "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
+   "ts": 1794416214,
+   "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
    "ad": false
   }
  ]
