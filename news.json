@@ -1,8 +1,24 @@
 {
- "updated": 1794357402,
+ "updated": 1794380818,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Anleger in Angst: Fliegt Strategy heute aus dem MSCI-Index?",
+   "summary": "Bitcoin fängt sich nach den Inflationsdaten, doch ETF-Abflüsse und Liquidationen drücken auf die Stimmung. Am Abend steht eine Entscheidung an, die einen der größten Bitcoin-Käufer treffen könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794380503,
+   "url": "https://www.btc-echo.de/news/bitcoin-anleger-in-angst-fliegt-strategy-heute-aus-dem-msci-index-240730/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin vor der Trendwende? Gefährliche Warnsignale und ein Funken Hoffnung",
+   "summary": "Der Kursrutsch setzt Bitcoin-Anleger und Miner zunehmend unter Druck. Einige Großinvestoren nutzen die Schwäche jedoch für Zukäufe und wecken damit Hoffnung auf eine Trendwende. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794366000,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-der-trendwende-gefaehrliche-warnsignale-und-ein-funken-hoffnung-240679/",
+   "ad": false
+  },
   {
    "title": "Andauernde Abflüsse aus Krypto-ETFs: Wir halten die Füße still",
    "summary": "Der Krypto-Markt fügt sich der Schwäche am USFinanzmarkt nach dem Wahlsieg der Demokraten. Das Musterdepot weist im Wochenvergleich moderate Kursabschläge auf. Frische Impulse könnte der zeitnahe Handelsstart des KIUnternehmens Anthropic liefern. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1794310182,
    "url": "https://www.blocktrainer.de/blog/zentralbank-kasachstans-gibt-krypto-und-bitcoin-investment-fuer-190-millionen-us-dollar-bekannt",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs weiterhin unter 75.000 US-Dollar: Doch diese Daten bringen neuen Schwung",
-   "summary": "Bitcoin tritt bei 74.500 US-Dollar auf der Stelle, doch jetzt richten sich alle Augen auf die US-Inflationsdaten am Nachmittag. Sie könnten entscheiden, ob die Fed im Dezember die Zinsen erhöht. Was das für den Kurs bedeutet. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794293236,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-weiterhin-unter-75-000-us-dollar-doch-diese-daten-bringen-neuen-schwung-240643/",
-   "ad": false
-  },
-  {
-   "title": "Strategy schlägt wieder zu und knackt die Marke von 850.000 Bitcoin",
-   "summary": "Michael Saylors Unternehmen kauft weiter Bitcoin, wenn auch in kleinen Schritten. Beim Blick auf die Ausgaben fällt eine andere Position deutlich stärker ins Gewicht. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794235658,
-   "url": "https://www.btc-echo.de/news/strategy-schlaegt-wieder-zu-und-knackt-die-marke-von-850-000-bitcoin-240622/",
    "ad": false
   }
  ]
