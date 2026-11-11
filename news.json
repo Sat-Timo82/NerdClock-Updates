@@ -1,8 +1,32 @@
 {
- "updated": 1794380818,
+ "updated": 1794409731,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Haltefrist bleibt offenbar bestehen: Laut BILD kommt die neue Krypto-Steuer nicht für…",
+   "summary": "Wie die BILD aus Koalitionskreisen erfahren hat, soll die neue Steuer auf Krypto-Gewinne nicht mehr kommen. Die Bitcoin-Haltefrist würde demnach bestehen bleiben.",
+   "source": "Blocktrainer",
+   "ts": 1794404000,
+   "url": "https://www.blocktrainer.de/blog/laut-bild-informationen-kommt-die-neue-krypto-steuer-nicht-mehr-fuer-2027",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Core legt schwere Sicherheitslücke offen: Fehler konnte Mining-Nodes lahmlegen",
+   "summary": "Eine Sicherheitslücke in Bitcoin Core konnte die Blockerstellung stoppen. Der Fehler ist bereits behoben, jetzt sind die technischen Details öffentlich.",
+   "source": "Blocktrainer",
+   "ts": 1794394506,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-core-legt-schwere-sicherheitsluecke-offen-fehler-konnte-mining-nodes-lahmlegen",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Mining vor dem Aus? Darum setzen Miner auf KI",
+   "summary": "MARA meldet einen Quartalsgewinn von mehr als 630 Millionen US-Dollar und verkauft gleichzeitig über 13.000 Bitcoin. Die großen Miner verlagern zunehmend Strom vom Schürfen in KI-Rechenzentren und finanzieren den Wechsel mit ihren Bitcoin-Reserven. Ein Problem für das Bitcoin-Netzwerk? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794391200,
+   "url": "https://www.btc-echo.de/news/bitcoin-mining-vor-dem-aus-darum-setzen-miner-auf-ki-240655/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Anleger in Angst: Fliegt Strategy heute aus dem MSCI-Index?",
    "summary": "Bitcoin fängt sich nach den Inflationsdaten, doch ETF-Abflüsse und Liquidationen drücken auf die Stimmung. Am Abend steht eine Entscheidung an, die einen der größten Bitcoin-Käufer treffen könnte. Source: BTC-ECHO BTC-ECHO",
@@ -57,30 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1794320700,
    "url": "https://www.blocktrainer.de/blog/bitcoin-inflation-oktober",
-   "ad": false
-  },
-  {
-   "title": "US-Inflation gestiegen: Das bedeuten die neuen Zahlen für Bitcoin und die Fed",
-   "summary": "Die US-Inflation zieht im Oktober stärker an als erwartet – eine Zinserhöhung im Dezember gilt als nahezu sicher. Warum steigende Zinsen für Bitcoin zum Problem werden können. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794318373,
-   "url": "https://www.btc-echo.de/news/us-inflation-gestiegen-das-bedeuten-die-neuen-zahlen-fuer-bitcoin-und-die-fed-240665/",
-   "ad": false
-  },
-  {
-   "title": "Gefährliche iPhone-Sicherheitslücke entdeckt: Bitcoin-Wallets möglicherweise in Gefahr!",
-   "summary": "Gefährliche iOS-Sicherheitslücke entdeckt! Angreifer könnten sensible Wallet-Daten auslesen. Sind Bitcoin-Nutzer mit iPhones in Gefahr?",
-   "source": "Blocktrainer",
-   "ts": 1794317881,
-   "url": "https://www.blocktrainer.de/blog/gefaehrliche-iphone-sicherheitsluecke-entdeckt-bitcoin-wallets-moeglicherweise-in-gefahr",
-   "ad": false
-  },
-  {
-   "title": "Zentralbank Kasachstans gibt Krypto- und Bitcoin-Investment für 190 Millionen US-Dollar bekannt",
-   "summary": "Die Kasachische Zentralbank hat 100 Millionen US-Dollar in Krypto-Fonds sowie weitere 90 Millionen US-Dollar in Kryptowährungen und Bitcoin-ETFs investiert.",
-   "source": "Blocktrainer",
-   "ts": 1794310182,
-   "url": "https://www.blocktrainer.de/blog/zentralbank-kasachstans-gibt-krypto-und-bitcoin-investment-fuer-190-millionen-us-dollar-bekannt",
    "ad": false
   }
  ]

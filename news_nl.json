@@ -1,86 +1,86 @@
 {
- "updated": 1794380818,
+ "updated": 1794409731,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
   {
-   "title": "Dormant Bitcoin Data Reveals 227,196 BTC in Pre-2019 Coins Revived in 2026",
-   "summary": "Bitcoin's sleeping giants have been stirring this year, and the numbers are staggering. Checkonchain data reveals that more than 227,000 BTC acquired before 2019 have awakened in 2026, while a separate onchain investigation into dormant wallets uncovers a trail of colossal transfers, mysterious whale movements, and ancient…",
-   "source": "Bitcoin.com News",
-   "ts": 1794355554,
-   "url": "https://news.bitcoin.com/featured/dormant-bitcoin-data-reveals-227196-btc-pre-2019-coins-revived-2026/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
-   "summary": "Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin first appeared on Bitcoin Magazine and is written by Vagabond .",
+   "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
+   "summary": "Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not named any customers or disclosed fees. This post Deutsche Bank Switches On Bitcoin Custody for Paying Clients first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
    "source": "Bitcoin Magazine",
-   "ts": 1794352493,
-   "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
+   "ts": 1794408490,
+   "url": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
    "ad": false
   },
   {
-   "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-   "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
-   "source": "Decrypt",
-   "ts": 1794350762,
-   "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Could Rally Before Rate Cuts Begin, Binance Research Says",
-   "summary": "Binance Research suggests slowing global monetary tightening could improve bitcoin's outlook before central banks begin cutting interest rates, while growing use of tokenized equities in decentralized finance (DeFi) points to a new phase of blockchain adoption. Slowing Global Monetary Tightening Could Signal Bitcoin Recovery…",
-   "source": "Bitcoin.com News",
-   "ts": 1794347402,
-   "url": "https://news.bitcoin.com/featured/bitcoin-could-rally-before-rate-cuts-begin-binance-research/",
-   "ad": false
-  },
-  {
-   "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-   "summary": "Truth Social's parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
-   "source": "Decrypt",
-   "ts": 1794346563,
-   "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Slips Toward $74K as Fed Hike Odds Hit 96% After Waller",
-   "summary": "Bitcoin slips toward $74,000 after Fed Governor Christopher Waller backed a December rate hike. Market odds of a 25-basis-point increase surged to 96%. Bitcoin traded lower on Tuesday, approaching the $74,000 level, as Federal Reserve Governor Christopher Waller voiced clear support for raising interest rates at the December…",
-   "source": "Bitcoinist",
-   "ts": 1794344633,
-   "url": "https://bitcoinist.com/bitcoin-slips-toward-74k-as-fed-hike-odds-hit-96-after-waller/",
-   "ad": false
-  },
-  {
-   "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
-   "summary": "Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1794340800,
-   "url": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
-   "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
+   "title": "Bitcoin 'ripe for a squeeze' as options traders raise odds of sub-$70,000 Christmas",
+   "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
    "source": "The Block",
-   "ts": 1794339498,
-   "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+   "ts": 1794408271,
+   "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
    "ad": false
   },
   {
-   "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
-   "summary": "Grayscale's Zcash push comes as its ETF faces continued withdrawals, extending October's net outflows.",
-   "source": "The Block",
-   "ts": 1794333134,
-   "url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
+   "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY – How Bitcoin could carry state…",
+   "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
+   "source": "Cointelegraph",
+   "ts": 1794403578,
+   "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inboun",
    "ad": false
   },
   {
-   "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
-   "summary": "TON Strategy reported $13.1M in Q3 revenue, mostly from GRAM staking, and a $24M net loss as Telegram rolled out its native Gram Wallet.",
+   "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+   "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
    "source": "The Block",
-   "ts": 1794331484,
-   "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
+   "ts": 1794401408,
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+   "ad": false
+  },
+  {
+   "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+   "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
+   "source": "CoinDesk",
+   "ts": 1794399684,
+   "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+   "summary": "Your day-ahead look for Nov. 11, 2026",
+   "source": "CoinDesk",
+   "ts": 1794399570,
+   "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+   "ad": false
+  },
+  {
+   "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+   "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity's Bitcoin ETF.",
+   "source": "Cointelegraph",
+   "ts": 1794398183,
+   "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_in",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin and Blockchain Basics",
+   "summary": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not only that Bitcoin is digital money. It is that Bitcoin showed how a…",
+   "source": "The Block",
+   "ts": 1794397430,
+   "url": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+   "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
+   "source": "CoinDesk",
+   "ts": 1794397024,
+   "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+   "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders' average cost basis of about $75,700, according to CryptoQuant.",
+   "source": "Cointelegraph",
+   "ts": 1794395126,
+   "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
    "ad": false
   }
  ]
