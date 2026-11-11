@@ -1,8 +1,64 @@
 {
- "updated": 1794339579,
+ "updated": 1794357402,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Dormant Bitcoin Data Reveals 227,196 BTC in Pre-2019 Coins Revived in 2026",
+   "summary": "Bitcoin's sleeping giants have been stirring this year, and the numbers are staggering. Checkonchain data reveals that more than 227,000 BTC acquired before 2019 have awakened in 2026, while a separate onchain investigation into dormant wallets uncovers a trail of colossal transfers, mysterious whale movements, and ancient…",
+   "source": "Bitcoin.com News",
+   "ts": 1794355554,
+   "url": "https://news.bitcoin.com/featured/dormant-bitcoin-data-reveals-227196-btc-pre-2019-coins-revived-2026/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
+   "summary": "Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin first appeared on Bitcoin Magazine and is written by Vagabond .",
+   "source": "Bitcoin Magazine",
+   "ts": 1794352493,
+   "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+   "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
+   "source": "Decrypt",
+   "ts": 1794350762,
+   "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Could Rally Before Rate Cuts Begin, Binance Research Says",
+   "summary": "Binance Research suggests slowing global monetary tightening could improve bitcoin's outlook before central banks begin cutting interest rates, while growing use of tokenized equities in decentralized finance (DeFi) points to a new phase of blockchain adoption. Slowing Global Monetary Tightening Could Signal Bitcoin Recovery…",
+   "source": "Bitcoin.com News",
+   "ts": 1794347402,
+   "url": "https://news.bitcoin.com/featured/bitcoin-could-rally-before-rate-cuts-begin-binance-research/",
+   "ad": false
+  },
+  {
+   "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+   "summary": "Truth Social's parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
+   "source": "Decrypt",
+   "ts": 1794346563,
+   "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Slips Toward $74K as Fed Hike Odds Hit 96% After Waller",
+   "summary": "Bitcoin slips toward $74,000 after Fed Governor Christopher Waller backed a December rate hike. Market odds of a 25-basis-point increase surged to 96%. Bitcoin traded lower on Tuesday, approaching the $74,000 level, as Federal Reserve Governor Christopher Waller voiced clear support for raising interest rates at the December…",
+   "source": "Bitcoinist",
+   "ts": 1794344633,
+   "url": "https://bitcoinist.com/bitcoin-slips-toward-74k-as-fed-hike-odds-hit-96-after-waller/",
+   "ad": false
+  },
+  {
+   "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+   "summary": "Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1794340800,
+   "url": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
+   "ad": false
+  },
   {
    "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
    "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
@@ -25,62 +81,6 @@
    "source": "The Block",
    "ts": 1794331484,
    "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
-   "ad": false
-  },
-  {
-   "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
-   "summary": "Canaan's mining-machine sales fell to $4.8 million from $118.6 million a year earlier, but a $51.9 million fair-value gain turned an operating loss into $8.0 million of net income. This post Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96% first appeared on Bitcoin Magazine and is written…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794330925,
-   "url": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
-   "ad": false
-  },
-  {
-   "title": "BlackRock IBIT Outflows Hit $1.66B Over Seven Sessions",
-   "summary": "BlackRock IBIT outflows recorded its seventh straight day of outflows totaling $1.66 billion. US spot Bitcoin ETFs lost $201 million Monday as year-to-date flows turn negative. US spot Bitcoin exchange-traded funds continued to lose assets on Monday, with BlackRock's iShares Bitcoin Trust (IBIT) posting its seventh consecutive…",
-   "source": "Bitcoinist",
-   "ts": 1794328404,
-   "url": "https://bitcoinist.com/blackrock-ibit-outflows-hit-1-66b-over-seven-sessions/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-   "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
-   "source": "Decrypt",
-   "ts": 1794328077,
-   "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin nears 11-week low after 'discouraging' US CPI inflation beat",
-   "summary": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.",
-   "source": "Cointelegraph",
-   "ts": 1794327903,
-   "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
-   "ad": false
-  },
-  {
-   "title": "Miami-Dade County Now Accepts Bitcoin for Property Taxes",
-   "summary": "Miami-Dade Tax Collector Dariel Fernandez said Monday his office now accepts bitcoin for property taxes online and in person, with every payment converted to dollars before it reaches the county. This post Miami-Dade County Now Accepts Bitcoin for Property Taxes first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794327358,
-   "url": "https://bitcoinmagazine.com/news/miami-dade-takes-bitcoin-property-taxes",
-   "ad": false
-  },
-  {
-   "title": "Canaan's Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
-   "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.",
-   "source": "The Block",
-   "ts": 1794326522,
-   "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Wallets 'Drop', Telegram Wallets Rise, and Both Are Nothingburgers",
-   "summary": "Crypto asset investors looking for places to put their money now have two more data points to consider. The number of nonempty bitcoin wallets has reportedly fallen by almost 109,000 in less than a month, while users created more than 900,000 wallets on Telegram in 48 hours. However, a closer look shows that the first […]",
-   "source": "Bitcoin.com News",
-   "ts": 1794324055,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-wallets-drop-telegram-wallets-rise-and-both-are-nothingburgers/",
    "ad": false
   }
  ]
