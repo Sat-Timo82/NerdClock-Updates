@@ -1,8 +1,16 @@
 {
- "updated": 1794453592,
+ "updated": 1794484011,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "MSCI wirft Bitcoin-Gigant Strategy raus: Was bedeutet das für MSTR-Aktionäre?",
+   "summary": "Für Strategy und Metaplanet endet die Mitgliedschaft in wichtigen MSCI-Indizes. Die Entscheidung könnte auch institutionelle Investoren zum Handeln zwingen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794470705,
+   "url": "https://www.btc-echo.de/news/msci-wirft-bitcoin-gigant-strategy-raus-was-bedeutet-das-fuer-mstr-aktionaere-240807/",
+   "ad": false
+  },
   {
    "title": "Bitcoin viel zu billig? Was sagen die On-Chain Daten",
    "summary": "Der Kurs wankt, die Stimmung am Markt kippt. Die Daten der Blockchain erzählen hingegen eine ganz andere Geschichte: Ist Bitcoin deutlich unterbewertet? Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794333600,
    "url": "https://www.btc-echo.de/news/andauernde-abfluesse-aus-krypto-etfs-wir-halten-die-fuesse-still-240659/",
-   "ad": false
-  },
-  {
-   "title": "Keine Lust mehr auf Bitcoin: 14 Firmen geben BTC in Milliardenhöhe ab",
-   "summary": "Erst vor gut einem Jahr baute ein französischer Chiphersteller seine Bitcoin-Reserve auf. Jetzt ist sie vollständig verkauft. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794329152,
-   "url": "https://www.btc-echo.de/news/keine-lust-mehr-auf-bitcoin-14-firmen-geben-btc-in-milliardenhoehe-ab-240712/",
    "ad": false
   }
  ]

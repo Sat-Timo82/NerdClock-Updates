@@ -1,86 +1,86 @@
 {
- "updated": 1794453592,
+ "updated": 1794484011,
  "mode": "stichworte",
  "lang": "es",
  "items": [
   {
-   "title": "Bitcoin Faces Deeper Reset Risk as Bitfinex Warns of $70K Drop",
-   "summary": "Bitfinex warned that bitcoin risked a prolonged decline as weak fund flows, uneven corporate demand, and broader market pressures tested its recovery. The exchange also flagged growing futures exposure and steeper altcoin losses. Bitcoin Faces a $75,717 Recovery Test Crypto exchange Bitfinex warned Nov. 11 that bitcoin risked…",
-   "source": "Bitcoin.com News",
-   "ts": 1794450656,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-deeper-reset-risk-as-bitfinex-warns-of-70k-drop/",
+   "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+   "summary": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
+   "source": "CoinDesk",
+   "ts": 1794483000,
+   "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
    "ad": false
   },
   {
-   "title": "Strategy Loses MSCI Index Spot as Bitcoin Bet Faces New Test",
-   "summary": "MSCI confirmed Strategy's removal from its USA Index, setting up portfolio changes for funds tracking the benchmark. The decision followed a dispute over how the index provider classifies companies whose businesses center on holding assets. Funds Face Strategy's November Index Exit Index provider MSCI named Strategy Inc…",
-   "source": "Bitcoin.com News",
-   "ts": 1794441938,
-   "url": "https://news.bitcoin.com/featured/strategy-loses-msci-index-spot-as-bitcoin-bet-faces-new-test/",
-   "ad": false
-  },
-  {
-   "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
-   "summary": "MSCI will take Strategy, Metaplanet, Yellow Cake, Skel and Upexi out of its global indexes as of the Nov. 30 close, after a new screen classified them as non-operating companies. This post MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30 first appeared on Bitcoin Magazine and is written…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794440216,
-   "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
-   "ad": false
-  },
-  {
-   "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-   "summary": "Strategy had opposed MSCI's rules, arguing exclusion would harm its reputation as a neutral provider.",
-   "source": "The Block",
-   "ts": 1794438563,
-   "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Core Discloses High-Severity Security Bug That Could Halt Mining Nodes",
-   "summary": "Bitcoin Core disclosed three security vulnerabilities on Nov. 10, 2026, including a high-severity defect capable of disrupting mining operations and two additional weaknesses affecting block processing and Tor connections. Although developers patched the problems in October 2025, their technical details remained confidential…",
-   "source": "Bitcoin.com News",
-   "ts": 1794438343,
-   "url": "https://news.bitcoin.com/security/bitcoin-core-discloses-high-severity-security-bug-halt-mining-nodes/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-   "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+   "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+   "summary": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday, according to SoSoValue data. That brings net…",
    "source": "Decrypt",
-   "ts": 1794431763,
-   "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+   "ts": 1794482659,
+   "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
    "ad": false
   },
   {
-   "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-   "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities.",
+   "title": "Strategy Faces $2.8 Billion Selling Risk As MSCI Removes Bitcoin Giant From Indexes",
+   "summary": "Michael Saylor's Strategy is facing a major change in its relationship with traditional financial markets. Index provider MSCI has confirmed that the world's largest corporate Bitcoin holder will be removed from its equity benchmarks on November 30, raising questions about institutional investment flows and the future of…",
+   "source": "Bitcoinist",
+   "ts": 1794477385,
+   "url": "https://bitcoinist.com/strategy-faces-2-8-billion-selling-risk-as-msci-removes-bitcoin-giant-from-indexes/",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
+   "summary": "Nasdaq 100 futures retreat after Wednesday's rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
+   "source": "CoinDesk",
+   "ts": 1794474904,
+   "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Fear Returns, But Willy Woo Says The Bull Market Isn't Over",
+   "summary": "Bitcoin sentiment has fallen sharply, but one of the market's best-known on-chain analysts believes investors may be overlooking an important bullish signal. Rather than treating the latest correction as the beginning of a bear market, Willy Woo argues that fear without new price lows could indicate an opportunity for…",
+   "source": "Bitcoinist",
+   "ts": 1794472143,
+   "url": "https://bitcoinist.com/bitcoin-fear-returns-but-willy-woo-says-the-bull-market-isnt-over/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+   "summary": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.",
    "source": "Cointelegraph",
-   "ts": 1794429799,
-   "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_part",
+   "ts": 1794470808,
+   "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
    "ad": false
   },
   {
-   "title": "Bitcoin Is 'Running on Empty' as Price Bets and Hedges Shift: Glassnode",
-   "summary": "Bitcoin's weakening market structure has prompted fresh scrutiny of its next move, with Glassnode's Nov. 11, 2026, report warning that capital is departing even as larger investors accumulate. Meanwhile, options traders are hedging downside exposure, and prediction markets are assigning increasingly cautious probabilities to…",
-   "source": "Bitcoin.com News",
-   "ts": 1794429053,
-   "url": "https://news.bitcoin.com/price-predictions/bitcoin-running-empty-price-bets-hedges-shift-glassnode/",
+   "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+   "summary": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September's end.",
+   "source": "CoinDesk",
+   "ts": 1794469278,
+   "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
    "ad": false
   },
   {
-   "title": "Tavi Costa: Bitcoin \"Very Undervalued with \"Violent Moves Ahead\"",
-   "summary": "Bitcoin Magazine Tavi Costa: Bitcoin \"Very Undervalued with \"Violent Moves Ahead\" Tavi Costa, Founder & CEO of Azuria Capital, explains why he thinks Bitcoin looks \"very undervalued\" right now, with many former supporters giving up on it, and why he expects Bitcoin and silver to see \"violent moves\" as the Fed's hiking cycle…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794424581,
-   "url": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
+   "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying…",
+   "summary": "MSCI's decision to exclude Strategy from its equity indexes could hamper the company's ability to buy more bitcoin, according to some analysts.",
+   "source": "CoinDesk",
+   "ts": 1794466837,
+   "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
    "ad": false
   },
   {
-   "title": "Sam Lyman: \"Bitcoin doesn't need America. America needs Bitcoin.\"",
-   "summary": "Bitcoin Magazine Sam Lyman: \"Bitcoin doesn't need America. America needs Bitcoin.\" Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connection, you can access the dollar. This post Sam Lyman: \"Bitcoin doesn't need America. America needs Bitcoin.\" first appeared on…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794421309,
-   "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
+   "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+   "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
+   "source": "CoinDesk",
+   "ts": 1794460951,
+   "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net…",
+   "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
+   "source": "The Block",
+   "ts": 1794459300,
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
    "ad": false
   }
  ]
