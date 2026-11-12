@@ -1,8 +1,48 @@
 {
- "updated": 1794435284,
+ "updated": 1794453592,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Faces Deeper Reset Risk as Bitfinex Warns of $70K Drop",
+   "summary": "Bitfinex warned that bitcoin risked a prolonged decline as weak fund flows, uneven corporate demand, and broader market pressures tested its recovery. The exchange also flagged growing futures exposure and steeper altcoin losses. Bitcoin Faces a $75,717 Recovery Test Crypto exchange Bitfinex warned Nov. 11 that bitcoin risked…",
+   "source": "Bitcoin.com News",
+   "ts": 1794450656,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-deeper-reset-risk-as-bitfinex-warns-of-70k-drop/",
+   "ad": false
+  },
+  {
+   "title": "Strategy Loses MSCI Index Spot as Bitcoin Bet Faces New Test",
+   "summary": "MSCI confirmed Strategy's removal from its USA Index, setting up portfolio changes for funds tracking the benchmark. The decision followed a dispute over how the index provider classifies companies whose businesses center on holding assets. Funds Face Strategy's November Index Exit Index provider MSCI named Strategy Inc…",
+   "source": "Bitcoin.com News",
+   "ts": 1794441938,
+   "url": "https://news.bitcoin.com/featured/strategy-loses-msci-index-spot-as-bitcoin-bet-faces-new-test/",
+   "ad": false
+  },
+  {
+   "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
+   "summary": "MSCI will take Strategy, Metaplanet, Yellow Cake, Skel and Upexi out of its global indexes as of the Nov. 30 close, after a new screen classified them as non-operating companies. This post MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30 first appeared on Bitcoin Magazine and is written…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794440216,
+   "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
+   "ad": false
+  },
+  {
+   "title": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+   "summary": "Strategy had opposed MSCI's rules, arguing exclusion would harm its reputation as a neutral provider.",
+   "source": "The Block",
+   "ts": 1794438563,
+   "url": "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Core Discloses High-Severity Security Bug That Could Halt Mining Nodes",
+   "summary": "Bitcoin Core disclosed three security vulnerabilities on Nov. 10, 2026, including a high-severity defect capable of disrupting mining operations and two additional weaknesses affecting block processing and Tor connections. Although developers patched the problems in October 2025, their technical details remained confidential…",
+   "source": "Bitcoin.com News",
+   "ts": 1794438343,
+   "url": "https://news.bitcoin.com/security/bitcoin-core-discloses-high-severity-security-bug-halt-mining-nodes/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
    "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
@@ -41,46 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1794421309,
    "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
-   "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
-   "source": "Decrypt",
-   "ts": 1794419762,
-   "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Reclaims $74K After CPI Sell-Off Sparks Volatility",
-   "summary": "Bitcoin rebounded to above $74,600 after dropping to $72,787 following hotter-than-expected U.S. inflation data. The range-bound price action led to low leverage wipeouts, with bitcoin liquidations standing at $51 million out of $199 million market-wide. Derivatives Cool Off as Liquidations Drop Below $200M After plunging to…",
-   "source": "Bitcoin.com News",
-   "ts": 1794418352,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-reclaims-74k-after-cpi-sell-off-sparks-volatility/",
-   "ad": false
-  },
-  {
-   "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It…",
-   "summary": "MSCI publishes its November index review at 5 p.m. ET, the first under a new non-operating company screen. Its potential list, built on Sept. 30 filings, already marks Strategy, Metaplanet and three others as Deleted. This post MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794416700,
-   "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
-   "ad": false
-  },
-  {
-   "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining–Bitcoin Core Has a Fix",
-   "summary": "Three bugs–spanning denial-of-service and privacy issues rather than coin theft–have all been patched, with the most serious capable of halting a miner's ability to build new blocks.",
-   "source": "Decrypt",
-   "ts": 1794416337,
-   "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
-   "ad": false
-  },
-  {
-   "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
-   "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace.",
-   "source": "The Block",
-   "ts": 1794416214,
-   "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
    "ad": false
   }
  ]

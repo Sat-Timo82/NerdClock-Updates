@@ -1,8 +1,16 @@
 {
- "updated": 1794435284,
+ "updated": 1794453592,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin viel zu billig? Was sagen die On-Chain Daten",
+   "summary": "Der Kurs wankt, die Stimmung am Markt kippt. Die Daten der Blockchain erzählen hingegen eine ganz andere Geschichte: Ist Bitcoin deutlich unterbewertet? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794452400,
+   "url": "https://www.btc-echo.de/news/bitcoin-viel-zu-billig-was-sagen-die-on-chain-daten-240651/",
+   "ad": false
+  },
   {
    "title": "Streichungsliste veröffentlicht: Bitcoin-Halter Strategy und Metaplanet fliegen aus…",
    "summary": "Jetzt ist es offiziell: MSCI exkludiert Strategy und Metaplanet, die größten börsennotierten Bitcoin-Halter, aus den eigenen Indizes, wie die Streichungsliste zeigt.",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794329152,
    "url": "https://www.btc-echo.de/news/keine-lust-mehr-auf-bitcoin-14-firmen-geben-btc-in-milliardenhoehe-ab-240712/",
-   "ad": false
-  },
-  {
-   "title": "Jede Nacht verschwinden 290 Millionen Dollar und kehren zurück: Das Rätsel um einen Krypto-Wal",
-   "summary": "Auf Aave springt der USDC-Kreditzins immer zur gleichen Zeit auf fast 14 Prozent. Wer dann abheben will, geht womöglich leer aus. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794326400,
-   "url": "https://www.btc-echo.de/news/jede-nacht-verschwinden-290-millionen-dollar-und-kehren-zurueck-das-raetsel-um-einen-krypto-wal-240525/",
    "ad": false
   }
  ]
