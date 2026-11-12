@@ -1,7 +1,23 @@
 {
- "updated": 1794484011,
+ "updated": 1794513077,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "msci-streicht-strategy-aus-usa-index",
+   "title": "MSCI streicht Strategy aus globalen Indizes – MSTR-Aktie fällt 2,6 %",
+   "summary": "MSCI entfernt Strategy und weitere Krypto-Unternehmen aus Indizes. Was der Schritt für MSTR, Bitcoin und institutionelle Anleger bedeutet.",
+   "ts": 1794491675,
+   "url": "https://nerdminer.de/blogs/news/msci-streicht-strategy-aus-usa-index",
+   "author": "Yannic Fraebel"
+  },
+  {
+   "id": "msci-streicht-strategy-und-metapla-97f32",
+   "title": "MSCI wirft Strategy und Metaplanet aus den Indizes: Was das für Bitcoin bedeutet",
+   "summary": "MSCI hat die Streichungsliste für November 2026 veröffentlicht: Die beiden größten börsennotierten Bitcoin-Halter, Strategy und Metaplanet, fliegen aus den Indizes. Was dahintersteckt und welche Folgen zu erwarten sind.",
+   "ts": 1794488822,
+   "url": "https://nerdminer.de/blogs/news/msci-streicht-strategy-und-metaplanet-aus-indizes",
+   "author": "Nerdminer"
+  },
   {
    "id": "strategy-strc-vorzugsaktie-erreich-25104",
    "title": "True North: STRC zum Nennwert könnte Strategy den Kauf von 284 BTC ermöglicht haben",
@@ -224,22 +240,6 @@
    "summary": "JPMorgan nimmt Bitcoin erstmals in den langfristigen Marktausblick auf, warnt aber vor hoher Volatilität und einem automatischen Krypto-Trade bei Dollar-Abwertung.",
    "ts": 1792511056,
    "url": "https://nerdminer.de/blogs/news/bitcoin-langfristige-kapitalmarktprognose-jpmorgan-2027",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "schweiz-finma-erster-bitcoin-etf-p-af83a",
-   "title": "FINMA genehmigt ersten Bitcoin-ETF der Schweiz für Privatanleger",
-   "summary": "Schweiz genehmigt ersten Bitcoin-ETF für Retail-Investoren. FINMA warnt vor Volatilität, Risiken und möglichen hohen Verlusten.",
-   "ts": 1792511056,
-   "url": "https://nerdminer.de/blogs/news/schweiz-finma-erster-bitcoin-etf-privatanleger",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strategy-kauft-267-bitcoin-fuer-22-43bee",
-   "title": "Strategy kauft Bitcoin für 22 Mio. US-Dollar und investiert 193 Mio. in STRC-Rückkäufe",
-   "summary": "Strategy kauft 267 Bitcoin für 22,1 Mio. US-Dollar und kauft STRC-Aktien für 193,1 Mio. zurück. Das Rückkaufprogramm wächst auf 3 Mrd.",
-   "ts": 1792424008,
-   "url": "https://nerdminer.de/blogs/news/strategy-kauft-267-bitcoin-fuer-221-millionen",
    "author": "Yannic Fraebel"
   }
  ]

@@ -1,8 +1,48 @@
 {
- "updated": 1794484011,
+ "updated": 1794513077,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "\"Teuerster Fehler der KI-Revolution\": Bitcoin korrigiert nach Nvidia-Rücktritt",
+   "summary": "Nvidia-Chef Jensen Huang muss nach drei Jahrzehnten seinen Platz räumen. Warum die Krypto-Branche scharfe Kritik am Führungswechsel beim KI-Vorreiter übt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794511210,
+   "url": "https://www.btc-echo.de/news/teuerster-fehler-der-ki-revolution-krypto-industrie-kritisiert-nvidia-240888/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Analyse: Hält die 70.000-Dollar-Marke?",
+   "summary": "Bitcoin droht, die nächste wichtige Unterstützungslinie aufzugeben. Warum die kommenden Handelstage eine Vorentscheidung bringen dürften, verrät diese charttechnische Kursanalyse. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794506400,
+   "url": "https://www.btc-echo.de/news/bitcoin-analyse-haelt-die-70-000-dollar-marke-240849/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin fällt immer weiter – Was steckt hinter dem Kurseinbruch?",
+   "summary": "Bitcoin ist am heutigen Donnerstag auf 71.151 US-Dollar gefallen, das tiefste Niveau seit dem 20. August. Was sind die Gründe für den starken Kurseinbruch?",
+   "source": "Blocktrainer",
+   "ts": 1794503100,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-faellt-immer-weiter-was-steckt-hinter-dem-kurseinbruch",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Kurs bei 1 Million Dollar bis 2028? Adam Back bleibt entspannt",
+   "summary": "Das Krypto-Urgestein Adam Back bleibt bullish und wettet auf einen starken Bitcoin-Kursanstieg. Warum die Rolle als digitales Gold dafür wichtig ist. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794495773,
+   "url": "https://www.btc-echo.de/news/bitcoin-bei-1-million-darum-bleibt-adam-back-gelassen-240828/",
+   "ad": false
+  },
+  {
+   "title": "Nur eine Korrektur im Bullenmarkt? Bitwise-CIO Hougan sieht Bitcoin vor Endjahresrally",
+   "summary": "Trotz aktueller Kursschwäche sieht Matt Hougan Bitcoin bereits am Beginn eines neuen Bullenmarktes. Der Bitwise-CIO rechnet mit einer Rally zum Jahresende.",
+   "source": "Blocktrainer",
+   "ts": 1794489548,
+   "url": "https://www.blocktrainer.de/blog/bitwise-cio-matt-hougan-sieht-bitcoin-vor-endjahresrally",
+   "ad": false
+  },
   {
    "title": "MSCI wirft Bitcoin-Gigant Strategy raus: Was bedeutet das für MSTR-Aktionäre?",
    "summary": "Für Strategy und Metaplanet endet die Mitgliedschaft in wichtigen MSCI-Indizes. Die Entscheidung könnte auch institutionelle Investoren zum Handeln zwingen. Source: BTC-ECHO BTC-ECHO",
@@ -41,46 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1794404000,
    "url": "https://www.blocktrainer.de/blog/laut-bild-informationen-kommt-die-neue-krypto-steuer-nicht-mehr-fuer-2027",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Core legt schwere Sicherheitslücke offen: Fehler konnte Mining-Nodes lahmlegen",
-   "summary": "Eine Sicherheitslücke in Bitcoin Core konnte die Blockerstellung stoppen. Der Fehler ist bereits behoben, jetzt sind die technischen Details öffentlich.",
-   "source": "Blocktrainer",
-   "ts": 1794394506,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-core-legt-schwere-sicherheitsluecke-offen-fehler-konnte-mining-nodes-lahmlegen",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Mining vor dem Aus? Darum setzen Miner auf KI",
-   "summary": "MARA meldet einen Quartalsgewinn von mehr als 630 Millionen US-Dollar und verkauft gleichzeitig über 13.000 Bitcoin. Die großen Miner verlagern zunehmend Strom vom Schürfen in KI-Rechenzentren und finanzieren den Wechsel mit ihren Bitcoin-Reserven. Ein Problem für das Bitcoin-Netzwerk? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794391200,
-   "url": "https://www.btc-echo.de/news/bitcoin-mining-vor-dem-aus-darum-setzen-miner-auf-ki-240655/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Anleger in Angst: Fliegt Strategy heute aus dem MSCI-Index?",
-   "summary": "Bitcoin fängt sich nach den Inflationsdaten, doch ETF-Abflüsse und Liquidationen drücken auf die Stimmung. Am Abend steht eine Entscheidung an, die einen der größten Bitcoin-Käufer treffen könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794380503,
-   "url": "https://www.btc-echo.de/news/bitcoin-anleger-in-angst-fliegt-strategy-heute-aus-dem-msci-index-240730/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor der Trendwende? Gefährliche Warnsignale und ein Funken Hoffnung",
-   "summary": "Der Kursrutsch setzt Bitcoin-Anleger und Miner zunehmend unter Druck. Einige Großinvestoren nutzen die Schwäche jedoch für Zukäufe und wecken damit Hoffnung auf eine Trendwende. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794366000,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-der-trendwende-gefaehrliche-warnsignale-und-ein-funken-hoffnung-240679/",
-   "ad": false
-  },
-  {
-   "title": "Anhaltende Abflüsse aus Krypto-ETFs: Ist jetzt Handeln angesagt?",
-   "summary": "Der Krypto-Markt fügt sich der Schwäche am USFinanzmarkt nach dem Wahlsieg der Demokraten. Das Musterdepot weist im Wochenvergleich moderate Kursabschläge auf. Frische Impulse könnte der zeitnahe Handelsstart des KIUnternehmens Anthropic liefern. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794333600,
-   "url": "https://www.btc-echo.de/news/andauernde-abfluesse-aus-krypto-etfs-wir-halten-die-fuesse-still-240659/",
    "ad": false
   }
  ]

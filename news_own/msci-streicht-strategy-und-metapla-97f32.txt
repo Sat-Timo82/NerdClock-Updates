@@ -1,0 +1,39 @@
+Der Indexanbieter MSCI hat die finale Streichungsliste für die Überprüfung im November 2026 veröffentlicht. Betroffen sind die beiden größten börsennotierten Bitcoin-Halter, Strategy und Metaplanet . Die Änderungen werden zum Handelsschluss am 30. November wirksam, ab dem 1. Dezember sind die Unternehmen aus den betroffenen Indizes verschwunden. ETFs und Fonds, die diese Indizes nachbilden, müssen die Aktien dann verkaufen.
+
+Wie es dazu kam
+
+Die Debatte läuft seit gut einem Jahr. Im Oktober 2025 hatte MSCI vorgeschlagen, Unternehmen auszuschließen, deren Bilanz zu mindestens 50 % aus Kryptowährungen besteht. Nach Protesten, unter anderem von Strategy und Strive, verzichtete MSCI im Januar 2026 vorerst darauf, prüfte das Thema aber weiter.
+
+Am 3. August 2026 folgte ein neuer Vorschlag, diesmal ohne direkten Krypto-Bezug. Stattdessen definiert MSCI "nicht operative Unternehmen" über Finanzkennzahlen, in zwei Stufen:
+
+Zuerst wird geprüft, ob mehr als 50 % der Vermögenswerte operativ genutzt werden.
+
+Ist das nicht der Fall, greifen fünf Kriterien: operative Vermögenswerte unter 10 % der Bilanzsumme, Betriebsausgaben unter 5 %, ein negativer operativer Cashflow, nicht operative Wertschwankungen über 5 % der Bilanzsumme und ein Finanzierungscashflow über 30 % der Bilanzsumme zum Aufbau von Vermögenswerten.
+
+Bestehende Indexmitglieder fallen heraus, wenn sie in zwei aufeinanderfolgenden Jahresabschlüssen mindestens vier der fünf Kriterien nicht erfüllen. Am 15. Oktober 2026 beschloss MSCI, die Regeln mit kleinen Anpassungen umzusetzen. Auf der Liste stehen neben Strategy und Metaplanet auch SKEL und Upexi. 17 weitere Unternehmen, darunter Capital B und SharpLink, stehen auf einer Beobachtungsliste. Yellow Cake war bereits im August betroffen.
+
+Strategys Kritik
+
+Strategy hatte die Methodik in offenen Briefen scharf kritisiert. Das Unternehmen hält sie für diskriminierend, weil Bitcoin ohne ausreichende Begründung als nicht operativer Vermögenswert eingestuft werde. Das widerspreche der Sicht der SEC und den US-Bilanzierungsstandards. Außerdem würden Ölkonzerne oder Immobiliengesellschaften mit ähnlich konzentrierten Beständen nicht ausgeschlossen. Michael Saylor argumentierte, Strategy verwalte seine Bitcoin aktiv und biete darauf aufbauende Produkte wie die Vorzugsaktie STRC an. Das Geschäftsmodell ähnle damit eher dem von Banken oder Versicherungen. MSCI blieb bei seiner Entscheidung.
+
+Wie groß ist der Verkaufsdruck?
+
+Schon vor der Entscheidung gab es Schätzungen. JPMorgan rechnete Ende 2025 mit Aktienverkäufen von rund 2,8 Mrd. US-Dollar. Laut Strategy halten Fonds, die MSCI-Indizes abbilden, etwa 3,1 % der MSTR-Aktien. Bei einer Marktkapitalisierung von rund 50 Mrd. US-Dollar wären das rechnerisch etwa 1,55 Mrd. US-Dollar. CEO Phong Le erklärte, dass über einen gewissen Zeitraum Verkaufsdruck zu erwarten, dieser für das Unternehmen aber nicht wesentlich sei. Im Q3-Bericht warnte Strategy trotzdem vor möglichen erheblichen negativen Folgen, vor allem falls weitere Indexanbieter nachziehen.
+
+Warum der Aktienkurs für Strategy wichtig ist
+
+Strategy finanziert Bitcoin-Zukäufe, Dividenden und Schuldentilgung zu einem guten Teil über Aktienemissionen. Ein schwacher Kurs macht das schwieriger. Ein Indexausschluss bedeutet aber nicht automatisch finanzielle Schieflage oder Zwangsverkäufe von Bitcoin. Entscheidend bleibt die Bilanzstärke. Strategy ist weiterhin im Nasdaq 100 vertreten, und eine Aufnahme in den S&P 500 ist grundsätzlich möglich, wurde bisher aber trotz Qualifikation nicht umgesetzt.
+
+Und Metaplanet?
+
+Auch bei der japanischen Metaplanet spielt die Indexpolitik eine Rolle. Die Börsengruppe JPX beschloss im Juli, krypto-lastige Unternehmen vorerst nicht neu in den TOPIX aufzunehmen. Metaplanet wurde deshalb bei der Oktober-Überprüfung nicht berücksichtigt, obwohl das Unternehmen sonst infrage gekommen wäre.
+
+Marktreaktion
+
+Die Strategy-Aktie hat nach der Ankündigung bereits deutlich nachgegeben. Nachbörslich lag MSTR zuletzt rund 0,9 % unter dem Bitcoin-Kurs, Bitcoin selbst reagierte kaum. Das spricht dafür, dass der Markt die Entscheidung weitgehend eingepreist hatte: Prognosemärkte wie Polymarket sahen die Wahrscheinlichkeit einer Streichung schon vorher bei über 80 %. Die ETF-Verkäufe laufen allerdings noch bis zum 1. Dezember.
+
+Mit über 850.000 BTC ist Strategy der größte Unternehmens-Halter. Ein schwacher MSTR-Kurs kann Sorgen vor großen Bitcoin-Verkäufen schüren, ein starker Kurs ermöglicht dagegen neue Zukäufe über Aktienemissionen. Analysten wie Matt Hougan von Bitwise erwarten, dass Strategys Einfluss auf den Bitcoin-Kurs künftig abnimmt.
+
+Unser Fazit
+
+Kurzfristig ist mit Verkaufsdruck auf die Aktien zu rechnen, für Bitcoin selbst dürfte die Entscheidung aber kaum eine Rolle spielen. Spannend wird, ob weitere Indexanbieter dem Beispiel von MSCI folgen. Dieser Beitrag ist keine Anlageberatung.
