@@ -1,8 +1,24 @@
 {
- "updated": 1794586375,
+ "updated": 1794607708,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Zinsangst kehrt zurück: Bitcoin und Gold fallen – der Dollar steigt",
+   "summary": "Zum dritten Mal in Folge steigen die US-Kernpreise um 0,3 Prozent. Die Fed antwortet mit harten Tönen, und Bitcoin verliert binnen einer Woche gut vier Prozent. Was müsste passieren, damit sich das Blatt wendet? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794592800,
+   "url": "https://www.btc-echo.de/news/zinsangst-kehrt-zurueck-bitcoin-und-gold-fallen-der-dollar-steigt-240918/",
+   "ad": false
+  },
+  {
+   "title": "Anleger ziehen weiter Geld aus den Krypto-ETFs ab",
+   "summary": "Seit knapp zwei Wochen ziehen Anleger Geld aus den amerikanischen Krypto-ETFs ab. Die Serie fällt in eine Phase, in der auch der Kurs nachgibt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794588005,
+   "url": "https://www.btc-echo.de/news/anleger-ziehen-weiter-geld-aus-den-krypto-etfs-ab-240952/",
+   "ad": false
+  },
   {
    "title": "Strategy-CEO kritisiert MSCI scharf – und spielt Ausschluss herunter",
    "summary": "Nach dem Ausschluss von Strategy aus den MSCI-Indizes geht CEO Phong Le zum Gegenangriff über. Er wirft dem Indexanbieter eine Kampagne gegen Bitcoin vor. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794495773,
    "url": "https://www.btc-echo.de/news/bitcoin-bei-1-million-darum-bleibt-adam-back-gelassen-240828/",
-   "ad": false
-  },
-  {
-   "title": "Nur eine Korrektur im Bullenmarkt? Bitwise-CIO Hougan sieht Bitcoin vor Endjahresrally",
-   "summary": "Trotz aktueller Kursschwäche sieht Matt Hougan Bitcoin bereits am Beginn eines neuen Bullenmarktes. Der Bitwise-CIO rechnet mit einer Rally zum Jahresende.",
-   "source": "Blocktrainer",
-   "ts": 1794489548,
-   "url": "https://www.blocktrainer.de/blog/bitwise-cio-matt-hougan-sieht-bitcoin-vor-endjahresrally",
-   "ad": false
-  },
-  {
-   "title": "MSCI wirft Bitcoin-Gigant Strategy raus: Was bedeutet das für MSTR-Aktionäre?",
-   "summary": "Für Strategy und Metaplanet endet die Mitgliedschaft in wichtigen MSCI-Indizes. Die Entscheidung könnte auch institutionelle Investoren zum Handeln zwingen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794470705,
-   "url": "https://www.btc-echo.de/news/msci-wirft-bitcoin-gigant-strategy-raus-was-bedeutet-das-fuer-mstr-aktionaere-240807/",
    "ad": false
   }
  ]

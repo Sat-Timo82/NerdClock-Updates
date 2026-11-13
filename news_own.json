@@ -1,7 +1,15 @@
 {
- "updated": 1794586375,
+ "updated": 1794607708,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "apollo-iii-bitcoin-fullnode-miner--3e486",
+   "title": "FutureBit Apollo III: Full-Node Bitcoin-Miner erstmals bei Micro Center",
+   "summary": "FutureBit bringt Apollo III Full-Node Bitcoin-Miner erstmals in Micro Center-Stores – kompakter Home Miner, bis zu 18 TH/s, Solo-Mining, Reserve & Pickup.",
+   "ts": 1794593556,
+   "url": "https://nerdminer.de/blogs/news/apollo-iii-bitcoin-fullnode-miner-microcenter-kauf-brooklyn-miami",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
   {
    "id": "bitcoin-unter-70000-spot-etf-abflu-49aed",
    "title": "Bitcoin fällt unter 70.000 US-Dollar: Spot-ETFs rutschen 2026 ins Minus",
@@ -232,14 +240,6 @@
    "summary": "BlackRocks IBIT erzielt Rekordzuflüsse, während Bitcoin bei 82.000 Dollar stagniert und Anleger auf die Fed-Politik blicken.",
    "ts": 1792511056,
    "url": "https://nerdminer.de/blogs/news/blackrock-ibit-groesster-zufluss-seit-oktober-2025",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "blackrock-pbit-bitcoin-schutz-etf",
-   "title": "BlackRock beantragt Bitcoin-ETF mit 10%-Verlustschutz und begrenztem Gewinnpotenzial",
-   "summary": "BlackRock plant mit PBIT einen Bitcoin-ETF, der rund 10 % Verluste abfedern soll – im Gegenzug wird das Aufwärtspotenzial gedeckelt.",
-   "ts": 1792511056,
-   "url": "https://nerdminer.de/blogs/news/blackrock-pbit-bitcoin-schutz-etf",
    "author": "Yannic Fraebel"
   }
  ]

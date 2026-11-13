@@ -1,0 +1,13 @@
+Apollo III jetzt lokal bei Micro Center
+
+FutureBit verkauft den Apollo III Full-Node Bitcoin-Miner erstmals in vier Micro Center Stores in Brooklyn, Miami, Tustin (Kalifornien) und Austin (Texas). Kunden können das Gerät vor Ort kaufen oder online zur Abholung reservieren. Zuvor war der Miner nur direkt über die FutureBit-Website erhältlich.
+
+Kompakter Full-Node Miner mit 18 TH/s
+
+Der kompakte Home Miner ist ein 6,5-Zoll-Würfel, wiegt 6,5 Pfund, wird in den USA montiert und verfügt über ein integriertes Solo-Mining-Pool-Feature. In Turbo-Modus erreicht er bis zu 18 TH/s bei etwa 325 Watt, es gibt zudem sparsamere Betriebsmodi und Modelle mit optionaler SSD-Storage. FutureBit listet das Full-Node-Modell ab 1.099,99 USD ohne Storage; höhere Varianten enthalten SSDs.
+
+Für Home Miner, nicht für industrielle Profite
+
+Das Gerät ist primär für den Heimgebrauch und den Betrieb eines Full Node gedacht, nicht um mit großen Industrie-Minern in Profitabilität zu konkurrieren. Die Micro Center-Einführung markiert die erste physische Retail-Rollout-Phase nach Direktverkäufen über die Website seit 2015. Käufer können so lokal testen, reservieren und ihren Apollo III für Solo-Mining und Node-Betrieb einfach abholen.
+
+Dein Bitcoin-Miner für zu Hause
