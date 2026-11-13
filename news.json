@@ -1,8 +1,32 @@
 {
- "updated": 1794556281,
+ "updated": 1794586375,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Strategy-CEO kritisiert MSCI scharf – und spielt Ausschluss herunter",
+   "summary": "Nach dem Ausschluss von Strategy aus den MSCI-Indizes geht CEO Phong Le zum Gegenangriff über. Er wirft dem Indexanbieter eine Kampagne gegen Bitcoin vor. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794585262,
+   "url": "https://www.btc-echo.de/news/strategy-ceo-kritisiert-msci-scharf-und-spielt-ausschluss-herunter-240916/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Treasury Unternehmen schuldet Kraken mehr als sie selbst wert ist",
+   "summary": "Nakamoto hat bei Kraken mehr Schulden als sie an der Börse wert ist. Eine Woche vor der ersten Rückzahlung verschafft ihr die Börse nun Aufschub. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794582627,
+   "url": "https://www.btc-echo.de/news/bitcoin-treasury-unternehmen-schuldet-kraken-mehr-als-sie-selbst-wert-ist-240937/",
+   "ad": false
+  },
+  {
+   "title": "US-Erzeugerpreise auf Vierjahreshoch: Was das für Bitcoin bedeutet",
+   "summary": "Die US-Erzeugerpreise erreichen den höchsten Stand seit vier Jahren, steigen im Monatsvergleich aber weniger stark als erwartet. Für den angeschlagenen Bitcoin-Markt ist das ein kleiner Lichtblick. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794581253,
+   "url": "https://www.btc-echo.de/news/us-erzeugerpreise-auf-vierjahreshoch-was-das-fuer-bitcoin-bedeutet-240929/",
+   "ad": false
+  },
   {
    "title": "Bitcoin unter 68.000 US-Dollar: Liquidationswelle trifft gehebelte Trader",
    "summary": "Bitcoin ist am frühen Morgen auf rund 67.500 US-Dollar gefallen. Was sind die Gründe dafür und wie tief kann der Preis noch fallen? Wir schauen es genauer an.",
@@ -57,30 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794470705,
    "url": "https://www.btc-echo.de/news/msci-wirft-bitcoin-gigant-strategy-raus-was-bedeutet-das-fuer-mstr-aktionaere-240807/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin viel zu billig? Was sagen die On-Chain Daten",
-   "summary": "Der Kurs wankt, die Stimmung am Markt kippt. Die Daten der Blockchain erzählen hingegen eine ganz andere Geschichte: Ist Bitcoin deutlich unterbewertet? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794452400,
-   "url": "https://www.btc-echo.de/news/bitcoin-viel-zu-billig-was-sagen-die-on-chain-daten-240651/",
-   "ad": false
-  },
-  {
-   "title": "Streichungsliste veröffentlicht: Bitcoin-Halter Strategy und Metaplanet fliegen aus…",
-   "summary": "Jetzt ist es offiziell: MSCI exkludiert Strategy und Metaplanet, die größten börsennotierten Bitcoin-Halter, aus den eigenen Indizes, wie die Streichungsliste zeigt.",
-   "source": "Blocktrainer",
-   "ts": 1794435000,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-halter-strategy-und-metaplanet-fliegen-aus-msci-indizes",
-   "ad": false
-  },
-  {
-   "title": "Ex-Krypto-Berater des Weißen Hauses: Trump habe Interesse an Bitcoin-Käufen für die…",
-   "summary": "Laut dem ehemaligen Krypto-Berater des Weißen Hauses sei Trump an Bitcoin-Käufen für die Reserve interessiert. Trotz Fortschritten gebe es aber noch große Hürden.",
-   "source": "Blocktrainer",
-   "ts": 1794415037,
-   "url": "https://www.blocktrainer.de/blog/trump-sei-interessiert-daran-bitcoin-fuer-die-strategische-reserve-zu-kaufen",
    "ad": false
   }
  ]

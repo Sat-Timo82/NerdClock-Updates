@@ -1,7 +1,15 @@
 {
- "updated": 1794556281,
+ "updated": 1794586375,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-unter-70000-spot-etf-abflu-49aed",
+   "title": "Bitcoin fällt unter 70.000 US-Dollar: Spot-ETFs rutschen 2026 ins Minus",
+   "summary": "Bitcoin fällt unter 70.000 US-Dollar, während Spot-ETFs Abflüsse verzeichnen. Hohe Leverage, dünne Liquidität und Fed-Sorgen belasten den Kryptomarkt.",
+   "ts": 1794562353,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-70000-spot-etf-abflusse-156-milliarden",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-faellt-unter-72000-nach-ru-a5074",
    "title": "Bitcoin fällt unter 72.000 US-Dollar: Nvidia-Chef Jensen Huang tritt zurück",
@@ -232,14 +240,6 @@
    "summary": "BlackRock plant mit PBIT einen Bitcoin-ETF, der rund 10 % Verluste abfedern soll – im Gegenzug wird das Aufwärtspotenzial gedeckelt.",
    "ts": 1792511056,
    "url": "https://nerdminer.de/blogs/news/blackrock-pbit-bitcoin-schutz-etf",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "mt-gox-glaeubiger-rueckzahlung-bis-6c818",
-   "title": "Mt. Gox verschiebt Gläubiger-Rückzahlungen zum sechsten Mal – neue Frist bis 2027",
-   "summary": "Mt. Gox verlängert die Frist für Gläubiger-Rückzahlungen bis Oktober 2027. Rund 34.400 BTC im Wert von 2,8 Milliarden US-Dollar bleiben betroffen.",
-   "ts": 1792511056,
-   "url": "https://nerdminer.de/blogs/news/mt-gox-glaeubiger-rueckzahlung-bis-2027-verlaengert",
    "author": "Yannic Fraebel"
   }
  ]
