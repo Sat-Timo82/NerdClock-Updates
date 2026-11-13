@@ -1,22 +1,30 @@
 {
- "updated": 1794531649,
+ "updated": 1794556281,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin unter 68.000 US-Dollar: Liquidationswelle trifft gehebelte Trader",
+   "summary": "Bitcoin ist am frühen Morgen auf rund 67.500 US-Dollar gefallen. Was sind die Gründe dafür und wie tief kann der Preis noch fallen? Wir schauen es genauer an.",
+   "source": "Blocktrainer",
+   "ts": 1794556038,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-unter-68000-us-dollar-liquidationswelle-trifft-gehebelte-trader",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Haltefrist gerettet? \"Ich würde mich noch nicht zu früh freuen\"",
+   "summary": "Ein Medienbericht ließ Krypto-Anleger hoffen – jetzt hat sich das Finanzministerium gegenüber BTC-ECHO geäußert. Was die Antwort für die Bitcoin-Haltefrist bedeutet und warum der Zeitplan trotzdem wackelt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794538800,
+   "url": "https://www.btc-echo.de/news/bitcoin-haltefrist-gerettet-ich-wuerde-mich-noch-nicht-zu-frueh-freuen-240815/",
+   "ad": false
+  },
   {
    "title": "\"Teuerster Fehler der KI-Revolution\": Bitcoin korrigiert nach Nvidia-Rücktritt",
    "summary": "Nvidia-Chef Jensen Huang muss nach drei Jahrzehnten seinen Platz räumen. Warum die Krypto-Branche scharfe Kritik am Führungswechsel beim KI-Vorreiter übt. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1794511210,
    "url": "https://www.btc-echo.de/news/teuerster-fehler-der-ki-revolution-krypto-industrie-kritisiert-nvidia-240888/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Analyse: Hält die 70.000-Dollar-Marke?",
-   "summary": "Bitcoin droht, die nächste wichtige Unterstützungslinie aufzugeben. Warum die kommenden Handelstage eine Vorentscheidung bringen dürften, verrät diese charttechnische Kursanalyse. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794506400,
-   "url": "https://www.btc-echo.de/news/bitcoin-analyse-haelt-die-70-000-dollar-marke-240849/",
    "ad": false
   },
   {
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1794415037,
    "url": "https://www.blocktrainer.de/blog/trump-sei-interessiert-daran-bitcoin-fuer-die-strategische-reserve-zu-kaufen",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Haltefrist bleibt offenbar bestehen: Laut BILD kommt die neue Krypto-Steuer nicht für…",
-   "summary": "Wie die BILD aus Koalitionskreisen erfahren hat, soll die neue Steuer auf Krypto-Gewinne nicht mehr kommen. Die Bitcoin-Haltefrist würde demnach bestehen bleiben.",
-   "source": "Blocktrainer",
-   "ts": 1794404000,
-   "url": "https://www.blocktrainer.de/blog/laut-bild-informationen-kommt-die-neue-krypto-steuer-nicht-mehr-fuer-2027",
    "ad": false
   }
  ]
