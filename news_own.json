@@ -1,7 +1,15 @@
 {
- "updated": 1794513077,
+ "updated": 1794531649,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-faellt-unter-72000-nach-ru-a5074",
+   "title": "Bitcoin fällt unter 72.000 US-Dollar: Nvidia-Chef Jensen Huang tritt zurück",
+   "summary": "Bitcoin fällt unter 72.000 US-Dollar, während Huangs Nvidia-Rücktritt, ETF-Abflüsse und straffere US-Geldpolitik die Märkte belasten.",
+   "ts": 1794515196,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-unter-72000-nach-ruecktritt-nvidia-ceo-jensen-huang",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "msci-streicht-strategy-aus-usa-index",
    "title": "MSCI streicht Strategy aus globalen Indizes – MSTR-Aktie fällt 2,6 %",
@@ -232,14 +240,6 @@
    "summary": "Mt. Gox verlängert die Frist für Gläubiger-Rückzahlungen bis Oktober 2027. Rund 34.400 BTC im Wert von 2,8 Milliarden US-Dollar bleiben betroffen.",
    "ts": 1792511056,
    "url": "https://nerdminer.de/blogs/news/mt-gox-glaeubiger-rueckzahlung-bis-2027-verlaengert",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-langfristige-kapitalmarktp-7c2fc",
-   "title": "JPMorgan veröffentlicht Bitcoin-Prognose – kein automatischer Dollar-Fluchttrade",
-   "summary": "JPMorgan nimmt Bitcoin erstmals in den langfristigen Marktausblick auf, warnt aber vor hoher Volatilität und einem automatischen Krypto-Trade bei Dollar-Abwertung.",
-   "ts": 1792511056,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-langfristige-kapitalmarktprognose-jpmorgan-2027",
    "author": "Yannic Fraebel"
   }
  ]
