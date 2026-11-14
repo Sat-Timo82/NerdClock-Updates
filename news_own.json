@@ -1,7 +1,23 @@
 {
- "updated": 1794674585,
+ "updated": 1794691467,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "texas-gesetzentwurf-815-bitcoin-in-acb45",
+   "title": "Texas plant Bitcoin-Investments von bis zu 10 Millionen Dollar für jede Stadt und jeden County",
+   "summary": "Ein Gesetzentwurf in Texas könnte Städten und Counties erlauben, bis zu 10 Millionen Dollar in Bitcoin oder andere Kryptowährungen zu investieren.",
+   "ts": 1794680559,
+   "url": "https://nerdminer.de/blogs/news/texas-gesetzentwurf-815-bitcoin-investitionen",
+   "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-rutsch-14-prozent-woche",
+   "title": "Bitcoin fällt 14% auf $65.000 – BTC-Preis, Spot-ETFs & Mining Difficulty im Fokus",
+   "summary": "BTC rutscht 14% auf ~65.000$ nach Weekend-Selloff. Dollar, hohe Yields, Spot-ETFs und sinkende Mining Difficulty prägen den Ausblick.",
+   "ts": 1794676470,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-rutsch-14-prozent-woche",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
   {
    "id": "apollo-iii-bitcoin-fullnode-miner--3e486",
    "title": "FutureBit Apollo III: Full-Node Bitcoin-Miner erstmals bei Micro Center",
@@ -224,22 +240,6 @@
    "summary": "Bitcoin steigt auf 84.600 Dollar, nachdem starke SpaceX-Zahlen Tech-Aktien beflügeln. Short-Liquidationen und wichtige Kursmarken im Überblick.",
    "ts": 1792609569,
    "url": "https://nerdminer.de/blogs/news/bitcoin-steigt-spacex-gewinne",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-ewige-vorzugsaktien-135979-btc",
-   "title": "Fidelity: Perpetual Preferreds halten bereits 0,5 % des Bitcoin-Angebots",
-   "summary": "Bitcoin-gebundene Perpetual Preferreds treiben die BTC-Nachfrage an: Fidelity sieht Wachstumspotenzial im globalen Fixed-Income-Markt.",
-   "ts": 1792532779,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-ewige-vorzugsaktien-135979-btc",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "blackrock-ibit-groesster-zufluss-s-ebfb0",
-   "title": "BlackRocks IBIT verzeichnet 665 Mio. Dollar Zuflüsse – Bitcoin verharrt bei 82.000 Dollar",
-   "summary": "BlackRocks IBIT erzielt Rekordzuflüsse, während Bitcoin bei 82.000 Dollar stagniert und Anleger auf die Fed-Politik blicken.",
-   "ts": 1792511056,
-   "url": "https://nerdminer.de/blogs/news/blackrock-ibit-groesster-zufluss-seit-oktober-2025",
    "author": "Yannic Fraebel"
   }
  ]

@@ -1,8 +1,32 @@
 {
- "updated": 1794674585,
+ "updated": 1794691467,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Cobra Warns AI Threatens Bitcoin Self-Custody as Winter Looms",
+   "summary": "The pseudonymous owner and maintainer of the bitcoin.org domain stated he had never seen bitcoiners so demoralized, highlighting that the recent bear market was brutal. Cobra pointed out several tailwinds for bitcoin's future, stressing that owning bitcoin is extremely risky right now. Bitcoin.org Steward Cobra Highlights…",
+   "source": "Bitcoin.com News",
+   "ts": 1794689128,
+   "url": "https://news.bitcoin.com/crypto-news/cobra-warns-ai-threatens-bitcoin-self-custody-as-winter-looms/",
+   "ad": false
+  },
+  {
+   "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
+   "summary": "Institutional demand for crypto ETFs investment products continued to weaken last week, with US spot Bitcoin exchange-traded funds (ETFs) recording more than $1 billion in withdrawals for the second consecutive week. The selling extended across most digital asset funds, leaving Avalanche ETFs as the only category among 15…",
+   "source": "Bitcoinist",
+   "ts": 1794688958,
+   "url": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
+   "ad": false
+  },
+  {
+   "title": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
+   "summary": "Federal Reserve interest rate expectations have taken a decidedly hawkish turn, with CME Fedwatch assigning a near-guaranteed probability to a December rate increase on Saturday, Nov. 14, 2026. Kalshi and Polymarket traders largely agree, while bitcoin has slipped to an intraday low of $65,020. CME Fedwatch Signals December…",
+   "source": "Bitcoin.com News",
+   "ts": 1794680167,
+   "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/",
+   "ad": false
+  },
   {
    "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
    "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
@@ -57,30 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1794652203,
    "url": "https://news.bitcoin.com/featured/saylor-strategy-7-billion-underwater-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Dips To $68,000 As Anthropic IPO Pulls Cash, But History Points To A Buying Window",
-   "summary": "Bitcoin just had its worst week since summer. But the reason behind the drop may be exactly why some analysts see an opportunity. BTC fell to about $68,000 overnight, its lowest level since August and more than 20% below early October. At its lowest point, Bitcoin touched $67,770 as liquidations topped $1.6 billion, with…",
-   "source": "Bitcoinist",
-   "ts": 1794650084,
-   "url": "https://bitcoinist.com/bitcoin-dips-to-68000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buying-window/",
-   "ad": false
-  },
-  {
-   "title": "Vienna's Satoshi Statue Vanishes When You Look At It, And That's The Point",
-   "summary": "Nobody knows what Satoshi Nakamoto looks like. Vienna's newest landmark leans into that mystery. Bitcoin Austria has unveiled a Satoshi statue in Viertel Zwei, a lakeside business quarter in Vienna's second district. It makes the Austrian capital the latest stop in a global series that aims to place 21 identical Satoshi…",
-   "source": "Bitcoinist",
-   "ts": 1794649508,
-   "url": "https://bitcoinist.com/viennas-satoshi-statue-vanishes-when-you-look-at-it-and-thats-the-point/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11",
-   "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock's IBIT accounting for $143.5 million and Fidelity's FBTC shedding $41.9 million.",
-   "source": "Cointelegraph",
-   "ts": 1794637993,
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
    "ad": false
   }
  ]
