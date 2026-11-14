@@ -1,8 +1,24 @@
 {
- "updated": 1794607708,
+ "updated": 1794624032,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "summary": "Contracts that sell power to a 4% slice of the world's bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay's state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+   "source": "CoinDesk",
+   "ts": 1794612600,
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "ad": false
+  },
+  {
+   "title": "Grayscale Sees New Crypto Opportunities as Bitcoin's Grip Weakens",
+   "summary": "Grayscale said crypto's expansion is creating investment opportunities beyond bitcoin as sectors differ in business models, adoption, and token economics. The firm's latest analysis linked declining correlations with a stronger role for individual asset selection, while acknowledging persistent marketwide risks. Grayscale…",
+   "source": "Bitcoin.com News",
+   "ts": 1794611402,
+   "url": "https://news.bitcoin.com/market-updates/grayscale-sees-new-crypto-opportunities-bitcoin-grip-weakens/",
+   "ad": false
+  },
   {
    "title": "Twenty One Capital's Bitcoin Gains Fuel First Profitable Quarter at $1.09B",
    "summary": "Tether-backed Twenty One Capital reported $1.087 billion in third-quarter net income, largely driven by unrealized gains on its bitcoin holdings. Twenty One Capital Shares Slide Despite Billion-Dollar Profit Twenty One Capital reported net income of $1.087 billion for the third quarter ended Sept. 30, a swing of more than $1…",
@@ -65,22 +81,6 @@
    "source": "Decrypt",
    "ts": 1794594962,
    "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
-   "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
-   "source": "Decrypt",
-   "ts": 1794590574,
-   "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
-   "ad": false
-  },
-  {
-   "title": "FutureBit's Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar…",
-   "summary": "The Brooklyn company's compact home miner, rated at up to 18 TH/s and starting at $1,099.99, goes on sale Friday at four Micro Center stores, including the chain's new Austin location. This post FutureBit's Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794587973,
-   "url": "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves",
    "ad": false
   }
  ]
