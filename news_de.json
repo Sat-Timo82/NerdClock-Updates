@@ -1,8 +1,16 @@
 {
- "updated": 1794651139,
+ "updated": 1794674585,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Prognose gescheitert: Diese YouTuberin bereut ihre Kündigung trotzdem nicht",
+   "summary": "Nicole Nowak kündigte ihren sicheren Konzernjob und setzte voll auf Bitcoin. Warum sie ihre damalige Kursprognose heute für naiv hält – aber trotzdem wieder aus dem Hamsterrad ausbrechen würde. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794672000,
+   "url": "https://www.btc-echo.de/news/bitcoin-prognose-gescheitert-youtuberin-bereut-nichts-240823/",
+   "ad": false
+  },
   {
    "title": "\"Wenn Bitcoin scheitert, ist es vorbei\": Was der Bitfinex-Manager für die Finanzwelt erwartet",
    "summary": "Die Tokenisierung nimmt Fahrt auf – doch welche Anlageklassen profitieren davon und welche Rolle spielt Bitcoin? Bitfinex-Manager Jesse Knutson erklärt im Interview mit BTC-ECHO, warum für die gesamte Krypto-Branche eine klare Abhängigkeit erkennt. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1794556038,
    "url": "https://www.blocktrainer.de/blog/bitcoin-unter-68000-us-dollar-liquidationswelle-trifft-gehebelte-trader",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Haltefrist gerettet? \"Ich würde mich noch nicht zu früh freuen\"",
-   "summary": "Ein Medienbericht ließ Krypto-Anleger hoffen – jetzt hat sich das Finanzministerium gegenüber BTC-ECHO geäußert. Was die Antwort für die Bitcoin-Haltefrist bedeutet und warum der Zeitplan trotzdem wackelt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794538800,
-   "url": "https://www.btc-echo.de/news/bitcoin-haltefrist-gerettet-ich-wuerde-mich-noch-nicht-zu-frueh-freuen-240815/",
    "ad": false
   }
  ]
