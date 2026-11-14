@@ -1,8 +1,48 @@
 {
- "updated": 1794624032,
+ "updated": 1794651139,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Dips To $68,000 As Anthropic IPO Pulls Cash, But History Points To A Buying Window",
+   "summary": "Bitcoin just had its worst week since summer. But the reason behind the drop may be exactly why some analysts see an opportunity. BTC fell to about $68,000 overnight, its lowest level since August and more than 20% below early October. At its lowest point, Bitcoin touched $67,770 as liquidations topped $1.6 billion, with…",
+   "source": "Bitcoinist",
+   "ts": 1794650084,
+   "url": "https://bitcoinist.com/bitcoin-dips-to-68000-as-anthropic-ipo-pulls-cash-but-history-points-to-a-buying-window/",
+   "ad": false
+  },
+  {
+   "title": "Vienna's Satoshi Statue Vanishes When You Look At It, And That's The Point",
+   "summary": "Nobody knows what Satoshi Nakamoto looks like. Vienna's newest landmark leans into that mystery. Bitcoin Austria has unveiled a Satoshi statue in Viertel Zwei, a lakeside business quarter in Vienna's second district. It makes the Austrian capital the latest stop in a global series that aims to place 21 identical Satoshi…",
+   "source": "Bitcoinist",
+   "ts": 1794649508,
+   "url": "https://bitcoinist.com/viennas-satoshi-statue-vanishes-when-you-look-at-it-and-thats-the-point/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11",
+   "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock's IBIT accounting for $143.5 million and Fidelity's FBTC shedding $41.9 million.",
+   "source": "Cointelegraph",
+   "ts": 1794637993,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
+   "ad": false
+  },
+  {
+   "title": "Peter Schiff Calls Bitcoin a 'Slow Bleed' While Gold Slides Below $3,900",
+   "summary": "Gold bug Peter Schiff stressed that bitcoin prices reached November 2021 levels, falling 22% over the past seven weeks, and called on investors to pivot to gold. Nonetheless, gold is also taking a beating, falling below $3.9K, with analysts warning about a major downfall. Peter Schiff Preaches Gold During Bitcoin's Downfall…",
+   "source": "Bitcoin.com News",
+   "ts": 1794637820,
+   "url": "https://news.bitcoin.com/finance/peter-schiff-calls-bitcoin-a-slow-bleed-while-gold-slides-below-3900/",
+   "ad": false
+  },
+  {
+   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+   "source": "CoinDesk",
+   "ts": 1794630600,
+   "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+   "ad": false
+  },
   {
    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
    "summary": "Contracts that sell power to a 4% slice of the world's bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay's state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
@@ -41,46 +81,6 @@
    "source": "Decrypt",
    "ts": 1794600963,
    "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
-   "ad": false
-  },
-  {
-   "title": "Bill Miller IV: \"They're Not Printing More Bitcoin\"",
-   "summary": "Bitcoin Magazine Bill Miller IV: \"They're Not Printing More Bitcoin\" Bill Miller IV, Chairman and CIO of Miller Value Partners, joins Grace Remington and Sean Hagan on BMTV to explain why he is still bullish on Bitcoin with sentiment near FTX-era lows. This post Bill Miller IV: \"They're Not Printing More Bitcoin\" first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794600039,
-   "url": "https://bitcoinmagazine.com/videos/bill-miller-iv-theyre-not-printing-more-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-   "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
-   "source": "Decrypt",
-   "ts": 1794598563,
-   "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Could Rebound to $90K but Risks $65K Retest: 21shares Strategist",
-   "summary": "Bitcoin could recover toward $87,000 and eventually exceed $90,000, according to 21shares strategist Matt Mena. He linked the outlook to renewed buying after softer-than-expected producer inflation, while identifying support and resistance levels that would shape the recovery. Strategist Maps Bitcoin's Recovery Toward $90,000…",
-   "source": "Bitcoin.com News",
-   "ts": 1794595222,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-could-rebound-90k-risks-65k-retest-21shares-strategist/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
-   "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
-   "source": "CoinDesk",
-   "ts": 1794595198,
-   "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
-   "ad": false
-  },
-  {
-   "title": "Fed Chair Warsh Wants Answers on AI Inflation–and Bitcoin May Feel the Impact",
-   "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
-   "source": "Decrypt",
-   "ts": 1794594962,
-   "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
    "ad": false
   }
  ]

@@ -1,8 +1,32 @@
 {
- "updated": 1794624032,
+ "updated": 1794651139,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "\"Wenn Bitcoin scheitert, ist es vorbei\": Was der Bitfinex-Manager für die Finanzwelt erwartet",
+   "summary": "Die Tokenisierung nimmt Fahrt auf – doch welche Anlageklassen profitieren davon und welche Rolle spielt Bitcoin? Bitfinex-Manager Jesse Knutson erklärt im Interview mit BTC-ECHO, warum für die gesamte Krypto-Branche eine klare Abhängigkeit erkennt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794650400,
+   "url": "https://www.btc-echo.de/news/wenn-bitcoin-scheitert-ist-es-vorbei-was-bitfinex-manager-fuer-finanzwelt-erwartet-240600/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin fällt auf 67.000 US-Dollar – Abverkauf könnte sich verschärfen",
+   "summary": "Der Krypto-Markt rutscht weiter ab. Trotz hoher Verluste sind am Terminmarkt noch zahlreiche gehebelte Positionen offen. Das birgt weiteres Abwärtspotenzial. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794646848,
+   "url": "https://www.btc-echo.de/news/bitcoin-faellt-auf-67-000-us-dollar-abverkauf-koennte-sich-verschaerfen-240976/",
+   "ad": false
+  },
+  {
+   "title": "\"Bitcoin befindet sich in einem langfristigen Bärenmarkt\"",
+   "summary": "Bitcoin ist kurzzeitig auf 68.000 US-Dollar abgerutscht. Peter Schiff fühlt sich in seiner Warnung bestätigt, Analyst Benjamin Cowen hielte selbst einen Fall auf 54.000 US-Dollar für eine gute Nachricht. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794625200,
+   "url": "https://www.btc-echo.de/news/bitcoin-befindet-sich-in-einem-langfristigen-baerenmarkt-240917/",
+   "ad": false
+  },
   {
    "title": "Zinsangst kehrt zurück: Bitcoin und Gold fallen – der Dollar steigt",
    "summary": "Zum dritten Mal in Folge steigen die US-Kernpreise um 0,3 Prozent. Die Fed antwortet mit harten Tönen, und Bitcoin verliert binnen einer Woche gut vier Prozent. Was müsste passieren, damit sich das Blatt wendet? Source: BTC-ECHO BTC-ECHO",
@@ -57,30 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794538800,
    "url": "https://www.btc-echo.de/news/bitcoin-haltefrist-gerettet-ich-wuerde-mich-noch-nicht-zu-frueh-freuen-240815/",
-   "ad": false
-  },
-  {
-   "title": "\"Teuerster Fehler der KI-Revolution\": Bitcoin korrigiert nach Nvidia-Rücktritt",
-   "summary": "Nvidia-Chef Jensen Huang muss nach drei Jahrzehnten seinen Platz räumen. Warum die Krypto-Branche scharfe Kritik am Führungswechsel beim KI-Vorreiter übt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794511210,
-   "url": "https://www.btc-echo.de/news/teuerster-fehler-der-ki-revolution-krypto-industrie-kritisiert-nvidia-240888/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin fällt immer weiter – Was steckt hinter dem Kurseinbruch?",
-   "summary": "Bitcoin ist am heutigen Donnerstag auf 71.151 US-Dollar gefallen, das tiefste Niveau seit dem 20. August. Was sind die Gründe für den starken Kurseinbruch?",
-   "source": "Blocktrainer",
-   "ts": 1794503100,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-faellt-immer-weiter-was-steckt-hinter-dem-kurseinbruch",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kurs bei 1 Million Dollar bis 2028? Adam Back bleibt entspannt",
-   "summary": "Das Krypto-Urgestein Adam Back bleibt bullish und wettet auf einen starken Bitcoin-Kursanstieg. Warum die Rolle als digitales Gold dafür wichtig ist. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794495773,
-   "url": "https://www.btc-echo.de/news/bitcoin-bei-1-million-darum-bleibt-adam-back-gelassen-240828/",
    "ad": false
   }
  ]
