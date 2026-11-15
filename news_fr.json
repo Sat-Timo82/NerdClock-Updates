@@ -1,8 +1,24 @@
 {
- "updated": 1794691467,
+ "updated": 1794705444,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Faces Massive Liquidation Cluster Near $60K, Glassnode Warns",
+   "summary": "Bitcoin approached a large concentration of leveraged trades as Glassnode warned that forced selling could deepen its decline. The warning came as shrinking trading liquidity and losses on bullish bets increased pressure across crypto markets. Glassnode Warns of Vulnerable Trades Below Bitcoin's Price Glassnode, a firm that…",
+   "source": "Bitcoin.com News",
+   "ts": 1794702641,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-massive-liquidation-cluster-near-60k-glassnode-warns/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Plunges, but Michael Saylor Says STRC Still Delivers Gains",
+   "summary": "Michael Saylor highlighted positive returns from Strategy's income-paying preferred shares, traded as STRC, while bitcoin fell near $64K on Nov. 14, down more than 21% over one month. The slide pushed the company's bitcoin holdings further below their acquisition cost. Saylor Highlights Income During Bitcoin's Slide Michael…",
+   "source": "Bitcoin.com News",
+   "ts": 1794693033,
+   "url": "https://news.bitcoin.com/featured/bitcoin-plunges-but-michael-saylor-says-strc-still-delivers-gains/",
+   "ad": false
+  },
   {
    "title": "Cobra Warns AI Threatens Bitcoin Self-Custody as Winter Looms",
    "summary": "The pseudonymous owner and maintainer of the bitcoin.org domain stated he had never seen bitcoiners so demoralized, highlighting that the recent bear market was brutal. Cobra pointed out several tailwinds for bitcoin's future, stressing that owning bitcoin is extremely risky right now. Bitcoin.org Steward Cobra Highlights…",
@@ -28,7 +44,7 @@
    "ad": false
   },
   {
-   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
    "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
    "source": "CoinDesk",
    "ts": 1794674009,
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1794661200,
    "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-   "ad": false
-  },
-  {
-   "title": "Jane Street Nearly Doubled Its Bitcoin ETF Book In Q3: What The Filing Really Shows",
-   "summary": "One of Wall Street's biggest trading firms just showed its Bitcoin hand. But reading it correctly takes more than a glance at the headline numbers. Jane Street's latest Form 13F, filed with the SEC on Nov. 12, shows its combined stake in three major spot Bitcoin ETFs rose from about $926 million at the end […]",
-   "source": "Bitcoinist",
-   "ts": 1794655801,
-   "url": "https://bitcoinist.com/jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-shows/",
-   "ad": false
-  },
-  {
-   "title": "Saylor's Strategy Is Now $7 Billion Underwater on Its Bitcoin Bet",
-   "summary": "Michael Saylor's Strategy is currently sitting on a paper loss of more than $7 billion on its 850,364 BTC stash. This happened after bitcoin slid below $67,000 earlier today. Strategy's Bitcoin Stack Slips Below Cost The world's largest corporate bitcoin holder is now officially in the red, with Strategy's most recent 8-K…",
-   "source": "Bitcoin.com News",
-   "ts": 1794652203,
-   "url": "https://news.bitcoin.com/featured/saylor-strategy-7-billion-underwater-bitcoin/",
    "ad": false
   }
  ]
