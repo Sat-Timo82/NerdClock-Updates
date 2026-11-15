@@ -1,8 +1,72 @@
 {
- "updated": 1794731094,
+ "updated": 1794757877,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin Mining Hits Breaking Point as Difficulty Plunges 9.13%",
+   "summary": "As bitcoin prices tumbled to an intraday low of $61,947, mining revenue deteriorated to exceptionally depressed levels, with hashprice languishing between $28 and $30 per petahash per second (PH/s) of daily output. Meanwhile, Bitcoin's mining difficulty declined 9.13% at block height 975744, marking the network's 23rd…",
+   "source": "Bitcoin.com News",
+   "ts": 1794755741,
+   "url": "https://news.bitcoin.com/mining/bitcoin-mining-hits-breaking-point-as-difficulty-plunges-9-13/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+   "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+   "source": "Decrypt",
+   "ts": 1794751262,
+   "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Hits New Highs (Against and Because of Nvidia) – Week in Review",
+   "summary": "This editorial is from this week's edition of the newsletter Week in Review, sent to subscribers on Friday. Subscribe to the newsletter to get this weekly editorial the second it's finished. The newsletter also includes the biggest stories of the week, with a comment on each story. Since last Friday's close, bitcoin has fallen…",
+   "source": "Bitcoin.com News",
+   "ts": 1794751228,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-hits-new-highs-against-and-because-of-nvidia-week-in-review/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+   "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+   "source": "Cointelegraph",
+   "ts": 1794738197,
+   "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
+   "ad": false
+  },
+  {
+   "title": "Blockstream And Thales Launch Bitcoin Custody System",
+   "summary": "The biggest crypto hack in history started with a fake job interview. Now one of Bitcoin's oldest infrastructure firms is betting that the answer to AI-era attacks is simpler, hardware-first Bitcoin custody. Blockstream, the company led by co-founder and CEO Adam Back, has launched an enterprise custody solution developed with…",
+   "source": "Bitcoinist",
+   "ts": 1794735640,
+   "url": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
+   "ad": false
+  },
+  {
+   "title": "Miner Weekly: These Miners Cut Hashrate 50% as AI Revenue Doubles",
+   "summary": "The AI retrofit is becoming easier to see in miners' income statements. This article first appeared in Miner Weekly, a weekly newsletter by Blocksbridge Consulting curating the latest news in energy, compute, infrastructure, and data analysis from The Energy Mag. The original article can be viewed here. IREN, Core Scientific…",
+   "source": "Bitcoin.com News",
+   "ts": 1794735022,
+   "url": "https://news.bitcoin.com/mining/miner-weekly-these-miners-cut-hashrate-50-as-ai-revenue-doubles/",
+   "ad": false
+  },
+  {
+   "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
+   "summary": "Bitcoin is bleeding ahead of the biggest AI listing in history. But if the market follows the script it wrote just five months ago, the selling could soon run out of fuel. BTC dropped below $67,000 this week, its weakest level since August, as investors pulled money from spot ETFs ahead of the Anthropic IPO. […]",
+   "source": "Bitcoinist",
+   "ts": 1794734084,
+   "url": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
+   "ad": false
+  },
+  {
+   "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
+   "summary": "AI cyberattacks and outages have made the past few months brutal for the systems the modern internet runs on. Cloud platforms have gone dark, AI tools have failed in waves, and hackers have pulled off the biggest heist in history. Yet through all of it, one network never missed a beat. The Bitcoin blockchain has […]",
+   "source": "Bitcoinist",
+   "ts": 1794731087,
+   "url": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
+   "ad": false
+  },
   {
    "title": "What Nvidia's CEO Ouster and Bitcoin Have in Common",
    "summary": "Speculation is mounting that Nvidia CEO Jensen Huang was forced out after the co-founder of the multitrillion-dollar company began advocating for open-source AI models. While these theories remain unconfirmed, they also draw parallels with Bitcoin's own fight over open-source development. Although Huang announced his…",
@@ -17,70 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1794702641,
    "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-massive-liquidation-cluster-near-60k-glassnode-warns/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Plunges, but Michael Saylor Says STRC Still Delivers Gains",
-   "summary": "Michael Saylor highlighted positive returns from Strategy's income-paying preferred shares, traded as STRC, while bitcoin fell near $64K on Nov. 14, down more than 21% over one month. The slide pushed the company's bitcoin holdings further below their acquisition cost. Saylor Highlights Income During Bitcoin's Slide Michael…",
-   "source": "Bitcoin.com News",
-   "ts": 1794693033,
-   "url": "https://news.bitcoin.com/featured/bitcoin-plunges-but-michael-saylor-says-strc-still-delivers-gains/",
-   "ad": false
-  },
-  {
-   "title": "Cobra Warns AI Threatens Bitcoin Self-Custody as Winter Looms",
-   "summary": "The pseudonymous owner and maintainer of the bitcoin.org domain stated he had never seen bitcoiners so demoralized, highlighting that the recent bear market was brutal. Cobra pointed out several tailwinds for bitcoin's future, stressing that owning bitcoin is extremely risky right now. Bitcoin.org Steward Cobra Highlights…",
-   "source": "Bitcoin.com News",
-   "ts": 1794689128,
-   "url": "https://news.bitcoin.com/crypto-news/cobra-warns-ai-threatens-bitcoin-self-custody-as-winter-looms/",
-   "ad": false
-  },
-  {
-   "title": "Crypto ETFs Bleed $1.5B as Bitcoin Funds Extend Losses",
-   "summary": "Institutional demand for crypto ETFs investment products continued to weaken last week, with US spot Bitcoin exchange-traded funds (ETFs) recording more than $1 billion in withdrawals for the second consecutive week. The selling extended across most digital asset funds, leaving Avalanche ETFs as the only category among 15…",
-   "source": "Bitcoinist",
-   "ts": 1794688958,
-   "url": "https://bitcoinist.com/crypto-etfs-bleed-1-5b-as-bitcoin-funds-extend-losses/",
-   "ad": false
-  },
-  {
-   "title": "Fed Rate Hike Odds Reach Near-Certainty as Bitcoin Price Falls to $65K",
-   "summary": "Federal Reserve interest rate expectations have taken a decidedly hawkish turn, with CME Fedwatch assigning a near-guaranteed probability to a December rate increase on Saturday, Nov. 14, 2026. Kalshi and Polymarket traders largely agree, while bitcoin has slipped to an intraday low of $65,020. CME Fedwatch Signals December…",
-   "source": "Bitcoin.com News",
-   "ts": 1794680167,
-   "url": "https://news.bitcoin.com/market-updates/fed-rate-hike-odds-reach-near-certainty-as-bitcoin-price-falls-to-65k/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-   "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-   "source": "CoinDesk",
-   "ts": 1794674009,
-   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low",
-   "summary": "Bitcoin price crashed about 13% over the past week and traded near $65,600 on Saturday. This post Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1794670053,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
-   "ad": false
-  },
-  {
-   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
-   "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
-   "source": "CoinDesk",
-   "ts": 1794661200,
-   "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
-   "ad": false
-  },
-  {
-   "title": "Jane Street Nearly Doubled Its Bitcoin ETF Book In Q3: What The Filing Really Shows",
-   "summary": "One of Wall Street's biggest trading firms just showed its Bitcoin hand. But reading it correctly takes more than a glance at the headline numbers. Jane Street's latest Form 13F, filed with the SEC on Nov. 12, shows its combined stake in three major spot Bitcoin ETFs rose from about $926 million at the end […]",
-   "source": "Bitcoinist",
-   "ts": 1794655801,
-   "url": "https://bitcoinist.com/jane-street-nearly-doubled-its-bitcoin-etf-book-in-q3-what-the-filing-really-shows/",
    "ad": false
   }
  ]

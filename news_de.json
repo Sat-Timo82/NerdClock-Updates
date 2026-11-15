@@ -1,8 +1,32 @@
 {
- "updated": 1794731094,
+ "updated": 1794757877,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Streit um Satoshis Bitcoin: Verlorene Wallet sendet Lebenszeichen",
+   "summary": "In New York wird um Bitcoin im Wert von hunderten Milliarden US-Dollar gestritten. Darunter auch Bestände von Satoshi Nakamoto. Nun ist eine der Wallets wieder aktiv geworden. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794740631,
+   "url": "https://www.btc-echo.de/news/streit-um-satoshis-bitcoin-verlorene-wallet-meldet-sich-zurueck-241011/",
+   "ad": false
+  },
+  {
+   "title": "\"Der Zeitpunkt ist heikel\": Was der Anthropic-Börsengang für Bitcoin bedeutet",
+   "summary": "Erst SpaceX, dann Anthropic: Der nächste Mega-IPO lenkt die Aufmerksamkeit der Anleger auf sich. Wird Bitcoin zum Verlierer der KI-Börsenstory, oder wendet sich das Blatt gerade jetzt? Wir haben bei Claude nachgefragt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794736800,
+   "url": "https://www.btc-echo.de/news/anthropic-ipo-claude-warnt-vor-folgen-fuer-bitcoin-240749/",
+   "ad": false
+  },
+  {
+   "title": "Nach Markteinbruch: Bitcoin dreht wieder nach oben",
+   "summary": "Der Krypto-Markt ist über Nacht eingebrochen. Bitcoin fiel zeitweise unter 63.000 US-Dollar. On-Chain-Daten zeigen, wie groß die Verunsicherung ist. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794734820,
+   "url": "https://www.btc-echo.de/news/nach-markteinbruch-bitcoin-dreht-wieder-nach-oben-241009/",
+   "ad": false
+  },
   {
    "title": "Hoffnung bei der Krypto-Steuer – Schock für Strategy",
    "summary": "Die Bitcoin-Haltefrist wackelt, Strategy fliegt aus wichtigen Aktienindizes und die Deutsche Bank startet ihre Krypto-Verwahrung. Die wichtigsten News der Woche. Source: BTC-ECHO BTC-ECHO",
@@ -57,30 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794588005,
    "url": "https://www.btc-echo.de/news/anleger-ziehen-weiter-geld-aus-den-krypto-etfs-ab-240952/",
-   "ad": false
-  },
-  {
-   "title": "Strategy-CEO kritisiert MSCI scharf – und spielt Ausschluss herunter",
-   "summary": "Nach dem Ausschluss von Strategy aus den MSCI-Indizes geht CEO Phong Le zum Gegenangriff über. Er wirft dem Indexanbieter eine Kampagne gegen Bitcoin vor. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794585262,
-   "url": "https://www.btc-echo.de/news/strategy-ceo-kritisiert-msci-scharf-und-spielt-ausschluss-herunter-240916/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Treasury Unternehmen schuldet Kraken mehr als sie selbst wert ist",
-   "summary": "Nakamoto hat bei Kraken mehr Schulden als sie an der Börse wert ist. Eine Woche vor der ersten Rückzahlung verschafft ihr die Börse nun Aufschub. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794582627,
-   "url": "https://www.btc-echo.de/news/bitcoin-treasury-unternehmen-schuldet-kraken-mehr-als-sie-selbst-wert-ist-240937/",
-   "ad": false
-  },
-  {
-   "title": "US-Erzeugerpreise auf Vierjahreshoch: Was das für Bitcoin bedeutet",
-   "summary": "Die US-Erzeugerpreise erreichen den höchsten Stand seit vier Jahren, steigen im Monatsvergleich aber weniger stark als erwartet. Für den angeschlagenen Bitcoin-Markt ist das ein kleiner Lichtblick. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794581253,
-   "url": "https://www.btc-echo.de/news/us-erzeugerpreise-auf-vierjahreshoch-was-das-fuer-bitcoin-bedeutet-240929/",
    "ad": false
   }
  ]
