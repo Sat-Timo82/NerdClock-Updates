@@ -1,8 +1,16 @@
 {
- "updated": 1794705444,
+ "updated": 1794731094,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Hoffnung bei der Krypto-Steuer – Schock für Strategy",
+   "summary": "Die Bitcoin-Haltefrist wackelt, Strategy fliegt aus wichtigen Aktienindizes und die Deutsche Bank startet ihre Krypto-Verwahrung. Die wichtigsten News der Woche. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794711600,
+   "url": "https://www.btc-echo.de/news/hoffnung-bei-der-krypto-steuer-schock-fuer-strategy-241001/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Prognose gescheitert: Diese YouTuberin bereut ihre Kündigung trotzdem nicht",
    "summary": "Nicole Nowak kündigte ihren sicheren Konzernjob und setzte voll auf Bitcoin. Warum sie ihre damalige Kursprognose heute für naiv hält – aber trotzdem wieder aus dem Hamsterrad ausbrechen würde. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794581253,
    "url": "https://www.btc-echo.de/news/us-erzeugerpreise-auf-vierjahreshoch-was-das-fuer-bitcoin-bedeutet-240929/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin unter 68.000 US-Dollar: Liquidationswelle trifft gehebelte Trader",
-   "summary": "Bitcoin ist am frühen Morgen auf rund 67.500 US-Dollar gefallen. Was sind die Gründe dafür und wie tief kann der Preis noch fallen? Wir schauen es genauer an.",
-   "source": "Blocktrainer",
-   "ts": 1794556038,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-unter-68000-us-dollar-liquidationswelle-trifft-gehebelte-trader",
    "ad": false
   }
  ]
