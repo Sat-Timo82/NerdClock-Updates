@@ -1,8 +1,16 @@
 {
- "updated": 1794757877,
+ "updated": 1794776372,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin für ein Eigenheim verkaufen? Jack Mallers warnt vor einem teuren Fehler",
+   "summary": "Sollte man Bitcoin für die eigenen vier Wände opfern? Strike-CEO Jack Mallers warnt vor Fiat-Illusionen – und erklärt, wie man beim Immobilienkauf bares Geld spart. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794765600,
+   "url": "https://www.btc-echo.de/news/bitcoin-fuer-eigenheim-verkaufen-jack-mallers-warnt-240867/",
+   "ad": false
+  },
   {
    "title": "Streit um Satoshis Bitcoin: Verlorene Wallet sendet Lebenszeichen",
    "summary": "In New York wird um Bitcoin im Wert von hunderten Milliarden US-Dollar gestritten. Darunter auch Bestände von Satoshi Nakamoto. Nun ist eine der Wallets wieder aktiv geworden. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +73,6 @@
    "source": "BTC-ECHO",
    "ts": 1794625200,
    "url": "https://www.btc-echo.de/news/bitcoin-befindet-sich-in-einem-langfristigen-baerenmarkt-240917/",
-   "ad": false
-  },
-  {
-   "title": "Zinsangst kehrt zurück: Bitcoin und Gold fallen – der Dollar steigt",
-   "summary": "Zum dritten Mal in Folge steigen die US-Kernpreise um 0,3 Prozent. Die Fed antwortet mit harten Tönen, und Bitcoin verliert binnen einer Woche gut vier Prozent. Was müsste passieren, damit sich das Blatt wendet? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794592800,
-   "url": "https://www.btc-echo.de/news/zinsangst-kehrt-zurueck-bitcoin-und-gold-fallen-der-dollar-steigt-240918/",
-   "ad": false
-  },
-  {
-   "title": "Anleger ziehen weiter Geld aus den Krypto-ETFs ab",
-   "summary": "Seit knapp zwei Wochen ziehen Anleger Geld aus den amerikanischen Krypto-ETFs ab. Die Serie fällt in eine Phase, in der auch der Kurs nachgibt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794588005,
-   "url": "https://www.btc-echo.de/news/anleger-ziehen-weiter-geld-aus-den-krypto-etfs-ab-240952/",
    "ad": false
   }
  ]

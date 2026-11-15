@@ -1,8 +1,32 @@
 {
- "updated": 1794757877,
+ "updated": 1794776372,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
+   "summary": "Bitcoin breaks below $63 on Sunday, November 15, even briefly falling toward $62,000 as selling pressure spread across the cryptocurrency market. Although BTC recovered above $65,000 after reaching its lowest level since July, the rebound did little to ease concerns about deteriorating market sentiment and weakening…",
+   "source": "Bitcoinist",
+   "ts": 1794775724,
+   "url": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
+   "ad": false
+  },
+  {
+   "title": "Strategist Sees Bitcoin Path to $170K Despite Selloff, Says 'Buy the Fear'",
+   "summary": "Bitcoin could recover toward $170,000 in 2027 under a scenario outlined by Wellington-Altus strategist James Thorne after the selloff. He attributed the decline to leverage while identifying price levels that would support or invalidate his outlook. Thorne Outlines a Route to New Bitcoin Highs James Thorne, chief market…",
+   "source": "Bitcoin.com News",
+   "ts": 1794766219,
+   "url": "https://news.bitcoin.com/market-updates/strategist-sees-bitcoin-path-to-170k-despite-selloff-says-buy-the-fear/",
+   "ad": false
+  },
+  {
+   "title": "Michael Saylor Hints at Another Strategy Bitcoin Buy as BTC Slides",
+   "summary": "Michael Saylor hinted at another Strategy bitcoin purchase amid a sharp market decline. His message came as the company's holdings remained below acquisition cost and followed his comparison highlighting gains from its preferred shares. Orange Markers Signal Interest in More Bitcoin Michael Saylor, founder and executive…",
+   "source": "Bitcoin.com News",
+   "ts": 1794759632,
+   "url": "https://news.bitcoin.com/featured/michael-saylor-hints-at-another-strategy-bitcoin-buy-as-btc-slides/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Mining Hits Breaking Point as Difficulty Plunges 9.13%",
    "summary": "As bitcoin prices tumbled to an intraday low of $61,947, mining revenue deteriorated to exceptionally depressed levels, with hashprice languishing between $28 and $30 per petahash per second (PH/s) of daily output. Meanwhile, Bitcoin's mining difficulty declined 9.13% at block height 975744, marking the network's 23rd…",
@@ -57,30 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1794734084,
    "url": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
-   "ad": false
-  },
-  {
-   "title": "AI Cyberattacks And Outages Keep Breaking Centralized Systems, But Bitcoin Keeps Running",
-   "summary": "AI cyberattacks and outages have made the past few months brutal for the systems the modern internet runs on. Cloud platforms have gone dark, AI tools have failed in waves, and hackers have pulled off the biggest heist in history. Yet through all of it, one network never missed a beat. The Bitcoin blockchain has […]",
-   "source": "Bitcoinist",
-   "ts": 1794731087,
-   "url": "https://bitcoinist.com/ai-cyberattacks-outages-keep-breaking-centralized-systems-but-bitcoin-keeps-running/",
-   "ad": false
-  },
-  {
-   "title": "What Nvidia's CEO Ouster and Bitcoin Have in Common",
-   "summary": "Speculation is mounting that Nvidia CEO Jensen Huang was forced out after the co-founder of the multitrillion-dollar company began advocating for open-source AI models. While these theories remain unconfirmed, they also draw parallels with Bitcoin's own fight over open-source development. Although Huang announced his…",
-   "source": "Bitcoin.com News",
-   "ts": 1794717007,
-   "url": "https://news.bitcoin.com/featured/what-nvidias-ceo-ouster-bitcoin-have-common/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Faces Massive Liquidation Cluster Near $60K, Glassnode Warns",
-   "summary": "Bitcoin approached a large concentration of leveraged trades as Glassnode warned that forced selling could deepen its decline. The warning came as shrinking trading liquidity and losses on bullish bets increased pressure across crypto markets. Glassnode Warns of Vulnerable Trades Below Bitcoin's Price Glassnode, a firm that…",
-   "source": "Bitcoin.com News",
-   "ts": 1794702641,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-faces-massive-liquidation-cluster-near-60k-glassnode-warns/",
    "ad": false
   }
  ]

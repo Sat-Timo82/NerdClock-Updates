@@ -1,7 +1,15 @@
 {
- "updated": 1794757877,
+ "updated": 1794776372,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-faellt-auf-62112-krypto-li-2234e",
+   "title": "Bitcoin fällt auf Viermonatstief bei 62.000 US-Dollar – Liquidationen erreichen Milliardenhöhe",
+   "summary": "Bitcoin fällt auf 62.112 US-Dollar: Milliardenhohe Liquidationen, ETF-Abflüsse und steigende US-Renditen belasten den Krypto-Markt.",
+   "ts": 1794763718,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-auf-62112-krypto-liquidationen",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "texas-gesetzentwurf-815-bitcoin-in-acb45",
    "title": "Texas plant Bitcoin-Investments von bis zu 10 Millionen Dollar für jede Stadt und jeden County",
@@ -232,14 +240,6 @@
    "summary": "Bitcoin bleibt nahe der ETF-Kostenbasis von 80.000 US-Dollar. Glassnode warnt vor einer Verkaufswand bei 87.000 Dollar und Risiken unter 80.000.",
    "ts": 1792664281,
    "url": "https://nerdminer.de/blogs/news/bitcoin-kurzzeitig-auf-80100-gefallen-etf-treasury-kostenbasis",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-steigt-spacex-gewinne",
-   "title": "Bitcoin steigt auf 84.600 Dollar: SpaceX übertrifft Q3-Prognosen deutlich",
-   "summary": "Bitcoin steigt auf 84.600 Dollar, nachdem starke SpaceX-Zahlen Tech-Aktien beflügeln. Short-Liquidationen und wichtige Kursmarken im Überblick.",
-   "ts": 1792609569,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-steigt-spacex-gewinne",
    "author": "Yannic Fraebel"
   }
  ]
