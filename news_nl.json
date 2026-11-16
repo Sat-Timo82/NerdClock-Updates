@@ -1,8 +1,40 @@
 {
- "updated": 1794790668,
+ "updated": 1794815664,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+   "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
+   "source": "CoinDesk",
+   "ts": 1794815475,
+   "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's biggest bet is now a drop below $60,000, not a rally above $100,000",
+   "summary": "The $60,000 put has replaced the $100,000 call as bitcoin's biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+   "source": "CoinDesk",
+   "ts": 1794805277,
+   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+   "ad": false
+  },
+  {
+   "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+   "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
+   "source": "The Block",
+   "ts": 1794803734,
+   "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+   "ad": false
+  },
+  {
+   "title": "Luxor CEO warns of AI 'dark forest' following Bitcoin miner hijack",
+   "summary": "Attackers redirected customers' Bitcoin mining power through Luxor's Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+   "source": "Cointelegraph",
+   "ts": 1794796387,
+   "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
+   "ad": false
+  },
   {
    "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler's Digest",
    "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \"war room\" has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
@@ -28,38 +60,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
-   "summary": "Bitcoin breaks below $63 on Sunday, November 15, even briefly falling toward $62,000 as selling pressure spread across the cryptocurrency market. Although BTC recovered above $65,000 after reaching its lowest level since July, the rebound did little to ease concerns about deteriorating market sentiment and weakening…",
-   "source": "Bitcoinist",
-   "ts": 1794775724,
-   "url": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/",
-   "ad": false
-  },
-  {
-   "title": "Strategist Sees Bitcoin Path to $170K Despite Selloff, Says 'Buy the Fear'",
-   "summary": "Bitcoin could recover toward $170,000 in 2027 under a scenario outlined by Wellington-Altus strategist James Thorne after the selloff. He attributed the decline to leverage while identifying price levels that would support or invalidate his outlook. Thorne Outlines a Route to New Bitcoin Highs James Thorne, chief market…",
-   "source": "Bitcoin.com News",
-   "ts": 1794766219,
-   "url": "https://news.bitcoin.com/market-updates/strategist-sees-bitcoin-path-to-170k-despite-selloff-says-buy-the-fear/",
-   "ad": false
-  },
-  {
-   "title": "Michael Saylor Hints at Another Strategy Bitcoin Buy as BTC Slides",
-   "summary": "Michael Saylor hinted at another Strategy bitcoin purchase amid a sharp market decline. His message came as the company's holdings remained below acquisition cost and followed his comparison highlighting gains from its preferred shares. Orange Markers Signal Interest in More Bitcoin Michael Saylor, founder and executive…",
-   "source": "Bitcoin.com News",
-   "ts": 1794759632,
-   "url": "https://news.bitcoin.com/featured/michael-saylor-hints-at-another-strategy-bitcoin-buy-as-btc-slides/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Mining Hits Breaking Point as Difficulty Plunges 9.13%",
-   "summary": "As bitcoin prices tumbled to an intraday low of $61,947, mining revenue deteriorated to exceptionally depressed levels, with hashprice languishing between $28 and $30 per petahash per second (PH/s) of daily output. Meanwhile, Bitcoin's mining difficulty declined 9.13% at block height 975744, marking the network's 23rd…",
-   "source": "Bitcoin.com News",
-   "ts": 1794755741,
-   "url": "https://news.bitcoin.com/mining/bitcoin-mining-hits-breaking-point-as-difficulty-plunges-9-13/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
    "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
    "source": "Decrypt",
@@ -68,19 +68,19 @@
    "ad": false
   },
   {
-   "title": "Blockstream And Thales Launch Bitcoin Custody System",
-   "summary": "The biggest crypto hack in history started with a fake job interview. Now one of Bitcoin's oldest infrastructure firms is betting that the answer to AI-era attacks is simpler, hardware-first Bitcoin custody. Blockstream, the company led by co-founder and CEO Adam Back, has launched an enterprise custody solution developed with…",
-   "source": "Bitcoinist",
-   "ts": 1794735640,
-   "url": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
+   "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one…",
+   "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+   "source": "The Block",
+   "ts": 1794678641,
+   "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-",
    "ad": false
   },
   {
-   "title": "Are Whales Selling Bitcoin For The Anthropic IPO? The SpaceX Playbook Hints A Bottom Is Near",
-   "summary": "Bitcoin is bleeding ahead of the biggest AI listing in history. But if the market follows the script it wrote just five months ago, the selling could soon run out of fuel. BTC dropped below $67,000 this week, its weakest level since August, as investors pulled money from spot ETFs ahead of the Anthropic IPO. […]",
-   "source": "Bitcoinist",
-   "ts": 1794734084,
-   "url": "https://bitcoinist.com/are-whales-selling-bitcoin-for-the-anthropic-ipo/",
+   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+   "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+   "source": "CoinDesk",
+   "ts": 1794674009,
+   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
    "ad": false
   }
  ]

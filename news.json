@@ -1,8 +1,24 @@
 {
- "updated": 1794790668,
+ "updated": 1794815664,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin kämpft um 65.000 US-Dollar: Nvidia-Zahlen voraus",
+   "summary": "Seit Anfang Oktober hat Bitcoin mehr als ein Viertel seines Werts verloren. Darunter warten noch Milliarden an Liquidationen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794812390,
+   "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-65-000-us-dollar-nvidia-zahlen-voraus-241025/",
+   "ad": false
+  },
+  {
+   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
+   "summary": "Die US-Einzelhandelsumsätze sowie das Protokoll der jüngsten Fed-Sitzung könnten die Kursentwicklung von Bitcoin maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794798000,
+   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-69-240902/",
+   "ad": false
+  },
   {
    "title": "Bitcoin für ein Eigenheim verkaufen? Jack Mallers warnt vor einem teuren Fehler",
    "summary": "Sollte man Bitcoin für die eigenen vier Wände opfern? Strike-CEO Jack Mallers warnt vor Fiat-Illusionen – und erklärt, wie man beim Immobilienkauf bares Geld spart. Source: BTC-ECHO BTC-ECHO",
@@ -65,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794646848,
    "url": "https://www.btc-echo.de/news/bitcoin-faellt-auf-67-000-us-dollar-abverkauf-koennte-sich-verschaerfen-240976/",
-   "ad": false
-  },
-  {
-   "title": "\"Bitcoin befindet sich in einem langfristigen Bärenmarkt\"",
-   "summary": "Bitcoin ist kurzzeitig auf 68.000 US-Dollar abgerutscht. Peter Schiff fühlt sich in seiner Warnung bestätigt, Analyst Benjamin Cowen hielte selbst einen Fall auf 54.000 US-Dollar für eine gute Nachricht. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794625200,
-   "url": "https://www.btc-echo.de/news/bitcoin-befindet-sich-in-einem-langfristigen-baerenmarkt-240917/",
    "ad": false
   }
  ]
