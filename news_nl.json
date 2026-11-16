@@ -1,86 +1,86 @@
 {
- "updated": 1794815664,
+ "updated": 1794853433,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
   {
-   "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-   "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
-   "source": "CoinDesk",
-   "ts": 1794815475,
-   "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's biggest bet is now a drop below $60,000, not a rally above $100,000",
-   "summary": "The $60,000 put has replaced the $100,000 call as bitcoin's biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
-   "source": "CoinDesk",
-   "ts": 1794805277,
-   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-   "ad": false
-  },
-  {
-   "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
-   "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
-   "source": "The Block",
-   "ts": 1794803734,
-   "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
-   "ad": false
-  },
-  {
-   "title": "Luxor CEO warns of AI 'dark forest' following Bitcoin miner hijack",
-   "summary": "Attackers redirected customers' Bitcoin mining power through Luxor's Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
-   "source": "Cointelegraph",
-   "ts": 1794796387,
-   "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaig",
-   "ad": false
-  },
-  {
-   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler's Digest",
-   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \"war room\" has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
-   "source": "Cointelegraph",
-   "ts": 1794783059,
-   "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&",
-   "ad": false
-  },
-  {
-   "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-   "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
-   "source": "The Block",
-   "ts": 1794779873,
-   "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
-   "ad": false
-  },
-  {
-   "title": "Luxor Confirms Bitcoin Mining Hack and Reveals AI-Enabled Attack",
-   "summary": "Luxor Technology has confirmed an unauthorized redirection of bitcoin mining hashrate through its Commander platform, ending speculation surrounding an alleged attack involving thousands of mining machines. The company says the incident was contained within two hours, and affected customers will receive full compensation…",
+   "title": "Bitcoin Price Sheds 14% in a Week as Market Recovery Faces Fresh Test",
+   "summary": "Bitcoin struggled to reclaim $65,000 on Monday after a weekend sell-off pushed prices to near four-month lows. Regaining ground could be difficult due to multiple key factors, analysts said. Bitcoin Struggles to Reclaim $65,000 as November Losses Deepen Bitcoin's price faced rejection above $65,000 on Monday as the…",
    "source": "Bitcoin.com News",
-   "ts": 1794778508,
-   "url": "https://news.bitcoin.com/security/luxor-confirms-bitcoin-mining-hack-and-reveals-ai-enabled-attack/",
+   "ts": 1794851344,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-sheds-14-percent-week-market-recovery-faces-fresh-test/",
    "ad": false
   },
   {
-   "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-   "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+   "title": "Saylor's Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
+   "summary": "The modest purchase lifted Strategy's stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that \"this dip could use a little orange.\"",
    "source": "Decrypt",
-   "ts": 1794751262,
-   "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+   "ts": 1794849626,
+   "url": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
    "ad": false
   },
   {
-   "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one…",
-   "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+   "title": "George Mekhail: Bitcoin's Price Is a \"Distraction\" as Wall Street Quietly Accumulates",
+   "summary": "Bitcoin Magazine George Mekhail: Bitcoin's Price Is a \"Distraction\" as Wall Street Quietly Accumulates Retail built Bitcoin, Wall Street laughed, and now Wall Street can't get enough of it. This post George Mekhail: Bitcoin's Price Is a \"Distraction\" as Wall Street Quietly Accumulates first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794849317,
+   "url": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+   "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic's IPO announcement.",
+   "source": "Cointelegraph",
+   "ts": 1794846412,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
+   "ad": false
+  },
+  {
+   "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
+   "summary": "Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide. This post Harvard Holds 3.04 Million Bitcoin ETF Shares Steady first appeared on Bitcoin Magazine and is written by Micah…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794844810,
+   "url": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Miners Hijacked as Attackers Redirect BTC Through Luxor Breach",
+   "summary": "Bitcoin miners hijacked as mining infrastructure provider Luxor has confirmed a security breach involving its Commander management software, which allowed attackers to redirect computing power from more than a dozen customer accounts to another mining pool and change the addresses receiving their rewards. The incident left…",
+   "source": "Bitcoinist",
+   "ts": 1794843217,
+   "url": "https://bitcoinist.com/bitcoin-miners-hijacked-as-attackers-redirect-btc-through-luxor-breach/",
+   "ad": false
+  },
+  {
+   "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+   "summary": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
+   "source": "Decrypt",
+   "ts": 1794841496,
+   "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+   "ad": false
+  },
+  {
+   "title": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best…",
+   "summary": "Bitwise CIO Matt Hougan said bitcoin could fall further in the near term but stood by his bullish long-term outlook.",
    "source": "The Block",
-   "ts": 1794678641,
-   "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-",
+   "ts": 1794840763,
+   "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-t",
    "ad": false
   },
   {
-   "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-   "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
-   "source": "CoinDesk",
-   "ts": 1794674009,
-   "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+   "title": "Sweden's H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts…",
+   "summary": "H100 Group will use Coinbase Prime and Deribit for custody, trading and financing of its roughly 3,506 BTC, worth about $226 million, as it builds bitcoin services for family offices and wealthy investors. This post Sweden's H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices first…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794838500,
+   "url": "https://bitcoinmagazine.com/news/h100-coinbase-prime-bitcoin-treasury",
+   "ad": false
+  },
+  {
+   "title": "Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket",
+   "summary": "Strive bought 251 bitcoin last week for $17.5 million at a $69,853 average, lifting holdings to 43,404 BTC, as shares dropped 9.5% premarket after bitcoin's weekend slide. This post Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1794837300,
+   "url": "https://bitcoinmagazine.com/news/strive-buys-251-bitcoin-holdings-43404",
    "ad": false
   }
  ]

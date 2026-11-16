@@ -1,8 +1,56 @@
 {
- "updated": 1794815664,
+ "updated": 1794853433,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Arthur Hayes exklusiv: Warum Bitcoin jetzt vor einem schwierigen Jahresende steht",
+   "summary": "Arthur Hayes galt zuletzt als ausgesprochen optimistisch für Bitcoin, jetzt schlägt der BitMEX-Mitgründer vorsichtigere Töne an. Im Interview mit BTC-ECHO erklärt er, was den nächsten Kursanstieg verhindern könnte und warum Anleger Geduld brauchen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794852000,
+   "url": "https://www.btc-echo.de/news/bitcoin-arthur-hayes-interview-crash-prognose-241047/",
+   "ad": false
+  },
+  {
+   "title": "Elite-Uni Harvard meldet Bitcoin-ETF-Position im Wert von 144 Millionen US-Dollar",
+   "summary": "Harvard hielt Ende Q3 mehr als drei Millionen IBIT-Anteile im Wert von 144 Millionen USDollar. Die Bitcoin-ETF-Position wurde damit wieder konstant gehalten.",
+   "source": "Blocktrainer",
+   "ts": 1794837713,
+   "url": "https://www.blocktrainer.de/blog/elite-uni-harvard-meldet-bitcoin-position-im-wert-von-144-millionen-us-dollar",
+   "ad": false
+  },
+  {
+   "title": "Michael Saylor schlägt zu und kauft Bitcoin inmitten des Ausverkaufs",
+   "summary": "Die neuen Coins liegen bereits gut sieben Prozent im Minus und der Gesamtbestand sogar mehr als 15 Prozent. Doch Michael Saylor kauft munter weiter. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794836336,
+   "url": "https://www.btc-echo.de/news/michael-saylor-schlaegt-zu-und-kauft-bitcoin-inmitten-des-ausverkaufs-241050/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Mining gehackt: Angreifer nehmen 64.000 Rechner in Beschlag",
+   "summary": "Für kurze Zeit gehörte Hackern ein Teil der weltweiten Bitcoin-Rechenleistung. Den Strom dafür zahlten andere. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794832446,
+   "url": "https://www.btc-echo.de/news/bitcoin-mining-gehackt-angreifer-nehmen-64-000-rechner-in-beschlag-241038/",
+   "ad": false
+  },
+  {
+   "title": "Kapitulation? Bitcoin fällt in einer Woche um mehr als 12 %",
+   "summary": "Bitcoin ist in der letzten Woche um 12,63 % gefallen. Damit war es die schlechteste Woche seit Juni. BTC hat jetzt sechs Wochen hintereinander mit Verlusten beendet.",
+   "source": "Blocktrainer",
+   "ts": 1794830761,
+   "url": "https://www.blocktrainer.de/blog/kapitulation-bitcoin-faellt-in-einer-woche-um-mehr-als-12",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Crash: OKX-Chef erhebt schwere Vorwürfe gegen Binance",
+   "summary": "Der Crash im Oktober 2025 liquidierte an einem Tag über 19 Milliarden US-Dollar. Für den OKX-Gründer folgen solche Einbrüche einem Muster. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794824744,
+   "url": "https://www.btc-echo.de/news/bitcoin-crash-okx-chef-erhebt-schwere-vorwuerfe-gegen-binance-241033/",
+   "ad": false
+  },
   {
    "title": "Bitcoin kämpft um 65.000 US-Dollar: Nvidia-Zahlen voraus",
    "summary": "Seit Anfang Oktober hat Bitcoin mehr als ein Viertel seines Werts verloren. Darunter warten noch Milliarden an Liquidationen. Source: BTC-ECHO BTC-ECHO",
@@ -33,54 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794740631,
    "url": "https://www.btc-echo.de/news/streit-um-satoshis-bitcoin-verlorene-wallet-meldet-sich-zurueck-241011/",
-   "ad": false
-  },
-  {
-   "title": "\"Der Zeitpunkt ist heikel\": Was der Anthropic-Börsengang für Bitcoin bedeutet",
-   "summary": "Erst SpaceX, dann Anthropic: Der nächste Mega-IPO lenkt die Aufmerksamkeit der Anleger auf sich. Wird Bitcoin zum Verlierer der KI-Börsenstory, oder wendet sich das Blatt gerade jetzt? Wir haben bei Claude nachgefragt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794736800,
-   "url": "https://www.btc-echo.de/news/anthropic-ipo-claude-warnt-vor-folgen-fuer-bitcoin-240749/",
-   "ad": false
-  },
-  {
-   "title": "Nach Markteinbruch: Bitcoin dreht wieder nach oben",
-   "summary": "Der Krypto-Markt ist über Nacht eingebrochen. Bitcoin fiel zeitweise unter 63.000 US-Dollar. On-Chain-Daten zeigen, wie groß die Verunsicherung ist. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794734820,
-   "url": "https://www.btc-echo.de/news/nach-markteinbruch-bitcoin-dreht-wieder-nach-oben-241009/",
-   "ad": false
-  },
-  {
-   "title": "Hoffnung bei der Krypto-Steuer – Schock für Strategy",
-   "summary": "Die Bitcoin-Haltefrist wackelt, Strategy fliegt aus wichtigen Aktienindizes und die Deutsche Bank startet ihre Krypto-Verwahrung. Die wichtigsten News der Woche. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794711600,
-   "url": "https://www.btc-echo.de/news/hoffnung-bei-der-krypto-steuer-schock-fuer-strategy-241001/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Prognose gescheitert: Diese YouTuberin bereut ihre Kündigung trotzdem nicht",
-   "summary": "Nicole Nowak kündigte ihren sicheren Konzernjob und setzte voll auf Bitcoin. Warum sie ihre damalige Kursprognose heute für naiv hält – aber trotzdem wieder aus dem Hamsterrad ausbrechen würde. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794672000,
-   "url": "https://www.btc-echo.de/news/bitcoin-prognose-gescheitert-youtuberin-bereut-nichts-240823/",
-   "ad": false
-  },
-  {
-   "title": "\"Wenn Bitcoin scheitert, ist es vorbei\": Was der Bitfinex-Manager für die Finanzwelt erwartet",
-   "summary": "Die Tokenisierung nimmt Fahrt auf – doch welche Anlageklassen profitieren davon und welche Rolle spielt Bitcoin? Bitfinex-Manager Jesse Knutson erklärt im Interview mit BTC-ECHO, warum für die gesamte Krypto-Branche eine klare Abhängigkeit erkennt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794650400,
-   "url": "https://www.btc-echo.de/news/wenn-bitcoin-scheitert-ist-es-vorbei-was-bitfinex-manager-fuer-finanzwelt-erwartet-240600/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin fällt auf 67.000 US-Dollar – Abverkauf könnte sich verschärfen",
-   "summary": "Der Krypto-Markt rutscht weiter ab. Trotz hoher Verluste sind am Terminmarkt noch zahlreiche gehebelte Positionen offen. Das birgt weiteres Abwärtspotenzial. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794646848,
-   "url": "https://www.btc-echo.de/news/bitcoin-faellt-auf-67-000-us-dollar-abverkauf-koennte-sich-verschaerfen-240976/",
    "ad": false
   }
  ]
