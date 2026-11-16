@@ -1,8 +1,32 @@
 {
- "updated": 1794776372,
+ "updated": 1794790668,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler's Digest",
+   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \"war room\" has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+   "source": "Cointelegraph",
+   "ts": 1794783059,
+   "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&",
+   "ad": false
+  },
+  {
+   "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+   "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+   "source": "The Block",
+   "ts": 1794779873,
+   "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+   "ad": false
+  },
+  {
+   "title": "Luxor Confirms Bitcoin Mining Hack and Reveals AI-Enabled Attack",
+   "summary": "Luxor Technology has confirmed an unauthorized redirection of bitcoin mining hashrate through its Commander platform, ending speculation surrounding an alleged attack involving thousands of mining machines. The company says the incident was contained within two hours, and affected customers will receive full compensation…",
+   "source": "Bitcoin.com News",
+   "ts": 1794778508,
+   "url": "https://news.bitcoin.com/security/luxor-confirms-bitcoin-mining-hack-and-reveals-ai-enabled-attack/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Breaks Below $63K as Market Panic Intensifies",
    "summary": "Bitcoin breaks below $63 on Sunday, November 15, even briefly falling toward $62,000 as selling pressure spread across the cryptocurrency market. Although BTC recovered above $65,000 after reaching its lowest level since July, the rebound did little to ease concerns about deteriorating market sentiment and weakening…",
@@ -44,35 +68,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Hits New Highs (Against and Because of Nvidia) – Week in Review",
-   "summary": "This editorial is from this week's edition of the newsletter Week in Review, sent to subscribers on Friday. Subscribe to the newsletter to get this weekly editorial the second it's finished. The newsletter also includes the biggest stories of the week, with a comment on each story. Since last Friday's close, bitcoin has fallen…",
-   "source": "Bitcoin.com News",
-   "ts": 1794751228,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-hits-new-highs-against-and-because-of-nvidia-week-in-review/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-   "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-   "source": "Cointelegraph",
-   "ts": 1794738197,
-   "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_par",
-   "ad": false
-  },
-  {
    "title": "Blockstream And Thales Launch Bitcoin Custody System",
    "summary": "The biggest crypto hack in history started with a fake job interview. Now one of Bitcoin's oldest infrastructure firms is betting that the answer to AI-era attacks is simpler, hardware-first Bitcoin custody. Blockstream, the company led by co-founder and CEO Adam Back, has launched an enterprise custody solution developed with…",
    "source": "Bitcoinist",
    "ts": 1794735640,
    "url": "https://bitcoinist.com/blockstream-and-thales-launch-bitcoin-custody-system/",
-   "ad": false
-  },
-  {
-   "title": "Miner Weekly: These Miners Cut Hashrate 50% as AI Revenue Doubles",
-   "summary": "The AI retrofit is becoming easier to see in miners' income statements. This article first appeared in Miner Weekly, a weekly newsletter by Blocksbridge Consulting curating the latest news in energy, compute, infrastructure, and data analysis from The Energy Mag. The original article can be viewed here. IREN, Core Scientific…",
-   "source": "Bitcoin.com News",
-   "ts": 1794735022,
-   "url": "https://news.bitcoin.com/mining/miner-weekly-these-miners-cut-hashrate-50-as-ai-revenue-doubles/",
    "ad": false
   },
   {
