@@ -1,8 +1,16 @@
 {
- "updated": 1794880984,
+ "updated": 1794911836,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin stabilisiert sich trotz Ausverkauf an der Wall Street",
+   "summary": "Am Abend legt der wichtigste KI-Konzern der Welt seine ersten Zahlen nach dem Rücktritt seines Gründers vor. Die Erwartungen sind hoch. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794900352,
+   "url": "https://www.btc-echo.de/news/bitcoin-stabilisiert-sich-trotz-ausverkauf-an-der-wall-street-241068/",
+   "ad": false
+  },
   {
    "title": "21energy stellt neue Bitcoin-Zentralheizung vor",
    "summary": "21energy stellt mit dem Focavo eine Bitcoin-Zentralheizung vor. Wie funktioniert sie, was kostet sie und lohnt sich das Heizen mit Bitcoin-Mining?",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794812390,
    "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-65-000-us-dollar-nvidia-zahlen-voraus-241025/",
-   "ad": false
-  },
-  {
-   "title": "Was wird für Bitcoin und Krypto diese Woche wichtig?",
-   "summary": "Die US-Einzelhandelsumsätze sowie das Protokoll der jüngsten Fed-Sitzung könnten die Kursentwicklung von Bitcoin maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794798000,
-   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-69-240902/",
    "ad": false
   }
  ]
