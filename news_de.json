@@ -1,8 +1,16 @@
 {
- "updated": 1794911836,
+ "updated": 1794943435,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "50 Millionen Bitcoin-ETF-Anteile: Diese US-Bank stockt um 103 Prozent auf",
+   "summary": "Eine der größten US-Banken hat ihre Position im Bitcoin-ETF von BlackRock binnen drei Monaten verdoppelt. Ein Blick in die Unterlagen zeigt allerdings, wem das Geld gehört. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794929634,
+   "url": "https://www.btc-echo.de/news/50-millionen-bitcoin-etf-anteile-diese-us-bank-stockt-um-103-prozent-auf-241118/",
+   "ad": false
+  },
   {
    "title": "Bitcoin stabilisiert sich trotz Ausverkauf an der Wall Street",
    "summary": "Am Abend legt der wichtigste KI-Konzern der Welt seine ersten Zahlen nach dem Rücktritt seines Gründers vor. Die Erwartungen sind hoch. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794824744,
    "url": "https://www.btc-echo.de/news/bitcoin-crash-okx-chef-erhebt-schwere-vorwuerfe-gegen-binance-241033/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin kämpft um 65.000 US-Dollar: Nvidia-Zahlen voraus",
-   "summary": "Seit Anfang Oktober hat Bitcoin mehr als ein Viertel seines Werts verloren. Darunter warten noch Milliarden an Liquidationen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794812390,
-   "url": "https://www.btc-echo.de/news/bitcoin-kaempft-um-65-000-us-dollar-nvidia-zahlen-voraus-241025/",
    "ad": false
   }
  ]
