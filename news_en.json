@@ -1,86 +1,86 @@
 {
- "updated": 1794853433,
+ "updated": 1794880984,
  "mode": "stichworte",
  "lang": "en",
  "items": [
   {
-   "title": "Bitcoin Price Sheds 14% in a Week as Market Recovery Faces Fresh Test",
-   "summary": "Bitcoin struggled to reclaim $65,000 on Monday after a weekend sell-off pushed prices to near four-month lows. Regaining ground could be difficult due to multiple key factors, analysts said. Bitcoin Struggles to Reclaim $65,000 as November Losses Deepen Bitcoin's price faced rejection above $65,000 on Monday as the…",
+   "title": "Bitcoin Price Holiday Forecast: Claude and ChatGPT See Red, Grok Goes Green",
+   "summary": "With bitcoin's price trading between $63,500 to $65,280 per unit after plunging to a recent low of $61,947, uncertainty continues to grip the cryptocurrency market. As 2026 approaches its conclusion, Bitcoin.com News is putting artificial intelligence to the test, asking a collection of leading AI chatbots to forecast…",
    "source": "Bitcoin.com News",
-   "ts": 1794851344,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-sheds-14-percent-week-market-recovery-faces-fresh-test/",
+   "ts": 1794871202,
+   "url": "https://news.bitcoin.com/price-predictions/bitcoins-holiday-forecast-claude-chatgpt-see-red-grok-goes-green/",
    "ad": false
   },
   {
-   "title": "Saylor's Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
-   "summary": "The modest purchase lifted Strategy's stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that \"this dip could use a little orange.\"",
+   "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+   "summary": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
    "source": "Decrypt",
-   "ts": 1794849626,
-   "url": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
+   "ts": 1794867483,
+   "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
    "ad": false
   },
   {
-   "title": "George Mekhail: Bitcoin's Price Is a \"Distraction\" as Wall Street Quietly Accumulates",
-   "summary": "Bitcoin Magazine George Mekhail: Bitcoin's Price Is a \"Distraction\" as Wall Street Quietly Accumulates Retail built Bitcoin, Wall Street laughed, and now Wall Street can't get enough of it. This post George Mekhail: Bitcoin's Price Is a \"Distraction\" as Wall Street Quietly Accumulates first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794849317,
-   "url": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
+   "title": "Bitcoin Fear Hits Extreme Levels as Analyst Sees Contrarian Signal",
+   "summary": "Bitcoin sentiment gauges showed extreme fear on Monday, Nov. 16, as investors faced sustained fund withdrawals and pressure on leveraged trades. Analysts considered whether widespread pessimism could favor a rebound, while uneven buying and shrinking stablecoin supply complicated that outlook. Extreme Fear Prompts a Contrarian…",
+   "source": "Bitcoin.com News",
+   "ts": 1794866734,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-fear-hits-extreme-levels-analyst-sees-contrarian-signal/",
    "ad": false
   },
   {
-   "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-   "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic's IPO announcement.",
-   "source": "Cointelegraph",
-   "ts": 1794846412,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
-   "ad": false
-  },
-  {
-   "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
-   "summary": "Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide. This post Harvard Holds 3.04 Million Bitcoin ETF Shares Steady first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794844810,
-   "url": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Miners Hijacked as Attackers Redirect BTC Through Luxor Breach",
-   "summary": "Bitcoin miners hijacked as mining infrastructure provider Luxor has confirmed a security breach involving its Commander management software, which allowed attackers to redirect computing power from more than a dozen customer accounts to another mining pool and change the addresses receiving their rewards. The incident left…",
-   "source": "Bitcoinist",
-   "ts": 1794843217,
-   "url": "https://bitcoinist.com/bitcoin-miners-hijacked-as-attackers-redirect-btc-through-luxor-breach/",
-   "ad": false
-  },
-  {
-   "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
-   "summary": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
+   "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+   "summary": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
    "source": "Decrypt",
-   "ts": 1794841496,
-   "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+   "ts": 1794865563,
+   "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
    "ad": false
   },
   {
-   "title": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best…",
-   "summary": "Bitwise CIO Matt Hougan said bitcoin could fall further in the near term but stood by his bullish long-term outlook.",
-   "source": "The Block",
-   "ts": 1794840763,
-   "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-cio-says-bitcoin-may-fall-further-in-the-near-term-but-still-calls-it-the-best-risk-adjusted-t",
-   "ad": false
-  },
-  {
-   "title": "Sweden's H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts…",
-   "summary": "H100 Group will use Coinbase Prime and Deribit for custody, trading and financing of its roughly 3,506 BTC, worth about $226 million, as it builds bitcoin services for family offices and wealthy investors. This post Sweden's H100 Taps Coinbase Prime and Deribit for Its 3,506 Bitcoin Treasury as It Courts Family Offices first…",
+   "title": "Why Bitcoin's June Low May Not Be the Bottom – $58K the Key Test",
+   "summary": "Bitcoin Magazine Why Bitcoin's June Low May Not Be the Bottom – $58K the Key Test Sean breaks down Bitcoin's MVRV on today's Chart of the Day. This post Why Bitcoin's June Low May Not Be the Bottom – $58K the Key Test first appeared on Bitcoin Magazine and is written by Patrick Green .",
    "source": "Bitcoin Magazine",
-   "ts": 1794838500,
-   "url": "https://bitcoinmagazine.com/news/h100-coinbase-prime-bitcoin-treasury",
+   "ts": 1794865436,
+   "url": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
    "ad": false
   },
   {
-   "title": "Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket",
-   "summary": "Strive bought 251 bitcoin last week for $17.5 million at a $69,853 average, lifting holdings to 43,404 BTC, as shares dropped 9.5% premarket after bitcoin's weekend slide. This post Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+   "summary": "Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high. This post Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% first appeared on Bitcoin Magazine and is written by Micah…",
    "source": "Bitcoin Magazine",
-   "ts": 1794837300,
-   "url": "https://bitcoinmagazine.com/news/strive-buys-251-bitcoin-holdings-43404",
+   "ts": 1794864036,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+   "ad": false
+  },
+  {
+   "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+   "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a \"sophisticated AI-enabled vector.\"",
+   "source": "Decrypt",
+   "ts": 1794863763,
+   "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+   "ad": false
+  },
+  {
+   "title": "Strive Uses Preferred Stock Sales to Fund $17.5M Bitcoin Purchase",
+   "summary": "Strive added 251 Bitcoin for $17.5 million as it continues expanding one of the largest corporate BTC treasuries. The purchase was partly backed by fresh preferred-stock funding, highlighting how crypto treasury companies are using increasingly complex capital structures to keep buying through the downturn. Strive Boosts…",
+   "source": "Bitcoin.com News",
+   "ts": 1794863140,
+   "url": "https://news.bitcoin.com/finance/strive-uses-preferred-stock-sales-fund-17-5m-bitcoin-purchase/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+   "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
+   "source": "CoinDesk",
+   "ts": 1794861321,
+   "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+   "ad": false
+  },
+  {
+   "title": "Rob Hamilton: The AI \"Black Hole\" is Pulling Liquidity Away from Bitcoin",
+   "summary": "Bitcoin Magazine Rob Hamilton: The AI \"Black Hole\" is Pulling Liquidity Away from Bitcoin AnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he watches liquidity get pulled toward the Anthropic IPO and the AI trade, which he compares to a black hole. This post Rob Hamilton: The AI \"Black Hole\" is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1794861317,
+   "url": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
    "ad": false
   }
  ]

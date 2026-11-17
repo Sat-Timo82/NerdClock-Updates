@@ -1,8 +1,24 @@
 {
- "updated": 1794853433,
+ "updated": 1794880984,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "21energy stellt neue Bitcoin-Zentralheizung vor",
+   "summary": "21energy stellt mit dem Focavo eine Bitcoin-Zentralheizung vor. Wie funktioniert sie, was kostet sie und lohnt sich das Heizen mit Bitcoin-Mining?",
+   "source": "Blocktrainer",
+   "ts": 1794875400,
+   "url": "https://www.blocktrainer.de/blog/21energy-stellt-neue-bitcoin-zentralheizung-vor",
+   "ad": false
+  },
+  {
+   "title": "Abu-Dhabi-Staatsfonds melden Bitcoin-ETF-Positionen im Wert von über 1 Milliarde US-Dollar",
+   "summary": "Die Abu-Dhabi-Staatsfonds Mubadala Investment und ADIC hielten Ende Q3 zusammen Bitcoin-Spot-ETFs im Wert von über 1 Milliarde US-Dollar. Zukäufe gab es aber keine.",
+   "source": "Blocktrainer",
+   "ts": 1794854081,
+   "url": "https://www.blocktrainer.de/blog/abu-dhabi-staatsfonds-melden-bitcoin-etf-positionen-im-wert-von-ueber-1-milliarde-us-dollar",
+   "ad": false
+  },
   {
    "title": "Arthur Hayes exklusiv: Warum Bitcoin jetzt vor einem schwierigen Jahresende steht",
    "summary": "Arthur Hayes galt zuletzt als ausgesprochen optimistisch für Bitcoin, jetzt schlägt der BitMEX-Mitgründer vorsichtigere Töne an. Im Interview mit BTC-ECHO erklärt er, was den nächsten Kursanstieg verhindern könnte und warum Anleger Geduld brauchen. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794798000,
    "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-69-240902/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin für ein Eigenheim verkaufen? Jack Mallers warnt vor einem teuren Fehler",
-   "summary": "Sollte man Bitcoin für die eigenen vier Wände opfern? Strike-CEO Jack Mallers warnt vor Fiat-Illusionen – und erklärt, wie man beim Immobilienkauf bares Geld spart. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794765600,
-   "url": "https://www.btc-echo.de/news/bitcoin-fuer-eigenheim-verkaufen-jack-mallers-warnt-240867/",
-   "ad": false
-  },
-  {
-   "title": "Streit um Satoshis Bitcoin: Verlorene Wallet sendet Lebenszeichen",
-   "summary": "In New York wird um Bitcoin im Wert von hunderten Milliarden US-Dollar gestritten. Darunter auch Bestände von Satoshi Nakamoto. Nun ist eine der Wallets wieder aktiv geworden. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794740631,
-   "url": "https://www.btc-echo.de/news/streit-um-satoshis-bitcoin-verlorene-wallet-meldet-sich-zurueck-241011/",
    "ad": false
   }
  ]
