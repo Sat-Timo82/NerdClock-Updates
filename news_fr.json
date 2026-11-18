@@ -1,8 +1,56 @@
 {
- "updated": 1794966682,
+ "updated": 1794996161,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
+   "summary": "Aksel Kibar, who has tracked Bitcoin's price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy's (MSTR) daily chart.",
+   "source": "CoinDesk",
+   "ts": 1794994301,
+   "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+   "summary": "Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase.",
+   "source": "Cointelegraph",
+   "ts": 1794989363,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partne",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Buyers Add 66,000 BTC During Market Sell-Off – Is A Major Reversal Coming?",
+   "summary": "Bitcoin investors may be witnessing an important shift beneath the surface as new on-chain data reveals that buyers accumulated approximately 66,000 BTC during just two days of intense market selling. While the recent correction pushed Bitcoin toward $62,000 and triggered widespread liquidations, the latest figures suggest…",
+   "source": "Bitcoinist",
+   "ts": 1794989206,
+   "url": "https://bitcoinist.com/bitcoin-buyers-add-66000-btc-during-market-sell-off-is-a-major-reversal-coming/",
+   "ad": false
+  },
+  {
+   "title": "Coinkite CEO Rubs Salt in a $100M+ Coldcard Bitcoin Theft Wound",
+   "summary": "The latest comments by Rodolfo Novak (NVK), CEO and co-founder of Coldcard hardware wallet maker Coinkite, have drawn backlash. Novak said he had dedicated 18 years of his life to bitcoin adoption and that about 0.17% of Coldcard users were affected by thefts that drained more than $100 million in bitcoin. Recently, Novak also…",
+   "source": "Bitcoin.com News",
+   "ts": 1794987045,
+   "url": "https://news.bitcoin.com/security/coinkite-ceo-rubs-salt-100m-coldcard-bitcoin-theft-wound/",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+   "summary": "XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto's favorite carry trade now pays about what Treasuries do.",
+   "source": "CoinDesk",
+   "ts": 1794986868,
+   "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
+   "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here's what happened next.",
+   "source": "CoinDesk",
+   "ts": 1794976461,
+   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Could Gain If AI Slump Prompts Fed Pivot, Coinshares Says",
    "summary": "Bitcoin could benefit if an artificial intelligence (AI) market downturn weakens growth expectations and prompts a Federal Reserve policy reversal, according to Coinshares. The assessment came as crypto pessimism deepened, with equity losses remaining a risk. Crypto Fear Returns to Tariff Sell-Off Levels Fear across digital…",
@@ -33,54 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1794953124,
    "url": "https://news.bitcoin.com/mining/ocean-mining-rejects-complicity-claims-luxor-bitcoin-pool-hack/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100",
-   "summary": "Bitcoin price slipped near $64,000 Tuesday afternoon as Strategy (MSTR) shares fell below the company's STRC preferred and Coinbase and other crypto stocks declined. This post Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1794949326,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-near-64000-strategy",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Investors Are Capitulating–That's Historically Been a Bottom Signal",
-   "summary": "Glassnode says Bitcoin's realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range.",
-   "source": "Decrypt",
-   "ts": 1794947763,
-   "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
-   "ad": false
-  },
-  {
-   "title": "Mark Yusko: Why Bitcoin Is Falling – $58k is the Key Level to Watch",
-   "summary": "Bitcoin Magazine Mark Yusko: Why Bitcoin Is Falling – $58k is the Key Level to Watch Mark Yusko says we are in a bad right now. This post Mark Yusko: Why Bitcoin Is Falling – $58k is the Key Level to Watch first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1794947434,
-   "url": "https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch",
-   "ad": false
-  },
-  {
-   "title": "Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know",
-   "summary": "Bitcoin Magazine Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know Grace Remington and Sean Hagan walk through deadline-day filings and what they show about who owns , and how they own it. This post Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know first appeared on Bitcoin Magazine and is written…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794944145,
-   "url": "https://bitcoinmagazine.com/videos/wall-street-bought-4-2b-of-bitcoin-in-q3-what-you-need-to-know",
-   "ad": false
-  },
-  {
-   "title": "'Bought the Dip': Twenty One Capital Adds 154 Bitcoin for $10M",
-   "summary": "Twenty One Capital spent about $10 million in cash to buy 154.32 bitcoin as BTC hovered below $65,000. The purchase lifts its treasury to 43,668 BTC and reinforces the company's capital allocation decision to simply buy more bitcoin. Twenty One Says Volatility Created a $10M Bitcoin Opportunity Twenty One Capital is treating…",
-   "source": "Bitcoin.com News",
-   "ts": 1794941720,
-   "url": "https://news.bitcoin.com/finance/bought-dip-twenty-one-capital-adds-154-bitcoin-10m/",
-   "ad": false
-  },
-  {
-   "title": "Situational Awareness Dumps Bitcoin Miners After Citadel Sale",
-   "summary": "Situational Awareness, the AI fund run by Leopold Aschenbrenner, cut IREN about 94% and exited Core Scientific, Riot and Hive in the third quarter, leaving $80.8 million in three miner stocks after a July sale to Citadel. This post Situational Awareness Dumps Bitcoin Miners After Citadel Sale first appeared on Bitcoin Magazine…",
-   "source": "Bitcoin Magazine",
-   "ts": 1794939300,
-   "url": "https://bitcoinmagazine.com/news/aschenbrenner-fund-dumps-bitcoin-miners",
    "ad": false
   }
  ]

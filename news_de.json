@@ -1,8 +1,40 @@
 {
- "updated": 1794966682,
+ "updated": 1794996161,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Harvard setzt auf Gold und Bitcoin: Was die neuen Zahlen für Anleger zeigen",
+   "summary": "Trotz der jüngsten Kursverluste bleibt Bitcoin für zwei renommierte Universitäten ein Investment. Neue Daten zeigen nun eine überraschende Entwicklung bei Harvard. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794992400,
+   "url": "https://www.btc-echo.de/news/harvard-setzt-auf-gold-und-bitcoin-was-die-neuen-zahlen-fuer-anleger-zeigen-241149/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Hammer im movie2k-Prozess: Warum Deutschland bald 40.000 BTC bekommen könnte",
+   "summary": "Nach jahrelangen Ermittlungen könnte der movie2k-Fall schon bald abgeschlossen werden. Ein neuer Vorschlag des Gerichts könnte den Angeklagten zum Milliardär machen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794988800,
+   "url": "https://www.btc-echo.de/news/bitcoin-hammer-im-movie2k-prozess-warum-deutschland-bald-40-000-btc-bekommen-koennte-241147/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin nach dem Kursrutsch: Sorgen Nvidias Zahlen jetzt für eine neue Rallye?",
+   "summary": "Die US-Börsen reagieren positiv auf die jüngsten Geschäftszahlen von Nvidia. Für Bitcoin stehen allerdings weitere wichtige Termine an, die den Kurs bewegen könnten. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794984664,
+   "url": "https://www.btc-echo.de/news/bitcoin-nach-dem-kursrutsch-sorgen-nvidias-zahlen-jetzt-fuer-eine-neue-rallye-241145/",
+   "ad": false
+  },
+  {
+   "title": "\"Bitcoin ist tot, lang lebe Bitcoin\"",
+   "summary": "Der Bitcoin-Kurs fällt ins Bodenlose, Kritiker erklären die Kryptowährung für gescheitert. Warum sich in der schlimmsten Krise eine historische Einstiegsgelegenheit bieten könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1794970800,
+   "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-eine-historische-kaufchance-241082/",
+   "ad": false
+  },
   {
    "title": "50 Millionen Bitcoin-ETF-Anteile: Diese US-Bank stockt um 103 Prozent auf",
    "summary": "Eine der größten US-Banken hat ihre Position im Bitcoin-ETF von BlackRock binnen drei Monaten verdoppelt. Ein Blick in die Unterlagen zeigt allerdings, wem das Geld gehört. Source: BTC-ECHO BTC-ECHO",
@@ -49,38 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1794837713,
    "url": "https://www.blocktrainer.de/blog/elite-uni-harvard-meldet-bitcoin-position-im-wert-von-144-millionen-us-dollar",
-   "ad": false
-  },
-  {
-   "title": "Michael Saylor schlägt zu und kauft Bitcoin inmitten des Ausverkaufs",
-   "summary": "Die neuen Coins liegen bereits gut sieben Prozent im Minus und der Gesamtbestand sogar mehr als 15 Prozent. Doch Michael Saylor kauft munter weiter. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794836336,
-   "url": "https://www.btc-echo.de/news/michael-saylor-schlaegt-zu-und-kauft-bitcoin-inmitten-des-ausverkaufs-241050/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Mining gehackt: Angreifer nehmen 64.000 Rechner in Beschlag",
-   "summary": "Für kurze Zeit gehörte Hackern ein Teil der weltweiten Bitcoin-Rechenleistung. Den Strom dafür zahlten andere. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794832446,
-   "url": "https://www.btc-echo.de/news/bitcoin-mining-gehackt-angreifer-nehmen-64-000-rechner-in-beschlag-241038/",
-   "ad": false
-  },
-  {
-   "title": "Kapitulation? Bitcoin fällt in einer Woche um mehr als 12 %",
-   "summary": "Bitcoin ist in der letzten Woche um 12,63 % gefallen. Damit war es die schlechteste Woche seit Juni. BTC hat jetzt sechs Wochen hintereinander mit Verlusten beendet.",
-   "source": "Blocktrainer",
-   "ts": 1794830761,
-   "url": "https://www.blocktrainer.de/blog/kapitulation-bitcoin-faellt-in-einer-woche-um-mehr-als-12",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Crash: OKX-Chef erhebt schwere Vorwürfe gegen Binance",
-   "summary": "Der Crash im Oktober 2025 liquidierte an einem Tag über 19 Milliarden US-Dollar. Für den OKX-Gründer folgen solche Einbrüche einem Muster. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794824744,
-   "url": "https://www.btc-echo.de/news/bitcoin-crash-okx-chef-erhebt-schwere-vorwuerfe-gegen-binance-241033/",
    "ad": false
   }
  ]
