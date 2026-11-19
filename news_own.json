@@ -1,7 +1,15 @@
 {
- "updated": 1795050396,
+ "updated": 1795077872,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-faellt-fed-protokoll-zinsa-ae1e8",
+   "title": "Bitcoin fällt auf 62.500 Dollar: Fed-Protokoll signalisiert Zinsentscheid als \"knappe…",
+   "summary": "Bitcoin fällt auf 62.500 Dollar. Das Fed-Protokoll deutet auf weitere Zinserhöhungen hin, während Bitcoin-ETFs erneut Abflüsse verzeichnen.",
+   "ts": 1795072809,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-fed-protokoll-zinsanhebung",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-rutscht-unter-63000-etf-abflusse",
    "title": "Bitcoin fällt unter 63.000 US-Dollar: Waller bringt kräftige Fed-Zinserhöhung ins Spiel",
@@ -233,14 +241,6 @@
    "ts": 1793043127,
    "url": "https://nerdminer.de/blogs/news/strive-erwirbt-6182-btc-rangiert-auf-platz-vier",
    "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-heizung-lohnt-sich-heizen--dfca9",
-   "title": "Bitcoin-Heizung: Lohnt sich Heizen mit Mining? (Rechenbeispiel 2026)",
-   "summary": "Eine Bitcoin-Heizung macht aus Strom Wärme – und Bitcoin. Wir rechnen ehrlich vor, wie viel das bringt, wann es sich lohnt und wann nicht.",
-   "ts": 1792940437,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-heizung-lohnt-sich-heizen-mit-mining",
-   "author": "Julius Thiele"
   }
  ]
 }

@@ -1,8 +1,24 @@
 {
- "updated": 1795050396,
+ "updated": 1795077872,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Kapitulation: Krypto-Experten sehen weiteres Abwärtspotenzial",
+   "summary": "Der jüngste Abverkauf am Krypto-Markt erinnert an die Tiefpunkte von 2018 und 2022. Warum Glassnode noch keinen finalen Boden für Bitcoin ausrufen will. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795074359,
+   "url": "https://www.btc-echo.de/news/bitcoin-kapitulation-noch-keine-entwarnung-241205/",
+   "ad": false
+  },
+  {
+   "title": "Anthropic geht heute an die Börse: Diesen Bitcoin-Kurs erwartet Claude",
+   "summary": "Heute startet Anthropic an der Nasdaq. Aber was bedeutet die Euphorie rund um den Mega-IPO für den Bitcoin-Kurs? Claude nennt 3 Szenarien von Worst Case bis Best Case. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795057200,
+   "url": "https://www.btc-echo.de/news/bitcoin-prognose-wie-der-anthropic-ipo-den-btc-kurs-beeinflusst-241121/",
+   "ad": false
+  },
   {
    "title": "Erhöhter Verkaufsdruck: Bitcoin-Mining-Unternehmen stoßen Zehntausende BTC ab",
    "summary": "Bitcoin-Miner erhöhen den Verkaufsdruck: Börsennotierte Mining-Unternehmen haben 2026 bereits mehr als 67.000 BTC verkauft. Was steckt dahinter?",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794992400,
    "url": "https://www.btc-echo.de/news/harvard-setzt-auf-gold-und-bitcoin-was-die-neuen-zahlen-fuer-anleger-zeigen-241149/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin nach dem Kursrutsch: Sorgen Nvidias Zahlen jetzt für eine neue Rallye?",
-   "summary": "Die US-Börsen reagieren positiv auf die jüngsten Geschäftszahlen von Nvidia. Für Bitcoin stehen allerdings weitere wichtige Termine an, die den Kurs bewegen könnten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794984664,
-   "url": "https://www.btc-echo.de/news/bitcoin-nach-dem-kursrutsch-sorgen-nvidias-zahlen-jetzt-fuer-eine-neue-rallye-241145/",
-   "ad": false
-  },
-  {
-   "title": "\"Bitcoin ist tot, lang lebe Bitcoin\"",
-   "summary": "Der Bitcoin-Kurs fällt ins Bodenlose, Kritiker erklären die Kryptowährung für gescheitert. Warum sich in der schlimmsten Krise eine historische Einstiegsgelegenheit bieten könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794970800,
-   "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-eine-historische-kaufchance-241082/",
    "ad": false
   }
  ]

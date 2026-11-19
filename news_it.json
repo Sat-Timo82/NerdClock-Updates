@@ -1,86 +1,86 @@
 {
- "updated": 1795050396,
+ "updated": 1795077872,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+   "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
+   "source": "Cointelegraph",
+   "ts": 1795076779,
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partne",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Staking Could Be Replaced By A New Lending Model – Here's What It Means For BTC",
+   "summary": "Bitcoin could be approaching an important turning point in decentralized finance as Babylon, one of the largest Bitcoin staking protocols, considers replacing its existing staking model with a new system built around Bitcoin-backed lending. The development comes as institutional Bitcoin lending continues gaining attention…",
+   "source": "Bitcoinist",
+   "ts": 1795076499,
+   "url": "https://bitcoinist.com/bitcoin-staking-could-be-replaced-by-a-new-lending-model-heres-what-it-means-for-btc/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+   "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+   "source": "Cointelegraph",
+   "ts": 1795074956,
+   "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_p",
+   "ad": false
+  },
+  {
+   "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
+   "summary": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October.",
+   "source": "The Block",
+   "ts": 1795068000,
+   "url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+   "ad": false
+  },
+  {
+   "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a 'value zone', and…",
+   "summary": "In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhabi court; CryptoQuant says bitcoin is back in a bearish phase but has entered a 'value zone'; and more.",
+   "source": "The Block",
+   "ts": 1795068000,
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+   "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.",
+   "source": "CoinDesk",
+   "ts": 1795063570,
+   "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Advocacy Group Sets Sights on Washington's Open-Source AI Debate",
+   "summary": "The Bitcoin Policy Institute (BPI) is rebranding as the Finney Foundation for Open Technology, expanding its policy advocacy beyond bitcoin to include open-source artificial intelligence (AI) and other technologies. Bringing Bitcoin's Advocacy Model to Open-Source AI The Bitcoin Policy Institute (BPI), a nonpartisan think tank…",
+   "source": "Bitcoin.com News",
+   "ts": 1795059038,
+   "url": "https://news.bitcoin.com/featured/bitcoin-advocacy-group-sets-sights-washington-open-source-ai-debate/",
+   "ad": false
+  },
+  {
+   "title": "Why The $1T AI Credit Complex Could be Bitcoin's Next Catalyst | Jeff Walton",
+   "summary": "Bitcoin Magazine Why The $1T AI Credit Complex Could be Bitcoin's Next Catalyst | Jeff Walton Jeff Walton, Chief Risk Officer at Strive, joins BMTV as Anthropic's IPO nears its first day of trading. This post Why The $1T AI Credit Complex Could be Bitcoin's Next Catalyst | Jeff Walton first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795056368,
+   "url": "https://bitcoinmagazine.com/videos/why-the-1t-ai-credit-complex-could-be-bitcoins-next-catalyst-jeff-walton",
+   "ad": false
+  },
+  {
+   "title": "Bloomberg's James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3",
+   "summary": "Bitcoin Magazine Bloomberg's James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 Bloomberg Intelligence's James Seyffart breaks down the latest 13F filings for the spot Bitcoin ETFs. This post Bloomberg's James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 first appeared on Bitcoin Magazine and is written by…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795048211,
+   "url": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3",
+   "ad": false
+  },
   {
    "title": "Bitcoin: It's So Over",
    "summary": "Bitcoin Magazine Bitcoin: It's So Over How does today's Bitcoin bear market compare with the ones before it? This post Bitcoin: It's So Over first appeared on Bitcoin Magazine and is written by Patrick Green .",
    "source": "Bitcoin Magazine",
    "ts": 1795044031,
    "url": "https://bitcoinmagazine.com/videos/bitcoin-its-so-over",
-   "ad": false
-  },
-  {
-   "title": "German Judge Offers to Drop Movie2K Charges in Exchange for $2.5B in Bitcoin",
-   "summary": "A German court has proposed dropping tax evasion and money laundering charges against the main defendant in exchange for 40,000 bitcoin–approximately $2.5 billion worth–and $41.67 million in victim compensation. Defendant Could Retain Nearly $1B in Bitcoin A high-profile German trial involving billions of dollars in proceeds…",
-   "source": "Bitcoin.com News",
-   "ts": 1795041948,
-   "url": "https://news.bitcoin.com/regulation-and-legal/german-judge-offers-drop-movie2k-charges-2-5-billion-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-   "summary": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
-   "source": "Decrypt",
-   "ts": 1795040162,
-   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Worst-Case Scenarios: Analysts Talk $50K, $40K and $10K",
-   "summary": "As bitcoin erased all of its post-August gains, bullish near-term sentiment is changing rapidly, too. Worst-case bitcoin price scenarios range from the $50,000s in the near term to $10,000 if stocks crash, while the evergreen calls for \"BTC going to zero\" remain. However, the reality is more complicated. Dominant market…",
-   "source": "Bitcoin.com News",
-   "ts": 1795037433,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-price-worst-case-scenarios-analysts-talk-50k-40k-10k/",
-   "ad": false
-  },
-  {
-   "title": "Saifedean Ammous: AI Could Be \"Massively Overvalued\" as Bitcoin Starts \"Its Own Run\"",
-   "summary": "Bitcoin Magazine Saifedean Ammous: AI Could Be \"Massively Overvalued\" as Bitcoin Starts \"Its Own Run\" Saifedean Ammous, author of The Bitcoin Standard, joins BMTV to talk about the AI boom and where Bitcoin goes from here. This post Saifedean Ammous: AI Could Be \"Massively Overvalued\" as Bitcoin Starts \"Its Own Run\" first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795034535,
-   "url": "https://bitcoinmagazine.com/videos/saifedean-ammous-ai-could-be-massively-overvalued-as-bitcoin-starts-its-own-run",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Tanks Ahead of Anthropic's IPO. Should We Really Blame AI?",
-   "summary": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
-   "source": "Decrypt",
-   "ts": 1795029362,
-   "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
-   "summary": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
-   "source": "Decrypt",
-   "ts": 1795027563,
-   "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Giant Strategy's Shares Could Drop 75% to $23 Amid Bearish Pattern: Analyst",
-   "summary": "Strategy shares have already lost 44% in six months, yet a new analysis sees a potential fall toward $23 for the $53 billion bitcoin treasury titan. The bearish chart pattern survived a sharp rebound, while a bitcoin break below $60,000 could deepen pressure on the stock. MSTR Rebound Leaves $23 Chart Target in Place Strategy…",
-   "source": "Bitcoin.com News",
-   "ts": 1795026621,
-   "url": "https://news.bitcoin.com/featured/bitcoin-giant-strategy-shares-drop-23-bearish-pattern-analyst/",
-   "ad": false
-  },
-  {
-   "title": "Analyst: Bitcoin Below $70,000 is a 'Gift From the Market'",
-   "summary": "K33 Research said bitcoin is in \"deep value territory\" after a 14% weekly drop, as ETF outflows, liquidations and hedging demand reach levels seen near past bottoms. This post Analyst: Bitcoin Below $70,000 is a 'Gift From the Market' first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795023000,
-   "url": "https://bitcoinmagazine.com/markets/k33-bitcoin-below-70000-gift",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Slides Near $62K as Citi Slashes 12-Month Target by 12%",
-   "summary": "Bitcoin plunged below $63,000 on Wednesday, hitting a low of $62,214 as persistent ETF outflows, bearish sentiment, and leveraged liquidations weighed on the cryptocurrency market. Bitcoin Slides Towards $62,000 Bitcoin plunged below $63,000 on Wednesday amid continued outflows from spot exchange-traded funds (ETFs) and…",
-   "source": "Bitcoin.com News",
-   "ts": 1795022879,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-slides-62k-citi-slashes-price-target-12-percent/",
    "ad": false
   }
  ]
