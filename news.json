@@ -1,8 +1,24 @@
 {
- "updated": 1795027760,
+ "updated": 1795050396,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Erhöhter Verkaufsdruck: Bitcoin-Mining-Unternehmen stoßen Zehntausende BTC ab",
+   "summary": "Bitcoin-Miner erhöhen den Verkaufsdruck: Börsennotierte Mining-Unternehmen haben 2026 bereits mehr als 67.000 BTC verkauft. Was steckt dahinter?",
+   "source": "Blocktrainer",
+   "ts": 1795031364,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-mining-unternehmen-stossen-zehntausende-btc-ab",
+   "ad": false
+  },
+  {
+   "title": "STRC fällt wieder: Verkauft Strategy jetzt Bitcoin für weitere Rückkäufe?",
+   "summary": "Strategys STRC fällt wieder, während kaum noch Mittel für Rückkäufe vorhanden sind. Werden jetzt wieder Bitcoin verkauft, um das Geschäftsmodell zu stabilisieren?",
+   "source": "Blocktrainer",
+   "ts": 1795030514,
+   "url": "https://www.blocktrainer.de/blog/strc-faellt-wieder-verkauft-strategy-jetzt-bitcoin-fuer-weitere-rueckkaeufe",
+   "ad": false
+  },
   {
    "title": "Bitcoin unter 70.000 Dollar: Ein Geschenk des Marktes für Anleger?",
    "summary": "Nach sechs Wochenverlusten infolge kämpft der Bitcoin-Kurs derzeit um die 62.000 Dollarmarke. Laut einem neuen Krypto-Report war der Einstieg selten so attraktiv wie jetzt. Source: BTC-ECHO BTC-ECHO",
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794970800,
    "url": "https://www.btc-echo.de/news/bitcoin-ist-tot-eine-historische-kaufchance-241082/",
-   "ad": false
-  },
-  {
-   "title": "50 Millionen Bitcoin-ETF-Anteile: Diese US-Bank stockt um 103 Prozent auf",
-   "summary": "Eine der größten US-Banken hat ihre Position im Bitcoin-ETF von BlackRock binnen drei Monaten verdoppelt. Ein Blick in die Unterlagen zeigt allerdings, wem das Geld gehört. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794929634,
-   "url": "https://www.btc-echo.de/news/50-millionen-bitcoin-etf-anteile-diese-us-bank-stockt-um-103-prozent-auf-241118/",
-   "ad": false
-  },
-  {
-   "title": "21energy stellt neue Bitcoin-Zentralheizung vor",
-   "summary": "21energy stellt mit dem Focavo eine Bitcoin-Zentralheizung vor. Wie funktioniert sie, was kostet sie und lohnt sich das Heizen mit Bitcoin-Mining?",
-   "source": "Blocktrainer",
-   "ts": 1794875400,
-   "url": "https://www.blocktrainer.de/blog/21energy-stellt-neue-bitcoin-zentralheizung-vor",
    "ad": false
   }
  ]

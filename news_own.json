@@ -1,7 +1,23 @@
 {
- "updated": 1795027760,
+ "updated": 1795050396,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-rutscht-unter-63000-etf-abflusse",
+   "title": "Bitcoin fällt unter 63.000 US-Dollar: Waller bringt kräftige Fed-Zinserhöhung ins Spiel",
+   "summary": "Bitcoin fällt unter 63.000 US-Dollar, während Fed-Gouverneur Waller eine mögliche Zinserhöhung um 50 Basispunkte ins Spiel bringt.",
+   "ts": 1795037649,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-rutscht-unter-63000-etf-abflusse",
+   "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-unter-200-wochen-durchschnitt",
+   "title": "Bitcoin unter 200-Wochen-Durchschnitt: Nur 8,4 % der Zeit auf diesem Niveau",
+   "summary": "Bitcoin notiert unter dem 200-Wochen-Durchschnitt. Historische Daten zeigen hohe Chancen, während KI und Quantum-Risiken begrenzt bleiben.",
+   "ts": 1795026005,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-200-wochen-durchschnitt",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-faellt-auf-62112-krypto-li-2234e",
    "title": "Bitcoin fällt auf Viermonatstief bei 62.000 US-Dollar – Liquidationen erreichen Milliardenhöhe",
@@ -225,22 +241,6 @@
    "ts": 1792940437,
    "url": "https://nerdminer.de/blogs/news/bitcoin-heizung-lohnt-sich-heizen-mit-mining",
    "author": "Julius Thiele"
-  },
-  {
-   "id": "us-spot-bitcoin-etfs-groesste-taeg-aff20",
-   "title": "Bitcoin-ETFs verlieren 636 Mio. Dollar – größter Tagesabfluss seit Juni",
-   "summary": "Bitcoin-ETFs verzeichnen 635,6 Mio. Dollar Abflüsse. Bitcoin fällt auf 81.500 Dollar, während die Marke von 80.000 Dollar im Fokus bleibt.",
-   "ts": 1792773729,
-   "url": "https://nerdminer.de/blogs/news/us-spot-bitcoin-etfs-groesste-taegliche-abfluesse-seit-juni",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-kurzzeitig-auf-80100-gefal-d5fa1",
-   "title": "Glassnode: Bitcoin hält ETF-Kostenbasis bei 80.000 US-Dollar – 87.000-Dollar-Hürde voraus",
-   "summary": "Bitcoin bleibt nahe der ETF-Kostenbasis von 80.000 US-Dollar. Glassnode warnt vor einer Verkaufswand bei 87.000 Dollar und Risiken unter 80.000.",
-   "ts": 1792664281,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-kurzzeitig-auf-80100-gefallen-etf-treasury-kostenbasis",
-   "author": "Yannic Fraebel"
   }
  ]
 }

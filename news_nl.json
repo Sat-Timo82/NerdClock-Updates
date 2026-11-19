@@ -1,8 +1,56 @@
 {
- "updated": 1795027760,
+ "updated": 1795050396,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin: It's So Over",
+   "summary": "Bitcoin Magazine Bitcoin: It's So Over How does today's Bitcoin bear market compare with the ones before it? This post Bitcoin: It's So Over first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795044031,
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-its-so-over",
+   "ad": false
+  },
+  {
+   "title": "German Judge Offers to Drop Movie2K Charges in Exchange for $2.5B in Bitcoin",
+   "summary": "A German court has proposed dropping tax evasion and money laundering charges against the main defendant in exchange for 40,000 bitcoin–approximately $2.5 billion worth–and $41.67 million in victim compensation. Defendant Could Retain Nearly $1B in Bitcoin A high-profile German trial involving billions of dollars in proceeds…",
+   "source": "Bitcoin.com News",
+   "ts": 1795041948,
+   "url": "https://news.bitcoin.com/regulation-and-legal/german-judge-offers-drop-movie2k-charges-2-5-billion-bitcoin/",
+   "ad": false
+  },
+  {
+   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+   "summary": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia.",
+   "source": "Decrypt",
+   "ts": 1795040162,
+   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Worst-Case Scenarios: Analysts Talk $50K, $40K and $10K",
+   "summary": "As bitcoin erased all of its post-August gains, bullish near-term sentiment is changing rapidly, too. Worst-case bitcoin price scenarios range from the $50,000s in the near term to $10,000 if stocks crash, while the evergreen calls for \"BTC going to zero\" remain. However, the reality is more complicated. Dominant market…",
+   "source": "Bitcoin.com News",
+   "ts": 1795037433,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-price-worst-case-scenarios-analysts-talk-50k-40k-10k/",
+   "ad": false
+  },
+  {
+   "title": "Saifedean Ammous: AI Could Be \"Massively Overvalued\" as Bitcoin Starts \"Its Own Run\"",
+   "summary": "Bitcoin Magazine Saifedean Ammous: AI Could Be \"Massively Overvalued\" as Bitcoin Starts \"Its Own Run\" Saifedean Ammous, author of The Bitcoin Standard, joins BMTV to talk about the AI boom and where Bitcoin goes from here. This post Saifedean Ammous: AI Could Be \"Massively Overvalued\" as Bitcoin Starts \"Its Own Run\" first…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795034535,
+   "url": "https://bitcoinmagazine.com/videos/saifedean-ammous-ai-could-be-massively-overvalued-as-bitcoin-starts-its-own-run",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Tanks Ahead of Anthropic's IPO. Should We Really Blame AI?",
+   "summary": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
+   "source": "Decrypt",
+   "ts": 1795029362,
+   "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+   "ad": false
+  },
   {
    "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
    "summary": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
@@ -33,54 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1795022879,
    "url": "https://news.bitcoin.com/market-updates/bitcoin-price-slides-62k-citi-slashes-price-target-12-percent/",
-   "ad": false
-  },
-  {
-   "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a 'value zone'",
-   "summary": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
-   "source": "The Block",
-   "ts": 1795022017,
-   "url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
-   "ad": false
-  },
-  {
-   "title": "Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout",
-   "summary": "Ionic Digital sold about 737 bitcoin for roughly $61.6 million after Sept. 30 and plans to use the cash to develop its data center sites, its latest quarterly report shows. This post Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795019959,
-   "url": "https://bitcoinmagazine.com/news/ionic-digital-sells-737-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin, stocks wobble as Fed's Waller talks of 'shock' 50-point rate hike",
-   "summary": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded.",
-   "source": "Cointelegraph",
-   "ts": 1795019660,
-   "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campa",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Gains Ground on Gold as Fed Rate-Hike Bets Pressure Both Assets",
-   "summary": "Bitcoin gains ground as it is showing relative strength against gold even as both assets face mounting pressure from expectations of another Federal Reserve interest-rate increase. The Bitcoin-to-gold ratio has moved above its 200-day moving average, extending a recovery that began in March and suggesting that BTC is…",
-   "source": "Bitcoinist",
-   "ts": 1795019439,
-   "url": "https://bitcoinist.com/bitcoin-gains-ground-on-gold-as-fed-rate-hike-bets-pressure-both-assets/",
-   "ad": false
-  },
-  {
-   "title": "German Court Offers to Drop Movie2k Case for 40,000 Bitcoin",
-   "summary": "A Leipzig judge has offered to dismiss the Movie2k criminal case if the defendant hands over 40,000 bitcoin, which would leave him about 16,000 coins worth roughly $1.02 billion. This post German Court Offers to Drop Movie2k Case for 40,000 Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795017800,
-   "url": "https://bitcoinmagazine.com/news/german-court-offers-drop-movie2k-case-40000-bitcoin",
-   "ad": false
-  },
-  {
-   "title": "Bitwise Targets Texas Stock Exchange for New Zcash ETF Under ZEC Ticker",
-   "summary": "Bitwise targets expansion toward regulated investment access to Zcash through a proposed spot exchange-traded fund (ETF) that would list on the Texas Stock Exchange (TXSE). The move adds another competitor to the growing market for US-listed crypto investment products focused on privacy-oriented digital assets. According to a…",
-   "source": "Bitcoinist",
-   "ts": 1795016746,
-   "url": "https://bitcoinist.com/bitwise-targets-texas-stock-exchange-for-new-zcash-etf-under-zec-ticker/",
    "ad": false
   }
  ]
