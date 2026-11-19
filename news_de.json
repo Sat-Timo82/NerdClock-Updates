@@ -1,22 +1,38 @@
 {
- "updated": 1795077872,
+ "updated": 1795111903,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Anthropic-Börsengang bricht Rekorde: So reagiert der Bitcoin-Kurs",
+   "summary": "Mehr als 81 Milliarden US-Dollar kassiert Anthropic beim IPO der Superlative. Doch nach dem SpaceX-Börsengang im Juni schlitterte der Bitcoin-Kurs nach unten. Wiederholt sich die Geschichte? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795108838,
+   "url": "https://www.btc-echo.de/news/anthropic-boersengang-bricht-rekorde-so-reagiert-der-bitcoin-kurs-241237/",
+   "ad": false
+  },
+  {
+   "title": "Schuldenproblem bei Trump Media: Drohen jetzt Bitcoin-Verkäufe?",
+   "summary": "Trump Media drohen Ende November Rückzahlungen von knapp 900 Millionen US-Dollar. Die Bitcoin-Bestände sind deutlich unter Wasser – muss jetzt verkauft werden?",
+   "source": "Blocktrainer",
+   "ts": 1795104536,
+   "url": "https://www.blocktrainer.de/blog/schuldenproblem-trump-media-bitcoin-verkaufen",
+   "ad": false
+  },
+  {
+   "title": "Taschengeld in Bitcoin? Dieser Vater setzt auf BTC statt Euro",
+   "summary": "Was früher das Sparbuch war, könnte für die nächste Generation Bitcoin sein. Warum Finanzbildung für Kinder und Jugendliche immer wichtiger wird. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795082400,
+   "url": "https://www.btc-echo.de/news/taschengeld-in-bitcoin-vater-zahlt-btc-statt-euro-241196/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Kapitulation: Krypto-Experten sehen weiteres Abwärtspotenzial",
    "summary": "Der jüngste Abverkauf am Krypto-Markt erinnert an die Tiefpunkte von 2018 und 2022. Warum Glassnode noch keinen finalen Boden für Bitcoin ausrufen will. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1795074359,
    "url": "https://www.btc-echo.de/news/bitcoin-kapitulation-noch-keine-entwarnung-241205/",
-   "ad": false
-  },
-  {
-   "title": "Anthropic geht heute an die Börse: Diesen Bitcoin-Kurs erwartet Claude",
-   "summary": "Heute startet Anthropic an der Nasdaq. Aber was bedeutet die Euphorie rund um den Mega-IPO für den Bitcoin-Kurs? Claude nennt 3 Szenarien von Worst Case bis Best Case. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795057200,
-   "url": "https://www.btc-echo.de/news/bitcoin-prognose-wie-der-anthropic-ipo-den-btc-kurs-beeinflusst-241121/",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1794996145,
    "url": "https://www.btc-echo.de/news/bitcoin-steuer-ab-2027-warum-anleger-jetzt-ihren-abgeordneten-schreiben-sollen-241165/",
-   "ad": false
-  },
-  {
-   "title": "Movie2k-Prozess: Mutmaßlicher Betreiber könnte Bitcoin-Milliardär bleiben",
-   "summary": "40.000 Bitcoin für ein Prozessende: Ein Richter schlägt einen Deal vor, bei dem dem mutmaßlichen Movie2k-Betreiber ein riesiges Vermögen bliebe.",
-   "source": "Blocktrainer",
-   "ts": 1794994213,
-   "url": "https://www.blocktrainer.de/blog/movie2k-prozess-mutmasslicher-betreiber-koennte-bitcoin-milliardaer-bleiben",
-   "ad": false
-  },
-  {
-   "title": "Harvard setzt auf Gold und Bitcoin: Was die neuen Zahlen für Anleger zeigen",
-   "summary": "Trotz der jüngsten Kursverluste bleibt Bitcoin für zwei renommierte Universitäten ein Investment. Neue Daten zeigen nun eine überraschende Entwicklung bei Harvard. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794992400,
-   "url": "https://www.btc-echo.de/news/harvard-setzt-auf-gold-und-bitcoin-was-die-neuen-zahlen-fuer-anleger-zeigen-241149/",
    "ad": false
   }
  ]

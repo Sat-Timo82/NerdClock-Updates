@@ -1,5 +1,5 @@
 {
- "updated": 1795077872,
+ "updated": 1795111903,
  "source": "Nerdminer.de",
  "items": [
   {
@@ -25,6 +25,14 @@
    "ts": 1795026005,
    "url": "https://nerdminer.de/blogs/news/bitcoin-unter-200-wochen-durchschnitt",
    "author": "Yannic Fraebel"
+  },
+  {
+   "id": "ny-rentenfonds-erhoht-strategy-bet-c923b",
+   "title": "NY State Pensionsfonds erhöht Strategy (MSTR)-Position um über 10% – MicroStrategy &…",
+   "summary": "NY State Pensionsfonds stockt Strategy (MSTR)-Position um >10% auf; MicroStrategy Bitcoin-Treasury und Kursvolatilität beeinflussen Portfoliowert.",
+   "ts": 1795021922,
+   "url": "https://nerdminer.de/blogs/news/ny-rentenfonds-erhoht-strategy-beteiligung-q3",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
   },
   {
    "id": "bitcoin-faellt-auf-62112-krypto-li-2234e",
@@ -232,14 +240,6 @@
    "summary": "Bitcoin erholt sich Richtung 82.000 US-Dollar. Anleger beobachten Support bei 79.000 bis 80.000 Dollar und den Widerstand über 82.000 Dollar.",
    "ts": 1793195351,
    "url": "https://nerdminer.de/blogs/news/bitcoin-erholt-auf-82000-asiens-markte-rally",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strive-erwirbt-6182-btc-rangiert-a-c8cad",
-   "title": "Strive kauft 6.182 BTC und liegt nur noch 1.000 Bitcoin hinter Metaplanet",
-   "summary": "Strive hält 43.000 BTC und rückt Metaplanet näher. Ein neues SATS-Aktienprogramm über 1 Mrd. US-Dollar könnte weitere Bitcoin-Käufe finanzieren.",
-   "ts": 1793043127,
-   "url": "https://nerdminer.de/blogs/news/strive-erwirbt-6182-btc-rangiert-auf-platz-vier",
    "author": "Yannic Fraebel"
   }
  ]
