@@ -1,14 +1,14 @@
 {
- "updated": 1795194850,
+ "updated": 1795216785,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "Bitcoin fällt unter 60.000 US-Dollar: Der Tech-Ausverkauf schlägt durch",
-   "summary": "Der Ausverkauf bei den Technologiewerten reißt den Krypto-Markt mit. Binnen einer Stunde wurden Positionen im dreistelligen Millionenbereich liquidiert. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795191263,
-   "url": "https://www.btc-echo.de/news/bitcoin-faellt-unter-60-000-us-dollar-der-tech-ausverkauf-schlaegt-durch-241343/",
+   "title": "Märkte im Stressmodus: Bitcoin fällt unter 60.000 US-Dollar zurück",
+   "summary": "Bitcoin fällt wieder unter 60.000 US-Dollar, während auch Aktien und Edelmetalle einbrechen. An den Märkten herrscht Panik, von der sich BTC nicht loslösen kann.",
+   "source": "Blocktrainer",
+   "ts": 1795197292,
+   "url": "https://www.blocktrainer.de/blog/maerkte-im-stressmodus-bitcoin-faellt-unter-60000-us-dollar-zurueck",
    "ad": false
   },
   {
@@ -65,22 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1795074359,
    "url": "https://www.btc-echo.de/news/bitcoin-kapitulation-noch-keine-entwarnung-241205/",
-   "ad": false
-  },
-  {
-   "title": "Erhöhter Verkaufsdruck: Bitcoin-Mining-Unternehmen stoßen Zehntausende BTC ab",
-   "summary": "Bitcoin-Miner erhöhen den Verkaufsdruck: Börsennotierte Mining-Unternehmen haben 2026 bereits mehr als 67.000 BTC verkauft. Was steckt dahinter?",
-   "source": "Blocktrainer",
-   "ts": 1795031364,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-mining-unternehmen-stossen-zehntausende-btc-ab",
-   "ad": false
-  },
-  {
-   "title": "STRC fällt wieder: Verkauft Strategy jetzt Bitcoin für weitere Rückkäufe?",
-   "summary": "Strategys STRC fällt wieder, während kaum noch Mittel für Rückkäufe vorhanden sind. Werden jetzt wieder Bitcoin verkauft, um das Geschäftsmodell zu stabilisieren?",
-   "source": "Blocktrainer",
-   "ts": 1795030514,
-   "url": "https://www.blocktrainer.de/blog/strc-faellt-wieder-verkauft-strategy-jetzt-bitcoin-fuer-weitere-rueckkaeufe",
    "ad": false
   }
  ]
