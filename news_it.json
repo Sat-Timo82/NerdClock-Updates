@@ -1,86 +1,86 @@
 {
- "updated": 1795136014,
+ "updated": 1795163214,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Fidelity Moves $435 Million In Bitcoin To New Wallets – What Is Happening Behind The Scenes?",
+   "summary": "A massive Bitcoin transfer linked to Fidelity Custody has attracted attention across the cryptocurrency market after blockchain monitoring service Onchain Lens reported that approximately 7,000 BTC, worth $435 million, moved into multiple newly created wallets. The development comes as institutional Bitcoin adoption continues…",
+   "source": "Bitcoinist",
+   "ts": 1795162883,
+   "url": "https://bitcoinist.com/fidelity-moves-435-million-in-bitcoin-to-new-wallets-what-is-happening-behind-the-scenes/",
+   "ad": false
+  },
+  {
+   "title": "BlackRock's IBIT loses record $541M amid Anthropic market debut",
+   "summary": "BlackRock's IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+   "source": "Cointelegraph",
+   "ts": 1795162722,
+   "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inb",
+   "ad": false
+  },
+  {
+   "title": "Michael Saylor sees up to $7.5 billion in 'natural demand' for Strategy's STRC preferred stock",
+   "summary": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding.",
+   "source": "The Block",
+   "ts": 1795161756,
+   "url": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash",
+   "summary": "Bitcoin fell to about $61,300 early Friday, its lowest price since early July, as a global equity selloff sparked by the Anthropic IPO's fading debut spread into Asia and forced South Korea's exchange to halt program selling. Bitcoin Price Breaks Below $62K BTC first slipped under $62,000 on Thursday evening U.S. time…",
+   "source": "Bitcoin.com News",
+   "ts": 1795158931,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-lowest-since-july-asian-stocks-crash-kospi/",
+   "ad": false
+  },
+  {
+   "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+   "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
+   "source": "CoinDesk",
+   "ts": 1795155135,
+   "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+   "ad": false
+  },
+  {
+   "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+   "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
+   "source": "CoinDesk",
+   "ts": 1795152745,
+   "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+   "ad": false
+  },
+  {
+   "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+   "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
+   "source": "CoinDesk",
+   "ts": 1795152051,
+   "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+   "ad": false
+  },
+  {
+   "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
+   "summary": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+   "source": "Cointelegraph",
+   "ts": 1795145602,
+   "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss_tag_",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+   "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.",
+   "source": "CoinDesk",
+   "ts": 1795145550,
+   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+   "ad": false
+  },
   {
    "title": "Babylon Weighs End to Bitcoin Staking–What Happens to $2.6B in BTC?",
    "summary": "Babylon co-founder Fisher Yu's suggestion to end bitcoin staking on the protocol adds another unknown to an already exhausted market, putting a question mark over about 41,600 BTC (nearly $2.6 billion) staked there. On Tuesday, Nov. 17, Babylon co-founder Fisher Yu suggested ending its BTC staking program by the end of this…",
    "source": "Bitcoin.com News",
    "ts": 1795127158,
    "url": "https://news.bitcoin.com/defi/babylon-weighs-end-bitcoin-staking-what-happens-2-6b-btc/",
-   "ad": false
-  },
-  {
-   "title": "Inside Bukele's Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El…",
-   "summary": "On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Historico. Guests included Ricardo Salinas Pliego, Parker Lewis, Mike Peterson, and miners; discussions covered power generation for compute and immigration. This post Inside Bukele's Casa Presidencial Dinner…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795126801,
-   "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
-   "ad": false
-  },
-  {
-   "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
-   "summary": "Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it paid. This post Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides first appeared on Bitcoin Magazine and is written…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795125216,
-   "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
-   "ad": false
-  },
-  {
-   "title": "David Lawant: Seeing \"Very Strong Inflow\" for Bitcoin at $60k",
-   "summary": "Bitcoin Magazine David Lawant: Seeing \"Very Strong Inflow\" for Bitcoin at $60k David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's doing the selling. This post David Lawant: Seeing \"Very Strong Inflow\" for Bitcoin at $60k first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795123813,
-   "url": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
-   "summary": "The bitcoin price slumped under $62,000 on Thursday, down about 24% in one month, as Anthropic's Nasdaq debut set off a tech selloff that hit crypto stocks. This post Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795122140,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000",
-   "ad": false
-  },
-  {
-   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-   "summary": "A new post-quantum signature proposal aims to secure Bitcoin's future, but balancing user safety and efficiency comes with hurdles.",
-   "source": "Decrypt",
-   "ts": 1795121162,
-   "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-   "ad": false
-  },
-  {
-   "title": "Trump Media's $883M Debt Deadline Puts Bitcoin Holdings in Focus",
-   "summary": "Trump Media and Technology Group repurchased $100 million of its convertible debt at a discount, reducing its outstanding obligations to approximately $883.5 million ahead of a Nov. 30 repayment deadline. Trump Media Cuts Debt Ahead of Repayment Deadline Trump Media and Technology Group (TMTG) has repurchased $100 million in…",
-   "source": "Bitcoin.com News",
-   "ts": 1795119937,
-   "url": "https://news.bitcoin.com/featured/trump-media-883m-debt-deadline-puts-bitcoin-holdings-focus/",
-   "ad": false
-  },
-  {
-   "title": "Darius Dale: 2027 Should Be a \"Great Year for Bitcoin\" as Fed Rate Cuts Come",
-   "summary": "Bitcoin Magazine Darius Dale: 2027 Should Be a \"Great Year for Bitcoin\" as Fed Rate Cuts Come Darius Dale, Founder & CEO of 42 Macro, joins BMTV to answer whether the Fed is making a policy mistake with a December rate hike priced in. This post Darius Dale: 2027 Should Be a \"Great Year for Bitcoin\" as Fed Rate Cuts Come first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795119314,
-   "url": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
-   "ad": false
-  },
-  {
-   "title": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
-   "summary": "Galaxy Research says 13F filers added 49,229 BTC through U.S. spot bitcoin ETPs in Q3, lifting institutional holdings to a record 356,491 BTC as Wells Fargo became the largest holder. This post Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record first appeared on Bitcoin Magazine and is written by Micah…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795116600,
-   "url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Giant Strategy Will Keep Buying STRC Below $100 After $600M Day: Saylor",
-   "summary": "Michael Saylor said Strategy's STRC preferred shares exceeded $600 million in trading as the stock fell 2.62% on Nov. 18. He reiterated the bitcoin treasury leader's intention to repurchase shares below $100. Saylor Highlights a $600 Million Trading Day Michael Saylor, Strategy's founder and executive chairman, reported more…",
-   "source": "Bitcoin.com News",
-   "ts": 1795116324,
-   "url": "https://news.bitcoin.com/featured/bitcoin-giant-strategy-keep-buying-strc-below-100-600m-day-saylor/",
    "ad": false
   }
  ]

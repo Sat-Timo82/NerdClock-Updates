@@ -1,8 +1,24 @@
 {
- "updated": 1795136014,
+ "updated": 1795163214,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "KI-Ausverkauf an den Märkten: Bitcoin auf dem Weg zu den 60.000 US-Dollar",
+   "summary": "Asiens Börsen erleben ihre schwächste Woche seit dem Corona-Crash. Zudem fließen Hunderte Millionen US-Dollar aus den Bitcoin-ETFs ab. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795158658,
+   "url": "https://www.btc-echo.de/news/ki-ausverkauf-an-den-maerkten-bitcoin-auf-dem-weg-zu-den-60-000-us-dollar-241278/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Paukenschlag im Movie2k-Prozess: Gibt der Angeklagte 40.000 BTC ab?",
+   "summary": "Im milliardenschweren Movie2k-Prozess könnte Deutschland weitere 40.000 Bitcoin erhalten. BTC-ECHO hat exklusiv mit der Generalstaatsanwaltschaft Dresden gesprochen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795153076,
+   "url": "https://www.btc-echo.de/news/bitcoin-paukenschlag-im-movie2k-prozess-gibt-der-angeklagte-40-000-btc-ab-241226/",
+   "ad": false
+  },
   {
    "title": "Anthropic-Börsengang bricht Rekorde: So reagiert der Bitcoin-Kurs",
    "summary": "Mehr als 81 Milliarden US-Dollar kassiert Anthropic beim IPO der Superlative. Doch nach dem SpaceX-Börsengang im Juni schlitterte der Bitcoin-Kurs nach unten. Wiederholt sich die Geschichte? Source: BTC-ECHO BTC-ECHO",
@@ -52,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin unter 70.000 Dollar: Ein Geschenk des Marktes für Anleger?",
-   "summary": "Nach sechs Wochenverlusten infolge kämpft der Bitcoin-Kurs derzeit um die 62.000 Dollarmarke. Laut einem neuen Krypto-Report war der Einstieg selten so attraktiv wie jetzt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795024396,
-   "url": "https://www.btc-echo.de/news/bitcoin-unter-70-000-dollar-ein-geschenk-des-marktes-241202/",
-   "ad": false
-  },
-  {
    "title": "Debasement-Trade gerät unter Druck: Wieso Bitcoin, Gold und Silber fallen",
    "summary": "Bitcoin, Gold und Silber stehen deutlich unter Druck. Der Debasement-Trade scheint an Attraktivität verloren zu haben, doch der fundamentale Treiber bleibt bestehen.",
    "source": "Blocktrainer",
@@ -73,14 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1795004803,
    "url": "https://www.blocktrainer.de/blog/neue-zollbefugnisse-warum-bitcoin-besitzer-jetzt-auch-das-finanzamt-fuerchten-muessen",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Steuer ab 2027: Warum Anleger jetzt ihren Abgeordneten schreiben sollen",
-   "summary": "Deutschlands Steuervorteil für langfristige Krypto-Anleger steht erneut auf der Kippe. Frank Schäffler will die geplante Reform verhindern. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1794996145,
-   "url": "https://www.btc-echo.de/news/bitcoin-steuer-ab-2027-warum-anleger-jetzt-ihren-abgeordneten-schreiben-sollen-241165/",
    "ad": false
   }
  ]
