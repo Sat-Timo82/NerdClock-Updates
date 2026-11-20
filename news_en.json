@@ -1,86 +1,86 @@
 {
- "updated": 1795163214,
+ "updated": 1795194850,
  "mode": "stichworte",
  "lang": "en",
  "items": [
   {
-   "title": "Fidelity Moves $435 Million In Bitcoin To New Wallets – What Is Happening Behind The Scenes?",
-   "summary": "A massive Bitcoin transfer linked to Fidelity Custody has attracted attention across the cryptocurrency market after blockchain monitoring service Onchain Lens reported that approximately 7,000 BTC, worth $435 million, moved into multiple newly created wallets. The development comes as institutional Bitcoin adoption continues…",
-   "source": "Bitcoinist",
-   "ts": 1795162883,
-   "url": "https://bitcoinist.com/fidelity-moves-435-million-in-bitcoin-to-new-wallets-what-is-happening-behind-the-scenes/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock's IBIT loses record $541M amid Anthropic market debut",
-   "summary": "BlackRock's IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff.",
+   "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+   "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
    "source": "Cointelegraph",
-   "ts": 1795162722,
-   "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_inb",
+   "ts": 1795193751,
+   "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss_tag",
    "ad": false
   },
   {
-   "title": "Michael Saylor sees up to $7.5 billion in 'natural demand' for Strategy's STRC preferred stock",
-   "summary": "Saylor said the company is currently responding to the credit-market contraction by reducing the amount of STRC outstanding.",
-   "source": "The Block",
-   "ts": 1795161756,
-   "url": "https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
+   "title": "Researchers Publish Security Analysis of Bitcoin's Post-Quantum SHRINCS Proposal",
+   "summary": "Blockstream researchers published a 131-page security analysis of SHRINCS, a hash-based post-quantum signature scheme for Bitcoin, and are asking the community to review it for flaws. This post Researchers Publish Security Analysis of Bitcoin's Post-Quantum SHRINCS Proposal first appeared on Bitcoin Magazine and is written by…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795193700,
+   "url": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs",
    "ad": false
   },
   {
-   "title": "Bitcoin Price Sinks to $61,300, Its Lowest Level since July as Asian Stocks Crash",
-   "summary": "Bitcoin fell to about $61,300 early Friday, its lowest price since early July, as a global equity selloff sparked by the Anthropic IPO's fading debut spread into Asia and forced South Korea's exchange to halt program selling. Bitcoin Price Breaks Below $62K BTC first slipped under $62,000 on Thursday evening U.S. time…",
-   "source": "Bitcoin.com News",
-   "ts": 1795158931,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-lowest-since-july-asian-stocks-crash-kospi/",
+   "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+   "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic's IPO.",
+   "source": "Decrypt",
+   "ts": 1795192559,
+   "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
    "ad": false
   },
   {
-   "title": "Here's what's crashing gold and likely weighing on bitcoin too",
-   "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
-   "source": "CoinDesk",
-   "ts": 1795155135,
-   "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+   "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+   "summary": "Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record ETF outflows hit risk assets. This post Bitcoin Price Crashes to $59,000 as Market Selloff Deepens first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795190390,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
    "ad": false
   },
   {
-   "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-   "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
-   "source": "CoinDesk",
-   "ts": 1795152745,
-   "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-   "ad": false
-  },
-  {
-   "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-   "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
-   "source": "CoinDesk",
-   "ts": 1795152051,
-   "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-   "ad": false
-  },
-  {
-   "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-   "summary": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling.",
+   "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+   "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic's IPO.",
    "source": "Cointelegraph",
-   "ts": 1795145602,
-   "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss_tag_",
+   "ts": 1795189926,
+   "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_cam",
    "ad": false
   },
   {
-   "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-   "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.",
+   "title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
+   "summary": "Block's first bitcoin payments report found the median Square payment is about $13, with 72% at food and drink businesses, as it pushes for a de minimis tax exemption. This post Block Says Most Bitcoin Payments on Square Are for Coffee and Food first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795185900,
+   "url": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Hovers Just Above Average Holder's Cost Basis as Price Keeps Dipping",
+   "summary": "Bitcoin is trading barely above its realized price, the average cost of every coin, and a break below would put the average holder at a loss for the first time since early 2023. This post Bitcoin Hovers Just Above Average Holder's Cost Basis as Price Keeps Dipping first appeared on Bitcoin Magazine and is written by Micah…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795184700,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+   "summary": "The bitcoin price slipped to near $61,500 on Friday morning, its lowest level since July, as the tech selloff spread to Asia and IBIT posted a record outflow. This post Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795183215,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+   "ad": false
+  },
+  {
+   "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+   "summary": "BlackRock's bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea's Kospi down more than 5%.",
    "source": "CoinDesk",
-   "ts": 1795145550,
-   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+   "ts": 1795181733,
+   "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
    "ad": false
   },
   {
-   "title": "Babylon Weighs End to Bitcoin Staking–What Happens to $2.6B in BTC?",
-   "summary": "Babylon co-founder Fisher Yu's suggestion to end bitcoin staking on the protocol adds another unknown to an already exhausted market, putting a question mark over about 41,600 BTC (nearly $2.6 billion) staked there. On Tuesday, Nov. 17, Babylon co-founder Fisher Yu suggested ending its BTC staking program by the end of this…",
+   "title": "Blackrock Drives $899M of Bitcoin ETFs' $1.12B Outflows This Week",
+   "summary": "Bitcoin ETFs lost $582.19 million on Thursday, their heaviest session of an increasingly difficult week as withdrawals accelerated alongside trading activity. Ether ETFs shed another $131.24 million, taking combined bitcoin and ether redemptions above $713 million for the day. Bitcoin ETF Outflows Surge With $582M Exit The…",
    "source": "Bitcoin.com News",
-   "ts": 1795127158,
-   "url": "https://news.bitcoin.com/defi/babylon-weighs-end-bitcoin-staking-what-happens-2-6b-btc/",
+   "ts": 1795181444,
+   "url": "https://news.bitcoin.com/bitcoin-etf/blackrock-drives-899m-of-bitcoin-etfs-1-12b-outflows-this-week/",
    "ad": false
   }
  ]

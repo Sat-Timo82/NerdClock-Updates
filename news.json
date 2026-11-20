@@ -1,14 +1,30 @@
 {
- "updated": 1795163214,
+ "updated": 1795194850,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "KI-Ausverkauf an den Märkten: Bitcoin auf dem Weg zu den 60.000 US-Dollar",
-   "summary": "Asiens Börsen erleben ihre schwächste Woche seit dem Corona-Crash. Zudem fließen Hunderte Millionen US-Dollar aus den Bitcoin-ETFs ab. Source: BTC-ECHO BTC-ECHO",
+   "title": "Bitcoin fällt unter 60.000 US-Dollar: Der Tech-Ausverkauf schlägt durch",
+   "summary": "Der Ausverkauf bei den Technologiewerten reißt den Krypto-Markt mit. Binnen einer Stunde wurden Positionen im dreistelligen Millionenbereich liquidiert. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1795158658,
-   "url": "https://www.btc-echo.de/news/ki-ausverkauf-an-den-maerkten-bitcoin-auf-dem-weg-zu-den-60-000-us-dollar-241278/",
+   "ts": 1795191263,
+   "url": "https://www.btc-echo.de/news/bitcoin-faellt-unter-60-000-us-dollar-der-tech-ausverkauf-schlaegt-durch-241343/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-ETF-Bestände von institutionellen Investoren erreichen neues Allzeithoch",
+   "summary": "Institutionelle Investoren melden Rekordbestände in Bitcoin-ETFs: 356.491 BTC-Äquivalente zum Ende des dritten Quartals. Vor allem langfristige Halter stocken auf.",
+   "source": "Blocktrainer",
+   "ts": 1795184665,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-etf-bestaende-von-institutionellen-investoren-erreichen-neues-allzeithoch",
+   "ad": false
+  },
+  {
+   "title": "Zcash im freien Fall: ETF-Antrag kann Kursrutsch nicht stoppen",
+   "summary": "Von fast 1.700 US-Dollar ist bei Zcash nicht mehr viel übrig. Jetzt sollen neue ETF-Pläne für frischen Wind sorgen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795179600,
+   "url": "https://www.btc-echo.de/news/zcash-im-freien-fall-etf-antrag-kann-kursrutsch-nicht-stoppen-241315/",
    "ad": false
   },
   {
@@ -65,22 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1795030514,
    "url": "https://www.blocktrainer.de/blog/strc-faellt-wieder-verkauft-strategy-jetzt-bitcoin-fuer-weitere-rueckkaeufe",
-   "ad": false
-  },
-  {
-   "title": "Debasement-Trade gerät unter Druck: Wieso Bitcoin, Gold und Silber fallen",
-   "summary": "Bitcoin, Gold und Silber stehen deutlich unter Druck. Der Debasement-Trade scheint an Attraktivität verloren zu haben, doch der fundamentale Treiber bleibt bestehen.",
-   "source": "Blocktrainer",
-   "ts": 1795014976,
-   "url": "https://www.blocktrainer.de/blog/debasement-trade-geraet-unter-druck-wieso-bitcoin-gold-und-silber-fallen",
-   "ad": false
-  },
-  {
-   "title": "Neue Zollbefugnisse: Warum Bitcoin-Besitzer jetzt auch das Finanzamt fürchten müssen!",
-   "summary": "Ein Bitcoin-Herkunftsnachweis könnte zur Steuerfalle werden. Warum freiwillige Angaben gegenüber dem Zoll weitreichende Folgen haben können. Das sollten Krypto-Halter wissen.",
-   "source": "Blocktrainer",
-   "ts": 1795004803,
-   "url": "https://www.blocktrainer.de/blog/neue-zollbefugnisse-warum-bitcoin-besitzer-jetzt-auch-das-finanzamt-fuerchten-muessen",
    "ad": false
   }
  ]
