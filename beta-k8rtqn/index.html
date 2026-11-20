@@ -72,6 +72,9 @@ main{flex:1;max-width:920px;margin:0 auto;padding:56px 20px;width:100%;}
 .flash-zone:hover{border-color:rgba(244,60,30,.3);}
 .flash-zone-title{font-size:16px;font-weight:700;margin-bottom:6px;}
 .flash-zone-sub{font-size:12.5px;color:var(--t2);margin-bottom:22px;line-height:1.6;}
+.dl-btn{display:inline-block;text-decoration:none;text-align:center;background:var(--red);color:#fff;font:700 15px var(--font);padding:14px 34px;border-radius:12px;
+  border:none;letter-spacing:.2px;box-shadow:0 6px 28px rgba(244,60,30,.3);transition:background .15s;}
+.dl-btn:hover{background:var(--red2);}
 esp-web-install-button button,.nmf-btn{background:var(--red);color:#fff;font:700 15px var(--font);padding:14px 34px;border-radius:12px;
   border:none;cursor:pointer;letter-spacing:.2px;box-shadow:0 6px 28px rgba(244,60,30,.3);transition:background .15s;}
 esp-web-install-button button:hover,.nmf-btn:hover{background:var(--red2);}
@@ -179,26 +182,6 @@ footer b{color:var(--red);}
     <a href="https://www.google.com/chrome/" target="_blank">Chrome herunterladen →</a>
   </div>
 
-  <div class="flash-card">
-    <div class="flash-card-header">
-      <div class="flash-card-title">NerdNode Software</div>
-      <div class="version-badge"><div class="version-dot"></div>Download</div>
-    </div>
-    <div class="flash-card-body">
-      <div class="info-grid" style="margin-bottom:0">
-        <div class="flash-zone">
-          <div class="flash-zone-title">NerdNode-Karte (Image)</div>
-          <div class="flash-zone-sub">Speicherkarte mit 32 GB oder mehr · v0.4.20 · 591 MB</div>
-          <a class="dl-btn" href="https://drive.proton.me/urls/EWWN0EQYHC#Om1Bq1YLMuSO" target="_blank" rel="noopener">NerdNode-Karte herunterladen</a>
-        </div>
-      </div>
-      <div class="flash-note">Das Passwort für den Download bekommst du von uns in einer separaten Nachricht.<br>
-        Prüfsumme (SHA-256 der Datei <strong>nerdnode-0.4.20.img.xz</strong>):<br>
-        <strong>6233c0fbae7fc0d344e2bead5d14019588fe8eb1d62de9b1a1aa22094db4859a</strong><br>
-        Auf die Speicherkarte schreibst du die Datei mit dem <strong>Raspberry Pi Imager</strong> (unter Windows als Administrator starten, „Eigenes Image“ wählen, entpackt selbst). Lass die Prüfung am Ende vollständig durchlaufen. Danach die Karte in die NerdNode stecken und einschalten. Die NerdNode braucht dabei Internet (LAN-Kabel) und richtet sich selbst ein, das kann eine Weile dauern. Danach öffnest du <strong>nerdnode.local</strong>.</div>
-    </div>
-  </div>
-  <div class="flash-card">
     <div class="flash-card-header">
       <div class="flash-card-title">NerdClock Premium installieren</div>
       <div class="version-badge"><div class="version-dot"></div>v3.0.5 · Beta</div>
@@ -459,6 +442,25 @@ footer b{color:var(--red);}
     <div class="compat-foot">Bis zu 5 Miner gleichzeitig · automatisch per Lupe finden oder IP-Adresse eintragen</div>
   </div>
 
+  <div class="flash-card">
+    <div class="flash-card-header">
+      <div class="flash-card-title">NerdNode Software</div>
+      <div class="version-badge"><div class="version-dot"></div>Download</div>
+    </div>
+    <div class="flash-card-body">
+      <div class="info-grid" style="margin-bottom:0">
+        <div class="flash-zone">
+          <div class="flash-zone-title">NerdNode-Karte (Image)</div>
+          <div class="flash-zone-sub">Speicherkarte mit 32 GB oder mehr · v0.4.20 · 591 MB</div>
+          <a class="dl-btn" href="https://drive.proton.me/urls/EWWN0EQYHC#Om1Bq1YLMuSO" target="_blank" rel="noopener">NerdNode-Karte herunterladen</a>
+        </div>
+      </div>
+      <div class="flash-note">Das Passwort für den Download bekommst du von uns in einer separaten Nachricht.<br>
+        Prüfsumme (SHA-256 der Datei <strong>nerdnode-0.4.20.img.xz</strong>):<br>
+        <strong>6233c0fbae7fc0d344e2bead5d14019588fe8eb1d62de9b1a1aa22094db4859a</strong><br>
+        Auf die Speicherkarte schreibst du die Datei mit dem <strong>Raspberry Pi Imager</strong> (unter Windows als Administrator starten, „Eigenes Image“ wählen, entpackt selbst). Lass die Prüfung am Ende vollständig durchlaufen. Danach die Karte in die NerdNode stecken und einschalten. Die NerdNode braucht dabei Internet (LAN-Kabel) und richtet sich selbst ein, das kann eine Weile dauern. Danach öffnest du <strong>nerdnode.local</strong>.</div>
+    </div>
+  </div>
   <div class="info-grid">
     <div class="info-card">
       <h4>Nach der Installation</h4>
