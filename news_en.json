@@ -1,8 +1,40 @@
 {
- "updated": 1795265906,
+ "updated": 1795291397,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Bitcoin Miners Had Fewer Hardware Sellers in 2026 as BTC Tanked and AI Grew",
+   "summary": "While more companies attempted to challenge Bitmain's dominance in the Bitcoin mining hardware market, these efforts–which are relevant to Bitcoin's resilience–now appear to be on pause. Bitmain's challengers have either stopped selling to external clients or sharply reduced sales. While mining pool concentration is the most…",
+   "source": "Bitcoin.com News",
+   "ts": 1795290948,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-miners-fewer-hardware-sellers-2026-btc-tanked-ai-grew/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday's stock open",
+   "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+   "source": "CoinDesk",
+   "ts": 1795283400,
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+   "ad": false
+  },
+  {
+   "title": "Crypto Liquidations Top $2.4B As Bitcoin Sinks Below $57,000, But Shorts Are Now Piling In",
+   "summary": "Bitcoin's slide below $57,000 did more than set a two-year low. It wiped out a huge chunk of the leverage that had been building in the market, and the traders betting on further losses may now be the ones exposed. Crypto liquidations reached about $2.4 billion over 24 hours. Bitcoin futures accounted for more than […]",
+   "source": "Bitcoinist",
+   "ts": 1795274743,
+   "url": "https://bitcoinist.com/crypto-liquidations-top-billions-as-btc-sinks-below-57k/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations",
+   "summary": "Crypto-related equities suffered punishing weekly losses as bitcoin plunged to nearly $55,000 and a widespread technology sell-off pushed major Wall Street indexes into correction territory. Bitcoin plunged to its lowest price in more than two years early Saturday, extending a devastating week for cryptocurrency markets as…",
+   "source": "Bitcoin.com News",
+   "ts": 1795274327,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Crashes To Two-Year Low Near $55,000, Analysts Say A Bottom Could Be Close",
    "summary": "The Bitcoin price just hit a level traders haven't seen in more than two years. But as fear hits extremes and leverage gets wiped out, some analysts believe the worst of the selling may be almost done. BTC fell below $60,000 on Friday for the first time since July, then kept sliding overnight. It touched […]",
@@ -44,43 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Sinks Below $56K as Arthur Hayes Says Wait for the Bailout",
-   "summary": "Bitcoin lost nearly 17% in a week and almost a third of its value in a month as the sell-off deepened. Arthur Hayes urged crypto traders to wait for a bailout before buying, even if it meant missing the bottom. Hayes Urges Patience as Bitcoin Extends Its Slide Selling continued in crypto markets over the […]",
-   "source": "Bitcoin.com News",
-   "ts": 1795246223,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-sinks-below-56k-as-arthur-hayes-says-wait-for-the-bailout/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
    "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block's Spiral that uses AI agents to examine bitcoin code.",
    "source": "CoinDesk",
    "ts": 1795241802,
    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan says bitcoin's price drop pressures miners, Senate passes 'Death Bets Act', and more",
-   "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
-   "source": "The Block",
-   "ts": 1795235400,
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-   "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
-   "source": "CoinDesk",
-   "ts": 1795234207,
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-   "ad": false
-  },
-  {
-   "title": "Fidelity Strategist Stays Bullish as Bitcoin Dips Below $58K – Here's Why",
-   "summary": "Bitcoin's sell-off took it below the support level on a Fidelity strategist's weekly chart. He remains bullish but warned that a fall well below the rising line would call his long-term outlook into question. How Far Below Support Would Bitcoin Have to Fall? Jurrien Timmer, Fidelity Investments' director of global macro…",
-   "source": "Bitcoin.com News",
-   "ts": 1795231808,
-   "url": "https://news.bitcoin.com/market-updates/fidelity-strategist-stays-bullish-as-bitcoin-dips-below-58k-heres-why/",
    "ad": false
   }
  ]

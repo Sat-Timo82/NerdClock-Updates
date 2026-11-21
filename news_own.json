@@ -1,7 +1,15 @@
 {
- "updated": 1795265906,
+ "updated": 1795291397,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-unter-60000-ki-aktienausverkauf",
+   "title": "Bitcoin fällt erstmals seit Juli unter 60.000 US-Dollar – KI-Aktiencrash belastet Märkte",
+   "summary": "Bitcoin unter 60.000 US-Dollar: KI-Aktiencrash, ETF-Abflüsse und Zinsängste belasten den Kryptomarkt. Was steckt hinter dem Ausverkauf?",
+   "ts": 1795283164,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-60000-ki-aktienausverkauf",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-faellt-fed-protokoll-zinsa-ae1e8",
    "title": "Bitcoin fällt auf 62.500 Dollar: Fed-Protokoll signalisiert Zinsentscheid als \"knappe…",
@@ -232,14 +240,6 @@
    "summary": "Israels Banken bieten keine Bitcoin-Kredite an. Das erschwert Unternehmern den Kauf etablierter Firmen und verschärft die Finanzierungsdebatte.",
    "ts": 1793206268,
    "url": "https://nerdminer.de/blogs/news/netanyahu-krypto-umgehungswirtschaft-sanktionen",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-erholt-auf-82000-asiens-ma-37a88",
-   "title": "Bitcoin nähert sich 82.000 US-Dollar: Morgan Stanley sieht Korrektur weitgehend beendet",
-   "summary": "Bitcoin erholt sich Richtung 82.000 US-Dollar. Anleger beobachten Support bei 79.000 bis 80.000 Dollar und den Widerstand über 82.000 Dollar.",
-   "ts": 1793195351,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-erholt-auf-82000-asiens-markte-rally",
    "author": "Yannic Fraebel"
   }
  ]
