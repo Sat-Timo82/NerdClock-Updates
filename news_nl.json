@@ -1,8 +1,24 @@
 {
- "updated": 1795216785,
+ "updated": 1795234563,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+   "source": "CoinDesk",
+   "ts": 1795234207,
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+   "ad": false
+  },
+  {
+   "title": "Fidelity Strategist Stays Bullish as Bitcoin Dips Below $58K – Here's Why",
+   "summary": "Bitcoin's sell-off took it below the support level on a Fidelity strategist's weekly chart. He remains bullish but warned that a fall well below the rising line would call his long-term outlook into question. How Far Below Support Would Bitcoin Have to Fall? Jurrien Timmer, Fidelity Investments' director of global macro…",
+   "source": "Bitcoin.com News",
+   "ts": 1795231808,
+   "url": "https://news.bitcoin.com/market-updates/fidelity-strategist-stays-bullish-as-bitcoin-dips-below-58k-heres-why/",
+   "ad": false
+  },
   {
    "title": "Strategy, Coinbase Shares Battered as Bitcoin Price Hits 2-Year Low and AI Stocks Bleed",
    "summary": "Crypto-related equities suffered punishing weekly losses as bitcoin plunged below $58,000 and a widespread technology sell-off pushed major Wall Street indexes into correction territory. Shares of cryptocurrency companies plunged during a tumultuous week on Wall Street, with Strategy, Coinbase, and other prominent industry…",
@@ -65,22 +81,6 @@
    "source": "The Block",
    "ts": 1795198659,
    "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
-   "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
-   "source": "CoinDesk",
-   "ts": 1795198432,
-   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Crashes Below $59K as Crypto Liquidations Top $1.5B",
-   "summary": "Bitcoin dropped below $59,000 on Friday, hitting a multi-month low of $58,701 and extending a steep November downturn that leaves the cryptocurrency down over 30% year-to-date. Bitcoin Plunges Below $59,000 Amid Broad Crypto Market Rout Bitcoin's price plunged below $59,000 on Friday as the November cryptocurrency market rout…",
-   "source": "Bitcoin.com News",
-   "ts": 1795195261,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-crashes-below-59k-crypto-liquidations-top-1-5b/",
    "ad": false
   }
  ]
