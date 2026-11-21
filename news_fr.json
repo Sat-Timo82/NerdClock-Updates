@@ -1,8 +1,72 @@
 {
- "updated": 1795234563,
+ "updated": 1795265906,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
+  {
+   "title": "Bitcoin Price Crashes To Two-Year Low Near $55,000, Analysts Say A Bottom Could Be Close",
+   "summary": "The Bitcoin price just hit a level traders haven't seen in more than two years. But as fear hits extremes and leverage gets wiped out, some analysts believe the worst of the selling may be almost done. BTC fell below $60,000 on Friday for the first time since July, then kept sliding overnight. It touched […]",
+   "source": "Bitcoinist",
+   "ts": 1795264867,
+   "url": "https://bitcoinist.com/bitcoin-price-crashes-to-two-year-low-near-55000-analysts-say-a-bottom-could-be-close/",
+   "ad": false
+  },
+  {
+   "title": "Wells Fargo Leads as US Institutions Hit Record 356K Bitcoin Holdings: Galaxy",
+   "summary": "Institutional investors added a net 49,229 bitcoin through U.S. spot bitcoin ETFs in Q3, their biggest quarterly accumulation since Q2 2025. The standout buyers were financial advisers and wealth platforms, whose holdings reached record levels even as more recent crypto flows turned sharply negative. Wealth Platforms Lift…",
+   "source": "Bitcoin.com News",
+   "ts": 1795264243,
+   "url": "https://news.bitcoin.com/finance/wells-fargo-leads-us-institutions-hit-record-356k-bitcoin-holdings/",
+   "ad": false
+  },
+  {
+   "title": "IOSCO Warns of Quantum Risk to Blockchains as Bitcoin Devs Weigh Fixes",
+   "summary": "In its latest quantum computing report, IOSCO estimates that blockchain networks, including bitcoin, could face challenges in achieving preparedness before a post-quantum computing world, as they require coordinated action to upgrade and change the elements driving these decentralized networks. IOSCO Alerts About Blockchain's…",
+   "source": "Bitcoin.com News",
+   "ts": 1795260653,
+   "url": "https://news.bitcoin.com/security/iosco-warns-quantum-risk-blockchains-bitcoin-devs-weigh-fixes/",
+   "ad": false
+  },
+  {
+   "title": "Biggest HYPE Whale Burns Through $50M of Profit and Nears Liquidation",
+   "summary": "The largest long position in HYPE on Hyperliquid is now within roughly 9% of liquidation, and the trader behind it has fed $7 million in fresh USDC into the account since Friday to keep it alive. A $68M Winner Turns Into a Rescue Job Onchain analytics account Lookonchain flagged the position earlier today, highlighting: The […]",
+   "source": "Bitcoin.com News",
+   "ts": 1795255201,
+   "url": "https://news.bitcoin.com/defi/biggest-hype-whale-adds-7m-dodge-liquidation-80m-long/",
+   "ad": false
+  },
+  {
+   "title": "Saylor's Strategy Flaunts $35B Reserves as Adam Back Buys the MSTR Dip",
+   "summary": "Strategy revealed yesterday that its net reserve stands at $35 billion with all of its bitcoin unencumbered, the same day Blockstream CEO Adam Back said he was buying MSTR after the stock fell to its lowest close since February 2024. Strategy Draws a Line Against 2022 Strategy (Nasdaq: MSTR) posted the comparison on Friday…",
+   "source": "Bitcoin.com News",
+   "ts": 1795251657,
+   "url": "https://news.bitcoin.com/featured/strategy-35-billion-net-reserve-adam-back-buys-mstr/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Sinks Below $56K as Arthur Hayes Says Wait for the Bailout",
+   "summary": "Bitcoin lost nearly 17% in a week and almost a third of its value in a month as the sell-off deepened. Arthur Hayes urged crypto traders to wait for a bailout before buying, even if it meant missing the bottom. Hayes Urges Patience as Bitcoin Extends Its Slide Selling continued in crypto markets over the […]",
+   "source": "Bitcoin.com News",
+   "ts": 1795246223,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-sinks-below-56k-as-arthur-hayes-says-wait-for-the-bailout/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block's Spiral that uses AI agents to examine bitcoin code.",
+   "source": "CoinDesk",
+   "ts": 1795241802,
+   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan says bitcoin's price drop pressures miners, Senate passes 'Death Bets Act', and more",
+   "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+   "source": "The Block",
+   "ts": 1795235400,
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+   "ad": false
+  },
   {
    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
    "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
@@ -17,70 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1795231808,
    "url": "https://news.bitcoin.com/market-updates/fidelity-strategist-stays-bullish-as-bitcoin-dips-below-58k-heres-why/",
-   "ad": false
-  },
-  {
-   "title": "Strategy, Coinbase Shares Battered as Bitcoin Price Hits 2-Year Low and AI Stocks Bleed",
-   "summary": "Crypto-related equities suffered punishing weekly losses as bitcoin plunged below $58,000 and a widespread technology sell-off pushed major Wall Street indexes into correction territory. Shares of cryptocurrency companies plunged during a tumultuous week on Wall Street, with Strategy, Coinbase, and other prominent industry…",
-   "source": "Bitcoin.com News",
-   "ts": 1795212933,
-   "url": "https://news.bitcoin.com/market-updates/strategy-coinbase-shares-battered-bitcoin-price-2-year-low-ai-stocks-bleed/",
-   "ad": false
-  },
-  {
-   "title": "Tracy Schuchart: Bitcoin Trading \"Like a Risk Asset\" as Fed Hikes Loom",
-   "summary": "Bitcoin Magazine Tracy Schuchart: Bitcoin Trading \"Like a Risk Asset\" as Fed Hikes Loom Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today. This post Tracy Schuchart: Bitcoin Trading \"Like a Risk Asset\" as Fed Hikes…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795212611,
-   "url": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
-   "ad": false
-  },
-  {
-   "title": "DCG's Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
-   "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
-   "source": "The Block",
-   "ts": 1795210801,
-   "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
-   "summary": "The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower. This post Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% first appeared on Bitcoin Magazine and is…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795208882,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Hits Lowest Price Since 2024 After Peter Brandt Warns of Deflation",
-   "summary": "Bitcoin plunged below $58,000 to hit its lowest price in over two years Friday as Peter Brandt warned that a sell-off across financial and raw material markets would likely lead to deflation. His forecast concerned the broader market, while the latest U.S. consumer-price data still showed inflation. Bitcoin Breaks Below…",
-   "source": "Bitcoin.com News",
-   "ts": 1795202697,
-   "url": "https://news.bitcoin.com/market-updates/peter-brandt-warns-deflation-bitcoin-lowest-price-since-2024/",
-   "ad": false
-  },
-  {
-   "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
-   "summary": "Bitcoin Magazine MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance Chaitanya \"CJ\" Jain, Head of Investor Relations at Strategy, joins Bitcoin Magazine TV as Bitcoin trades below Strategy's average cost. This post MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance first…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795202695,
-   "url": "https://bitcoinmagazine.com/videos/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
-   "ad": false
-  },
-  {
-   "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
-   "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
-   "source": "The Block",
-   "ts": 1795198959,
-   "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
-   "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.",
-   "source": "The Block",
-   "ts": 1795198659,
-   "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
    "ad": false
   }
  ]

@@ -1,8 +1,40 @@
 {
- "updated": 1795234563,
+ "updated": 1795265906,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "VanEck trennt sich von Gemini als Krypto-Verwahrer für Spot ETFs",
+   "summary": "Der Vermögensverwalter VanEck setzt bei seinen Bitcoin, Ethereum und Solana ETFs zukünftig auf Coinbase als Krypto-Verwahrer. Für Gemini ist es ein weiterer Rückschlag. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795264895,
+   "url": "https://www.btc-echo.de/news/vaneck-trennt-sich-von-gemini-als-krypto-verwahrer-241359/",
+   "ad": false
+  },
+  {
+   "title": "411 Tage nach dem Allzeithoch: Bitcoin offiziell im längsten Bärenmarkt aller Zeiten",
+   "summary": "Bitcoin ist am 4. Jahrestag des Bärenmarktbodens 2022 auf ein neues Tief gefallen. Damit ist es die längste Abwärtstrecke in der BTCGeschichte. Zyklus gebrochen?",
+   "source": "Blocktrainer",
+   "ts": 1795260039,
+   "url": "https://www.blocktrainer.de/blog/411-tage-nach-dem-allzeithoch-bitcoin-offiziell-im-laengsten-baerenmarkt-aller-zeiten",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin siegt, die Freiheit verliert",
+   "summary": "Jeff Booth ist überzeugt, dass sich Bitcoin als Geld durchsetzt. Gerade dieser Erfolg könnte die Menschen aber unfreier machen, warnt er. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795257000,
+   "url": "https://www.btc-echo.de/news/bitcoin-siegt-die-freiheit-verliert-240821/",
+   "ad": false
+  },
+  {
+   "title": "\"Verkauft MicroStrategy, kauft Bitcoin\"",
+   "summary": "Michael Saylor wirbt öffentlich für ChatGPT 6.2, während die MicroStrategy-Aktie immer tiefer korrigiert. Droht seinem Bitcoin-Imperium der Zusammenbruch? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795244410,
+   "url": "https://www.btc-echo.de/news/verkauft-microstrategy-kauft-bitcoin-michael-saylor-in-not-241286/",
+   "ad": false
+  },
   {
    "title": "Märkte im Stressmodus: Bitcoin fällt unter 60.000 US-Dollar zurück",
    "summary": "Bitcoin fällt wieder unter 60.000 US-Dollar, während auch Aktien und Edelmetalle einbrechen. An den Märkten herrscht Panik, von der sich BTC nicht loslösen kann.",
@@ -49,22 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1795104536,
    "url": "https://www.blocktrainer.de/blog/schuldenproblem-trump-media-bitcoin-verkaufen",
-   "ad": false
-  },
-  {
-   "title": "Taschengeld in Bitcoin? Dieser Vater setzt auf BTC statt Euro",
-   "summary": "Was früher das Sparbuch war, könnte für die nächste Generation Bitcoin sein. Warum Finanzbildung für Kinder und Jugendliche immer wichtiger wird. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795082400,
-   "url": "https://www.btc-echo.de/news/taschengeld-in-bitcoin-vater-zahlt-btc-statt-euro-241196/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Kapitulation: Krypto-Experten sehen weiteres Abwärtspotenzial",
-   "summary": "Der jüngste Abverkauf am Krypto-Markt erinnert an die Tiefpunkte von 2018 und 2022. Warum Glassnode noch keinen finalen Boden für Bitcoin ausrufen will. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795074359,
-   "url": "https://www.btc-echo.de/news/bitcoin-kapitulation-noch-keine-entwarnung-241205/",
    "ad": false
   }
  ]
