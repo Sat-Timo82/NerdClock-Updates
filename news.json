@@ -1,5 +1,5 @@
 {
- "updated": 1795306671,
+ "updated": 1795332279,
  "mode": "stichworte",
  "lang": "de",
  "items": [
@@ -65,14 +65,6 @@
    "source": "BTC-ECHO",
    "ts": 1795179600,
    "url": "https://www.btc-echo.de/news/zcash-im-freien-fall-etf-antrag-kann-kursrutsch-nicht-stoppen-241315/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Paukenschlag im Movie2k-Prozess: Gibt der Angeklagte 40.000 BTC ab?",
-   "summary": "Im milliardenschweren Movie2k-Prozess könnte Deutschland weitere 40.000 Bitcoin erhalten. BTC-ECHO hat exklusiv mit der Generalstaatsanwaltschaft Dresden gesprochen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795153076,
-   "url": "https://www.btc-echo.de/news/bitcoin-paukenschlag-im-movie2k-prozess-gibt-der-angeklagte-40-000-btc-ab-241226/",
    "ad": false
   }
  ]

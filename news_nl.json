@@ -1,8 +1,40 @@
 {
- "updated": 1795306671,
+ "updated": 1795332279,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "Bitcoin Retakes $60K After Michael Saylor's 4-Word Message to Holders",
+   "summary": "Michael Saylor urged bitcoin holders to remember why they bought the crypto during the Nov. 20 sell-off. Bitcoin later fell to near $55K before recovering above $60K the next morning. Bitcoin Reclaims $60,000 on Nov. 21 Bitcoin's monthlong selloff had erased more than a quarter of its value by the morning of Nov. 21. The […]",
+   "source": "Bitcoin.com News",
+   "ts": 1795322710,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-retakes-60k-after-michael-saylors-4-word-message-to-holders/",
+   "ad": false
+  },
+  {
+   "title": "Robert Kiyosaki Urges Buyers to Wait Out the Crash as Bitcoin Plummets",
+   "summary": "Robert Kiyosaki urged bitcoin buyers to wait until the crash ends as falling prices renewed his interest in buying more. He recalled buying bitcoin at $20,000 per coin after an earlier downturn and said he would wait for another bottom. Kiyosaki Says Wait for the Crash to End Bitcoin's sell-off brought market timing into focus…",
+   "source": "Bitcoin.com News",
+   "ts": 1795318233,
+   "url": "https://news.bitcoin.com/featured/robert-kiyosaki-urges-buyers-to-wait-out-the-crash-as-bitcoin-plummets/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Mining Profits Turn Ugly Despite Hashrate's Return Above 1 ZH/s",
+   "summary": "After shedding roughly 100 exahash per second (EH/s) in computational power, while bitcoin's price retreated to levels last witnessed during the first week of September 2024, Bitcoin's hashrate has rebounded decisively, reclaiming the 1,000 EH/s threshold, equivalent to 1 zettahash per second (ZH/s) of processing power…",
+   "source": "Bitcoin.com News",
+   "ts": 1795313674,
+   "url": "https://news.bitcoin.com/mining/bitcoin-mining-profits-turn-ugly-despite-hashrates-return-above-1-zh-s/",
+   "ad": false
+  },
+  {
+   "title": "AI Finds Bitcoin Core Security Flaw That Could Temporarily Freeze Nodes",
+   "summary": "Bitcoin Core disclosed a medium-severity vulnerability on Friday, Nov. 20, 2026, that allowed malicious peers to temporarily paralyze nodes through repeated transaction announcements. The flaw, discovered through artificial intelligence-assisted security research, highlights how automated vulnerability detection is…",
+   "source": "Bitcoin.com News",
+   "ts": 1795306660,
+   "url": "https://news.bitcoin.com/security/ai-finds-bitcoin-core-security-flaw-that-could-temporarily-freeze-nodes/",
+   "ad": false
+  },
   {
    "title": "Behind Closed Doors, Central Banks Build a Case for Bitcoin–But With Gold",
    "summary": "In conversations behind closed doors, central bank officials explain that these institutions hold gold and don't want tokenized gold for the exact same reason bitcoin is valuable: self-custody. At least one central bank is already known to hold bitcoin (BTC), while 7% of surveyed central banks said they were considering…",
@@ -44,43 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin Price Rebounds to $60K After Crash Near $55K, Leaving Billions in Liquidations",
-   "summary": "Crypto-related equities suffered punishing weekly losses as bitcoin plunged to nearly $55,000 and a widespread technology sell-off pushed major Wall Street indexes into correction territory. Bitcoin plunged to its lowest price in more than two years early Saturday, extending a devastating week for cryptocurrency markets as…",
-   "source": "Bitcoin.com News",
-   "ts": 1795274327,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-rebounds-60k-crash-near-55k-billions-liquidations/",
-   "ad": false
-  },
-  {
    "title": "Bitcoin Price Crashes To Two-Year Low Near $55,000, Analysts Say A Bottom Could Be Close",
    "summary": "The Bitcoin price just hit a level traders haven't seen in more than two years. But as fear hits extremes and leverage gets wiped out, some analysts believe the worst of the selling may be almost done. BTC fell below $60,000 on Friday for the first time since July, then kept sliding overnight. It touched […]",
    "source": "Bitcoinist",
    "ts": 1795264867,
    "url": "https://bitcoinist.com/bitcoin-price-crashes-to-two-year-low-near-55000-analysts-say-a-bottom-could-be-close/",
-   "ad": false
-  },
-  {
-   "title": "Wells Fargo Leads as US Institutions Hit Record 356K Bitcoin Holdings: Galaxy",
-   "summary": "Institutional investors added a net 49,229 bitcoin through U.S. spot bitcoin ETFs in Q3, their biggest quarterly accumulation since Q2 2025. The standout buyers were financial advisers and wealth platforms, whose holdings reached record levels even as more recent crypto flows turned sharply negative. Wealth Platforms Lift…",
-   "source": "Bitcoin.com News",
-   "ts": 1795264243,
-   "url": "https://news.bitcoin.com/finance/wells-fargo-leads-us-institutions-hit-record-356k-bitcoin-holdings/",
-   "ad": false
-  },
-  {
-   "title": "IOSCO Warns of Quantum Risk to Blockchains as Bitcoin Devs Weigh Fixes",
-   "summary": "In its latest quantum computing report, IOSCO estimates that blockchain networks, including bitcoin, could face challenges in achieving preparedness before a post-quantum computing world, as they require coordinated action to upgrade and change the elements driving these decentralized networks. IOSCO Alerts About Blockchain's…",
-   "source": "Bitcoin.com News",
-   "ts": 1795260653,
-   "url": "https://news.bitcoin.com/security/iosco-warns-quantum-risk-blockchains-bitcoin-devs-weigh-fixes/",
-   "ad": false
-  },
-  {
-   "title": "Biggest HYPE Whale Burns Through $50M of Profit and Nears Liquidation",
-   "summary": "The largest long position in HYPE on Hyperliquid is now within roughly 9% of liquidation, and the trader behind it has fed $7 million in fresh USDC into the account since Friday to keep it alive. A $68M Winner Turns Into a Rescue Job Onchain analytics account Lookonchain flagged the position earlier today, highlighting: The […]",
-   "source": "Bitcoin.com News",
-   "ts": 1795255201,
-   "url": "https://news.bitcoin.com/defi/biggest-hype-whale-adds-7m-dodge-liquidation-80m-long/",
    "ad": false
   }
  ]
