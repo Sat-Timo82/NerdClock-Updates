@@ -1,8 +1,16 @@
 {
- "updated": 1795361924,
+ "updated": 1795383797,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Kursverfall bei Strategy: Die Lage bei MSTR und STRC",
+   "summary": "Der Kursverfall bei Strategy hat sich im November beschleunigt, Ende des Monats fliegt die Aktie aus den MSCI-Indizes. Saylor stellt derweil den Geldfluss um. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795363200,
+   "url": "https://www.btc-echo.de/news/kursverfall-bei-strategy-die-lage-bei-mstr-und-strc-241304/",
+   "ad": false
+  },
   {
    "title": "883 Millionen Dollar Schulden: Muss Trump Media tausende Bitcoin verkaufen?",
    "summary": "Nach einem Kurssturz der Aktie droht Trump Media ein hoher Mittelabfluss durch Wandelanleihen. Wie das Management seine 15.649 Bitcoin retten will. Source: BTC-ECHO BTC-ECHO",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795257000,
    "url": "https://www.btc-echo.de/news/bitcoin-siegt-die-freiheit-verliert-240821/",
-   "ad": false
-  },
-  {
-   "title": "\"Verkauft MicroStrategy, kauft Bitcoin\"",
-   "summary": "Michael Saylor wirbt öffentlich für ChatGPT 6.2, während die MicroStrategy-Aktie immer tiefer korrigiert. Droht seinem Bitcoin-Imperium der Zusammenbruch? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795244410,
-   "url": "https://www.btc-echo.de/news/verkauft-microstrategy-kauft-bitcoin-michael-saylor-in-not-241286/",
    "ad": false
   }
  ]
