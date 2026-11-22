@@ -1,8 +1,24 @@
 {
- "updated": 1795291397,
+ "updated": 1795306671,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "Behind Closed Doors, Central Banks Build a Case for Bitcoin–But With Gold",
+   "summary": "In conversations behind closed doors, central bank officials explain that these institutions hold gold and don't want tokenized gold for the exact same reason bitcoin is valuable: self-custody. At least one central bank is already known to hold bitcoin (BTC), while 7% of surveyed central banks said they were considering…",
+   "source": "Bitcoin.com News",
+   "ts": 1795301712,
+   "url": "https://news.bitcoin.com/finance/behind-closed-doors-central-banks-build-case-bitcoin-gold/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Proof-of-Work Can Help Stop AI Cyberattacks: Ex-Space Force Director",
+   "summary": "Major Jason Lowery, author of the Softwar thesis, has proposed using the proof-of-work consensus mechanism that secures bitcoin to defend key U.S. digital property against artificial intelligence-led threats, which are already affecting financial institutions and government agencies. Jason Lowery Proposes Using Proof of Work…",
+   "source": "Bitcoin.com News",
+   "ts": 1795296344,
+   "url": "https://news.bitcoin.com/security/bitcoin-proof-work-stop-ai-cyberattacks-ex-space-force-director/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Miners Had Fewer Hardware Sellers in 2026 as BTC Tanked and AI Grew",
    "summary": "While more companies attempted to challenge Bitmain's dominance in the Bitcoin mining hardware market, these efforts–which are relevant to Bitcoin's resilience–now appear to be on pause. Bitmain's challengers have either stopped selling to external clients or sharply reduced sales. While mining pool concentration is the most…",
@@ -12,7 +28,7 @@
    "ad": false
   },
   {
-   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday's stock open",
+   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
    "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
    "source": "CoinDesk",
    "ts": 1795283400,
@@ -65,22 +81,6 @@
    "source": "Bitcoin.com News",
    "ts": 1795255201,
    "url": "https://news.bitcoin.com/defi/biggest-hype-whale-adds-7m-dodge-liquidation-80m-long/",
-   "ad": false
-  },
-  {
-   "title": "Saylor's Strategy Flaunts $35B Reserves as Adam Back Buys the MSTR Dip",
-   "summary": "Strategy revealed yesterday that its net reserve stands at $35 billion with all of its bitcoin unencumbered, the same day Blockstream CEO Adam Back said he was buying MSTR after the stock fell to its lowest close since February 2024. Strategy Draws a Line Against 2022 Strategy (Nasdaq: MSTR) posted the comparison on Friday…",
-   "source": "Bitcoin.com News",
-   "ts": 1795251657,
-   "url": "https://news.bitcoin.com/featured/strategy-35-billion-net-reserve-adam-back-buys-mstr/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
-   "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block's Spiral that uses AI agents to examine bitcoin code.",
-   "source": "CoinDesk",
-   "ts": 1795241802,
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
    "ad": false
   }
  ]
