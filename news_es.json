@@ -1,8 +1,48 @@
 {
- "updated": 1795332279,
+ "updated": 1795361924,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "'The Dots Aren't Done': Michael Saylor Hints at Another Strategy Bitcoin Buy",
+   "summary": "Michael Saylor revived speculation about another Strategy bitcoin purchase as the company's holdings remained below their acquisition cost. Bitcoin traded near $60,000 after recovering from a sharper sell-off, while the latest disclosed purchase left Strategy holding 850,849 BTC. Saylor Shares Another Bitcoin Purchase Chart…",
+   "source": "Bitcoin.com News",
+   "ts": 1795357827,
+   "url": "https://news.bitcoin.com/featured/the-dots-arent-done-michael-saylor-hints-at-another-strategy-bitcoin-buy/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+   "summary": "Quantum computers can't break Bitcoin network's security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+   "source": "CoinDesk",
+   "ts": 1795356000,
+   "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+   "ad": false
+  },
+  {
+   "title": "Bored Crypto Investors Dump Bitcoin to Chase Massive AI Stocks",
+   "summary": "According to a Bloomberg report, the crypto crowd is pivoting to other investment options as exchange trading volumes decline. New speculation targets include AI stocks, betting on decision-based event markets, and using perpetuals to bet on commodity prices on prediction market platforms. Crypto Investors Are Pivoting to…",
+   "source": "Bitcoin.com News",
+   "ts": 1795343405,
+   "url": "https://news.bitcoin.com/finance/bored-crypto-investors-dump-bitcoin-to-chase-massive-ai-stocks/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+   "source": "Cointelegraph",
+   "ts": 1795339986,
+   "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Reclaims $60,000 After 9% Bounce From Two-Year Low",
+   "summary": "Bitcoin reclaims $60K level after it staged a sharp recovery from falling to its lowest price in more than two years, climbing back above $60,000 as traders assess whether the latest rebound can withstand renewed pressure from traditional financial markets. BTC recovered more than 9% from an early low of $55,130 on Saturday…",
+   "source": "Bitcoinist",
+   "ts": 1795334206,
+   "url": "https://bitcoinist.com/bitcoin-reclaims-60000-after-9-bounce-from-two-year-low/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Retakes $60K After Michael Saylor's 4-Word Message to Holders",
    "summary": "Michael Saylor urged bitcoin holders to remember why they bought the crypto during the Nov. 20 sell-off. Bitcoin later fell to near $55K before recovering above $60K the next morning. Bitcoin Reclaims $60,000 on Nov. 21 Bitcoin's monthlong selloff had erased more than a quarter of its value by the morning of Nov. 21. The […]",
@@ -36,51 +76,11 @@
    "ad": false
   },
   {
-   "title": "Behind Closed Doors, Central Banks Build a Case for Bitcoin–But With Gold",
-   "summary": "In conversations behind closed doors, central bank officials explain that these institutions hold gold and don't want tokenized gold for the exact same reason bitcoin is valuable: self-custody. At least one central bank is already known to hold bitcoin (BTC), while 7% of surveyed central banks said they were considering…",
-   "source": "Bitcoin.com News",
-   "ts": 1795301712,
-   "url": "https://news.bitcoin.com/finance/behind-closed-doors-central-banks-build-case-bitcoin-gold/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Proof-of-Work Can Help Stop AI Cyberattacks: Ex-Space Force Director",
-   "summary": "Major Jason Lowery, author of the Softwar thesis, has proposed using the proof-of-work consensus mechanism that secures bitcoin to defend key U.S. digital property against artificial intelligence-led threats, which are already affecting financial institutions and government agencies. Jason Lowery Proposes Using Proof of Work…",
-   "source": "Bitcoin.com News",
-   "ts": 1795296344,
-   "url": "https://news.bitcoin.com/security/bitcoin-proof-work-stop-ai-cyberattacks-ex-space-force-director/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Miners Had Fewer Hardware Sellers in 2026 as BTC Tanked and AI Grew",
-   "summary": "While more companies attempted to challenge Bitmain's dominance in the Bitcoin mining hardware market, these efforts–which are relevant to Bitcoin's resilience–now appear to be on pause. Bitmain's challengers have either stopped selling to external clients or sharply reduced sales. While mining pool concentration is the most…",
-   "source": "Bitcoin.com News",
-   "ts": 1795290948,
-   "url": "https://news.bitcoin.com/opinion-and-analysis/bitcoin-miners-fewer-hardware-sellers-2026-btc-tanked-ai-grew/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-   "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
-   "source": "CoinDesk",
-   "ts": 1795283400,
-   "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-   "ad": false
-  },
-  {
    "title": "Crypto Liquidations Top $2.4B As Bitcoin Sinks Below $57,000, But Shorts Are Now Piling In",
    "summary": "Bitcoin's slide below $57,000 did more than set a two-year low. It wiped out a huge chunk of the leverage that had been building in the market, and the traders betting on further losses may now be the ones exposed. Crypto liquidations reached about $2.4 billion over 24 hours. Bitcoin futures accounted for more than […]",
    "source": "Bitcoinist",
    "ts": 1795274743,
    "url": "https://bitcoinist.com/crypto-liquidations-top-billions-as-btc-sinks-below-57k/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Crashes To Two-Year Low Near $55,000, Analysts Say A Bottom Could Be Close",
-   "summary": "The Bitcoin price just hit a level traders haven't seen in more than two years. But as fear hits extremes and leverage gets wiped out, some analysts believe the worst of the selling may be almost done. BTC fell below $60,000 on Friday for the first time since July, then kept sliding overnight. It touched […]",
-   "source": "Bitcoinist",
-   "ts": 1795264867,
-   "url": "https://bitcoinist.com/bitcoin-price-crashes-to-two-year-low-near-55000-analysts-say-a-bottom-could-be-close/",
    "ad": false
   }
  ]

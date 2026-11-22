@@ -1,8 +1,48 @@
 {
- "updated": 1795332279,
+ "updated": 1795361924,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "883 Millionen Dollar Schulden: Muss Trump Media tausende Bitcoin verkaufen?",
+   "summary": "Nach einem Kurssturz der Aktie droht Trump Media ein hoher Mittelabfluss durch Wandelanleihen. Wie das Management seine 15.649 Bitcoin retten will. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795358040,
+   "url": "https://www.btc-echo.de/news/schuldenfalle-muss-trump-media-tausende-bitcoin-verkaufen-241375/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Kurs fällt auf Kraken unter 17.000 Dollar",
+   "summary": "Auf der Krypto-Börse Kraken rutschte der Bitcoin-Kurs am Samstagmorgen zeitweise auf das Bärenmarkt-Level von 2022. Wie kam es zum historischen Crash? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795350220,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-faellt-auf-kraken-unter-17-000-dollar-241372/",
+   "ad": false
+  },
+  {
+   "title": "Heizpanel, Luftreiniger und Heizstab: Heatbit integriert Bitcoin-Mining in den Alltag",
+   "summary": "Heatbit integriert Bitcoin-Mining in Heizgeräte, Luftreiniger und Warmwasserspeicher. Wie funktionieren die Geräte und lohnt sich die Anschaffung?",
+   "source": "Blocktrainer",
+   "ts": 1795349700,
+   "url": "https://www.blocktrainer.de/blog/heatbit-integriert-bitcoin-mining-in-den-alltag",
+   "ad": false
+  },
+  {
+   "title": "Krypto-Reserve in Russland: Kommunistische Partei fordert Bitcoin-Integration",
+   "summary": "Russlands Kommunistische Partei will beschlagnahmte Kryptowährungen in die Staatsreserven aufnehmen. Wie realistisch ist der Bitcoin-Vorstoß? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795341364,
+   "url": "https://www.btc-echo.de/news/krypto-reserve-in-russland-kommunisten-fordern-bitcoin-241366/",
+   "ad": false
+  },
+  {
+   "title": "\"Bitcoin ist unterbewertet\": Die ideale Einstiegschance für Anleger?",
+   "summary": "Der gestrige Krypto-Crash stürzte den Bitcoin-Kurs zweitweise unter 56.000 Dollar. Warum die Kryptowährung selten so attraktiv bewertet war. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795338759,
+   "url": "https://www.btc-echo.de/news/bitcoin-ist-unterbewertet-ideale-einstiegschance-241365/",
+   "ad": false
+  },
   {
    "title": "Zoll an der Wallet? Was das Zollfinanzgerechtigkeitsgesetz für Bitcoiner bedeutet",
    "summary": "Der Bundestag gibt dem Zoll neue Befugnisse, auch bei Bitcoin. Für Anleger mit großem Bestand lauert die eigentliche Gefahr aber an anderer Stelle. Source: BTC-ECHO BTC-ECHO",
@@ -41,30 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795244410,
    "url": "https://www.btc-echo.de/news/verkauft-microstrategy-kauft-bitcoin-michael-saylor-in-not-241286/",
-   "ad": false
-  },
-  {
-   "title": "Märkte im Stressmodus: Bitcoin fällt unter 60.000 US-Dollar zurück",
-   "summary": "Bitcoin fällt wieder unter 60.000 US-Dollar, während auch Aktien und Edelmetalle einbrechen. An den Märkten herrscht Panik, von der sich BTC nicht loslösen kann.",
-   "source": "Blocktrainer",
-   "ts": 1795197292,
-   "url": "https://www.blocktrainer.de/blog/maerkte-im-stressmodus-bitcoin-faellt-unter-60000-us-dollar-zurueck",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-ETF-Bestände von institutionellen Investoren erreichen neues Allzeithoch",
-   "summary": "Institutionelle Investoren melden Rekordbestände in Bitcoin-ETFs: 356.491 BTC-Äquivalente zum Ende des dritten Quartals. Vor allem langfristige Halter stocken auf.",
-   "source": "Blocktrainer",
-   "ts": 1795184665,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-etf-bestaende-von-institutionellen-investoren-erreichen-neues-allzeithoch",
-   "ad": false
-  },
-  {
-   "title": "Zcash im freien Fall: ETF-Antrag kann Kursrutsch nicht stoppen",
-   "summary": "Von fast 1.700 US-Dollar ist bei Zcash nicht mehr viel übrig. Jetzt sollen neue ETF-Pläne für frischen Wind sorgen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795179600,
-   "url": "https://www.btc-echo.de/news/zcash-im-freien-fall-etf-antrag-kann-kursrutsch-nicht-stoppen-241315/",
    "ad": false
   }
  ]
