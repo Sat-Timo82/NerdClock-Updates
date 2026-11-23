@@ -1,8 +1,56 @@
 {
- "updated": 1795401411,
+ "updated": 1795432599,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin-Prognose: Bloomberg-Stratege hält 10.000 US-Dollar für \"guten Anziehungspunkt\"",
+   "summary": "Bloomberg-Stratege Mike McGlone sieht fast alle Märkte vor dem Absturz. Für Bitcoin und Krypto zeichnet er ein besonders düsteres Bild. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795428931,
+   "url": "https://www.btc-echo.de/news/bitcoin-prognose-stratege-haelt-1000-us-dollar-fuer-moeglich-241401/",
+   "ad": false
+  },
+  {
+   "title": "KI entdeckt erneut Sicherheitslücke in Bitcoin Core",
+   "summary": "Bitcoin Core schließt eine per KI entdeckte Sicherheitslücke, die Nodes lahmlegen konnte. Wie gefährlich der Fehler ist und wer jetzt updaten muss. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795421460,
+   "url": "https://www.btc-echo.de/news/ki-entdeckt-erneut-sicherheitsluecke-in-bitcoin-core-241392/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin wieder über 60.000 US-Dollar: Das erwarten Analysten jetzt",
+   "summary": "Nach dem Absturz auf den tiefsten Stand seit 2024 erholt sich Bitcoin kräftig. Wie Analysten die Bewegung jetzt einordnen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795417551,
+   "url": "https://www.btc-echo.de/news/bitcoin-wieder-ueber-60-000-us-dollar-das-erwarten-analysten-jetzt-241388/",
+   "ad": false
+  },
+  {
+   "title": "Für Bitcoiner: Die besten Deals und Rabatte zur Black Week 2026",
+   "summary": "Wallets, Miner, Merch und mehr. Wir haben für euch die besten BLACK WEEK DEALS 2026 herausgesucht und in diesem Artikel zusammengefasst.",
+   "source": "Blocktrainer",
+   "ts": 1795417260,
+   "url": "https://www.blocktrainer.de/blog/fuer-bitcoiner-die-besten-deals-und-rabatte-zur-black-week-2026",
+   "ad": false
+  },
+  {
+   "title": "Robert Kiyosaki: \"Am meisten freue ich mich über den Bitcoin-Crash\"",
+   "summary": "Gold, Silber und Bitcoin sind zuletzt heftig eingebrochen. Warum sich Finanzexperte Robert Kiyosaki darüber freut – und was er Anlegern jetzt empfiehlt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795414772,
+   "url": "https://www.btc-echo.de/news/robert-kiyosaki-ich-freue-mich-ueber-den-bitcoin-crash-241378/",
+   "ad": false
+  },
+  {
+   "title": "Was für Bitcoin und Krypto diese Woche wichtig wird",
+   "summary": "US-Kerninflationsdaten sowie aktuelle Schätzungen zum Wirtschaftswachstum könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795402800,
+   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-70-241285/",
+   "ad": false
+  },
   {
    "title": "Kursverfall bei Strategy: Die Lage bei MSTR und STRC",
    "summary": "Der Kursverfall bei Strategy hat sich im November beschleunigt, Ende des Monats fliegt die Aktie aus den MSCI-Indizes. Saylor stellt derweil den Geldfluss um. Source: BTC-ECHO BTC-ECHO",
@@ -20,14 +68,6 @@
    "ad": false
   },
   {
-   "title": "Bitcoin-Kurs fällt auf Kraken unter 17.000 Dollar",
-   "summary": "Auf der Krypto-Börse Kraken rutschte der Bitcoin-Kurs am Samstagmorgen zeitweise auf das Bärenmarkt-Level von 2022. Wie kam es zum historischen Crash? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795350220,
-   "url": "https://www.btc-echo.de/news/bitcoin-kurs-faellt-auf-kraken-unter-17-000-dollar-241372/",
-   "ad": false
-  },
-  {
    "title": "Heizpanel, Luftreiniger und Heizstab: Heatbit integriert Bitcoin-Mining in den Alltag",
    "summary": "Heatbit integriert Bitcoin-Mining in Heizgeräte, Luftreiniger und Warmwasserspeicher. Wie funktionieren die Geräte und lohnt sich die Anschaffung?",
    "source": "Blocktrainer",
@@ -41,46 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795341364,
    "url": "https://www.btc-echo.de/news/krypto-reserve-in-russland-kommunisten-fordern-bitcoin-241366/",
-   "ad": false
-  },
-  {
-   "title": "\"Bitcoin ist unterbewertet\": Die ideale Einstiegschance für Anleger?",
-   "summary": "Der gestrige Krypto-Crash stürzte den Bitcoin-Kurs zweitweise unter 56.000 Dollar. Warum die Kryptowährung selten so attraktiv bewertet war. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795338759,
-   "url": "https://www.btc-echo.de/news/bitcoin-ist-unterbewertet-ideale-einstiegschance-241365/",
-   "ad": false
-  },
-  {
-   "title": "Zoll an der Wallet? Was das Zollfinanzgerechtigkeitsgesetz für Bitcoiner bedeutet",
-   "summary": "Der Bundestag gibt dem Zoll neue Befugnisse, auch bei Bitcoin. Für Anleger mit großem Bestand lauert die eigentliche Gefahr aber an anderer Stelle. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795266000,
-   "url": "https://www.btc-echo.de/news/was-zollfinanzgerechtigkeitsgesetz-fuer-bitcoiner-bedeutet-241281/",
-   "ad": false
-  },
-  {
-   "title": "VanEck trennt sich von Gemini als Krypto-Verwahrer für Spot ETFs",
-   "summary": "Der Vermögensverwalter VanEck setzt bei seinen Bitcoin, Ethereum und Solana ETFs zukünftig auf Coinbase als Krypto-Verwahrer. Für Gemini ist es ein weiterer Rückschlag. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795264895,
-   "url": "https://www.btc-echo.de/news/vaneck-trennt-sich-von-gemini-als-krypto-verwahrer-241359/",
-   "ad": false
-  },
-  {
-   "title": "411 Tage nach dem Allzeithoch: Bitcoin offiziell im längsten Bärenmarkt aller Zeiten",
-   "summary": "Bitcoin ist am 4. Jahrestag des Bärenmarktbodens 2022 auf ein neues Tief gefallen. Damit ist es die längste Abwärtstrecke in der BTCGeschichte. Zyklus gebrochen?",
-   "source": "Blocktrainer",
-   "ts": 1795260039,
-   "url": "https://www.blocktrainer.de/blog/411-tage-nach-dem-allzeithoch-bitcoin-offiziell-im-laengsten-baerenmarkt-aller-zeiten",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin siegt, die Freiheit verliert",
-   "summary": "Jeff Booth ist überzeugt, dass sich Bitcoin als Geld durchsetzt. Gerade dieser Erfolg könnte die Menschen aber unfreier machen, warnt er. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795257000,
-   "url": "https://www.btc-echo.de/news/bitcoin-siegt-die-freiheit-verliert-240821/",
    "ad": false
   }
  ]

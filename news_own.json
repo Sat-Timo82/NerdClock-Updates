@@ -1,7 +1,15 @@
 {
- "updated": 1795401411,
+ "updated": 1795432599,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bill-ackman-fed-zinserhoehungen-re-9cb10",
+   "title": "Bill Ackman warnt: Weitere Fed-Zinserhöhungen könnten USA und Weltwirtschaft in die Rezession…",
+   "summary": "Bill Ackman warnt vor einer Rezession durch weitere Fed-Zinserhöhungen. Was Inflation, Geldpolitik und Bitcoin jetzt bedeuten.",
+   "ts": 1795423680,
+   "url": "https://nerdminer.de/blogs/news/bill-ackman-fed-zinserhoehungen-rezession-3-prozent-inflationsziel",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-unter-60000-ki-aktienausverkauf",
    "title": "Bitcoin fällt erstmals seit Juli unter 60.000 US-Dollar – KI-Aktiencrash belastet Märkte",
@@ -9,6 +17,46 @@
    "ts": 1795283164,
    "url": "https://nerdminer.de/blogs/news/bitcoin-unter-60000-ki-aktienausverkauf",
    "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-rutsch-58300-november-verluste",
+   "title": "Bitcoin fällt auf $58.300 – Nasdaq stürzt 5%: Spot-Bitcoin-ETF, Liquidationen & Miner im Fokus",
+   "summary": "Bitcoin rund $58.300, Nasdaq -5%. Spot-Bitcoin-ETFs verzeichnen Milliardenabflüsse; Liquidationen & Miner belasten den Krypto-Markt.",
+   "ts": 1795220640,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-rutsch-58300-november-verluste",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "bitcoin-rutscht-61500-tech-ki-verk-e8193",
+   "title": "Bitcoin rutscht Richtung $61.500 – Tech-Selloff trifft Asien, Spot-ETFs unter Druck",
+   "summary": "Bitcoin fällt nahe $61.500: Tech-Selloff, Spot-ETF-Abflüsse und Liquidationen üben Druck aus – Anleger beobachten $60k-Support.",
+   "ts": 1795197244,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-rutscht-61500-tech-ki-verkaufswelle",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "bitcoin-fallt-unter-60000-tech-akt-e4554",
+   "title": "Bitcoin-Crash auf $59,000: Sell-off, Spot-ETFs & Liquidations belasten Markt",
+   "summary": "Bitcoin stürzt auf $59,000: Spot-ETFs, massive Liquidations und Fed-Hike-Sorgen verschärfen den Sell-off und testen Support um $60,000.",
+   "ts": 1795197244,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-fallt-unter-60000-tech-aktien-volatilitaet",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "bitcoin-verkauf-ai-kapitalabzug",
+   "title": "David Lawant: Starker Bitcoin-Inflow bei $60k – Liquidations, ETF-Flow & Miner-Shift",
+   "summary": "Anchorage-Analyst Lawant sieht starken Bitcoin-Inflow bei $60k. Liquidations, Coinbase-Verkäufe, ETF-Flows und Miner-Shift durch AI prägen die Volatilität.",
+   "ts": 1795138807,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-verkauf-ai-kapitalabzug",
+   "author": "Patrick Green Deutsche Übersetzung…"
+  },
+  {
+   "id": "bukele-trifft-bitcoin-akteure-san--2c8ec",
+   "title": "Im Casa Presidencial-Dinner mit Bukele: Bitcoiners diskutieren Energie, Migration & El…",
+   "summary": "Bukele trifft Bitcoiners im Casa Presidencial: offene Debatten zu Energie, Mining, Geothermie, Migration und El Salvadors wirtschaftlicher Zukunft.",
+   "ts": 1795138807,
+   "url": "https://nerdminer.de/blogs/news/bukele-trifft-bitcoin-akteure-san-salvador",
+   "author": "Juan Galt Deutsche Übersetzung: Yannic…"
   },
   {
    "id": "bitcoin-faellt-fed-protokoll-zinsa-ae1e8",
@@ -33,6 +81,14 @@
    "ts": 1795026005,
    "url": "https://nerdminer.de/blogs/news/bitcoin-unter-200-wochen-durchschnitt",
    "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-64000-nvidia-gewinnzahlen--f0b9a",
+   "title": "Bitcoin nahe $64.000 – FedWaller stellt HalfPoint Hike in Aussicht",
+   "summary": "Bitcoin bleibt nahe $64.000, FedWaller erwägt HalfPoint Hike. NvidiaEarnings und SpotBitcoinETFOutflows erhöhen Volatilität.",
+   "ts": 1795021922,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-64000-nvidia-gewinnzahlen-21prozent-rueckgang",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
   },
   {
    "id": "ny-rentenfonds-erhoht-strategy-bet-c923b",
@@ -184,62 +240,6 @@
    "summary": "Bitcoin fällt auf 78.000 US-Dollar: Glassnode sieht starken Verkaufsdruck bei Perpetuals, defensive Optionsmärkte und zunehmendes Hedging.",
    "ts": 1793695476,
    "url": "https://nerdminer.de/blogs/news/bitcoin-unter-80000-perpetual-futures-verkaufsdruck",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strategy-kauft-811-bitcoin-naehert-5eb17",
-   "title": "Strategy nähert sich 850.000 BTC – Strive kauft weitere 124 Bitcoin",
-   "summary": "Strategy hält fast 850.000 BTC, Strive stockt auf 43.124 Bitcoin auf. ETF-Abflüsse belasten den Markt im Oktober.",
-   "ts": 1793636420,
-   "url": "https://nerdminer.de/blogs/news/strategy-kauft-811-bitcoin-naehert-850000-btc",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strategy-bitcoin-kaeufe-vorzugsakt-b5338",
-   "title": "Saylor: Strategy verfügt über bis zu 30 Mrd. Dollar an \"Digital Credit\" für Bitcoin-Käufe",
-   "summary": "Strategy plant weitere Bitcoin-Käufe über Preferred Shares. Michael Saylor sieht bis zu 30 Mrd. Dollar an digitaler Kreditkapazität.",
-   "ts": 1793358529,
-   "url": "https://nerdminer.de/blogs/news/strategy-bitcoin-kaeufe-vorzugsaktien-digitaler-kredit",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitwise-bitcoin-prognose-1599766-b-1e2d2",
-   "title": "Bitwise hebt Bitcoin-Prognose an: 1,6 Millionen US-Dollar bis 2036",
-   "summary": "Bitwise erwartet bis 2036 einen Bitcoin-Kurs von 1,6 Millionen US-Dollar – getragen von institutioneller Nachfrage und sinkender Volatilität.",
-   "ts": 1793217073,
-   "url": "https://nerdminer.de/blogs/news/bitwise-bitcoin-prognose-1599766-bis-2036",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "fidelity-bitcoin-zyklischer-boden--d572c",
-   "title": "Fidelity: Bitcoin könnte den Boden erreicht haben – NUPL steigt auf 0,36",
-   "summary": "Fidelity sieht Anzeichen für einen Bitcoin-Boden: NUPL steigt, BTC gewinnt an Momentum und Mining-Bedingungen verbessern sich.",
-   "ts": 1793206269,
-   "url": "https://nerdminer.de/blogs/news/fidelity-bitcoin-zyklischer-boden-nupl-signals-report",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "itau-unibanco-erste-brasilianische-3de47",
-   "title": "Itau ist Brasiliens erste Bank mit offiziell gemeldeter Bitcoin-Brokerage",
-   "summary": "Itau meldet als erste brasilianische Bank offiziell Bitcoin-Trading und Custody. Der Schritt stärkt die Regulierung des Krypto-Markts.",
-   "ts": 1793206269,
-   "url": "https://nerdminer.de/blogs/news/itau-unibanco-erste-brasilianische-bank-krypto-handel-verwahrung",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strategy-aktionare-genehmigen-tagl-77df8",
-   "title": "Strategy-Aktionäre genehmigen tägliche Dividenden für alle vier Preferred Stocks",
-   "summary": "Strategy führt tägliche Dividenden für STRF, STRC, STRK und STRD ein. STRC startet am 1. November 2026, die übrigen Preferreds 2027.",
-   "ts": 1793206269,
-   "url": "https://nerdminer.de/blogs/news/strategy-aktionare-genehmigen-tagliche-dividenden-strf-strc-strk-strd",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "netanyahu-krypto-umgehungswirtscha-27fff",
-   "title": "Keine israelische Bank vergibt Bitcoin-besicherte Kredite, sagt Aronson",
-   "summary": "Israels Banken bieten keine Bitcoin-Kredite an. Das erschwert Unternehmern den Kauf etablierter Firmen und verschärft die Finanzierungsdebatte.",
-   "ts": 1793206268,
-   "url": "https://nerdminer.de/blogs/news/netanyahu-krypto-umgehungswirtschaft-sanktionen",
    "author": "Yannic Fraebel"
   }
  ]
