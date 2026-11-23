@@ -1,8 +1,40 @@
 {
- "updated": 1795383797,
+ "updated": 1795401411,
  "mode": "stichworte",
  "lang": "it",
  "items": [
+  {
+   "title": "21shares Sees Bitcoin Hitting New High in 2027, Cycle Peak Later",
+   "summary": "21shares expects bitcoin to surpass its 2025 record in 2027 while placing the cycle peak beyond that year. Its wider outlook forecasts growth in stablecoins, tokenized assets and other markets, even as a fresh bitcoin decline tests the price comparison underpinning its call. Bitcoin Record Forecast Rests on Demand and Cycle…",
+   "source": "Bitcoin.com News",
+   "ts": 1795401039,
+   "url": "https://news.bitcoin.com/featured/21shares-sees-bitcoin-hitting-new-high-in-2027-cycle-peak-later/",
+   "ad": false
+  },
+  {
+   "title": "Solo Bitcoin Miner Wins $190K Jackpot Against 130 Million-to-One Odds",
+   "summary": "A solo bitcoin miner operating with just 8 TH/s of computing power struck a roughly $190,000 jackpot on Sunday, Nov. 22, 2026, joining a growing procession of unlikely winners as the bitcoin mining industry confronts punishing economics and depressed digital asset prices. A $190,000 Bitcoin Jackpot With Astronomical Odds…",
+   "source": "Bitcoin.com News",
+   "ts": 1795393854,
+   "url": "https://news.bitcoin.com/mining/solo-bitcoin-miner-wins-190k-jackpot-against-130-million-to-one-odds/",
+   "ad": false
+  },
+  {
+   "title": "Will Bitcoin's big rebound hold? More tampered Ledgers found: Hodler's Digest",
+   "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,111 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE.",
+   "source": "Cointelegraph",
+   "ts": 1795387629,
+   "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss_tag_bi",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Takes a Beating as November Rout Erases Summer Gains",
+   "summary": "Bitcoin rebounded above $61,000 on Sunday after plunging to a two-year low of $55,640, but the recovery failed to erase steep weekly losses. Bitcoin Rebounds Above $61K but November Losses Deepen Bitcoin reclaimed $61,000 on Sunday amid a market-wide relief rally, pulling the top cryptocurrency back from the brink of closing…",
+   "source": "Bitcoin.com News",
+   "ts": 1795385157,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-takes-a-beating-as-november-rout-erases-summer-gains/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Could Test $50,000 if Nasdaq Slides, Arthur Hayes Warns",
    "summary": "Bitcoin could test $50K if the Nasdaq sell-off continues, following a weekend sell-off that took the cryptocurrency near $55K. Bitcoin climbed back above $60K on Nov. 21 after the Nasdaq Composite shed 5.28% in its latest session. Why Hayes Is Watching the Nasdaq A sell-off in U.S. technology shares preceded a fresh decline in…",
@@ -49,38 +81,6 @@
    "source": "Bitcoinist",
    "ts": 1795361673,
    "url": "https://bitcoinist.com/bitcoin-price-prediction-rare-signal-seen-only-10-times-in-9-5-years-points-to-72k-bounce/",
-   "ad": false
-  },
-  {
-   "title": "'The Dots Aren't Done': Michael Saylor Hints at Another Strategy Bitcoin Buy",
-   "summary": "Michael Saylor revived speculation about another Strategy bitcoin purchase as the company's holdings remained below their acquisition cost. Bitcoin traded near $60,000 after recovering from a sharper sell-off, while the latest disclosed purchase left Strategy holding 850,849 BTC. Saylor Shares Another Bitcoin Purchase Chart…",
-   "source": "Bitcoin.com News",
-   "ts": 1795357827,
-   "url": "https://news.bitcoin.com/featured/the-dots-arent-done-michael-saylor-hints-at-another-strategy-bitcoin-buy/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-   "summary": "Quantum computers can't break Bitcoin network's security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
-   "source": "CoinDesk",
-   "ts": 1795356000,
-   "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-   "ad": false
-  },
-  {
-   "title": "Bored Crypto Investors Dump Bitcoin to Chase Massive AI Stocks",
-   "summary": "According to a Bloomberg report, the crypto crowd is pivoting to other investment options as exchange trading volumes decline. New speculation targets include AI stocks, betting on decision-based event markets, and using perpetuals to bet on commodity prices on prediction market platforms. Crypto Investors Are Pivoting to…",
-   "source": "Bitcoin.com News",
-   "ts": 1795343405,
-   "url": "https://news.bitcoin.com/finance/bored-crypto-investors-dump-bitcoin-to-chase-massive-ai-stocks/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
-   "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
-   "source": "Cointelegraph",
-   "ts": 1795339986,
-   "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
    "ad": false
   }
  ]
