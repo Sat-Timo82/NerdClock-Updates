@@ -1,8 +1,48 @@
 {
- "updated": 1795432599,
+ "updated": 1795474457,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "US-Bank vergibt Kredite von bis zu 250.000 US-Dollar gegen Bitcoin",
+   "summary": "Wer Bitcoin besitzt und trotzdem an Bargeld kommen will, muss künftig nicht mehr zwingend verkaufen. Eine US-Bank bietet nun Kredite an, die eine Falle bergen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795461006,
+   "url": "https://www.btc-echo.de/news/us-bank-vergibt-kredite-von-bis-zu-250-000-us-dollar-gegen-bitcoin-241434/",
+   "ad": false
+  },
+  {
+   "title": "Rekordabfluss beim IBIT: Die BTC-Bestände bleiben trotzdem stabil",
+   "summary": "Aus dem Bitcoin ETF IBIT fließen 541 Millionen Dollar an einem Tag ab. Aus diesen Gründen können Anleger trotzdem zunächst aufatmen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795449802,
+   "url": "https://www.btc-echo.de/news/rekordabfluss-beim-ibit-die-btc-bestaende-bleiben-trotzdem-stabil-241283/",
+   "ad": false
+  },
+  {
+   "title": "Russische Abgeordnete wollen eingezogene Bitcoin in Staatsreserve übertragen",
+   "summary": "Russlands Kommunisten wollen eingezogene Bitcoin und andere Kryptowährungen in die staatlichen Reserven aufnehmen. Dabei orientieren sie sich an den USA.",
+   "source": "Blocktrainer",
+   "ts": 1795447980,
+   "url": "https://www.blocktrainer.de/blog/russische-abgeordnete-wollen-eingezogene-bitcoin-in-staatsreserve-uebertragen",
+   "ad": false
+  },
+  {
+   "title": "Nach Huangs Rückkehr als Nvidia-CEO: Bitcoin-Kurs erholt sich auf 64.500 US-Dollar",
+   "summary": "Bitcoin ist über 64.500 US-Dollar gestiegen, nachdem es die Meldung gab, dass Jensen Huang als Nvidia-CEO zurückkehrt. Seit dem Tief ist BTC damit über 17 % im Plus.",
+   "source": "Blocktrainer",
+   "ts": 1795446342,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-kurs-erholt-sich-auf-64000-us-dollar",
+   "ad": false
+  },
+  {
+   "title": "Strategy mit Milliardenverlust: So stark belastet Bitcoin das Geschäft",
+   "summary": "Für Strategy wird der Bitcoin-Kurs zur Belastungsprobe. Warum Saylor trotzdem nachkauft und wofür er noch mehr ausgibt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795441187,
+   "url": "https://www.btc-echo.de/news/strategy-mit-milliardenverlust-so-stark-belastet-bitcoin-das-geschaeft-241415/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Prognose: Bloomberg-Stratege hält 10.000 US-Dollar für \"guten Anziehungspunkt\"",
    "summary": "Bloomberg-Stratege Mike McGlone sieht fast alle Märkte vor dem Absturz. Für Bitcoin und Krypto zeichnet er ein besonders düsteres Bild. Source: BTC-ECHO BTC-ECHO",
@@ -41,46 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795414772,
    "url": "https://www.btc-echo.de/news/robert-kiyosaki-ich-freue-mich-ueber-den-bitcoin-crash-241378/",
-   "ad": false
-  },
-  {
-   "title": "Was für Bitcoin und Krypto diese Woche wichtig wird",
-   "summary": "US-Kerninflationsdaten sowie aktuelle Schätzungen zum Wirtschaftswachstum könnten die Kursentwicklung von Bitcoin (BTC) maßgeblich beeinflussen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795402800,
-   "url": "https://www.btc-echo.de/news/was-wird-fuer-bitcoin-und-krypto-diese-woche-wichtig-70-241285/",
-   "ad": false
-  },
-  {
-   "title": "Kursverfall bei Strategy: Die Lage bei MSTR und STRC",
-   "summary": "Der Kursverfall bei Strategy hat sich im November beschleunigt, Ende des Monats fliegt die Aktie aus den MSCI-Indizes. Saylor stellt derweil den Geldfluss um. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795363200,
-   "url": "https://www.btc-echo.de/news/kursverfall-bei-strategy-die-lage-bei-mstr-und-strc-241304/",
-   "ad": false
-  },
-  {
-   "title": "883 Millionen Dollar Schulden: Muss Trump Media tausende Bitcoin verkaufen?",
-   "summary": "Nach einem Kurssturz der Aktie droht Trump Media ein hoher Mittelabfluss durch Wandelanleihen. Wie das Management seine 15.649 Bitcoin retten will. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795358040,
-   "url": "https://www.btc-echo.de/news/schuldenfalle-muss-trump-media-tausende-bitcoin-verkaufen-241375/",
-   "ad": false
-  },
-  {
-   "title": "Heizpanel, Luftreiniger und Heizstab: Heatbit integriert Bitcoin-Mining in den Alltag",
-   "summary": "Heatbit integriert Bitcoin-Mining in Heizgeräte, Luftreiniger und Warmwasserspeicher. Wie funktionieren die Geräte und lohnt sich die Anschaffung?",
-   "source": "Blocktrainer",
-   "ts": 1795349700,
-   "url": "https://www.blocktrainer.de/blog/heatbit-integriert-bitcoin-mining-in-den-alltag",
-   "ad": false
-  },
-  {
-   "title": "Krypto-Reserve in Russland: Kommunistische Partei fordert Bitcoin-Integration",
-   "summary": "Russlands Kommunistische Partei will beschlagnahmte Kryptowährungen in die Staatsreserven aufnehmen. Wie realistisch ist der Bitcoin-Vorstoß? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795341364,
-   "url": "https://www.btc-echo.de/news/krypto-reserve-in-russland-kommunisten-fordern-bitcoin-241366/",
    "ad": false
   }
  ]

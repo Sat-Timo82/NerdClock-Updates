@@ -1,86 +1,86 @@
 {
- "updated": 1795432599,
+ "updated": 1795474457,
  "mode": "stichworte",
  "lang": "en",
  "items": [
   {
-   "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
-   "summary": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
+   "title": "Bitcoin Price Recovery Faces Weak Demand After $4.7B Leverage Wipeout",
+   "summary": "Bitcoin derivatives traders have erased nearly $4.7 billion in open interest on Binance over the past year, marking one of the steepest leverage contractions on record. Analysts warn that weak demand and persistent liquidations could complicate bitcoin's price recovery. Binance Bitcoin Open Interest Falls 40% as Traders Cut…",
+   "source": "Bitcoin.com News",
+   "ts": 1795473931,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-recovery-faces-weak-demand-after-4-7b-leverage-wipeout/",
+   "ad": false
+  },
+  {
+   "title": "Grayscale's new 2x leveraged Zcash ETF takes 13% opening day tumble",
+   "summary": "Grayscale's ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca.",
+   "source": "The Block",
+   "ts": 1795472112,
+   "url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+   "ad": false
+  },
+  {
+   "title": "\"This Is An Excellent Entry Point\" – UTXO's Loren Asmus Gives Bitcoin Outlook",
+   "summary": "Bitcoin Magazine \"This Is An Excellent Entry Point\" – UTXO's Loren Asmus Gives Bitcoin Outlook Loren Asmus of UTXO Management says Bitcoin's long-term case is intact after a brutal year for price. This post \"This Is An Excellent Entry Point\" – UTXO's Loren Asmus Gives Bitcoin Outlook first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795469411,
+   "url": "https://bitcoinmagazine.com/videos/this-is-an-excellent-entry-point-utxos-loren-asmus-gives-bitcoin-outlook",
+   "ad": false
+  },
+  {
+   "title": "Strive (ASST) Buys No Bitcoin Last Week, Holdings Stay at 43,404 BTC",
+   "summary": "Strive bought no bitcoin and sold no stock last week, leaving holdings at 43,404 BTC, its Monday 8-K shows. ASST shares traded near $15.55. This post Strive (ASST) Buys No Bitcoin Last Week, Holdings Stay at 43,404 BTC first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795468155,
+   "url": "https://bitcoinmagazine.com/news/strive-asst-no-bitcoin-purchases-holdings",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang's Return",
+   "summary": "The bitcoin price gave back its Nvidia-fueled spike above $64,000 on Monday afternoon, slipping near $61,000 while stocks and crypto shares held big gains. This post Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang's Return first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795467501,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
+   "ad": false
+  },
+  {
+   "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+   "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who \"refuses to block funds such as these.\"",
    "source": "Decrypt",
-   "ts": 1795432462,
-   "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+   "ts": 1795466162,
+   "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
    "ad": false
   },
   {
-   "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
-   "summary": "Bitcoin rose above the previous day's peak on Sunday, an early sign that selling pressure may be easing even as the cryptocurrency remains down 21% in November.",
-   "source": "CoinDesk",
-   "ts": 1795429862,
-   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+   "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch",
+   "summary": "Bitcoin Magazine Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch Sean Hagan revisits the Bitcoin-in-gold chart BMTV first ran in late September, when one Bitcoin bought about 19. This post Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795465812,
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
    "ad": false
   },
   {
-   "title": "Russia's Bitcoin Trading Rules Take Effect – Can Moscow Exchange Attract New BTC Demand?",
-   "summary": "Russia has entered a new phase of cryptocurrency regulation after rules allowing organized digital asset trading reportedly took effect on November 22. The development comes as Moscow Exchange prepares to introduce Bitcoin, Ethereum, and USDT trading in December, potentially opening another regulated channel for Bitcoin…",
-   "source": "Bitcoinist",
-   "ts": 1795427300,
-   "url": "https://bitcoinist.com/russias-bitcoin-trading-rules-take-effect-can-moscow-exchange-attract-new-btc-demand/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's 21 Million Supply Isn't The Problem – Analyst Blames Leverage For Crypto Market Chaos",
-   "summary": "Bitcoin's latest market correction has reignited a debate about whether excessive leverage is distorting cryptocurrency prices, with influential market commentator Ash Crypto arguing that derivatives trading has fundamentally changed how Bitcoin behaves. His warning comes as Bitcoin liquidations have intensified, forcing…",
-   "source": "Bitcoinist",
-   "ts": 1795425251,
-   "url": "https://bitcoinist.com/bitcoins-21-million-supply-isnt-the-problem-analyst-blames-leverage-for-crypto-market-chaos/",
-   "ad": false
-  },
-  {
-   "title": "BlackRock Executive Sees New Wave Of Wall Street Investors Entering Crypto – What It Means…",
-   "summary": "BlackRock's digital assets chief, Robbie Mitchnick, believes the cryptocurrency industry is entering a new phase as more professionals from traditional finance bring their expertise to digital assets. His comments come as institutional Bitcoin demand continues to reshape the market, raising an important question: could Wall…",
-   "source": "Bitcoinist",
-   "ts": 1795422915,
-   "url": "https://bitcoinist.com/blackrock-executive-sees-new-wave-of-wall-street-investors-entering-crypto-what-it-means-for-bitcoin/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
-   "summary": "Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June's $4.51 billion total.",
-   "source": "Cointelegraph",
-   "ts": 1795421332,
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=r",
-   "ad": false
-  },
-  {
-   "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
-   "summary": "Stockholm-listed H100 moved a slice of its bitcoin into a derivatives book after an August acquisition and has shed nearly $2 million worth of BTC by the end of September.",
-   "source": "CoinDesk",
-   "ts": 1795418325,
-   "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Clings to $60K as KOSPI Crashes 5% and Hayes Talks $55K Retest",
-   "summary": "Bitcoin climbed back above $61,000 late Sunday and has since stayed there as U.S. stock futures rebounded. However, Arthur Hayes is calling for a retest of $55,000 after South Korea's KOSPI plunged 5% at Monday's open. Bounce Meets a Wall in Asia Bitcoin surged past $61,000 on Sunday evening as Nasdaq 100 futures jumped more […]",
+   "title": "Bitcoin Price Plunges Back Below $61K Hours After Nvidia CEO Return Rally",
+   "summary": "Bitcoin surged to an intraday high of $64,505 on Monday following the reinstatement of Nvidia CEO and President Jensen Huang, but quickly surrendered most of its gains, retreating to around $60,800. A Six-Minute Surge and Rapid Reversal Bitcoin endured another roller-coaster session Monday, rallying sharply on news that Nvidia…",
    "source": "Bitcoin.com News",
-   "ts": 1795415420,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-61k-arthur-hayes-55k-retest-kospi-crash/",
+   "ts": 1795463630,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-plunges-below-61k-hours-nvidia-ceo-return-rally/",
    "ad": false
   },
   {
-   "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-   "summary": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight.",
-   "source": "CoinDesk",
-   "ts": 1795412542,
-   "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+   "title": "Grant Cardone: Bitcoin to 5x – MSTR So Cheap \"You Have to Buy it\"",
+   "summary": "Bitcoin Magazine Grant Cardone: Bitcoin to 5x – MSTR So Cheap \"You Have to Buy it\" Grant Cardone says Michael Saylor \"is hated, frankly, by the Bitcoin community that needs him,\" and predicts Saylor will be proven one of the smartest individual thinkers. This post Grant Cardone: Bitcoin to 5x – MSTR So Cheap \"You Have to Buy…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795461317,
+   "url": "https://bitcoinmagazine.com/videos/grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
    "ad": false
   },
   {
-   "title": "Bitcoin's $236 Million Buy Wall: Real Demand or an Illusion?",
-   "summary": "Bitcoin's order books reveal where buyers and sellers intend to trade, but the millions of dollars displayed on exchange screens tell only part of the story. Understanding market depth, liquidity, and disappearing orders offers a clearer picture of how much buying power actually exists. What Is a Bitcoin Order Book and How…",
-   "source": "Bitcoin.com News",
-   "ts": 1795404615,
-   "url": "https://news.bitcoin.com/learning-insights/bitcoins-236-million-buy-wall-real-demand-or-an-illusion/",
+   "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
+   "summary": "Bitdeer mined 281.1 BTC last week and sold all of it, leaving the miner with no bitcoin of its own as of Nov. 20 while American Bitcoin borrows against its reserve instead. This post Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795458600,
+   "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
    "ad": false
   }
  ]

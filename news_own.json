@@ -1,7 +1,31 @@
 {
- "updated": 1795432599,
+ "updated": 1795474457,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "nvidia-aktien-huang-rueckkehr-stel-88048",
+   "title": "Nvidia-Rallye: Huang zurück – Aktien, Bitcoin und Crypto-Aktien ziehen an",
+   "summary": "Huang kehrt als Nvidia-CEO zurück – Aktien und Crypto-Aktien steigen, Bitcoin klettert Richtung $63k.",
+   "ts": 1795454520,
+   "url": "https://nerdminer.de/blogs/news/nvidia-aktien-huang-rueckkehr-stellt-1-billionen-marktwert-wieder-her",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "strategy-kauft-457-bitcoin-fuer-29-2eaa6",
+   "title": "Strategy kauft 457 Bitcoin, während STRC-Rückkäufe 211,8 Mio. US-Dollar erreichen",
+   "summary": "Strategy kauft 457 Bitcoin und stockt Rückkäufe von STRC-Aktien auf. Die BTC-Bestände steigen auf 851.305 Coins.",
+   "ts": 1795446965,
+   "url": "https://nerdminer.de/blogs/news/strategy-kauft-457-bitcoin-fuer-29-6-millionen",
+   "author": "Yannic Fraebel"
+  },
+  {
+   "id": "naechstes-bitcoin-halving-april-2028",
+   "title": "iShares: Bitcoin-Halving 2028 halbiert tägliche Ausgabe auf 225 BTC",
+   "summary": "Das Bitcoin-Halving im April 2028 senkt die tägliche BTC-Ausgabe auf 225 Coins und stellt Miner sowie Markt vor neue Herausforderungen.",
+   "ts": 1795423680,
+   "url": "https://nerdminer.de/blogs/news/naechstes-bitcoin-halving-april-2028",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bill-ackman-fed-zinserhoehungen-re-9cb10",
    "title": "Bill Ackman warnt: Weitere Fed-Zinserhöhungen könnten USA und Weltwirtschaft in die Rezession…",
@@ -216,30 +240,6 @@
    "summary": "Bitcoin steigt nach dem politischen Schock auf 80.500 Dollar. Optionen, ETF-Abflüsse und die Reaktion der Märkte im Überblick.",
    "ts": 1793812720,
    "url": "https://nerdminer.de/blogs/news/bitcoin-erholt-sich-nach-us-zwischenwahlen",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-wiederholung-zweistelliger-cac37",
-   "title": "Bitcoin bei 90.000 Dollar: Warum Wall Street die Rallye ausbremst",
-   "summary": "Markus Thielen erwartet Bitcoin bei 90.000 Dollar bis Jahresende, warnt aber vor gebremsten Rallyes und einer möglichen Korrektur.",
-   "ts": 1793777799,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-wiederholung-zweistelliger-rallyes-unwahrscheinlich",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "tether-haelt-150000-bitcoin",
-   "title": "Tether hält 150.000 Bitcoin – 50.000 BTC mehr als im Reservebericht",
-   "summary": "Tether besitzt laut CEO Paolo Ardoino rund 150.000 BTC. Warum der Bestand deutlich über dem jüngsten Reservebericht liegt.",
-   "ts": 1793718997,
-   "url": "https://nerdminer.de/blogs/news/tether-haelt-150000-bitcoin",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-unter-80000-perpetual-futu-a6bee",
-   "title": "Glassnode: Perpetual-Seller drücken Bitcoin auf 78.000 US-Dollar – Hedging nimmt zu",
-   "summary": "Bitcoin fällt auf 78.000 US-Dollar: Glassnode sieht starken Verkaufsdruck bei Perpetuals, defensive Optionsmärkte und zunehmendes Hedging.",
-   "ts": 1793695476,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-80000-perpetual-futures-verkaufsdruck",
    "author": "Yannic Fraebel"
   }
  ]
