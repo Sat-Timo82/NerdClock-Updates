@@ -1,14 +1,46 @@
 {
- "updated": 1795503343,
+ "updated": 1795546214,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "US-Bank vergibt Kredite von bis zu 250.000 US-Dollar gegen Bitcoin",
-   "summary": "Wer Bitcoin besitzt und trotzdem an Bargeld kommen will, muss künftig nicht mehr zwingend verkaufen. Eine US-Bank bietet nun Kredite an, die eine Falle bergen. Source: BTC-ECHO BTC-ECHO",
+   "title": "Zollangst drückt Bitcoin wieder unter 60.000 US-Dollar",
+   "summary": "Keine 24 Stunden hielt die Erholung am Krypto-Markt. Diesmal kommt der Auslöser nicht aus dem Technologiesektor, sondern aus Washington. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1795461006,
-   "url": "https://www.btc-echo.de/news/us-bank-vergibt-kredite-von-bis-zu-250-000-us-dollar-gegen-bitcoin-241434/",
+   "ts": 1795545033,
+   "url": "https://www.btc-echo.de/news/zollangst-drueckt-bitcoin-wieder-unter-60-000-us-dollar-241495/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Analyse: Droht dem Kurs ein blutiges Jahresende?",
+   "summary": "Bitcoin (BTC) kann sich bislang nicht aus den Klauen der Bären befreien. Der Chart wirkt unverändert angeschlagen. Diese Kursmarken werden laut charttechnischer Analyse nun entscheidend. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795543200,
+   "url": "https://www.btc-echo.de/news/bitcoin-analyse-droht-dem-kurs-ein-blutiges-jahresende-241477/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin im Black Week Sale: Warum wir trotzdem nicht nachkaufen",
+   "summary": "Der Krypto-Sektor rutscht zurück in den Bärenmarkt. Unverändert schwache Spot-Nachfrage drücken auf die Kurse von Bitcoin und den meisten Altcoins. Eine Jahresendrallye scheint zunehmend unwahrscheinlich. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795536000,
+   "url": "https://www.btc-echo.de/news/bitcoin-im-black-week-sale-warum-wir-trotzdem-nicht-nachkaufen-241443/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Miner unter Druck: Hashrate erstmals seit China-Verbot im Jahresvergleich rückläufig",
+   "summary": "Erstmals seit 2021 schrumpft die Bitcoin-Hashrate im Jahresvergleich. Sinkende Einnahmen setzen die Mining-Industrie zunehmend unter Druck.",
+   "source": "Blocktrainer",
+   "ts": 1795532129,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-miner-unter-druck-hashrate-erstmals-seit-china-verbot-im-jahresvergleich-ruecklaeufig",
+   "ad": false
+  },
+  {
+   "title": "Wall Street feiert KI-Comeback: Bitcoin bleibt auf der Strecke",
+   "summary": "Aus den Bitcoin-ETFs flossen in drei Tagen mehr als 1,8 Milliarden US-Dollar ab. Und am Markt herrscht weiter extreme Angst Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795505033,
+   "url": "https://www.btc-echo.de/news/wall-street-feiert-ki-comeback-bitcoin-bleibt-auf-der-strecke-241436/",
    "ad": false
   },
   {
@@ -44,43 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin-Prognose: Bloomberg-Stratege hält 10.000 US-Dollar für \"guten Anziehungspunkt\"",
-   "summary": "Bloomberg-Stratege Mike McGlone sieht fast alle Märkte vor dem Absturz. Für Bitcoin und Krypto zeichnet er ein besonders düsteres Bild. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795428931,
-   "url": "https://www.btc-echo.de/news/bitcoin-prognose-stratege-haelt-1000-us-dollar-fuer-moeglich-241401/",
-   "ad": false
-  },
-  {
    "title": "KI entdeckt erneut Sicherheitslücke in Bitcoin Core",
    "summary": "Bitcoin Core schließt eine per KI entdeckte Sicherheitslücke, die Nodes lahmlegen konnte. Wie gefährlich der Fehler ist und wer jetzt updaten muss. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1795421460,
    "url": "https://www.btc-echo.de/news/ki-entdeckt-erneut-sicherheitsluecke-in-bitcoin-core-241392/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin wieder über 60.000 US-Dollar: Das erwarten Analysten jetzt",
-   "summary": "Nach dem Absturz auf den tiefsten Stand seit 2024 erholt sich Bitcoin kräftig. Wie Analysten die Bewegung jetzt einordnen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795417551,
-   "url": "https://www.btc-echo.de/news/bitcoin-wieder-ueber-60-000-us-dollar-das-erwarten-analysten-jetzt-241388/",
-   "ad": false
-  },
-  {
-   "title": "Für Bitcoiner: Die besten Deals und Rabatte zur Black Week 2026",
-   "summary": "Wallets, Miner, Merch und mehr. Wir haben für euch die besten BLACK WEEK DEALS 2026 herausgesucht und in diesem Artikel zusammengefasst.",
-   "source": "Blocktrainer",
-   "ts": 1795417260,
-   "url": "https://www.blocktrainer.de/blog/fuer-bitcoiner-die-besten-deals-und-rabatte-zur-black-week-2026",
-   "ad": false
-  },
-  {
-   "title": "Robert Kiyosaki: \"Am meisten freue ich mich über den Bitcoin-Crash\"",
-   "summary": "Gold, Silber und Bitcoin sind zuletzt heftig eingebrochen. Warum sich Finanzexperte Robert Kiyosaki darüber freut – und was er Anlegern jetzt empfiehlt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795414772,
-   "url": "https://www.btc-echo.de/news/robert-kiyosaki-ich-freue-mich-ueber-den-bitcoin-crash-241378/",
    "ad": false
   }
  ]

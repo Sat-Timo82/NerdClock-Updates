@@ -1,0 +1,13 @@
+Der Fund
+
+Ein Solo Miner mit rund 11.1 TH/s löste Bitcoin-Block 977,057 und sicherte 3.1287 BTC (ca. $191.000 zum Zeitpunkt). Die Auszahlung setzte sich aus dem 3.125 BTC Block-Subsidy plus Transaktionsgebühren zusammen und lief über CKPool's Solo-Mining-Service, der 2% Fee nimmt. Nach Abzug der Fee erhielt der Miner knapp $186.000.
+
+Wahrscheinlichkeit & Hashrate
+
+Der Block enthielt 584 Transaktionen. Bei einer Netzwerk-Hashrate von etwa 1,04 ZH/s entspricht 11.1 TH/s nur rund ein Millionstel Prozent, was die Chancen extrem klein macht. CKPool-Entwickler schätzt die Wahrscheinlichkeit, mit dieser Hashrate in einem Jahr einen Block zu finden, auf etwa 1 zu 1.650.
+
+Bedingungen & Kontext
+
+Solche Solo-Wins sind selten; die meisten Miner arbeiten in großen Pools oder industriellen Betrieben, die Rewards teilen. CKPool verzeichnete mehrere weitere Solo-Treffer im November, aber Mining-Bedingungen bleiben hart: die Difficulty liegt bei etwa 134,8 Billionen und wird voraussichtlich weiter steigen. Schwankender BTC-Preis beeinflusst zudem den Dollar-Wert der Block Rewards.
+
+Dein Bitcoin-Miner für zu Hause

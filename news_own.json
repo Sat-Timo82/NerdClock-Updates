@@ -1,7 +1,23 @@
 {
- "updated": 1795503343,
+ "updated": 1795546214,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-ueberverkauft-ki-risiken-l-63a84",
+   "title": "Bitcoin laut Grayscale überverkauft – KI-Risiken belasten den Ausblick",
+   "summary": "Grayscale sieht Bitcoin nach dem Ausverkauf als überverkauft. Solide Blockchain-Fundamentaldaten stehen wachsenden KI-Risiken gegenüber.",
+   "ts": 1795540443,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-ueberverkauft-ki-risiken-laengster-flachster-baerenmarkt",
+   "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-unter-60000-etf-abflusse",
+   "title": "Bitcoin fällt unter 60.000 Dollar: Gold verzeichnet stärksten Ausverkauf seit 44 Jahren",
+   "summary": "Bitcoin rutscht unter 60.000 Dollar, während Gold die längste Verlustserie seit 1970 verzeichnet. Gründe sind Liquidität, Zinsen und ETF-Abflüsse.",
+   "ts": 1795528685,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-60000-etf-abflusse",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "bitcoin-kursspurts-nvidia-ceo-ruec-49916",
    "title": "Bitcoin fällt nahe $61.000 – Huangs Rückkehr treibt Nvidia, löst Liquidationen aus",
@@ -17,6 +33,22 @@
    "ts": 1795477802,
    "url": "https://nerdminer.de/blogs/news/bitcoin-langfristige-anlage-utxo-asmus",
    "author": "Patrick Green Deutsche Übersetzung…"
+  },
+  {
+   "id": "alleinminer-11-1-ths-bitcoin-block-736d7",
+   "title": "Bitcoin Solo Miner erzielt 3,13 BTC Block Reward mit nur 11.1 TH/s – CKPool",
+   "summary": "Solo Miner mit ~11.1 TH/s findet Block 977,057 und sichert 3.1287 BTC via CKPool. Seltene Solo-Wins, 2% Fee, schwierige Mining-Bedingungen.",
+   "ts": 1795466050,
+   "url": "https://nerdminer.de/blogs/news/alleinminer-11-1-ths-bitcoin-block-977057-3-1287btc",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "bitcoin-anstieg-64000-nvidia-huang-1ef66",
+   "title": "Bitcoin knackt $64k – Nvidia setzt CEO Jensen Huang wieder ein",
+   "summary": "Bitcoin steigt über $64k nach Rückkehr von Nvidia-CEO Jensen Huang; Coins, Miner und ETFs reagieren, Markt bleibt volatil.",
+   "ts": 1795454520,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-anstieg-64000-nvidia-huang-kehrt-zurueck",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
   },
   {
    "id": "nvidia-aktien-huang-rueckkehr-stel-88048",
@@ -208,38 +240,6 @@
    "summary": "STRC erreichte erstmals seit Mai wieder 100 US-Dollar. True North schätzt, dass Strategy damit rund 284 BTC finanzieren konnte.",
    "ts": 1793917602,
    "url": "https://nerdminer.de/blogs/news/strategy-strc-vorzugsaktie-erreicht-wieder-100-bitcoin-kaeufe",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-unter-76000-tech-aktien-au-47531",
-   "title": "Bitcoin fällt unter 76.000 US-Dollar, während US-Aktien 2,3 Billionen Dollar verlieren",
-   "summary": "Bitcoin rutscht unter 76.000 US-Dollar: Tech-Ausverkauf, Milliarden-Liquidationen und die neue Korrelation zum S&P 500 belasten den Kryptomarkt.",
-   "ts": 1793905961,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-76000-tech-aktien-ausverkauf-krypto-markt",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "moscow-exchange-pilotphase-bitcoin-8a278",
-   "title": "Moscow Exchange startet am 1. Dezember Bitcoin- und Krypto-Handel",
-   "summary": "Die Moscow Exchange startet Bitcoin-, Ether- und USDT-Handel. Limits, Sanktionen und mögliche Chancen für grenzüberschreitende Zahlungen im Überblick.",
-   "ts": 1793859511,
-   "url": "https://nerdminer.de/blogs/news/moscow-exchange-pilotphase-bitcoin-ether-usdt",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "block-erhoeht-bitcoin-bestand-um-1-312c9",
-   "title": "Block kauft 120 BTC im dritten Quartal und erhöht Bitcoin-Reserve auf 9.237 BTC",
-   "summary": "Block stockt seine Bitcoin-Reserve auf 9.237 BTC auf. Trotz sinkender Bitcoin-Erlöse steigen Gewinn und Prognose für 2026.",
-   "ts": 1793824363,
-   "url": "https://nerdminer.de/blogs/news/block-erhoeht-bitcoin-bestand-um-120-btc-im-dritten-quartal",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-testet-august-ausbruchsniv-a5f67",
-   "title": "Glassnode: Bitcoin testet August-Ausbruch erneut – Shorts nehmen zu",
-   "summary": "Bitcoin testet wichtige Support-Zonen bei 73.000–76.000 US-Dollar. Glassnode sieht mehr Shorts, während ETFs Kapitalabflüsse verzeichnen.",
-   "ts": 1793824363,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-testet-august-ausbruchsniveaus-nach-ruecksetzer",
    "author": "Yannic Fraebel"
   }
  ]
