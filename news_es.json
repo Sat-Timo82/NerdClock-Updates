@@ -1,8 +1,56 @@
 {
- "updated": 1795474457,
+ "updated": 1795503343,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Bitcoin slips back toward $60,000 as Jensen Huang's Nvidia return rally fizzles",
+   "summary": "Analysts said Huang's return was a reflex rally that did not resolve the macro headwinds bitcoin is facing as a risk asset.",
+   "source": "The Block",
+   "ts": 1795501294,
+   "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472",
+   "ad": false
+  },
+  {
+   "title": "DOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more",
+   "summary": "In today's newsletter, DOJ moves to recover $1.17 billion from Binance hack; Strategy buys another 457 BTC as Saylor says 'the dots aren't done'; and more.",
+   "source": "The Block",
+   "ts": 1795498800,
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430",
+   "ad": false
+  },
+  {
+   "title": "LendingUSA, Cross River Bank Debut Bitcoin-Backed Loans Up to $250K",
+   "summary": "LendingUSA and Cross River Bank have launched a bitcoin-secured lending platform that allows eligible borrowers to access cash without selling their cryptocurrency. Bitcoin Holders Can Borrow Without Selling Consumer financing company LendingUSA and Cross River Bank have launched a bitcoin-secured lending platform that allows…",
+   "source": "Bitcoin.com News",
+   "ts": 1795498200,
+   "url": "https://news.bitcoin.com/finance/lendingusa-cross-river-bank-bitcoin-backed-loans-250k/",
+   "ad": false
+  },
+  {
+   "title": "Why 42 Macro says it's waiting to buy the Bitcoin dip",
+   "summary": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
+   "source": "Cointelegraph",
+   "ts": 1795496850,
+   "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss",
+   "ad": false
+  },
+  {
+   "title": "Fortitude Clears Key Vote on Path to Nasdaq Zcash Mining Debut",
+   "summary": "Fortitude Mining is moving closer to a Nasdaq debut after Heartsciences shareholders approved their merger with 86% support. The development comes as Dragonfly's Haseeb Qureshi makes a case for zcash as protection against bitcoin's potential security risks. Heartsciences Backs Fortitude Merger A Nasdaq-listed medical…",
+   "source": "Bitcoin.com News",
+   "ts": 1795494614,
+   "url": "https://news.bitcoin.com/finance/fortitude-clears-key-vote-on-path-to-nasdaq-zcash-mining-debut/",
+   "ad": false
+  },
+  {
+   "title": "Robert Kiyosaki Renews Bitcoin Case, Warns of Economic Crash Worse Than 2008",
+   "summary": "Robert Kiyosaki renewed his case for owning bitcoin and ether directly, warning that a downturn could surpass the 2008 financial crisis. The Rich Dad Poor Dad author raised the possibility of a global depression. Kiyosaki Revisits His Case for Direct Ownership Robert Kiyosaki, author of Rich Dad Poor Dad, reiterated on Nov. 22…",
+   "source": "Bitcoin.com News",
+   "ts": 1795491029,
+   "url": "https://news.bitcoin.com/featured/robert-kiyosaki-renews-bitcoin-case-warns-of-economic-crash-worse-than-2008/",
+   "ad": false
+  },
   {
    "title": "Bitcoin Price Recovery Faces Weak Demand After $4.7B Leverage Wipeout",
    "summary": "Bitcoin derivatives traders have erased nearly $4.7 billion in open interest on Binance over the past year, marking one of the steepest leverage contractions on record. Analysts warn that weak demand and persistent liquidations could complicate bitcoin's price recovery. Binance Bitcoin Open Interest Falls 40% as Traders Cut…",
@@ -33,54 +81,6 @@
    "source": "Bitcoin Magazine",
    "ts": 1795468155,
    "url": "https://bitcoinmagazine.com/news/strive-asst-no-bitcoin-purchases-holdings",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang's Return",
-   "summary": "The bitcoin price gave back its Nvidia-fueled spike above $64,000 on Monday afternoon, slipping near $61,000 while stocks and crypto shares held big gains. This post Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang's Return first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795467501,
-   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
-   "ad": false
-  },
-  {
-   "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
-   "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who \"refuses to block funds such as these.\"",
-   "source": "Decrypt",
-   "ts": 1795466162,
-   "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch",
-   "summary": "Bitcoin Magazine Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch Sean Hagan revisits the Bitcoin-in-gold chart BMTV first ran in late September, when one Bitcoin bought about 19. This post Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch first appeared on Bitcoin Magazine and is written by Patrick Green .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795465812,
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Plunges Back Below $61K Hours After Nvidia CEO Return Rally",
-   "summary": "Bitcoin surged to an intraday high of $64,505 on Monday following the reinstatement of Nvidia CEO and President Jensen Huang, but quickly surrendered most of its gains, retreating to around $60,800. A Six-Minute Surge and Rapid Reversal Bitcoin endured another roller-coaster session Monday, rallying sharply on news that Nvidia…",
-   "source": "Bitcoin.com News",
-   "ts": 1795463630,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-plunges-below-61k-hours-nvidia-ceo-return-rally/",
-   "ad": false
-  },
-  {
-   "title": "Grant Cardone: Bitcoin to 5x – MSTR So Cheap \"You Have to Buy it\"",
-   "summary": "Bitcoin Magazine Grant Cardone: Bitcoin to 5x – MSTR So Cheap \"You Have to Buy it\" Grant Cardone says Michael Saylor \"is hated, frankly, by the Bitcoin community that needs him,\" and predicts Saylor will be proven one of the smartest individual thinkers. This post Grant Cardone: Bitcoin to 5x – MSTR So Cheap \"You Have to Buy…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795461317,
-   "url": "https://bitcoinmagazine.com/videos/grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
-   "ad": false
-  },
-  {
-   "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
-   "summary": "Bitdeer mined 281.1 BTC last week and sold all of it, leaving the miner with no bitcoin of its own as of Nov. 20 while American Bitcoin borrows against its reserve instead. This post Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795458600,
-   "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
    "ad": false
   }
  ]

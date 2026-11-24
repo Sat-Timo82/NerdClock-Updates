@@ -1,7 +1,23 @@
 {
- "updated": 1795474457,
+ "updated": 1795503343,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "bitcoin-kursspurts-nvidia-ceo-ruec-49916",
+   "title": "Bitcoin fällt nahe $61.000 – Huangs Rückkehr treibt Nvidia, löst Liquidationen aus",
+   "summary": "Bitcoin fällt nahe $61.000 nach Huangs Rückkehr; heftige Liquidationen, Nvidia-Rally, Spot-Bitcoin-ETF-Abflüsse und Fed-Signale im Fokus.",
+   "ts": 1795477802,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-kursspurts-nvidia-ceo-rueckkehr-liquidationen-762m",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "bitcoin-langfristige-anlage-utxo-asmus",
+   "title": "Loren Asmus (UTXO): Bitcoin jetzt attraktiver Entry Point für Langfristanleger",
+   "summary": "Loren Asmus (UTXO) sieht das Bitcoin-Protokoll intakt und aktuelle Kurse als attraktiven Entry Point für langfristige Anleger.",
+   "ts": 1795477802,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-langfristige-anlage-utxo-asmus",
+   "author": "Patrick Green Deutsche Übersetzung…"
+  },
   {
    "id": "nvidia-aktien-huang-rueckkehr-stel-88048",
    "title": "Nvidia-Rallye: Huang zurück – Aktien, Bitcoin und Crypto-Aktien ziehen an",
@@ -224,22 +240,6 @@
    "summary": "Bitcoin testet wichtige Support-Zonen bei 73.000–76.000 US-Dollar. Glassnode sieht mehr Shorts, während ETFs Kapitalabflüsse verzeichnen.",
    "ts": 1793824363,
    "url": "https://nerdminer.de/blogs/news/bitcoin-testet-august-ausbruchsniveaus-nach-ruecksetzer",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "strategy-strc-erreicht-100-dollar--1e432",
-   "title": "Strategy: STRC erreicht nach 165 Tagen wieder den Nennwert von 100 US-Dollar",
-   "summary": "Strategys STRC erreicht wieder 100 US-Dollar. 12-%-Dividende, Rückkäufe und 849.327 BTC könnten neue Bitcoin-Käufe ermöglichen.",
-   "ts": 1793824363,
-   "url": "https://nerdminer.de/blogs/news/strategy-strc-erreicht-100-dollar-nennwert-nach-165-tagen-unter-par",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-erholt-sich-nach-us-zwisch-77aa2",
-   "title": "Bitcoin erholt sich auf 80.500 Dollar nach Rally an US-Börsen",
-   "summary": "Bitcoin steigt nach dem politischen Schock auf 80.500 Dollar. Optionen, ETF-Abflüsse und die Reaktion der Märkte im Überblick.",
-   "ts": 1793812720,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-erholt-sich-nach-us-zwischenwahlen",
    "author": "Yannic Fraebel"
   }
  ]
