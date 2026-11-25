@@ -1,0 +1,13 @@
+Bilanz & Ergebnis
+
+CleanSpark meldete für das Fiskaljahr einen Nettoverlust von $987,1M, getrieben von niedrigeren Bitcoin-Preisen und hohen nicht zahlungswirksamen Abschreibungen. Der Umsatz fiel um 25% auf $576,5M, das bereinigte EBITDA war ein Verlust von $304,2M. Etwa zwei Drittel der Jahresänderung ergaben sich aus Mark-to-Market-Verlusten: $281,6M Fair-Value-Verlust auf Bitcoin und $177,1M an Impairments.
+
+Mining, Bestände & Performance
+
+Als Maßnahme zur Senkung des Bilanzrisikos erwägt das Management, leicht mehr Bitcoin zu verkaufen, als das Unternehmen mined, um Verwässerung oder neue Schulden zu vermeiden. CleanSpark hielt Ende September 13,530 Bitcoin (Coins), hatte aber bereits Teile verkauft und Coins zur Begleichung von Derivaten genutzt. Im Jahresverlauf wurden 7,253 Bitcoin gemined (-8%), die durchschnittliche Hashrate sank auf 36,0 EH/s, während die Fleet-Effizienz sich verbesserte.
+
+Aktienkurs, Analysten & Data-Center-Strategie
+
+Im Q4 kehrte CleanSpark mit einem Nettogewinn von $9,8M zurück, gestützt von einem Bitcoin-Gewinn von $305,6M, obwohl der Umsatz im Quartal um 46% zurückging. Die Aktie fiel auf ein neues 52-Wochen-Tief, Analysten senkten Kursziele wegen schwächerer Mining-Ergebnisse und begrenztem Upside. Die Data-Center-Expansion verläuft uneinheitlich: Sandersville bleibt auf Kurs für eine erste Halle 2027, während Projekte in Texas aufgrund eines sich wandelnden regulatorischen Umfelds langsamer vorankommen.
+
+Dein Bitcoin-Miner für zu Hause

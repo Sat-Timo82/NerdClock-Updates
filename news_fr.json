@@ -1,86 +1,86 @@
 {
- "updated": 1795610512,
+ "updated": 1795645650,
  "mode": "stichworte",
  "lang": "fr",
  "items": [
   {
-   "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
-   "summary": "UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.",
-   "source": "The Block",
-   "ts": 1795609472,
-   "url": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-44615",
+   "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target \"Conservative\"",
+   "summary": "Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target \"Conservative\" Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target \"Conservative\" first appeared on Bitcoin Magazine and is written by Patrick Green .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795641744,
+   "url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
    "ad": false
   },
   {
-   "title": "'Don't mess with X,' Elon Musk says after platform secures default judgment in alleged…",
-   "summary": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.",
-   "source": "The Block",
-   "ts": 1795608867,
-   "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-",
+   "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+   "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+   "source": "Decrypt",
+   "ts": 1795638963,
+   "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
    "ad": false
   },
   {
-   "title": "Bitcoin.com Explorer Opens Free MCP Server and API for AI Agents",
-   "summary": "This is an announcement by Bitcoin.com, which owns and operates Bitcoin.com News. 25th November, 2026. Dubai, United Arab Emirates: Bitcoin.com has opened its Bitcoin block explorer to AI agents. Bitcoin.com Explorer now offers a free public API and a remote MCP (Model Context Protocol) server, so assistants such as Claude and…",
+   "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+   "summary": "Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795636200,
+   "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+   "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
+   "source": "The Block",
+   "ts": 1795635430,
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+   "ad": false
+  },
+  {
+   "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+   "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
+   "source": "The Block",
+   "ts": 1795635162,
+   "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+   "ad": false
+  },
+  {
+   "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+   "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
+   "source": "Decrypt",
+   "ts": 1795634934,
+   "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Struggles Below $60K as Spot Buyers Retreat and Leverage Builds",
+   "summary": "Bitcoin fell for a second consecutive day Wednesday, hitting an intraday low of $57,209 amid renewed U.S. tariff war fears. The sell-off pushed cryptocurrency liquidations to $579 million, while bitcoin remained down by nearly 25% since the start of November. Bitcoin Slides Below $58,000 as Tariff War Fears Resurface Bitcoin…",
    "source": "Bitcoin.com News",
-   "ts": 1795608334,
-   "url": "https://news.bitcoin.com/press-releases/bitcoin-com-explorer-opens-free-mcp-server-and-api-for-ai-agents/",
+   "ts": 1795630684,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-struggles-below-60k-as-spot-buyers-retreat-and-leverage-builds/",
    "ad": false
   },
   {
-   "title": "Italy's UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-   "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital.",
+   "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+   "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
    "source": "CoinDesk",
-   "ts": 1795607514,
-   "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+   "ts": 1795628313,
+   "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
    "ad": false
   },
   {
-   "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-   "summary": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat.",
-   "source": "CoinDesk",
-   "ts": 1795606232,
-   "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Traders Haven't Been This Bearish Since BTC Traded at $20,000",
-   "summary": "Bitcoin options traders are buying downside protection at a pace last seen in June 2022, when BTC traded near $20,000, per analytics firm Glassnode. Puts Pile up Commenting on the current state of bitcoin's price action, research firm Glassnode opined: The last rush into puts like this was June 2022. Bitcoin was near $20K, in…",
-   "source": "Bitcoin.com News",
-   "ts": 1795606226,
-   "url": "https://news.bitcoin.com/price-predictions/bitcoin-options-traders-rush-puts-june-2022-glassnode/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-   "summary": "US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous monthly record of $4.51 billion set in June.",
+   "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+   "summary": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
    "source": "Cointelegraph",
-   "ts": 1795605146,
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
+   "ts": 1795628002,
+   "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
    "ad": false
   },
   {
-   "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-   "summary": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD.",
-   "source": "Cointelegraph",
-   "ts": 1795604978,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_in",
-   "ad": false
-  },
-  {
-   "title": "Saylor Says STRC Beat Bitcoin and S&P 500 on Risk-Adjusted Returns",
-   "summary": "Michael Saylor's Strategy published a chart ranking its STRC preferred stock first on one-year risk-adjusted returns, while bitcoin came in sixth of seven assets with a Sharpe ratio of -0.77. STRC Sits Atop the Table Strategy executive chairman Michael Saylor posted the chart early Wednesday, adding: Stretch (STRC) led the…",
-   "source": "Bitcoin.com News",
-   "ts": 1795602614,
-   "url": "https://news.bitcoin.com/finance/michael-saylor-strc-sharpe-ratio-bitcoin-second-last/",
-   "ad": false
-  },
-  {
-   "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
-   "summary": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.",
+   "title": "Bitcoin falls below $58,000 as CoinShares' Butterfill sees 'tail end of the bear market'",
+   "summary": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up.",
    "source": "The Block",
-   "ts": 1795591617,
-   "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+   "ts": 1795627615,
+   "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
    "ad": false
   }
  ]

@@ -1,7 +1,23 @@
 {
- "updated": 1795610512,
+ "updated": 1795645650,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "cleanspark-verkauft-mehr-bitcoin-a-c9286",
+   "title": "CleanSpark erwägt Verkauf von mehr Bitcoin als gemined – Bilanzrisiko nach $987M Verlust",
+   "summary": "CleanSpark prüft Verkauf von mehr Bitcoin als gemined, um Bilanzrisiko nach $987M Verlust zu senken. Folgen für Mining, Hashrate und Data-Center.",
+   "ts": 1795630637,
+   "url": "https://nerdminer.de/blogs/news/cleanspark-verkauft-mehr-bitcoin-als-geschuerft-risiko-senken",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "bitcoin-faellt-us-zollvorschlaege",
+   "title": "Bitcoin fällt auf 57.500 US-Dollar: Geplante US-Zölle belasten Märkte",
+   "summary": "Bitcoin verliert über 4 Prozent. Geplante US-Zölle, ETF-Abflüsse und Zinssorgen erhöhen den Druck auf Krypto- und Aktienmärkte.",
+   "ts": 1795623191,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-us-zollvorschlaege",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "stacks-anleihe4-3-prozent-rendite--db665",
    "title": "Stacks startet Bond 4: 1.050 BTC StakingKapazität & 3% ZielYield",
@@ -225,22 +241,6 @@
    "ts": 1794515196,
    "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-unter-72000-nach-ruecktritt-nvidia-ceo-jensen-huang",
    "author": "Yannic Fraebel"
-  },
-  {
-   "id": "msci-streicht-strategy-aus-usa-index",
-   "title": "MSCI streicht Strategy aus globalen Indizes – MSTR-Aktie fällt 2,6 %",
-   "summary": "MSCI entfernt Strategy und weitere Krypto-Unternehmen aus Indizes. Was der Schritt für MSTR, Bitcoin und institutionelle Anleger bedeutet.",
-   "ts": 1794491675,
-   "url": "https://nerdminer.de/blogs/news/msci-streicht-strategy-aus-usa-index",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "msci-streicht-strategy-und-metapla-97f32",
-   "title": "MSCI wirft Strategy und Metaplanet aus den Indizes: Was das für Bitcoin bedeutet",
-   "summary": "MSCI hat die Streichungsliste für November 2026 veröffentlicht: Die beiden größten börsennotierten Bitcoin-Halter, Strategy und Metaplanet, fliegen aus den Indizes. Was dahintersteckt und welche Folgen zu erwarten sind.",
-   "ts": 1794488822,
-   "url": "https://nerdminer.de/blogs/news/msci-streicht-strategy-und-metaplanet-aus-indizes",
-   "author": "Nerdminer"
   }
  ]
 }
