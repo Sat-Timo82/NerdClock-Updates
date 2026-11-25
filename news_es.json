@@ -1,8 +1,24 @@
 {
- "updated": 1795645650,
+ "updated": 1795649272,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Top 7 Signs to Watch That Could Signal a Bitcoin Price Reversal",
+   "summary": "As sentiment around bitcoin turns overwhelmingly negative once again, analysts point to seven signals that could indicate the market is ready to turn higher. However, the likelihood of many of these signals appearing remains low for now. It's also anyone's guess when these changes might occur, if at all. At the time of…",
+   "source": "Bitcoin.com News",
+   "ts": 1795647843,
+   "url": "https://news.bitcoin.com/opinion-and-analysis/top-7-signs-to-watch-that-could-signal-a-bitcoin-price-reversal/",
+   "ad": false
+  },
+  {
+   "title": "Stanford Professor Reveals \"Praxis\" Bitcoin Cryptography Breakthrough",
+   "summary": "Bitcoin Magazine Stanford Professor Reveals \"Praxis\" Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals \"Praxis\" Bitcoin Cryptography Breakthrough first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795644926,
+   "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+   "ad": false
+  },
   {
    "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target \"Conservative\"",
    "summary": "Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target \"Conservative\" Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target \"Conservative\" first appeared on Bitcoin Magazine and is written by Patrick Green .",
@@ -65,22 +81,6 @@
    "source": "CoinDesk",
    "ts": 1795628313,
    "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
-   "summary": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
-   "source": "Cointelegraph",
-   "ts": 1795628002,
-   "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_pa",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin falls below $58,000 as CoinShares' Butterfill sees 'tail end of the bear market'",
-   "summary": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up.",
-   "source": "The Block",
-   "ts": 1795627615,
-   "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
    "ad": false
   }
  ]

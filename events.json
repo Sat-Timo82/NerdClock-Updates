@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-11-25",
  "hinweis": "Bitcoin-Veranstaltungen für die NerdClock. Datum als JJJJMMTT, cc = Ländercode. Neue Events einfach ergänzen.",
  "events": [
   {
@@ -131,12 +131,44 @@
    "url": "https://btcprague.com/"
   },
   {
+   "name": "BTC Prague",
+   "city": "Prague",
+   "cc": "CZ",
+   "start": 20270506,
+   "end": 20270508,
+   "url": "https://bitcoinonly.events/btc-prague-2027/"
+  },
+  {
+   "name": "Bitcoin Ireland Conference",
+   "city": "Dublin",
+   "cc": "IE",
+   "start": 20270521,
+   "end": 20270523,
+   "url": "https://bitcoinonly.events/bitcoin-ireland-conference-2027/"
+  },
+  {
    "name": "Adopting Bitcoin",
    "city": "Arnhem",
    "cc": "NL",
    "start": 20270527,
    "end": 20270529,
    "url": "https://adoptingbitcoin.org/"
+  },
+  {
+   "name": "Adopting Bitcoin Arnhem",
+   "city": "Arnhem",
+   "cc": "NL",
+   "start": 20270528,
+   "end": 20270529,
+   "url": "https://bitcoinonly.events/adopting-bitcoin-arnhem-2027/"
+  },
+  {
+   "name": "Bitcoin FilmFest",
+   "city": "Warsaw",
+   "cc": "PL",
+   "start": 20270624,
+   "end": 20270627,
+   "url": "https://bitcoinonly.events/bitcoin-filmfest-2027/"
   },
   {
    "name": "Zitadelle 2027",
@@ -149,6 +181,14 @@
     "de": "Satoshis Dörfel im Dirndltal bei Frankenfels (NÖ). Tickets ab 31.10.2026, 21:21 Uhr – nur mit Bitcoin. Pass ca. 280 € inkl. Frühstück und Abendbuffet. Übernachten vom Zelt bis zum Zimmer, Anreise per Bahn bis Frankenfels + Shuttle.",
     "en": "Satoshis Dörfel in the Dirndltal near Frankenfels, Lower Austria. Tickets from 31 Oct 2026, 21:21 – Bitcoin only. Pass approx. €280 incl. breakfast and dinner buffet. Stay from tent to room; by train to Frankenfels + shuttle."
    }
+  },
+  {
+   "name": "Bitcoin Beyond 66 Bodø",
+   "city": "Bodø",
+   "cc": "NO",
+   "start": 20270813,
+   "end": 20270813,
+   "url": "https://bitcoinonly.events/bitcoin-beyond-66-bodo/"
   }
  ]
 }
