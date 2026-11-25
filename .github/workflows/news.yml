@@ -42,4 +42,4 @@ jobs:
           git config user.name "Sat-Timo82"
           git config user.email "timobartz13@gmail.com"
           git commit -m "News/Events aktualisiert (automatisch)"
-          git push
+          git pull --rebase -q && git push
