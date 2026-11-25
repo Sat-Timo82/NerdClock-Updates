@@ -1,14 +1,46 @@
 {
- "updated": 1795575642,
+ "updated": 1795610512,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
-   "title": "Zollangst drückt Bitcoin wieder unter 60.000 US-Dollar",
-   "summary": "Keine 24 Stunden hielt die Erholung am Krypto-Markt. Diesmal kommt der Auslöser nicht aus dem Technologiesektor, sondern aus Washington. Source: BTC-ECHO BTC-ECHO",
+   "title": "Fast 5 Milliarden US-Dollar an Abflüssen: Bitcoin-Spot-ETFs im schlechtesten Monat seit der…",
+   "summary": "Die US-Bitcoin-Spot-ETFs haben im November schon 4,94 Mrd. $ an Abflüssen verzeichnet – der bislang schlechteste Monat aller Zeiten. Kapitulieren die Institutionen?",
+   "source": "Blocktrainer",
+   "ts": 1795608628,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-spot-etfs-im-schlechtesten-monat-seit-der-zulassung",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Haltefrist retten? \"Jeder, der seinem Abgeordneten schreibt, verändert etwas\"",
+   "summary": "Am 9. Dezember soll das Kabinett über das Aus der Bitcoin-Haltefrist beraten. Was danach passiert und wo das Gesetz noch scheitern kann, erklärt Frank Schäffler im Interview. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1795545033,
-   "url": "https://www.btc-echo.de/news/zollangst-drueckt-bitcoin-wieder-unter-60-000-us-dollar-241495/",
+   "ts": 1795604870,
+   "url": "https://www.btc-echo.de/news/bitcoin-haltefrist-retten-jeder-der-seinem-abgeordneten-schreibt-veraendert-etwas-241465/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Miner CleanSpark mit fast einer Milliarde Verlust: Jetzt soll KI die Wende bringen",
+   "summary": "Unter dem fallenden Bitcoin-Kurs leiden nicht nur Anleger. Auch Miner haben es schwer: CleanSpark trifft es besonders hart. Doch die Zukunft soll besser aussehen. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795594260,
+   "url": "https://www.btc-echo.de/news/bitcoin-miner-mit-einer-milliarde-verlust-ki-wende-bringen-241500/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin rutscht unter 60.000 US-Dollar: Was heute den Kurs bewegen könnte",
+   "summary": "Erneut fällt Bitcoin unter die Marke von 60.000 US-Dollar – und auch der übrige Krypto-Markt gibt entsprechend nach. Können neue US-Daten den Kurs jetzt unterstützen? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795590707,
+   "url": "https://www.btc-echo.de/news/bitcoin-rutscht-unter-60000-dollar-was-heute-kurs-bewegen-koennte-241496/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin mit 50 Prozent Rabatt: Der beste Black Friday Deal des Jahres?",
+   "summary": "Erneut fällt der Bitcoin-Kurs unter 60.000 Dollar und lässt Anleger tief verunsichert zurück. Wie es in den kommenden Wochen weitergehen könnte – und was jetzt für einen Einstieg bei der Kryptowährung spricht. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795575600,
+   "url": "https://www.btc-echo.de/news/bitcoin-mit-50-prozent-rabatt-black-friday-sale-241441/",
    "ad": false
   },
   {
@@ -44,43 +76,11 @@
    "ad": false
   },
   {
-   "title": "Rekordabfluss beim IBIT: Die BTC-Bestände bleiben trotzdem stabil",
-   "summary": "Aus dem Bitcoin ETF IBIT fließen 541 Millionen Dollar an einem Tag ab. Aus diesen Gründen können Anleger trotzdem zunächst aufatmen. Source: BTC-ECHO BTC-ECHO",
+   "title": "US-Bank vergibt Kredite von bis zu 250.000 US-Dollar gegen Bitcoin",
+   "summary": "Wer Bitcoin besitzt und trotzdem an Bargeld kommen will, muss künftig nicht mehr zwingend verkaufen. Eine US-Bank bietet nun Kredite an, die eine Falle bergen. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
-   "ts": 1795449802,
-   "url": "https://www.btc-echo.de/news/rekordabfluss-beim-ibit-die-btc-bestaende-bleiben-trotzdem-stabil-241283/",
-   "ad": false
-  },
-  {
-   "title": "Russische Abgeordnete wollen eingezogene Bitcoin in Staatsreserve übertragen",
-   "summary": "Russlands Kommunisten wollen eingezogene Bitcoin und andere Kryptowährungen in die staatlichen Reserven aufnehmen. Dabei orientieren sie sich an den USA.",
-   "source": "Blocktrainer",
-   "ts": 1795447980,
-   "url": "https://www.blocktrainer.de/blog/russische-abgeordnete-wollen-eingezogene-bitcoin-in-staatsreserve-uebertragen",
-   "ad": false
-  },
-  {
-   "title": "Nach Huangs Rückkehr als Nvidia-CEO: Bitcoin-Kurs erholt sich auf 64.500 US-Dollar",
-   "summary": "Bitcoin ist über 64.500 US-Dollar gestiegen, nachdem es die Meldung gab, dass Jensen Huang als Nvidia-CEO zurückkehrt. Seit dem Tief ist BTC damit über 17 % im Plus.",
-   "source": "Blocktrainer",
-   "ts": 1795446342,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-kurs-erholt-sich-auf-64000-us-dollar",
-   "ad": false
-  },
-  {
-   "title": "Strategy mit Milliardenverlust: So stark belastet Bitcoin das Geschäft",
-   "summary": "Für Strategy wird der Bitcoin-Kurs zur Belastungsprobe. Warum Saylor trotzdem nachkauft und wofür er noch mehr ausgibt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795441187,
-   "url": "https://www.btc-echo.de/news/strategy-mit-milliardenverlust-so-stark-belastet-bitcoin-das-geschaeft-241415/",
-   "ad": false
-  },
-  {
-   "title": "KI entdeckt erneut Sicherheitslücke in Bitcoin Core",
-   "summary": "Bitcoin Core schließt eine per KI entdeckte Sicherheitslücke, die Nodes lahmlegen konnte. Wie gefährlich der Fehler ist und wer jetzt updaten muss. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795421460,
-   "url": "https://www.btc-echo.de/news/ki-entdeckt-erneut-sicherheitsluecke-in-bitcoin-core-241392/",
+   "ts": 1795461006,
+   "url": "https://www.btc-echo.de/news/us-bank-vergibt-kredite-von-bis-zu-250-000-us-dollar-gegen-bitcoin-241434/",
    "ad": false
   }
  ]

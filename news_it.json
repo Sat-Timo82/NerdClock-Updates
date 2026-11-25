@@ -1,86 +1,86 @@
 {
- "updated": 1795575642,
+ "updated": 1795610512,
  "mode": "stichworte",
  "lang": "it",
  "items": [
   {
-   "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-   "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
-   "source": "Cointelegraph",
-   "ts": 1795570859,
-   "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&ut",
-   "ad": false
-  },
-  {
-   "title": "21shares Dissects Bitcoin's Selling Spiral as the Market Eyes $53K",
-   "summary": "Crypto asset manager 21shares warns that bitcoin's recovery attempts could remain short-lived as shrinking stablecoin liquidity, institutional withdrawals and forced liquidations prolong the bear market. Researchers identify $53,250 as a significant downside level, while prediction market traders anticipate similar valuations…",
-   "source": "Bitcoin.com News",
-   "ts": 1795569307,
-   "url": "https://news.bitcoin.com/market-updates/21shares-dissects-bitcoins-selling-spiral-as-the-market-eyes-53k/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
-   "summary": "Bitcoin Magazine Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse Since 2016, the only time Bitcoin closed below its six-year moving average was the FTX crash. This post Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse first appeared on Bitcoin Magazine and is written by Patrick…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795559403,
-   "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-   "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
+   "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
+   "summary": "UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.",
    "source": "The Block",
-   "ts": 1795558245,
-   "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+   "ts": 1795609472,
+   "url": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-44615",
    "ad": false
   },
   {
-   "title": "Researchers Unveil Encryption Breakthrough With Major Implications for Bitcoin",
-   "summary": "Researchers from Stanford University and Byzantine Research have introduced Praxis, a witness encryption scheme designed to make a once-impractical cryptographic technique accessible on ordinary computers. It potentially enables Bitcoin bridges, conditional payments, and sophisticated smart contracts without modifying the…",
+   "title": "'Don't mess with X,' Elon Musk says after platform secures default judgment in alleged…",
+   "summary": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.",
+   "source": "The Block",
+   "ts": 1795608867,
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin.com Explorer Opens Free MCP Server and API for AI Agents",
+   "summary": "This is an announcement by Bitcoin.com, which owns and operates Bitcoin.com News. 25th November, 2026. Dubai, United Arab Emirates: Bitcoin.com has opened its Bitcoin block explorer to AI agents. Bitcoin.com Explorer now offers a free public API and a remote MCP (Model Context Protocol) server, so assistants such as Claude and…",
    "source": "Bitcoin.com News",
-   "ts": 1795556733,
-   "url": "https://news.bitcoin.com/technology/researchers-unveil-encryption-breakthrough-major-implications-bitcoin/",
+   "ts": 1795608334,
+   "url": "https://news.bitcoin.com/press-releases/bitcoin-com-explorer-opens-free-mcp-server-and-api-for-ai-agents/",
    "ad": false
   },
   {
-   "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-   "summary": "Coinkite's postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-   "source": "Decrypt",
-   "ts": 1795554962,
-   "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+   "title": "Italy's UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+   "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital.",
+   "source": "CoinDesk",
+   "ts": 1795607514,
+   "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
    "ad": false
   },
   {
-   "title": "\"Escape Velocity\" Coming for Bitcoin with Repeat of 2017 Cycle | Michael van de Poppe",
-   "summary": "Bitcoin Magazine \"Escape Velocity\" Coming for Bitcoin with Repeat of 2017 Cycle | Michael van de Poppe The Fear & Greed Index has sat in extreme fear, and Michael van de Poppe says people are upset that Bitcoin has underperformed other assets. This post \"Escape Velocity\" Coming for Bitcoin with Repeat of 2017 Cycle | Michael…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795554930,
-   "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
+   "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+   "summary": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat.",
+   "source": "CoinDesk",
+   "ts": 1795606232,
+   "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
    "ad": false
   },
   {
-   "title": "Andre Dragosch: Bitcoin at \"Fire Sale\" Valuations Heading Into Fed Pivot",
-   "summary": "Bitcoin Magazine Andre Dragosch: Bitcoin at \"Fire Sale\" Valuations Heading Into Fed Pivot Andre Dragosch says Fed language is already as hawkish as it was in 2022, and \"we are probably close to peak hawkishness. This post Andre Dragosch: Bitcoin at \"Fire Sale\" Valuations Heading Into Fed Pivot first appeared on Bitcoin…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795551657,
-   "url": "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot",
+   "title": "Bitcoin Traders Haven't Been This Bearish Since BTC Traded at $20,000",
+   "summary": "Bitcoin options traders are buying downside protection at a pace last seen in June 2022, when BTC traded near $20,000, per analytics firm Glassnode. Puts Pile up Commenting on the current state of bitcoin's price action, research firm Glassnode opined: The last rush into puts like this was June 2022. Bitcoin was near $20K, in…",
+   "source": "Bitcoin.com News",
+   "ts": 1795606226,
+   "url": "https://news.bitcoin.com/price-predictions/bitcoin-options-traders-rush-puts-june-2022-glassnode/",
    "ad": false
   },
   {
-   "title": "Bitcoin Lender Ledn Moves US Clients Onshore With New Custody Accounts",
-   "summary": "Bitcoin lender Ledn launched a US custody account that lets clients hold bitcoin, gold, stablecoins and dollars, with no trading fees and a 0.5% spread. This post Bitcoin Lender Ledn Moves US Clients Onshore With New Custody Accounts first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795551319,
-   "url": "https://bitcoinmagazine.com/news/ledn-launches-us-custody-accounts",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-   "summary": "The crypto asset manager warned that Bitcoin's downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors.",
+   "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+   "summary": "US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous monthly record of $4.51 billion set in June.",
    "source": "Cointelegraph",
-   "ts": 1795549463,
-   "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
+   "ts": 1795605146,
+   "url": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin price may fall below $53K if bear-market history repeats",
+   "summary": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD.",
+   "source": "Cointelegraph",
+   "ts": 1795604978,
+   "url": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partner_in",
+   "ad": false
+  },
+  {
+   "title": "Saylor Says STRC Beat Bitcoin and S&P 500 on Risk-Adjusted Returns",
+   "summary": "Michael Saylor's Strategy published a chart ranking its STRC preferred stock first on one-year risk-adjusted returns, while bitcoin came in sixth of seven assets with a Sharpe ratio of -0.77. STRC Sits Atop the Table Strategy executive chairman Michael Saylor posted the chart early Wednesday, adding: Stretch (STRC) led the…",
+   "source": "Bitcoin.com News",
+   "ts": 1795602614,
+   "url": "https://news.bitcoin.com/finance/michael-saylor-strc-sharpe-ratio-bitcoin-second-last/",
+   "ad": false
+  },
+  {
+   "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+   "summary": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.",
+   "source": "The Block",
+   "ts": 1795591617,
+   "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
    "ad": false
   }
  ]
