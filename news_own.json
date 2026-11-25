@@ -1,7 +1,15 @@
 {
- "updated": 1795546214,
+ "updated": 1795575642,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "stacks-anleihe4-3-prozent-rendite--db665",
+   "title": "Stacks startet Bond 4: 1.050 BTC StakingKapazität & 3% ZielYield",
+   "summary": "Stacks startet Bond 4 mit 1.050 BTC StakingKapazität und 3% ZielYield in BTC. Institutionelles Staking via BitGo, STXPairing und Proof of Transfer.",
+   "ts": 1795547886,
+   "url": "https://nerdminer.de/blogs/news/stacks-anleihe4-3-prozent-rendite-1050-btc",
+   "author": "Bitcoin Magazine Deutsche Übersetzung…"
+  },
   {
    "id": "bitcoin-ueberverkauft-ki-risiken-l-63a84",
    "title": "Bitcoin laut Grayscale überverkauft – KI-Risiken belasten den Ausblick",
@@ -233,14 +241,6 @@
    "ts": 1794488822,
    "url": "https://nerdminer.de/blogs/news/msci-streicht-strategy-und-metaplanet-aus-indizes",
    "author": "Nerdminer"
-  },
-  {
-   "id": "strategy-strc-vorzugsaktie-erreich-25104",
-   "title": "True North: STRC zum Nennwert könnte Strategy den Kauf von 284 BTC ermöglicht haben",
-   "summary": "STRC erreichte erstmals seit Mai wieder 100 US-Dollar. True North schätzt, dass Strategy damit rund 284 BTC finanzieren konnte.",
-   "ts": 1793917602,
-   "url": "https://nerdminer.de/blogs/news/strategy-strc-vorzugsaktie-erreicht-wieder-100-bitcoin-kaeufe",
-   "author": "Yannic Fraebel"
   }
  ]
 }

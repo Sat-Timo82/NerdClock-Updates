@@ -1,0 +1,13 @@
+Kurzüberblick
+
+Stacks Labs hat Bond 4 mit einer StakingKapazität von 1.050 BTC angekündigt, Start voraussichtlich um den 5. Dez. Der Bond richtet sich primär an institutionelle Anleger und bietet einen ZielAnnualYield von 3%, ausgezahlt wöchentlich in BTC über eine Laufzeit von sechs Monaten.
+
+BondDetails & Teilnahme
+
+Um am Bond teilzunehmen muss jedes gestakte BTC mit STX im Wert von 5% des BTCWerts gepaart werden. Institutionen können über qualifizierte CustodyProvider wie BitGo teilnehmen; in der aktuellen BootstrapPhase ist selfcustodial Staking für genehmigte Nutzer möglich, andere können via pooled staking einsteigen.
+
+Rewards, Proof of Transfer und Bilanz
+
+Die Rewards stammen von Stacksminers über den Konsensmechanismus Proof of Transfer und werden wöchentlich in BTC verteilt. Frühere Bonds füllten sich vollständig – Bond 3 zog u.a. 21shares und Bullish an – und Stacks hat seit 2021 mehr als 4.200 BTC an Rewards verteilt.
+
+Dein Bitcoin-Miner für zu Hause
