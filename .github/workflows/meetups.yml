@@ -14,11 +14,17 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Hilfsskripte aus privatem Repo laden
+        uses: actions/checkout@v4
+        with:
+          repository: Sat-Timo82/NerdClock-Tools
+          ssh-key: ${{ secrets.NERDTOOLS_KEY }}
+          path: _tools
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - name: Termine aus dem Portal holen
-        run: python -I tools/update_meetups.py meetups_next.json || echo "Portal nicht erreichbar, alte Datei bleibt"
+        run: python -I _tools/update_meetups.py meetups_next.json || echo "Portal nicht erreichbar, alte Datei bleibt"
       - name: Nur bei Änderungen speichern
         run: |
           if git diff --quiet -- meetups_next.json && [ -f meetups_next.json ] && git ls-files --error-unmatch meetups_next.json >/dev/null 2>&1; then echo "nichts Neues"; exit 0; fi

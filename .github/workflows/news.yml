@@ -14,6 +14,12 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Hilfsskripte aus privatem Repo laden
+        uses: actions/checkout@v4
+        with:
+          repository: Sat-Timo82/NerdClock-Tools
+          ssh-key: ${{ secrets.NERDTOOLS_KEY }}
+          path: _tools
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -22,12 +28,12 @@ jobs:
       - name: News erzeugen (Deutsch/Englisch aus den Quellen; mit Schlüssel auch Französisch/Spanisch/Niederländisch/Italienisch)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -I tools/make_news.py news.json
+        run: python -I _tools/make_news.py news.json
       - name: Events erzeugen (einmal am Tag, bitcoinonly.events, nur Europa)
         if: github.event_name == 'workflow_dispatch' || github.event.schedule == '17 */3 * * *'
         run: |
           if [ "$(date -u +%H)" = "06" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            python -I tools/update_events.py events.json || echo "Events: Quelle nicht erreichbar, alte Liste bleibt"
+            python -I _tools/update_events.py events.json || echo "Events: Quelle nicht erreichbar, alte Liste bleibt"
           fi
       - name: Nur bei Änderungen speichern
         run: |

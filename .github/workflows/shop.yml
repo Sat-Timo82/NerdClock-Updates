@@ -13,12 +13,18 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+      - name: Hilfsskripte aus privatem Repo laden
+        uses: actions/checkout@v4
+        with:
+          repository: Sat-Timo82/NerdClock-Tools
+          ssh-key: ${{ secrets.NERDTOOLS_KEY }}
+          path: _tools
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install pillow
       - name: Produktliste + Bilder erzeugen
-        run: python -I tools/update_shop.py shop || echo "Shop nicht erreichbar, alte Liste bleibt"
+        run: python -I _tools/update_shop.py shop || echo "Shop nicht erreichbar, alte Liste bleibt"
       - name: Nur bei Änderungen speichern
         run: |
           git add shop
