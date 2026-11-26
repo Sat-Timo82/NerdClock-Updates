@@ -1,8 +1,64 @@
 {
- "updated": 1795666859,
+ "updated": 1795702964,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Bitcoin: Ausverkauf ohne Abnehmer",
+   "summary": "Hebelwetten aufgelöst, ETF-Käufer auf dem Rückzug. Geht es nach den On-Chain-Daten, zeigt sich Bärenstimmung. Wie geht es jetzt weiter? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795701600,
+   "url": "https://www.btc-echo.de/news/bitcoin-ausverkauf-ohne-abnehmer-241519/",
+   "ad": false
+  },
+  {
+   "title": "Galaxy zieht bullische Bitcoin-Prognose zurück und warnt vor weiteren Kursverlusten",
+   "summary": "Galaxy hielt den Bitcoin-Bärenmarkt vor einem Monat noch für beendet. Jetzt revidiert die Analysefirma ihre Einschätzung und warnt vor weiteren Kursverlusten.",
+   "source": "Blocktrainer",
+   "ts": 1795700304,
+   "url": "https://www.blocktrainer.de/blog/galaxy-zieht-bullische-bitcoin-prognose-zurueck-und-haelt-weitere-kursverluste-fuer-moeglich",
+   "ad": false
+  },
+  {
+   "title": "Firefish rüstet auf: Bitcoin-Kredite für bis zu vier Jahre und mehr Privatsphäre dank eigener…",
+   "summary": "Längere Kreditlaufzeiten und mehr Privatsphäre: Firefish erweitert sein Angebot für Bitcoin-besicherte Kredite um zwei wichtige Funktionen.",
+   "source": "Blocktrainer",
+   "ts": 1795696510,
+   "url": "https://www.blocktrainer.de/blog/firefish-ruestet-auf-bitcoin-kredite-fuer-bis-zu-vier-jahre-und-mehr-privatsphaere-dank-eigener-iban",
+   "ad": false
+  },
+  {
+   "title": "Erster \"echter\" Bitcoin ETF startet in der Schweiz",
+   "summary": "BIT Asset Management launcht den ersten Bitcoin Spot ETF der Schweiz – und den einzigen in Europa. Was den Indexfonds von anderen Krypto-Produkten unterscheidet. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795691076,
+   "url": "https://www.btc-echo.de/news/erster-echter-bitcoin-etf-startet-in-der-schweiz-241580/",
+   "ad": false
+  },
+  {
+   "title": "Angriffe auf Bitcoin-Miner: Das müssen Bitaxe-Besitzer jetzt wissen!",
+   "summary": "Braiins schlägt Alarm: Angreifer leiten die Rechenleistung von Bitcoin-Minern um. Diese Einstellungen sollten Bitaxe-Besitzer prüfen.",
+   "source": "Blocktrainer",
+   "ts": 1795689096,
+   "url": "https://www.blocktrainer.de/blog/braiins-schlaegt-alarm-angreifer-kapern-die-rechenleistung-von-bitcoin-minern",
+   "ad": false
+  },
+  {
+   "title": "Sind Frauen die besseren Bitcoin-Anleger? Das sagt Madame Moneypenny",
+   "summary": "Die Versprechen des schnellen Reichtums schreckt Anlegerinnen eher ab. Dabei haben sie gute Voraussetzungen, um erfolgreich zu investieren. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795687200,
+   "url": "https://www.btc-echo.de/news/sind-frauen-die-besseren-bitcoin-anleger-das-sagt-madame-moneypenny-241573/",
+   "ad": false
+  },
+  {
+   "title": "Krypto-Report: Deshalb könnte der Bitcoin-Kurs unter 54.000 Dollar fallen",
+   "summary": "Seit 412 Tagen ist Bitcoin im Bärenmarkt – der längste Krypto-Winter der Geschichte. Warum ein letzter großer Abverkauf folgen könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795676690,
+   "url": "https://www.btc-echo.de/news/krypto-report-dann-faellt-bitcoin-unter-54-000-dollar-241565/",
+   "ad": false
+  },
   {
    "title": "Hyperliquid im Krypto-ETF: Was Franklin Templetons Schritt für Anleger bedeutet",
    "summary": "Mit Franklin Templeton setzt ein weiterer großer Vermögensverwalter auf Hyperliquid. Im Weißen Haus hat man den Altcoin seit Langem auf dem Schirm. Source: BTC-ECHO BTC-ECHO",
@@ -20,67 +76,11 @@
    "ad": false
   },
   {
-   "title": "Bitcoin unter 60.000 US-Dollar: Auf diese Chance lauern Trader",
-   "summary": "Bitcoin steht unter massivem Verkaufsdruck. Doch gerade ein Rückfall auf neue Jahrestiefs könnte Tradern eine attraktive Einstiegschance bieten. Wo sich ein Long-Trade mit rund zehn Prozent Kurspotenzial anbietet. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795622572,
-   "url": "https://www.btc-echo.de/news/bitcoin-unter-60-000-us-dollar-auf-diese-chance-lauern-trader-241544/",
-   "ad": false
-  },
-  {
    "title": "US-Wirtschaftsdaten bringen Bitcoin weiter unter Druck",
    "summary": "Starkes US-Wirtschaftswachstum und eine überraschend hohe Kerninflation erhöhen den Druck auf die Federal Reserve und damit auf Bitcoin und die Aktienmärkte.",
    "source": "Blocktrainer",
    "ts": 1795617900,
    "url": "https://www.blocktrainer.de/blog/us-wirtschaftsdaten-bringen-bitcoin-weiter-unter-druck",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin vor historischem Quartalsverlust: Kommt die Wende 2027?",
-   "summary": "Die Kursgewinne aus dem dritten Quartal sind längst Geschichte. Während Bitcoin um die Marke von 60.000 US-Dollar kämpft, schwindet auch an der Wall Street die Kauflaune. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795617884,
-   "url": "https://www.btc-echo.de/news/bitcoin-vor-historischem-quartalsverlust-kommt-die-wende-2027-241533/",
-   "ad": false
-  },
-  {
-   "title": "US-Inflation und BIP: Was die neuen Daten für Bitcoin und die Fed bedeuten",
-   "summary": "Die Inflation und das BIP in den USA liefern neue Signale für die Fed. Was die Zahlen für den angeschlagenen Bitcoin-Kurs bedeuten. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795614712,
-   "url": "https://www.btc-echo.de/news/inflation-und-bip-was-neuen-daten-fuer-bitcoin-fed-bedeuten-241525/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin in der eigenen Wallet: Frankreichs Senat stoppt Meldepflicht ab 100.000 Euro",
-   "summary": "Bitcoin-Anleger in Frankreich können aufatmen: Der Senat hat das Gesetz zur Meldepflicht von Krypto-Vermögen abgelehnt. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795611600,
-   "url": "https://www.btc-echo.de/news/frankreichs-senat-stoppt-bitcoin-meldepflicht-241513/",
-   "ad": false
-  },
-  {
-   "title": "Fast 5 Milliarden US-Dollar an Abflüssen: Bitcoin-Spot-ETFs im schlechtesten Monat seit der…",
-   "summary": "Die US-Bitcoin-Spot-ETFs haben im November schon 4,94 Mrd. $ an Abflüssen verzeichnet – der bislang schlechteste Monat aller Zeiten. Kapitulieren die Institutionen?",
-   "source": "Blocktrainer",
-   "ts": 1795608628,
-   "url": "https://www.blocktrainer.de/blog/bitcoin-spot-etfs-im-schlechtesten-monat-seit-der-zulassung",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Haltefrist retten? \"Jeder, der seinem Abgeordneten schreibt, verändert etwas\"",
-   "summary": "Am 9. Dezember soll das Kabinett über das Aus der Bitcoin-Haltefrist beraten. Was danach passiert und wo das Gesetz noch scheitern kann, erklärt Frank Schäffler im Interview. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795604870,
-   "url": "https://www.btc-echo.de/news/bitcoin-haltefrist-retten-jeder-der-seinem-abgeordneten-schreibt-veraendert-etwas-241465/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Miner CleanSpark mit fast einer Milliarde Verlust: Jetzt soll KI die Wende bringen",
-   "summary": "Unter dem fallenden Bitcoin-Kurs leiden nicht nur Anleger. Auch Miner haben es schwer: CleanSpark trifft es besonders hart. Doch die Zukunft soll besser aussehen. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795594260,
-   "url": "https://www.btc-echo.de/news/bitcoin-miner-mit-einer-milliarde-verlust-ki-wende-bringen-241500/",
    "ad": false
   }
  ]

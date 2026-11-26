@@ -1,7 +1,23 @@
 {
- "updated": 1795666859,
+ "updated": 1795702964,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "finanzausschuss-des-reprasentanten-1ebcd",
+   "title": "Bitcoin-Reserve-Gesetz mit 20-jährigem Verkaufsverbot vor US-Hausabstimmung",
+   "summary": "Ein US-Gesetz soll eine Strategic Bitcoin Reserve schaffen und den Verkauf staatlicher Bitcoin für 20 Jahre verbieten.",
+   "ts": 1795682228,
+   "url": "https://nerdminer.de/blogs/news/finanzausschuss-des-reprasentantenhauses-meldet-hr-8957-american-reserve-modernization-act-2026",
+   "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-langzeitlagerung-uebertrif-fbe1b",
+   "title": "Bitcoin im Deep Storage: Mehr Coins werden gehodlt als Miner täglich minen",
+   "summary": "Mehr Bitcoin landen im Deep Storage als neu geminted werden: 630 vs. 450 BTC/Tag. 3,6 Mio. BTC im 10JahresClub – Folgen bis Halving 2028?",
+   "ts": 1795666034,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-langzeitlagerung-uebertrifft-schuerfen",
+   "author": "Patrick Green Deutsche Übersetzung…"
+  },
   {
    "id": "cleanspark-verkauft-mehr-bitcoin-a-c9286",
    "title": "CleanSpark erwägt Verkauf von mehr Bitcoin als gemined – Bilanzrisiko nach $987M Verlust",
@@ -225,22 +241,6 @@
    "ts": 1794593556,
    "url": "https://nerdminer.de/blogs/news/apollo-iii-bitcoin-fullnode-miner-microcenter-kauf-brooklyn-miami",
    "author": "Micah Zimmerman Deutsche Übersetzung…"
-  },
-  {
-   "id": "bitcoin-unter-70000-spot-etf-abflu-49aed",
-   "title": "Bitcoin fällt unter 70.000 US-Dollar: Spot-ETFs rutschen 2026 ins Minus",
-   "summary": "Bitcoin fällt unter 70.000 US-Dollar, während Spot-ETFs Abflüsse verzeichnen. Hohe Leverage, dünne Liquidität und Fed-Sorgen belasten den Kryptomarkt.",
-   "ts": 1794562353,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-unter-70000-spot-etf-abflusse-156-milliarden",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-faellt-unter-72000-nach-ru-a5074",
-   "title": "Bitcoin fällt unter 72.000 US-Dollar: Nvidia-Chef Jensen Huang tritt zurück",
-   "summary": "Bitcoin fällt unter 72.000 US-Dollar, während Huangs Nvidia-Rücktritt, ETF-Abflüsse und straffere US-Geldpolitik die Märkte belasten.",
-   "ts": 1794515196,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-unter-72000-nach-ruecktritt-nvidia-ceo-jensen-huang",
-   "author": "Yannic Fraebel"
   }
  ]
 }
