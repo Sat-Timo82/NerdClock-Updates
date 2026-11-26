@@ -1,8 +1,32 @@
 {
- "updated": 1795702964,
+ "updated": 1795734996,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "US-Repräsentantenhaus: Bitcoin-Reserve-Gesetzentwurf zur Abstimmung weitergeleitet",
+   "summary": "Der ARMA Act, ein Gesetzentwurf zur strategischen Bitcoin-Reserve der USA, wurde an das Plenum des Repräsentantenhauses weitergeleitet. Jetzt könnte es zur Abstimmung kommen.",
+   "source": "Blocktrainer",
+   "ts": 1795712749,
+   "url": "https://www.blocktrainer.de/blog/us-repraesentantenhaus-bitcoin-reserve-gesetzentwurf-zur-abstimmung-weitergeleitet",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Wallets: Gefahr durch KI-Fortschritte?",
+   "summary": "Ein Top-Forscher hört von KI-Durchbrüchen bei der Kryptografie. Aus diesen Gründen sind Bitcoin-Wallets derzeit aber nicht in Gefahr. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795708081,
+   "url": "https://www.btc-echo.de/news/bitcoin-wallets-gefahr-durch-ki-fortschritte-241620/",
+   "ad": false
+  },
+  {
+   "title": "KI knackt Jahrhundertprobleme: Wie sicher ist Bitcoin noch?",
+   "summary": "Primzahlen, KI und Bitcoin: Warum die Riemannsche Vermutung keine Wallets öffnet, die Fortschritte aber grundlegende Sicherheitsfragen aufwerfen.",
+   "source": "Blocktrainer",
+   "ts": 1795705723,
+   "url": "https://www.blocktrainer.de/blog/ki-knackt-jahrhundertprobleme-wie-sicher-ist-bitcoin-noch",
+   "ad": false
+  },
   {
    "title": "Bitcoin: Ausverkauf ohne Abnehmer",
    "summary": "Hebelwetten aufgelöst, ETF-Käufer auf dem Rückzug. Geht es nach den On-Chain-Daten, zeigt sich Bärenstimmung. Wie geht es jetzt weiter? Source: BTC-ECHO BTC-ECHO",
@@ -57,30 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795676690,
    "url": "https://www.btc-echo.de/news/krypto-report-dann-faellt-bitcoin-unter-54-000-dollar-241565/",
-   "ad": false
-  },
-  {
-   "title": "Hyperliquid im Krypto-ETF: Was Franklin Templetons Schritt für Anleger bedeutet",
-   "summary": "Mit Franklin Templeton setzt ein weiterer großer Vermögensverwalter auf Hyperliquid. Im Weißen Haus hat man den Altcoin seit Langem auf dem Schirm. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795633294,
-   "url": "https://www.btc-echo.de/news/hyperliquid-im-krypto-etf-was-franklin-templetons-schritt-fuer-anleger-bedeutet-241562/",
-   "ad": false
-  },
-  {
-   "title": "Wie tief wird der Bitcoin-Kurs noch fallen? Das erwarten die Experten",
-   "summary": "Nach einer kurzen Stabilisierung fällt der Bitcoin-Kurs direkt wieder unter 60.000 US-Dollar. Was laut Jack Mallers jetzt für einen Boden spricht – und warum ein anderer Experte den nächsten heftigen Abverkauf befürchtet. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795629600,
-   "url": "https://www.btc-echo.de/news/wie-tief-faellt-bitcoin-noch-das-sagen-die-experten-241507/",
-   "ad": false
-  },
-  {
-   "title": "US-Wirtschaftsdaten bringen Bitcoin weiter unter Druck",
-   "summary": "Starkes US-Wirtschaftswachstum und eine überraschend hohe Kerninflation erhöhen den Druck auf die Federal Reserve und damit auf Bitcoin und die Aktienmärkte.",
-   "source": "Blocktrainer",
-   "ts": 1795617900,
-   "url": "https://www.blocktrainer.de/blog/us-wirtschaftsdaten-bringen-bitcoin-weiter-unter-druck",
    "ad": false
   }
  ]

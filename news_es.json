@@ -1,86 +1,86 @@
 {
- "updated": 1795702964,
+ "updated": 1795734996,
  "mode": "stichworte",
  "lang": "es",
  "items": [
   {
-   "title": "7 bizarre things crypto whales spent a fortune on",
-   "summary": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief.",
-   "source": "Cointelegraph",
-   "ts": 1795699800,
-   "url": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_p",
+   "title": "Galaxy Abandons BTC Bottom Call, Warns Bear Market Is Far From Over",
+   "summary": "Galaxy Digital retracts its October bottom call, warning that bitcoin's bear market isn't over after breaking below key 50- and 200-week MAs.",
+   "source": "Bitcoin.com News",
+   "ts": 1795733122,
+   "url": "https://news.bitcoin.com/featured/galaxy-abandons-btc-bottom-call-warns-bear-market-is-far-from-over/",
    "ad": false
   },
   {
-   "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-   "summary": "A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low.",
+   "title": "Fidelity Pushes Beyond Bitcoin With Chainlink ETF Filing",
+   "summary": "Fidelity Investments has filed with the SEC to launch a spot Chainlink ETF, expanding its crypto ETFs beyond bitcoin, ethereum, and solana.",
+   "source": "Bitcoin.com News",
+   "ts": 1795717828,
+   "url": "https://news.bitcoin.com/finance/fidelity-pushes-beyond-bitcoin-with-chainlink-etf-filing/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+   "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
    "source": "Decrypt",
-   "ts": 1795695968,
-   "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
+   "ts": 1795716929,
+   "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
    "ad": false
   },
   {
-   "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-   "summary": "Your day-ahead look for Nov. 26, 2026",
+   "title": "Switzerland's First Spot Bitcoin ETF Hits SIX With 350 BTC",
+   "summary": "Switzerland's first spot bitcoin ETF, BBIT, debuts on SIX with 350 BTC, a 0.19% annual fee, segregated Swiss custody and FINMA approval.",
+   "source": "Bitcoin.com News",
+   "ts": 1795716006,
+   "url": "https://news.bitcoin.com/crypto-news/switzerlands-first-spot-bitcoin-etf-hits-six-with-350-btc/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Taps $61K on Thanksgiving as Short Sellers Take a Beating",
+   "summary": "BTC reclaimed $61K on Thanksgiving as short liquidations topped $117 million, but tariff threats and inflation concerns clouded the recovery.",
+   "source": "Bitcoin.com News",
+   "ts": 1795714345,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-taps-61k-on-thanksgiving-as-short-sellers-take-a-beating/",
+   "ad": false
+  },
+  {
+   "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+   "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
    "source": "CoinDesk",
-   "ts": 1795695286,
-   "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+   "ts": 1795714200,
+   "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
    "ad": false
   },
   {
-   "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-   "summary": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.",
-   "source": "Cointelegraph",
-   "ts": 1795692179,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rs",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-   "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much.",
-   "source": "CoinDesk",
-   "ts": 1795691842,
-   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-   "summary": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.",
-   "source": "Cointelegraph",
-   "ts": 1795686154,
-   "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_p",
-   "ad": false
-  },
-  {
-   "title": "Switzerland's first spot Bitcoin ETF ticks up 0.6% in opening hour",
-   "summary": "The spot Bitcoin ETF will be backed by Bitcoin held in cold storage at a Swiss bank, unlike prior Bitcoin ETPs structured as debt securities.",
-   "source": "Cointelegraph",
-   "ts": 1795684695,
-   "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partn",
-   "ad": false
-  },
-  {
-   "title": "$7 Billion Bitcoin Options Expiry Gives Bulls a $71,000 Reality Check",
-   "summary": "Key takeaways About $6.92 billion in Bitcoin options expire on Deribit on Friday, with a max pain price of $71,000 and a put-to-call ratio of 0.85, per PiSpace. Bitcoin trades around $60,000, so it would need to gain more than 18% to reach max pain, which is a statistic, not a price target. The roughly […]",
+   "title": "US Strategic Bitcoin Reserve Bill Would Block BTC Sales for 20 Years",
+   "summary": "Key takeaways The House Financial Services Committee formally reported the amended American Reserve Modernization Act (H.R. 8957) on November 24; it now awaits possible consideration by the full House. The bill would bar the government from selling, exchanging, auctioning or pledging reserve Bitcoin for at least 20 years after…",
    "source": "Bitcoinist",
-   "ts": 1795684335,
-   "url": "https://bitcoinist.com/bitcoin-options-expiry-7-billion/",
+   "ts": 1795713643,
+   "url": "https://bitcoinist.com/us-strategic-bitcoin-reserve-20-year-lockup/",
    "ad": false
   },
   {
-   "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
-   "summary": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November, with several trading days remaining.",
-   "source": "The Block",
-   "ts": 1795683046,
-   "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
-   "ad": false
-  },
-  {
-   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from…",
-   "summary": "Bitcoin options positioning has flipped bearish ahead of Friday's $7 billion expiry, with traders piling into downside protection as volatility rises.",
+   "title": "Bitcoin's dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+   "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
    "source": "CoinDesk",
-   "ts": 1795680093,
-   "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+   "ts": 1795711823,
+   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin ETFs Lose $3.05B in 7 Days as November Outflows Hit $5.39B",
+   "summary": "U.S. spot bitcoin ETFs lost $453.12 million on Wednesday, extending their seven-day withdrawal streak to $3.05 billion.",
+   "source": "Bitcoin.com News",
+   "ts": 1795710623,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-etfs-lose-3-05b-in-7-days-as-november-outflows-hit-5-39b/",
+   "ad": false
+  },
+  {
+   "title": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple",
+   "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
+   "source": "The Block",
+   "ts": 1795709904,
+   "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
    "ad": false
   }
  ]
