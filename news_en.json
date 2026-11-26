@@ -1,8 +1,48 @@
 {
- "updated": 1795649272,
+ "updated": 1795666859,
  "mode": "stichworte",
  "lang": "en",
  "items": [
+  {
+   "title": "Coinbase CEO Says Investors Swap Bitcoin for Big IPOs, Then Rotate Back",
+   "summary": "Coinbase CEO Brian Armstrong said investors have historically moved money out of bitcoin to buy into major initial public offerings and returned afterward. He argued that bitcoin remains as important as ever for investors who expect higher inflation and more money printing. Armstrong Describes How Investors Move Around Big…",
+   "source": "Bitcoin.com News",
+   "ts": 1795663834,
+   "url": "https://news.bitcoin.com/featured/coinbase-ceo-says-investors-swap-bitcoin-for-big-ipos-then-rotate-back/",
+   "ad": false
+  },
+  {
+   "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+   "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
+   "source": "The Block",
+   "ts": 1795662181,
+   "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Could Sink to $48,500 if It Breaks Below $53K, Analyst Warns",
+   "summary": "Bitcoin could fall to $48,500 if it stays below its roughly $53,000 realized price, a strategist warned. The analyst still expects bitcoin to revisit $72,000 to $80,000 by year-end. Bitcoin's $53K Cost Basis Marks a Downside Threshold Matt Mena, senior crypto research strategist at crypto exchange-traded product issuer…",
+   "source": "Bitcoin.com News",
+   "ts": 1795658737,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-could-sink-to-48500-if-it-breaks-below-53k-analyst-warns/",
+   "ad": false
+  },
+  {
+   "title": "Canaan Expands Nordic Bitcoin Mining Heat Network to Nearly 8,000 Homes",
+   "summary": "Bitcoin mining equipment manufacturer Canaan announced Wednesday that it secured two additional orders for 430 hydro-cooled Avalon mining units in the Nordic region, expanding its district heating portfolio to nearly 12 megawatts (MW), with the potential to heat nearly 8,000 homes. Canaan Secures Two More Nordic Hash-to-Heat…",
+   "source": "Bitcoin.com News",
+   "ts": 1795653034,
+   "url": "https://news.bitcoin.com/mining/canaan-expands-nordic-bitcoin-mining-heat-network-to-nearly-8000-homes/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin is Vanishing into \"Deep Storage\" Faster than Miners Make It",
+   "summary": "Bitcoin Magazine Bitcoin is Vanishing into \"Deep Storage\" Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into \"Deep Storage\" Faster than Miners Make It first appeared on Bitcoin Magazine and is…",
+   "source": "Bitcoin Magazine",
+   "ts": 1795649412,
+   "url": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+   "ad": false
+  },
   {
    "title": "Top 7 Signs to Watch That Could Signal a Bitcoin Price Reversal",
    "summary": "As sentiment around bitcoin turns overwhelmingly negative once again, analysts point to seven signals that could indicate the market is ready to turn higher. However, the likelihood of many of these signals appearing remains low for now. It's also anyone's guess when these changes might occur, if at all. At the time of…",
@@ -36,51 +76,11 @@
    "ad": false
   },
   {
-   "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-   "summary": "Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-   "source": "Bitcoin Magazine",
-   "ts": 1795636200,
-   "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
-   "ad": false
-  },
-  {
    "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
    "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
    "source": "The Block",
    "ts": 1795635430,
    "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-   "ad": false
-  },
-  {
-   "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
-   "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
-   "source": "The Block",
-   "ts": 1795635162,
-   "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
-   "ad": false
-  },
-  {
-   "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
-   "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
-   "source": "Decrypt",
-   "ts": 1795634934,
-   "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Price Struggles Below $60K as Spot Buyers Retreat and Leverage Builds",
-   "summary": "Bitcoin fell for a second consecutive day Wednesday, hitting an intraday low of $57,209 amid renewed U.S. tariff war fears. The sell-off pushed cryptocurrency liquidations to $579 million, while bitcoin remained down by nearly 25% since the start of November. Bitcoin Slides Below $58,000 as Tariff War Fears Resurface Bitcoin…",
-   "source": "Bitcoin.com News",
-   "ts": 1795630684,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-struggles-below-60k-as-spot-buyers-retreat-and-leverage-builds/",
-   "ad": false
-  },
-  {
-   "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
-   "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing.",
-   "source": "CoinDesk",
-   "ts": 1795628313,
-   "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
    "ad": false
   }
  ]
