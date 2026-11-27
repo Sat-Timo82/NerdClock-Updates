@@ -1,8 +1,32 @@
 {
- "updated": 1795793541,
+ "updated": 1795822966,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Strategys niedriges mNAV und hohe ETF-Abflüsse: JPMorgan identifiziert Signale der…",
+   "summary": "JPMorgan-Analysten ordnen die historisch niedrige Bewertung der Strategy-Aktie als Kapitulationssignal für den Bitcoin-Markt ein und verweisen auf hohe ETF-Abflüsse.",
+   "source": "Blocktrainer",
+   "ts": 1795803798,
+   "url": "https://www.blocktrainer.de/blog/jpmorgan-identifiziert-signale-der-kapitulation-im-bitcoin-markt",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin vor dem Death Cross: Kommt jetzt der Todesstoß für BTC?",
+   "summary": "In der Vergangenheit folgten auf das Signal teils Verluste von über 60 Prozent. Zuletzt ging es danach aber kaum noch abwärts. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795800097,
+   "url": "https://www.btc-echo.de/news/bitcoin-vor-dem-death-cross-kommt-jetzt-der-todesstoss-fuer-btc-241714/",
+   "ad": false
+  },
+  {
+   "title": "Zwischen Nvidia und Zinsangst – Wie steht es um Bitcoin?",
+   "summary": "Erst Jubel über Jensen Huangs Rückkehr zu Nvidia, dann Bärenmarkt-Alarm beim Nasdaq: Bitcoin schwankte binnen zwei Tagen um mehr als 7.000 US-Dollar. Die größere Gefahr lauert aber woanders. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795795200,
+   "url": "https://www.btc-echo.de/news/zwischen-nvidia-und-zinsangst-wie-steht-es-um-bitcoin-241664/",
+   "ad": false
+  },
   {
    "title": "Bitcoin-Haltefrist: Kabinettstermin schon wieder abgesagt",
    "summary": "Die neue Krypto-Steuer soll nun doch nicht mehr am 9. Dezember im Kabinett beraten werden. Ist das Ende der Bitcoin-Haltefrist für 2027 damit endgültig vom Tisch?",
@@ -57,30 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1795705723,
    "url": "https://www.blocktrainer.de/blog/ki-knackt-jahrhundertprobleme-wie-sicher-ist-bitcoin-noch",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin: Ausverkauf ohne Abnehmer",
-   "summary": "Hebelwetten aufgelöst, ETF-Käufer auf dem Rückzug. Geht es nach den On-Chain-Daten, zeigt sich Bärenstimmung. Wie geht es jetzt weiter? Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795701600,
-   "url": "https://www.btc-echo.de/news/bitcoin-ausverkauf-ohne-abnehmer-241519/",
-   "ad": false
-  },
-  {
-   "title": "Galaxy zieht bullische Bitcoin-Prognose zurück und warnt vor weiteren Kursverlusten",
-   "summary": "Galaxy hielt den Bitcoin-Bärenmarkt vor einem Monat noch für beendet. Jetzt revidiert die Analysefirma ihre Einschätzung und warnt vor weiteren Kursverlusten.",
-   "source": "Blocktrainer",
-   "ts": 1795700304,
-   "url": "https://www.blocktrainer.de/blog/galaxy-zieht-bullische-bitcoin-prognose-zurueck-und-haelt-weitere-kursverluste-fuer-moeglich",
-   "ad": false
-  },
-  {
-   "title": "Firefish rüstet auf: Bitcoin-Kredite für bis zu vier Jahre und mehr Privatsphäre dank eigener…",
-   "summary": "Längere Kreditlaufzeiten und mehr Privatsphäre: Firefish erweitert sein Angebot für Bitcoin-besicherte Kredite um zwei wichtige Funktionen.",
-   "source": "Blocktrainer",
-   "ts": 1795696510,
-   "url": "https://www.blocktrainer.de/blog/firefish-ruestet-auf-bitcoin-kredite-fuer-bis-zu-vier-jahre-und-mehr-privatsphaere-dank-eigener-iban",
    "ad": false
   }
  ]

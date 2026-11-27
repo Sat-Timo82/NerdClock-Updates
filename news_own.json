@@ -1,7 +1,23 @@
 {
- "updated": 1795793541,
+ "updated": 1795822966,
  "source": "Nerdminer.de",
  "items": [
+  {
+   "id": "novatech-gruender-1-37-milliarden--4bf34",
+   "title": "New York erlässt $1,37 Mrd. Urteil gegen NovaTech-Crypto-Ponzi-Gründer",
+   "summary": "New York verurteilt NovaTech-Gründer zu $1,37 Mrd. für Crypto-Ponzi: Wallet-Transfers, CoinPayments und haitianische Communities betroffen.",
+   "ts": 1795807917,
+   "url": "https://nerdminer.de/blogs/news/novatech-gruender-1-37-milliarden-ponzi-urteil-ny",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "abraxas-capital-zieht-21520-bitcoi-dfeb5",
+   "title": "Abraxas Capital zieht 21.520 Bitcoin ab – BTC nahe 60.000 US-Dollar",
+   "summary": "Abraxas Capital transferierte 21.520 BTC im Wert von 1,285 Mrd. US-Dollar von Exchanges. Was hinter den Bitcoin-Bewegungen steckt.",
+   "ts": 1795800428,
+   "url": "https://nerdminer.de/blogs/news/abraxas-capital-zieht-21520-bitcoin-von-krypto-borsen-ab",
+   "author": "Yannic Fraebel"
+  },
   {
    "id": "finanzausschuss-des-reprasentanten-1ebcd",
    "title": "Bitcoin-Reserve-Gesetz mit 20-jährigem Verkaufsverbot vor US-Hausabstimmung",
@@ -225,22 +241,6 @@
    "ts": 1795021922,
    "url": "https://nerdminer.de/blogs/news/ny-rentenfonds-erhoht-strategy-beteiligung-q3",
    "author": "Micah Zimmerman Deutsche Übersetzung…"
-  },
-  {
-   "id": "bitcoin-faellt-auf-62112-krypto-li-2234e",
-   "title": "Bitcoin fällt auf Viermonatstief bei 62.000 US-Dollar – Liquidationen erreichen Milliardenhöhe",
-   "summary": "Bitcoin fällt auf 62.112 US-Dollar: Milliardenhohe Liquidationen, ETF-Abflüsse und steigende US-Renditen belasten den Krypto-Markt.",
-   "ts": 1794763718,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-faellt-auf-62112-krypto-liquidationen",
-   "author": "Yannic Fraebel"
-  },
-  {
-   "id": "texas-gesetzentwurf-815-bitcoin-in-acb45",
-   "title": "Texas plant Bitcoin-Investments von bis zu 10 Millionen Dollar für jede Stadt und jeden County",
-   "summary": "Ein Gesetzentwurf in Texas könnte Städten und Counties erlauben, bis zu 10 Millionen Dollar in Bitcoin oder andere Kryptowährungen zu investieren.",
-   "ts": 1794680559,
-   "url": "https://nerdminer.de/blogs/news/texas-gesetzentwurf-815-bitcoin-investitionen",
-   "author": "Yannic Fraebel"
   }
  ]
 }
