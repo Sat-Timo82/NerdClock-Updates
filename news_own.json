@@ -1,5 +1,5 @@
 {
- "updated": 1795756766,
+ "updated": 1795793541,
  "source": "Nerdminer.de",
  "items": [
   {
@@ -88,6 +88,14 @@
    "summary": "Solo Miner mit ~11.1 TH/s findet Block 977,057 und sichert 3.1287 BTC via CKPool. Seltene Solo-Wins, 2% Fee, schwierige Mining-Bedingungen.",
    "ts": 1795466050,
    "url": "https://nerdminer.de/blogs/news/alleinminer-11-1-ths-bitcoin-block-977057-3-1287btc",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
+  },
+  {
+   "id": "american-bitcoin-150-millionen-fal-94c77",
+   "title": "American Bitcoin (ABTC) sichert $150M Bitcoin-Backed Credit Line von FalconX",
+   "summary": "ABTC sichert $150M Bitcoin-Backed Credit Line von FalconX – non-dilutive Liquidität mit 143% Collateral; Nachschuss- und Liquidationsrisiko.",
+   "ts": 1795454520,
+   "url": "https://nerdminer.de/blogs/news/american-bitcoin-150-millionen-falconx-bitcoin-kreditlinie",
    "author": "Micah Zimmerman Deutsche Übersetzung…"
   },
   {
@@ -233,14 +241,6 @@
    "ts": 1794680559,
    "url": "https://nerdminer.de/blogs/news/texas-gesetzentwurf-815-bitcoin-investitionen",
    "author": "Yannic Fraebel"
-  },
-  {
-   "id": "bitcoin-rutsch-14-prozent-woche",
-   "title": "Bitcoin fällt 14% auf $65.000 – BTC-Preis, Spot-ETFs & Mining Difficulty im Fokus",
-   "summary": "BTC rutscht 14% auf ~65.000$ nach Weekend-Selloff. Dollar, hohe Yields, Spot-ETFs und sinkende Mining Difficulty prägen den Ausblick.",
-   "ts": 1794676470,
-   "url": "https://nerdminer.de/blogs/news/bitcoin-rutsch-14-prozent-woche",
-   "author": "Micah Zimmerman Deutsche Übersetzung…"
   }
  ]
 }

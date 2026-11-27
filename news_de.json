@@ -1,11 +1,35 @@
 {
- "updated": 1795756766,
+ "updated": 1795793541,
  "mode": "stichworte",
  "lang": "de",
  "items": [
   {
+   "title": "Bitcoin-Haltefrist: Kabinettstermin schon wieder abgesagt",
+   "summary": "Die neue Krypto-Steuer soll nun doch nicht mehr am 9. Dezember im Kabinett beraten werden. Ist das Ende der Bitcoin-Haltefrist für 2027 damit endgültig vom Tisch?",
+   "source": "Blocktrainer",
+   "ts": 1795782219,
+   "url": "https://www.blocktrainer.de/blog/bitcoin-haltefrist-kabinettstermin-schon-wieder-abgesagt",
+   "ad": false
+  },
+  {
+   "title": "Krypto-Prognose 2027: Warum Anleger bei Bitcoin vorerst nicht auf Rekorde hoffen sollten",
+   "summary": "Eine Jahresendrallye ist noch nicht vom Tisch. Abseits von Bitcoin sehen die Analysten attraktive Investmentchancen, allerdings birgt einer ihrer Favoriten erhebliche Risiken. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795773600,
+   "url": "https://www.btc-echo.de/news/krypto-prognose-2027-warum-anleger-bei-bitcoin-vorerst-nicht-auf-rekorde-hoffen-241578/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin erholt sich nach Thanksgiving: Warum Anleger dennoch vorsichtig bleiben sollten",
+   "summary": "Bitcoin und die meisten großen Altcoins legen am Freitagmorgen zu. Bei den amerikanischen Spot ETFs zeichnet sich hingegen ein historisch schwacher Monat ab. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795763170,
+   "url": "https://www.btc-echo.de/news/bitcoin-erholt-sich-nach-thanksgiving-warum-anleger-dennoch-vorsichtig-bleiben-sollten-241652/",
+   "ad": false
+  },
+  {
    "title": "\"Kein Verfahren von wenigen Wochen\": So steht es um die Bitcoin-Haltefrist",
-   "summary": "Am 9. Dezember soll das Kabinett über die Abschaffung der Krypto-Haltefrist beraten. Wann das Gesetz frühestens greifen könnte und wo noch Hoffnung für Anleger besteht. Source: BTC-ECHO BTC-ECHO",
+   "summary": "Am 9. Dezember wollte das Kabinett über die Abschaffung der Krypto-Haltefrist beraten, doch jetzt wackelt der Termin erneut. Wann das Gesetz frühestens greifen könnte und wo noch Hoffnung für Anleger besteht. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1795748400,
    "url": "https://www.btc-echo.de/news/so-steht-es-um-die-bitcoin-haltefrist-241570/",
@@ -57,30 +81,6 @@
    "source": "Blocktrainer",
    "ts": 1795696510,
    "url": "https://www.blocktrainer.de/blog/firefish-ruestet-auf-bitcoin-kredite-fuer-bis-zu-vier-jahre-und-mehr-privatsphaere-dank-eigener-iban",
-   "ad": false
-  },
-  {
-   "title": "Erster \"echter\" Bitcoin ETF startet in der Schweiz",
-   "summary": "BIT Asset Management launcht den ersten Bitcoin Spot ETF der Schweiz – und den einzigen in Europa. Was den Indexfonds von anderen Krypto-Produkten unterscheidet. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795691076,
-   "url": "https://www.btc-echo.de/news/erster-echter-bitcoin-etf-startet-in-der-schweiz-241580/",
-   "ad": false
-  },
-  {
-   "title": "Angriffe auf Bitcoin-Miner: Das müssen Bitaxe-Besitzer jetzt wissen!",
-   "summary": "Braiins schlägt Alarm: Angreifer leiten die Rechenleistung von Bitcoin-Minern um. Diese Einstellungen sollten Bitaxe-Besitzer prüfen.",
-   "source": "Blocktrainer",
-   "ts": 1795689096,
-   "url": "https://www.blocktrainer.de/blog/braiins-schlaegt-alarm-angreifer-kapern-die-rechenleistung-von-bitcoin-minern",
-   "ad": false
-  },
-  {
-   "title": "Sind Frauen die besseren Bitcoin-Anleger? Das sagt Madame Moneypenny",
-   "summary": "Die Versprechen des schnellen Reichtums schreckt Anlegerinnen eher ab. Dabei haben sie gute Voraussetzungen, um erfolgreich zu investieren. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795687200,
-   "url": "https://www.btc-echo.de/news/sind-frauen-die-besseren-bitcoin-anleger-das-sagt-madame-moneypenny-241573/",
    "ad": false
   }
  ]

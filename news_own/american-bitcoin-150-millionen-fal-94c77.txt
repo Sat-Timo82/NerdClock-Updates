@@ -1,0 +1,13 @@
+Deal & Konditionen
+
+American Bitcoin hat eine $150 Millionen revolving Credit Line von FalconX abgeschlossen, besichert durch seine Bitcoin-Reserve. Die Finanzierung ermöglicht Cash-Access ohne Coins aus der Reserve zu verkaufen und soll für Wachstum und allgemeine Corporate-Purpose eingesetzt werden. Die Facility trägt eine Gebühr von 5,95 %, zusätzlich eine Commitment-Fee auf nicht genutzte Beträge und läuft initial zwei Jahre mit optionaler dreijähriger Verlängerung.
+
+Collateral & Risiko
+
+Die Kreditlinie erfordert BTC als Collateral und startet mit einem 143% Collateral-Ratio – ein Full Draw würde rund $214,5 Mio. an verpfändeten BTC benötigen. Fällt der Bitcoin-Preis stark, kann American Bitcoin zu Nachschusszahlungen oder schneller Rückzahlung gezwungen werden und Teile der verpfändeten Coins könnten liquidiert werden. Das Unternehmen hat bisher nicht bestätigt, ob es bereits Mittel abgerufen hat.
+
+Strategie & Ausblick
+
+American Bitcoin betont, dass die Finanzierung non-dilutive Kapital liefert und den Aufbau der Bitcoin-Reserve unterstützt: Ende September hielten sie 8.427 BTC, aktuell sollen es über 8.500 BTC sein. Im Q3 wurden 891 BTC gemined und es wurden keine Käufe am Spotmarkt vermeldet; das Unternehmen meldete $126 Mio. Nettogewinn, profitierend von steigenden Bitcoin-Preisen, die seitdem jedoch deutlich gesunken sind. Der Deal spiegelt einen breiteren Trend bei Minern wider, Bitcoin-backed Debt zur Liquiditätsbeschaffung zu nutzen – mit erhöhtem finanziellen Risiko bei fallenden Preisen und engen Margen.
+
+Dein Bitcoin-Miner für zu Hause

@@ -1,86 +1,86 @@
 {
- "updated": 1795756766,
+ "updated": 1795793541,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
   {
-   "title": "JPMorgan flags bitcoin 'capitulation,' Democrats push back on SEC's crypto plans, and more",
-   "summary": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more.",
-   "source": "The Block",
-   "ts": 1795746000,
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Could Rally Sharply if AI Stocks Recover, Devere CEO Says",
-   "summary": "Bitcoin could rebound sharply if investors regain confidence in artificial intelligence stocks, the chief executive of Devere Group said. The outlook",
-   "source": "Bitcoin.com News",
-   "ts": 1795743938,
-   "url": "https://news.bitcoin.com/market-updates/bitcoin-could-rally-sharply-if-ai-stocks-recover-devere-ceo-says/",
-   "ad": false
-  },
-  {
-   "title": "Galaxy Abandons BTC Bottom Call, Warns Bear Market Is Far From Over",
-   "summary": "Galaxy Digital retracts its October bottom call, warning that bitcoin's bear market isn't over after breaking below key 50- and 200-week MAs.",
-   "source": "Bitcoin.com News",
-   "ts": 1795733122,
-   "url": "https://news.bitcoin.com/featured/galaxy-abandons-btc-bottom-call-warns-bear-market-is-far-from-over/",
-   "ad": false
-  },
-  {
-   "title": "Fidelity Pushes Beyond Bitcoin With Chainlink ETF Filing",
-   "summary": "Fidelity Investments has filed with the SEC to launch a spot Chainlink ETF, expanding its crypto ETFs beyond bitcoin, ethereum, and solana.",
-   "source": "Bitcoin.com News",
-   "ts": 1795717828,
-   "url": "https://news.bitcoin.com/finance/fidelity-pushes-beyond-bitcoin-with-chainlink-etf-filing/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
-   "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
-   "source": "Decrypt",
-   "ts": 1795716929,
-   "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
-   "ad": false
-  },
-  {
-   "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-   "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
-   "source": "CoinDesk",
-   "ts": 1795714200,
-   "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-   "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
-   "source": "CoinDesk",
-   "ts": 1795711823,
-   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-   "ad": false
-  },
-  {
-   "title": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple",
-   "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
-   "source": "The Block",
-   "ts": 1795709904,
-   "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Has Become Boring, Finally",
-   "summary": "Bitcoin isn't a shiny new technology any more, it is established, and it is here to stay. This post Bitcoin Has Become Boring, Finally first appeared on Bitcoin Magazine and is written by Roy Sheinfeld .",
+   "title": "Peter St. Onge: \"Massively Bullish\" for Bitcoin if Fed Abandons 2% Inflation Target",
+   "summary": "Bitcoin Magazine Peter St. Onge: \"Massively Bullish\" for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: \"Massively Bullish\" for Bitcoin if Fed Abandons 2% Inflation Target first appeared on Bitcoin Magazine and is written by Patrick Green .",
    "source": "Bitcoin Magazine",
-   "ts": 1795708287,
-   "url": "https://bitcoinmagazine.com/culture/bitcoin-has-become-boring-finally",
+   "ts": 1795790709,
+   "url": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
    "ad": false
   },
   {
-   "title": "7 bizarre things crypto whales spent a fortune on",
-   "summary": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief.",
+   "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+   "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI.",
+   "source": "The Block",
+   "ts": 1795789461,
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-44754",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+   "summary": "The bitcoin price traded near $61,300 on Friday as tech stock futures jumped ahead of a shortened Wall Street session, putting bitcoin on track to snap a seven-week losing streak. This post Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795787835,
+   "url": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
+   "ad": false
+  },
+  {
+   "title": "Hyperliquid (HYPE) Surges Nearly 9% Despite $120 Million In Whale Shorts",
+   "summary": "Key takeaways HYPE rose 8.67% in 24 hours to $65.875, well ahead of Bitcoin (+1.6%) and Ethereum (+1.38%). Whale Radar's tracked whales held $120.61 million in shorts against $50.48 million in longs, roughly 70% of their exposure. Open interest rose alongside price: up 17.6% per Whale Radar and 12.35% to $2.76 billion per…",
+   "source": "Bitcoinist",
+   "ts": 1795787548,
+   "url": "https://bitcoinist.com/hyperliquid-price-surge-whale-shorts/",
+   "ad": false
+  },
+  {
+   "title": "Galaxy Withdraws Call That Bitcoin's Bear Market Ended in June",
+   "summary": "Galaxy Research withdrew its October call that bitcoin's bear market ended in June and said a daily close below $58,525 would signal a move to a materially lower low. This post Galaxy Withdraws Call That Bitcoin's Bear Market Ended in June first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
+   "source": "Bitcoin Magazine",
+   "ts": 1795786200,
+   "url": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear",
+   "ad": false
+  },
+  {
+   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+   "summary": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
+   "source": "Decrypt",
+   "ts": 1795785857,
+   "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+   "summary": "Your day-ahead look for Nov. 27, 2026",
+   "source": "CoinDesk",
+   "ts": 1795781767,
+   "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
+   "source": "CoinDesk",
+   "ts": 1795779947,
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+   "ad": false
+  },
+  {
+   "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
+   "summary": "The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000.",
+   "source": "CoinDesk",
+   "ts": 1795779277,
+   "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin supply metric hits 11-year low as new 'capitulation' signal arrives",
+   "summary": "The seven-day moving average of Bitcoin's supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%.",
    "source": "Cointelegraph",
-   "ts": 1795699800,
-   "url": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_p",
+   "ts": 1795778068,
+   "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss_partne",
    "ad": false
   }
  ]
