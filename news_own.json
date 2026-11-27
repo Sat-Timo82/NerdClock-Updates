@@ -1,5 +1,5 @@
 {
- "updated": 1795734996,
+ "updated": 1795756766,
  "source": "Nerdminer.de",
  "items": [
   {
@@ -49,6 +49,14 @@
    "ts": 1795540443,
    "url": "https://nerdminer.de/blogs/news/bitcoin-ueberverkauft-ki-risiken-laengster-flachster-baerenmarkt",
    "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-rutscht-auf-60000",
+   "title": "Bitcoin rutscht auf $60.000 – Rekord-November-Outflows bei Spot-ETFs (IBIT, FBTC)",
+   "summary": "Bitcoin fällt auf rund $60.000, während Spot-ETF-Outflows im November $4,71 Mrd. erreichen; IBIT dominiert Abflüsse, Markt und Zinssorgen belasten.",
+   "ts": 1795536128,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-rutscht-auf-60000",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
   },
   {
    "id": "bitcoin-unter-60000-etf-abflusse",
@@ -232,14 +240,6 @@
    "summary": "BTC rutscht 14% auf ~65.000$ nach Weekend-Selloff. Dollar, hohe Yields, Spot-ETFs und sinkende Mining Difficulty prägen den Ausblick.",
    "ts": 1794676470,
    "url": "https://nerdminer.de/blogs/news/bitcoin-rutsch-14-prozent-woche",
-   "author": "Micah Zimmerman Deutsche Übersetzung…"
-  },
-  {
-   "id": "apollo-iii-bitcoin-fullnode-miner--3e486",
-   "title": "FutureBit Apollo III: Full-Node Bitcoin-Miner erstmals bei Micro Center",
-   "summary": "FutureBit bringt Apollo III Full-Node Bitcoin-Miner erstmals in Micro Center-Stores – kompakter Home Miner, bis zu 18 TH/s, Solo-Mining, Reserve & Pickup.",
-   "ts": 1794593556,
-   "url": "https://nerdminer.de/blogs/news/apollo-iii-bitcoin-fullnode-miner-microcenter-kauf-brooklyn-miami",
    "author": "Micah Zimmerman Deutsche Übersetzung…"
   }
  ]

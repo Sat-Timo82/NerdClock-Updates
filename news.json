@@ -1,8 +1,16 @@
 {
- "updated": 1795734996,
+ "updated": 1795756766,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "\"Kein Verfahren von wenigen Wochen\": So steht es um die Bitcoin-Haltefrist",
+   "summary": "Am 9. Dezember soll das Kabinett über die Abschaffung der Krypto-Haltefrist beraten. Wann das Gesetz frühestens greifen könnte und wo noch Hoffnung für Anleger besteht. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795748400,
+   "url": "https://www.btc-echo.de/news/so-steht-es-um-die-bitcoin-haltefrist-241570/",
+   "ad": false
+  },
   {
    "title": "US-Repräsentantenhaus: Bitcoin-Reserve-Gesetzentwurf zur Abstimmung weitergeleitet",
    "summary": "Der ARMA Act, ein Gesetzentwurf zur strategischen Bitcoin-Reserve der USA, wurde an das Plenum des Repräsentantenhauses weitergeleitet. Jetzt könnte es zur Abstimmung kommen.",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795687200,
    "url": "https://www.btc-echo.de/news/sind-frauen-die-besseren-bitcoin-anleger-das-sagt-madame-moneypenny-241573/",
-   "ad": false
-  },
-  {
-   "title": "Krypto-Report: Deshalb könnte der Bitcoin-Kurs unter 54.000 Dollar fallen",
-   "summary": "Seit 412 Tagen ist Bitcoin im Bärenmarkt – der längste Krypto-Winter der Geschichte. Warum ein letzter großer Abverkauf folgen könnte. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795676690,
-   "url": "https://www.btc-echo.de/news/krypto-report-dann-faellt-bitcoin-unter-54-000-dollar-241565/",
    "ad": false
   }
  ]
