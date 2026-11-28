@@ -1,8 +1,40 @@
 {
- "updated": 1795851448,
+ "updated": 1795883096,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Vom \"Blockchain-Pionier\" zum Bitcoin-Kritiker: Was bleibt von Julian Hosp?",
+   "summary": "Für Julian Hosp waren TenX und Cake zwei Erfolgsgeschichten, für Anleger nicht. Was die neue Amazon-Doku über den einstigen Bitcoin-Pionier erzählt – und was sie auslässt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795881600,
+   "url": "https://www.btc-echo.de/news/vom-blockchain-pionier-zum-bitcoin-kritiker-was-bleibt-von-julian-hosp-241481/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin oder MSCI World: Welche Geldanlage lohnt sich für Sparer langfristig?",
+   "summary": "Wer sein Geld für sich arbeiten lassen möchte, hat zahlreiche Möglichkeiten. Wie stark sich die verschiedenen Anlageformen bei Rendite und Risiko unterscheiden, wird oft unterschätzt. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795860000,
+   "url": "https://www.btc-echo.de/news/welche-geldanlage-ist-besser-als-sparen-241678/",
+   "ad": false
+  },
+  {
+   "title": "Ohne frisches Geld gibt es beim Bitcoin-Kurs keine Erholung",
+   "summary": "Das USDT-Angebot schrumpft so stark wie seit 2022 nicht. Doch was kann Bitcoin jetzt noch helfen? Laut CryptoQuant: Tether. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795858200,
+   "url": "https://www.btc-echo.de/news/ohne-frisches-geld-gibt-es-beim-bitcoin-kurs-keine-erholung-241720/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin-Kurs kratzt an 60.000 US-Dollar: Warum Anleger jetzt auf den Sonntag blicken",
+   "summary": "Bitcoin notiert erneut unter 60.000 US-Dollar, doch bei Aktien und Co. geht es wieder bergauf. Woran das liegen kann – und warum am morgigen Sonntag eine Serie weitergehen könnte. Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795852114,
+   "url": "https://www.btc-echo.de/news/bitcoin-kurs-kratzt-an-60000-dollar-warum-anleger-auf-sonntag-blicken-241728/",
+   "ad": false
+  },
   {
    "title": "Fällt Bitcoin auf 28.200 US-Dollar? Analyst geht trotzdem \"nicht als Bär ins Jahr 2027\"",
    "summary": "Auch Analysten irren sich, das musste Alex Thorn jüngst zugeben. Laut seiner neuen Untersuchung könnte Bitcoin noch tiefer fallen – hat er diesmal recht? Source: BTC-ECHO BTC-ECHO",
@@ -20,7 +52,7 @@
    "ad": false
   },
   {
-   "title": "Bitcoin vor dem Death Cross: Kommt jetzt der Todesstoß für BTC?",
+   "title": "Bitcoin vor dem Death Cross: Droht BTC jetzt der Absturz?",
    "summary": "In der Vergangenheit folgten auf das Signal teils Verluste von über 60 Prozent. Zuletzt ging es danach aber kaum noch abwärts. Source: BTC-ECHO BTC-ECHO",
    "source": "BTC-ECHO",
    "ts": 1795800097,
@@ -49,38 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795773600,
    "url": "https://www.btc-echo.de/news/krypto-prognose-2027-warum-anleger-bei-bitcoin-vorerst-nicht-auf-rekorde-hoffen-241578/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin erholt sich nach Thanksgiving: Warum Anleger dennoch vorsichtig bleiben sollten",
-   "summary": "Bitcoin und die meisten großen Altcoins legen am Freitagmorgen zu. Bei den amerikanischen Spot ETFs zeichnet sich hingegen ein historisch schwacher Monat ab. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795763170,
-   "url": "https://www.btc-echo.de/news/bitcoin-erholt-sich-nach-thanksgiving-warum-anleger-dennoch-vorsichtig-bleiben-sollten-241652/",
-   "ad": false
-  },
-  {
-   "title": "\"Kein Verfahren von wenigen Wochen\": So steht es um die Bitcoin-Haltefrist",
-   "summary": "Am 9. Dezember wollte das Kabinett über die Abschaffung der Krypto-Haltefrist beraten, doch jetzt wackelt der Termin erneut. Wann das Gesetz frühestens greifen könnte und wo noch Hoffnung für Anleger besteht. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795748400,
-   "url": "https://www.btc-echo.de/news/so-steht-es-um-die-bitcoin-haltefrist-241570/",
-   "ad": false
-  },
-  {
-   "title": "US-Repräsentantenhaus: Bitcoin-Reserve-Gesetzentwurf zur Abstimmung weitergeleitet",
-   "summary": "Der ARMA Act, ein Gesetzentwurf zur strategischen Bitcoin-Reserve der USA, wurde an das Plenum des Repräsentantenhauses weitergeleitet. Jetzt könnte es zur Abstimmung kommen.",
-   "source": "Blocktrainer",
-   "ts": 1795712749,
-   "url": "https://www.blocktrainer.de/blog/us-repraesentantenhaus-bitcoin-reserve-gesetzentwurf-zur-abstimmung-weitergeleitet",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin-Wallets: Gefahr durch KI-Fortschritte?",
-   "summary": "Ein Top-Forscher hört von KI-Durchbrüchen bei der Kryptografie. Aus diesen Gründen sind Bitcoin-Wallets derzeit aber nicht in Gefahr. Source: BTC-ECHO BTC-ECHO",
-   "source": "BTC-ECHO",
-   "ts": 1795708081,
-   "url": "https://www.btc-echo.de/news/bitcoin-wallets-gefahr-durch-ki-fortschritte-241620/",
    "ad": false
   }
  ]

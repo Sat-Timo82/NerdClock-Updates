@@ -1,8 +1,56 @@
 {
- "updated": 1795851448,
+ "updated": 1795883096,
  "mode": "stichworte",
  "lang": "nl",
  "items": [
+  {
+   "title": "2017 Whale Moves Nearly 760 BTC as Bitcoin Price Struggles Below $60K",
+   "summary": "Dormant bitcoin wallets moved $135M in November, including a $45M fortune from 2017, despite bitcoin's steep monthly price decline.",
+   "source": "Bitcoin.com News",
+   "ts": 1795882217,
+   "url": "https://news.bitcoin.com/featured/2017-whale-moves-nearly-760-btc-as-bitcoin-price-struggles-below-60k/",
+   "ad": false
+  },
+  {
+   "title": "$150 Million Bitcoin Long Sees Hyperliquid Whale Lose $3.5M In 5 Hours",
+   "summary": "Hyperliquid whale Aguilatrades lost $3.51M in five hours after closing a 2,440 BTC long as bitcoin fell below $59,000 on Nov. 27.",
+   "source": "Bitcoin.com News",
+   "ts": 1795878601,
+   "url": "https://news.bitcoin.com/crypto-news/hyperliquid-whale-aguilatrades-loses-3-5m-bitcoin-long/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Faces December Reckoning as Analysts Warn of More Losses",
+   "summary": "Bitcoin price struggles near $59K as four analysts examine bearish technical signals and the possibility of a December market bottom.",
+   "source": "Bitcoin.com News",
+   "ts": 1795874757,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-faces-december-reckoning-as-analysts-warn-of-more-losses/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
+   "summary": "There's rock bottom, and then there's something many layers below that, and that's where bitcoin sentiment is right now.",
+   "source": "CoinDesk",
+   "ts": 1795870938,
+   "url": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
+   "ad": false
+  },
+  {
+   "title": "Crypto Fear And Greed Index: 16 Days Of Panic, But Is The Bitcoin Crash Really Over?",
+   "summary": "Key takeaways CoinMarketCap's Crypto Fear and Greed Index read 9 out of 100 on Saturday, reportedly its 16th straight day in extreme fear. Bitcoin briefly approached $55,000 last week, a two-year low. Extreme fear is partly a product of falling prices, so it is a weak buy signal on its own. In March, Alternative.me's index […]",
+   "source": "Bitcoinist",
+   "ts": 1795868973,
+   "url": "https://bitcoinist.com/crypto-fear-and-greed-index-bitcoin-crash-bottom/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Price Lags as Wall Street Posts Its Best Week Since 2022",
+   "summary": "Bitcoin price slipped to $60K after a Black Friday drop to $58,792 while the S&P 500 rose 5.6% and the Dow had its best week since 2022.",
+   "source": "Bitcoin.com News",
+   "ts": 1795854621,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-price-lags-wall-street-best-week-since-2022/",
+   "ad": false
+  },
   {
    "title": "Chamath Palihapitiya Warns AI Could Crack Bitcoin as Leaders Push Back",
    "summary": "Chamath Palihapitiya warns AI could break Bitcoin's cryptography, drawing sharp rebuttals from industry leaders.",
@@ -28,59 +76,11 @@
    "ad": false
   },
   {
-   "title": "Vitalik Buterin's Bitcoin Hardware Wallet Fix Wouldn't Be Approved by Ledger CTO",
-   "summary": "Vitalik Buterin proposes open-source hardware security for bitcoin wallets, but Ledger's CTO previously called the idea wishful thinking.",
-   "source": "Bitcoin.com News",
-   "ts": 1795824332,
-   "url": "https://news.bitcoin.com/security/buterins-bitcoin-hardware-wallet-fix-wouldnt-approved-ledger-cto/",
-   "ad": false
-  },
-  {
    "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
    "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
    "source": "Decrypt",
    "ts": 1795812362,
    "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
-   "ad": false
-  },
-  {
-   "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
-   "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
-   "source": "Decrypt",
-   "ts": 1795808762,
-   "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
-   "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
-   "source": "Cointelegraph",
-   "ts": 1795807380,
-   "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign",
-   "ad": false
-  },
-  {
-   "title": "$7 Billion in Bitcoin Options Just Expired: Here's What It Means",
-   "summary": "Bitcoin's largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
-   "source": "Decrypt",
-   "ts": 1795803363,
-   "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
-   "ad": false
-  },
-  {
-   "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
-   "summary": "Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen funds. This post Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack first appeared on Bitcoin Magazine and is written by…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795802400,
-   "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
-   "ad": false
-  },
-  {
-   "title": "Russia's VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
-   "summary": "VTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia approved the knowledge test every crypto buyer must pass. SPB Exchange plans to open spot trading Dec. 1. This post Russia's VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test first appeared on Bitcoin Magazine…",
-   "source": "Bitcoin Magazine",
-   "ts": 1795799172,
-   "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
    "ad": false
   }
  ]
