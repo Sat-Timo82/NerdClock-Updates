@@ -1,8 +1,40 @@
 {
- "updated": 1795822966,
+ "updated": 1795851448,
  "mode": "stichworte",
  "lang": "es",
  "items": [
+  {
+   "title": "Chamath Palihapitiya Warns AI Could Crack Bitcoin as Leaders Push Back",
+   "summary": "Chamath Palihapitiya warns AI could break Bitcoin's cryptography, drawing sharp rebuttals from industry leaders.",
+   "source": "Bitcoin.com News",
+   "ts": 1795851026,
+   "url": "https://news.bitcoin.com/featured/chamath-palihapitiya-warns-ai-could-crack-bitcoin-as-leaders-push-back/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin's Correlation With Gold Hits Record High, Galaxy Research Finds",
+   "summary": "Bitcoin's daily price moves tracked gold more closely over 90 trading days than at any point in Galaxy Research's data going back to 2011. The correlation",
+   "source": "Bitcoin.com News",
+   "ts": 1795843852,
+   "url": "https://news.bitcoin.com/featured/bitcoins-correlation-with-gold-hits-record-high-galaxy-research-finds/",
+   "ad": false
+  },
+  {
+   "title": "Bitcoin Whales Add 121,117 BTC as Price Falls Nearly 30%",
+   "summary": "Bitcoin addresses holding 1,000 to 10,000 BTC added 121,117 BTC in the first 52 days of the fourth quarter as bitcoin fell 29.5%, Cryptoquant found.",
+   "source": "Bitcoin.com News",
+   "ts": 1795838737,
+   "url": "https://news.bitcoin.com/market-updates/bitcoin-whales-add-121117-btc-as-price-falls-nearly-30/",
+   "ad": false
+  },
+  {
+   "title": "Vitalik Buterin's Bitcoin Hardware Wallet Fix Wouldn't Be Approved by Ledger CTO",
+   "summary": "Vitalik Buterin proposes open-source hardware security for bitcoin wallets, but Ledger's CTO previously called the idea wishful thinking.",
+   "source": "Bitcoin.com News",
+   "ts": 1795824332,
+   "url": "https://news.bitcoin.com/security/buterins-bitcoin-hardware-wallet-fix-wouldnt-approved-ledger-cto/",
+   "ad": false
+  },
   {
    "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
    "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
@@ -44,43 +76,11 @@
    "ad": false
   },
   {
-   "title": "Will Bitcoin Recover? New Whale Data Offers Hope After 29.5% Price Drop",
-   "summary": "Key takeaways Addresses holding 1,000 to 10,000 BTC added 121,117 BTC (4.29%) between September 30 and November 21, even as Bitcoin fell 29.5%. That breaks a pattern seen in seven of the previous nine fourth quarters, and reverses a drop of nearly 203,000 BTC in Q4 2025. Whale profits have collapsed: unrealized profits fell…",
-   "source": "Bitcoinist",
-   "ts": 1795801815,
-   "url": "https://bitcoinist.com/will-bitcoin-recover/",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin's Thanksgiving Rally Unravels as $7B Options Expiry Rocks Markets",
-   "summary": "BTC fell below $60K as $7B in options expired and November ETF outflows topped $5 billion, with experts warning of lingering downside risks.",
-   "source": "Bitcoin.com News",
-   "ts": 1795800626,
-   "url": "https://news.bitcoin.com/market-updates/bitcoins-thanksgiving-rally-unravels-as-7b-options-expiry-rocks-markets/",
-   "ad": false
-  },
-  {
    "title": "Russia's VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
    "summary": "VTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia approved the knowledge test every crypto buyer must pass. SPB Exchange plans to open spot trading Dec. 1. This post Russia's VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test first appeared on Bitcoin Magazine…",
    "source": "Bitcoin Magazine",
    "ts": 1795799172,
    "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
-   "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
-   "source": "Cointelegraph",
-   "ts": 1795798131,
-   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss_tag_bitcoin&utm_campaign=rss",
-   "ad": false
-  },
-  {
-   "title": "Bitcoin Goes 98 Minutes Without a New Block as Mining Pressure Mounts",
-   "summary": "Bitcoin records its longest block interval since July at 98 minutes as declining hashrate and falling mining revenues ups pressure on miners.",
-   "source": "Bitcoin.com News",
-   "ts": 1795793759,
-   "url": "https://news.bitcoin.com/mining/bitcoin-98-minutes-without-new-block-mining-pressure-mounts/",
    "ad": false
   }
  ]

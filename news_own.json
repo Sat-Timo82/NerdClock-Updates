@@ -1,5 +1,5 @@
 {
- "updated": 1795822966,
+ "updated": 1795851448,
  "source": "Nerdminer.de",
  "items": [
   {
@@ -17,6 +17,14 @@
    "ts": 1795800428,
    "url": "https://nerdminer.de/blogs/news/abraxas-capital-zieht-21520-bitcoin-von-krypto-borsen-ab",
    "author": "Yannic Fraebel"
+  },
+  {
+   "id": "bitcoin-preis-61300-woechentlicher-e8a32",
+   "title": "Bitcoin bei ~61.300 USD: Tech-Rally hebt Preis trotz Spot-Bitcoin-ETF-Abflüssen",
+   "summary": "Bitcoin bei ~61.300 USD: Tech-Rally treibt Kurs, doch starke Spot-Bitcoin-ETF-Abflüsse und hoher Mining-Druck bleiben Risiken.",
+   "ts": 1795796107,
+   "url": "https://nerdminer.de/blogs/news/bitcoin-preis-61300-woechentlicher-gewinn-kurzdeckung",
+   "author": "Micah Zimmerman Deutsche Übersetzung…"
   },
   {
    "id": "finanzausschuss-des-reprasentanten-1ebcd",
@@ -232,14 +240,6 @@
    "summary": "Bitcoin bleibt nahe $64.000, FedWaller erwägt HalfPoint Hike. NvidiaEarnings und SpotBitcoinETFOutflows erhöhen Volatilität.",
    "ts": 1795021922,
    "url": "https://nerdminer.de/blogs/news/bitcoin-64000-nvidia-gewinnzahlen-21prozent-rueckgang",
-   "author": "Micah Zimmerman Deutsche Übersetzung…"
-  },
-  {
-   "id": "ny-rentenfonds-erhoht-strategy-bet-c923b",
-   "title": "NY State Pensionsfonds erhöht Strategy (MSTR)-Position um über 10% – MicroStrategy &…",
-   "summary": "NY State Pensionsfonds stockt Strategy (MSTR)-Position um >10% auf; MicroStrategy Bitcoin-Treasury und Kursvolatilität beeinflussen Portfoliowert.",
-   "ts": 1795021922,
-   "url": "https://nerdminer.de/blogs/news/ny-rentenfonds-erhoht-strategy-beteiligung-q3",
    "author": "Micah Zimmerman Deutsche Übersetzung…"
   }
  ]

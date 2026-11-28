@@ -1,8 +1,16 @@
 {
- "updated": 1795822966,
+ "updated": 1795851448,
  "mode": "stichworte",
  "lang": "de",
  "items": [
+  {
+   "title": "Fällt Bitcoin auf 28.200 US-Dollar? Analyst geht trotzdem \"nicht als Bär ins Jahr 2027\"",
+   "summary": "Auch Analysten irren sich, das musste Alex Thorn jüngst zugeben. Laut seiner neuen Untersuchung könnte Bitcoin noch tiefer fallen – hat er diesmal recht? Source: BTC-ECHO BTC-ECHO",
+   "source": "BTC-ECHO",
+   "ts": 1795834800,
+   "url": "https://www.btc-echo.de/news/faellt-bitcoin-auf-28-200-us-dollar-analyst-geht-trotzdem-nicht-als-baer-ins-jahr-2027-241633/",
+   "ad": false
+  },
   {
    "title": "Strategys niedriges mNAV und hohe ETF-Abflüsse: JPMorgan identifiziert Signale der…",
    "summary": "JPMorgan-Analysten ordnen die historisch niedrige Bewertung der Strategy-Aktie als Kapitulationssignal für den Bitcoin-Markt ein und verweisen auf hohe ETF-Abflüsse.",
@@ -73,14 +81,6 @@
    "source": "BTC-ECHO",
    "ts": 1795708081,
    "url": "https://www.btc-echo.de/news/bitcoin-wallets-gefahr-durch-ki-fortschritte-241620/",
-   "ad": false
-  },
-  {
-   "title": "KI knackt Jahrhundertprobleme: Wie sicher ist Bitcoin noch?",
-   "summary": "Primzahlen, KI und Bitcoin: Warum die Riemannsche Vermutung keine Wallets öffnet, die Fortschritte aber grundlegende Sicherheitsfragen aufwerfen.",
-   "source": "Blocktrainer",
-   "ts": 1795705723,
-   "url": "https://www.blocktrainer.de/blog/ki-knackt-jahrhundertprobleme-wie-sicher-ist-bitcoin-noch",
    "ad": false
   }
  ]
